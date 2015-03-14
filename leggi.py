@@ -12,7 +12,6 @@ http://porto.polito.it/cgi/search/archive/advanced/export_pub_JSON.js?screen=Sea
 import json
 
 from porto.paper import Paper
-from porto.type import Type
 from porto.author import Author
 
 dauin = json.load(open('export_pub.json', 'r'))
@@ -24,9 +23,8 @@ allAuthors = {}
 for pub in dauin:
     eprintid = pub['eprintid']
 
-    #TODO: CHECK allTypes
-    thisType = Type(pub['type'], pub['types'])
-    if thisType not in allTypes:   #DOESN'T WORK: CREATES DUPLICATES
+    thisType = (pub['type'], pub['types'])
+    if thisType not in allTypes:
         allTypes.add(thisType)
 
     thisPaper = Paper(eprintid, pub['title'], pub.get('date', 9999), thisType)
@@ -47,4 +45,5 @@ for pub in dauin:
 print "Loaded %d papers" % len(allPapers)
 print "Found %d authors" % len(allAuthors)
 print "Found %d types" % len(allTypes)
-#print allAuthors.values()
+# print allTypes
+
