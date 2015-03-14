@@ -11,55 +11,40 @@ http://porto.polito.it/cgi/search/archive/advanced/export_pub_JSON.js?screen=Sea
 
 import json
 
+from porto.paper import Paper
+from porto.type import Type
+from porto.author import Author
+
 dauin = json.load(open('export_pub.json', 'r'))
 
-
-print len(dauin)
-
-authors = {}
-
-papers = {}
-
-authorship = []
+allPapers = {}
+allTypes = set()
+allAuthors = {}
 
 for pub in dauin:
     eprintid = pub['eprintid']
-    #print pub.get('date', 0), pub['eprintid'], pub['title']
 
-    # initialize paper entry
-    papers[eprintid] = {
-        'title': pub['title'],
-        'year': pub.get('date', 9999),
-        'type': pub['type'],
-        'types': pub['types'],
-        'authors': []}
+    #TODO: CHECK allTypes
+    thisType = Type(pub['type'], pub['types'])
+    if thisType not in allTypes:   #DOESN'T WORK: CREATES DUPLICATES
+        allTypes.add(thisType)
+
+    thisPaper = Paper(eprintid, pub['title'], pub.get('date', 9999), thisType)
+
+    allPapers[eprintid] = thisPaper
 
     # browse through authors
     for auth in pub['creators']:
         authid = auth['id']
 
-        #print auth['id'], auth['name']['family'], auth['name']['given'], ' ',
+        thisAuthor = Author(authid, auth['name']['family'], auth['name']['given'])
 
-        #add to general author dictionary
-        if authid not in authors.keys():
-            authors[authid] = {'name': auth['name']['family']+' '+auth['name']['given'], 'papers': []}
+        if thisAuthor not in allAuthors:
+            allAuthors[authid] = thisAuthor
 
-        # add author -> paper relationship
-        authors[authid]['papers'].append(pub['eprintid'])
+        thisPaper.authors.append(thisAuthor)
 
-        # add paper -> author relationship
-        papers[eprintid]['authors'].append(authid)
-    print
-
-
-#print authors
-
-#for au in sorted(authors) :
-#    print au, authors[au]
-
-productivity = [(authors[au]['name'],  len(authors[au]['papers'])) for au in sorted(authors) if len(authors[au]['papers'])>10]
-productivity.sort(key= lambda au: -au[1])
-print productivity
-
-types = {(pub['type'], pub['types']) for pub in papers.values()}
-print sorted(types)
+print "Loaded %d papers" % len(allPapers)
+print "Found %d authors" % len(allAuthors)
+print "Found %d types" % len(allTypes)
+#print allAuthors.values()
