@@ -11,8 +11,8 @@ http://porto.polito.it/cgi/search/archive/advanced/export_pub_JSON.js?screen=Sea
 
 import json
 
-from porto.paper2 import Paper
-from porto.type2 import Type
+from porto.paper import Paper
+from porto.type import Type
 from porto.author import Author
 
 dauin = json.load(open('export_pub.json', 'r'))
