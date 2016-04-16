@@ -9,12 +9,14 @@ http://porto.polito.it/cgi/search/archive/advanced/export_pub_JSON.js?screen=Sea
 
 """
 
-import json
+import json, gzip
 
 from porto.paper import Paper
 from porto.author import Author
 
-dauin = json.load(open('export_pub.json', 'r'))
+dauin = json.load(gzip.open('export_pub.json.gz', 'r'))
+
+#dauin = json.load(open('export_pub.json', 'r'))
 
 allPapers = {}
 allTypes = set()
@@ -29,6 +31,13 @@ for pub in dauin:
 
     thisPaper = Paper(eprintid, pub['title'], pub.get('date', 9999), thisType)
 
+    if('wos' in pub):
+        thisPaper.make_wos(pub['wos']['impact'])
+
+    if('scopus' in pub):
+        thisPaper.make_scopus(pub['scopus']['impact'])
+
+
     allPapers[eprintid] = thisPaper
 
     # browse through authors
@@ -40,10 +49,10 @@ for pub in dauin:
         if thisAuthor not in allAuthors:
             allAuthors[authid] = thisAuthor
 
-        thisPaper.authors.append(thisAuthor)
+        thisPaper.authors.append(allAuthors[authid])
 
 print "Loaded %d papers" % len(allPapers)
 print "Found %d authors" % len(allAuthors)
-print "Found %d types" % len(allTypes)
-# print allTypes
+print "Found %d types (from %d main types)" % (len(allTypes), len({a for (a,b) in allTypes}))
+print sorted(allTypes)
 
