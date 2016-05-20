@@ -2,6 +2,7 @@ __author__ = 'Fulvio Corno'
 
 
 class Paper:
+    #def __init__(self, eprintid, title, date, type, publication, issn,  ):
     def __init__(self, eprintid, title, date, type):
         # type: (int, str, int, tuple) -> Paper
         self.eprintid = eprintid

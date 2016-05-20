@@ -55,4 +55,13 @@ print "Loaded %d papers" % len(allPapers)
 print "Found %d authors" % len(allAuthors)
 print "Found %d types (from %d main types)" % (len(allTypes), len({a for (a,b) in allTypes}))
 print sorted(allTypes)
+for t in sorted(allTypes):
+    print t[0]+"/"+t[1], len( [paper for paper in allPapers if (allPapers[paper].type[1] == t[1])] )#
 
+print "ALL PAPERS"
+for y in range(1995,2016):
+    print y, len( [paper for paper in allPapers if (allPapers[paper].date == y)] )
+
+print "JOURNAL PAPERS (TYPES2)"
+for y in range(1995,2016):
+    print y, len( [paper for paper in allPapers if (allPapers[paper].date == y and allPapers[paper].type[1]=="TYPES2")] )
