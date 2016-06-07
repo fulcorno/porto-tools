@@ -3,12 +3,15 @@ __author__ = 'Fulvio Corno'
 
 class Paper:
     #def __init__(self, eprintid, title, date, type, publication, issn,  ):
-    def __init__(self, eprintid, title, date, type):
+    def __init__(self, eprintid, title, date, type, abstract=""):
         # type: (int, str, int, tuple) -> Paper
         self.eprintid = eprintid
         self.title = title
         self.date = date
         self.type = type
+
+        self.abstract = abstract
+
         self.authors = []
 
         self.is_wos = False
