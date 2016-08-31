@@ -9,6 +9,14 @@ NOTA: ecco la URL per ottenere il JSON aggiornato del DAUIN:
 
 http://porto.polito.it/cgi/search/archive/advanced/export_pub_JSON.js?screen=Search&dataset=archive&_action_export=1&output=JSON&exp=0|1|-date%2Fcreators_name%2Ftitle|archive|-|dipartimenti%3Auserdep%3AANY%3AEQ%3AUSER_D1010|-|eprint_status%3Aeprint_status%3AANY%3AEQ%3Aarchive|metadata_visibility%3Ametadata_visibility%3AANY%3AEQ%3Ashow&n=&cache=2663731
 
+
+ALTRE URL... scoperte per tentativi
+
+http://porto.polito.it/cgi/exportview/divisions/DAUIN/2011/JSON/DAUIN.json
+
+http://porto.polito.it/cgi/exportview/divisions/DAUIN/JSON/DAUIN.json
+
+http://porto.polito.it/cgi/exportview/creators/Corno=3AFulvio=3A002154=3A/2016/JSON/Corno=3AFulvio=3A002154=3A.js
 """
 
 import json, gzip
