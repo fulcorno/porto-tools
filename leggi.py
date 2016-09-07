@@ -1,4 +1,6 @@
-from type import Type
+from porto.paper import Paper
+from porto.author import Author
+from porto.type import Type
 
 __author__ = 'Fulvio Corno'
 
@@ -21,8 +23,6 @@ http://porto.polito.it/cgi/exportview/creators/Corno=3AFulvio=3A002154=3A/2016/J
 
 import json, gzip
 
-from porto.paper import Paper
-from porto.author import Author
 
 dauin = json.load(gzip.open('export_pub.json.gz', 'r'))
 
