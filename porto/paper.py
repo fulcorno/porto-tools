@@ -19,6 +19,15 @@ class Paper:
         self.is_scopus = False
         self.impact_scopus = 0
 
+        self.issn = None
+        self.isbn = None
+        self.publisher = None
+        self.event_title = None
+        self.book_title = None
+        self.publication = None
+        self.DOI = None # called id_number in JSON
+
+
     def make_wos(self, impact):
         self.is_wos = True
         self.impact_wos = impact
