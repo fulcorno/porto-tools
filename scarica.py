@@ -27,18 +27,17 @@ def scarica_autore(author):
     name = author.lastname + '=3A' + author.firstname + '=3A' + author.id + '=3A' + '.js'
 
     portoURL = baseURL + name + "/JSON/" + name
-    filename = output_basedir + name
-
     r = requests.get(portoURL)
 
     try:
         porto_json = r.json()
-        print "%s has %d papers" % (author.lastname, len(porto_json))
+        print "%s has %d papers" % (author, len(porto_json))
 
-        porto_text = r.text
+        #porto_text = r.text
 
+        filename = output_basedir + name
         f = codecs.open(filename, "w", encoding="utf-8")
-        f.write(porto_text)
+        f.write(r.text)
         f.close()
     except ValueError:
         print "ERROR in processing %s", author.lastname
@@ -63,21 +62,20 @@ def run(list=False, *selected):
             in caso di match multipli, vale solo il primo
     """
 
-    if(list==True):
+    if list == True:
         print "Known authors:"
         for author in authors:
             print "%s: %s %s" % (author.id, author.lastname, author.firstname)
-    elif len(selected)==0:
+    elif len(selected) == 0:
         # print all
         print "Downloading all authors"
         for author in authors:
-            print author
+            print "Downloading author: %s" % author
             scarica_autore(author)
     else:
-        print "Downloading matching authors", selected
+        print "Downloading authors matching: %s" % str(selected)
         for sel in selected:
-            print sel
             sel_author = [a for a in authors if (sel in a.id or sel.lower() in a.lastname.lower())]
             if(len(sel_author)==1):
-                print sel_author[0]
+                #print sel_author[0]
                 scarica_autore(sel_author[0])

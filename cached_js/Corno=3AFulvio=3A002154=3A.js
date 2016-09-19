@@ -3480,7 +3480,7 @@
                 }
             ],
             "content": "other",
-            "rev_number": 106,
+            "rev_number": 110,
             "copyright_date": "2014-12-24",
             "pos": 1,
             "language": "it",
@@ -3494,7 +3494,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/965015"
+                "uri": "\/id\/document\/995443"
               }
             ],
             "copyright_operator": "MN",
@@ -3519,7 +3519,7 @@
                 }
             ],
             "content": "published",
-            "rev_number": 106,
+            "rev_number": 108,
             "copyright_date": "2015-11-13",
             "copyright_note": "c dell'autore",
             "pos": 2,
@@ -3534,7 +3534,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/965018"
+                "uri": "\/id\/document\/994937"
               }
             ],
             "copyright_operator": "MN",
@@ -3573,7 +3573,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 139,
+      "rev_number": 142,
       "dir": "disk0\/02\/50\/85\/26",
       "creators": [
         {
@@ -3604,7 +3604,7 @@
           "id": 2154
         }
       ],
-      "lastmod": "2016-09-03 17:24:56",
+      "lastmod": "2016-09-19 15:35:49",
       "ispublished": "pub",
       "metadata_visibility": "show",
       "id_number": "10.1145\/2494091.2497319",
@@ -5319,7 +5319,7 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 244,
+            "rev_number": 248,
             "copyright_date": "2011-06-08",
             "copyright_note": "Sostituire il pre-print con il draft e i link a IEEE",
             "pos": 1,
@@ -5334,7 +5334,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/965571"
+                "uri": "\/id\/document\/977980"
               }
             ],
             "copyright_operator": "MMO",
@@ -5359,7 +5359,7 @@
                 }
             ],
             "content": "other",
-            "rev_number": 242,
+            "rev_number": 248,
             "copyright_date": "2011-08-18",
             "pos": 2,
             "language": "it",
@@ -5373,7 +5373,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/964176"
+                "uri": "\/id\/document\/984608"
               }
             ],
             "copyright_operator": "MVS",
@@ -5413,7 +5413,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 317,
+      "rev_number": 322,
       "dir": "disk0\/02\/40\/24\/56",
       "creators": [
         {
@@ -5435,7 +5435,7 @@
           "id": 2154
         }
       ],
-      "lastmod": "2016-09-04 12:31:53",
+      "lastmod": "2016-09-14 15:33:51",
       "ispublished": "pub",
       "item_issues_count": 0,
       "proprietary": {
@@ -6456,7 +6456,7 @@
       "title": "DogSim: A State Chart Simulator for Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-77954026175",
-        "datestamp": "2016-08-19 04:27:21",
+        "datestamp": "2016-09-18 04:17:20",
         "impact": 6
       },
       "types": "TYPES8",
@@ -6645,7 +6645,7 @@
       "eprintid": 2366483,
       "wos": {
         "cluster": 295015302078,
-        "datestamp": "2016-08-20 03:16:57",
+        "datestamp": "2016-09-19 03:34:12",
         "impact": 0
       },
       "date": 2010,
@@ -6664,7 +6664,7 @@
       "title": "Mobile Interaction with Smart Environments through Linked Data",
       "scopus": {
         "cluster": "2-s2.0-78751530656",
-        "datestamp": "2016-08-20 03:17:57",
+        "datestamp": "2016-09-19 03:44:54",
         "impact": 5
       },
       "pages": 8,
@@ -6788,7 +6788,7 @@
       "title": "Review of the state-of-the-art in patent information and forthcoming evolutions in intelligent patent informatics",
       "scopus": {
         "cluster": "2-s2.0-72449204627",
-        "datestamp": "2016-08-17 04:04:23",
+        "datestamp": "2016-09-17 03:19:28",
         "impact": 41
       },
       "pages": 9,
@@ -6930,7 +6930,7 @@
       "eprintid": 1996942,
       "wos": {
         "cluster": 267941600029,
-        "datestamp": "2016-08-18 03:30:14",
+        "datestamp": "2016-09-17 03:43:05",
         "impact": 2
       },
       "date": 2009,
@@ -6942,11 +6942,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2010-07-29 10:11:32",
+                  "mtime": "2015-10-29 11:58:50",
                   "datasetid": "document",
-                  "fileid": 1080751,
-                  "objectid": 464160,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1080751",
+                  "fileid": 2002384,
+                  "objectid": 981097,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2002384",
                   "mime_type": "application\/pdf",
                   "hash": "4351ddcdfc3e1317b46bbb1f4a1e9025",
                   "filesize": 1017164,
@@ -6960,14 +6960,14 @@
             "license": "not_public",
             "main": "55228_UPLOAD.pdf",
             "original_docid": 51393,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/464160",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/981097",
             "format": "application\/pdf",
-            "docid": 464160,
+            "docid": 981097,
             "security": "staffonly",
-            "formatdesc": "Final_paper"
+            "formatdesc": "55228_UPLOAD.pdf"
           }
       ],
-      "upddate": "2013-10-15 12:58:45",
+      "upddate": "2016-09-12 09:51:17",
       "pagerange": "499-506",
       "publisher": "IEEE",
       "irisid": 58639,
@@ -6980,7 +6980,7 @@
       "title": "Automatic Domotic Device Interoperation",
       "scopus": {
         "cluster": "2-s2.0-68949170973",
-        "datestamp": "2016-08-18 04:04:01",
+        "datestamp": "2016-09-14 05:58:42",
         "impact": 5
       },
       "pages": 8,
@@ -6991,18 +6991,9 @@
         "USER_D1010"
       ],
       "issn": "0098-3063",
-      "rev_number": 13,
+      "rev_number": 18,
       "dir": "disk0\/01\/99\/69\/42",
       "creators": [
-        {
-          "name": {
-            "lineage": 12325,
-            "given": "Dario",
-            "honourific": null,
-            "family": "Bonino"
-          },
-          "id": 12325
-        },
         {
           "name": {
             "lineage": 14800,
@@ -7014,6 +7005,15 @@
         },
         {
           "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
+        },
+        {
+          "name": {
             "lineage": 2154,
             "given": "Fulvio",
             "honourific": null,
@@ -7022,7 +7022,7 @@
           "id": 2154
         }
       ],
-      "lastmod": "2014-10-27 18:17:59",
+      "lastmod": "2016-09-14 04:52:23",
       "ispublished": "pub",
       "item_issues_count": 0,
       "metadata_visibility": "show",
@@ -7037,7 +7037,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2012-05-11 15:05:21",
+      "status_changed": "2012-05-11 15:19:21",
       "language": [
         "en"
       ],
@@ -7218,8 +7218,8 @@
       "eprintid": 2263141,
       "wos": {
         "cluster": 279800000074,
-        "datestamp": "2016-08-18 03:44:02",
-        "impact": 1
+        "datestamp": "2016-09-17 03:47:34",
+        "impact": 2
       },
       "date": 2009,
       "documents": [
@@ -7346,7 +7346,7 @@
       "eprintid": 2280747,
       "wos": {
         "cluster": 277842800018,
-        "datestamp": "2016-08-18 04:08:04",
+        "datestamp": "2016-09-17 03:57:46",
         "impact": 1
       },
       "date": 2009,
@@ -7515,7 +7515,7 @@
       "title": "An Ontology-Based Context Management and Reasoning on the DOG Gateway",
       "scopus": {
         "cluster": "2-s2.0-77949692387",
-        "datestamp": "2016-08-19 04:03:17",
+        "datestamp": "2016-09-18 03:55:01",
         "impact": 0
       },
       "types": "TYPES8",
@@ -7597,7 +7597,7 @@
       "eprintid": 2284515,
       "wos": {
         "cluster": 278077800011,
-        "datestamp": "2016-08-18 04:15:48",
+        "datestamp": "2016-09-18 03:17:55",
         "impact": 7
       },
       "date": 2009,
@@ -7647,8 +7647,8 @@
       "title": "Rule-based Intelligence for Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-76549110725",
-        "datestamp": "2016-03-19 04:21:38",
-        "impact": 9
+        "datestamp": "2016-09-18 03:20:12",
+        "impact": 12
       },
       "pages": 14,
       "types": "TYPES2",
@@ -7853,7 +7853,7 @@
       "eprintid": 1938181,
       "wos": {
         "cluster": 273282100223,
-        "datestamp": "2016-08-17 03:45:30",
+        "datestamp": "2016-09-17 03:17:41",
         "impact": 0
       },
       "date": 2009,
@@ -7905,7 +7905,7 @@
       "title": "Technology Independent Interoperation of Domotic Devices through Rules",
       "scopus": {
         "cluster": "2-s2.0-70350246244",
-        "datestamp": "2016-08-17 04:03:25",
+        "datestamp": "2016-09-17 03:18:29",
         "impact": 1
       },
       "types": "TYPES8",
@@ -7986,8 +7986,8 @@
       "eprintid": 1801714,
       "wos": {
         "cluster": 207889500003,
-        "datestamp": "2016-08-14 04:37:48",
-        "impact": 7
+        "datestamp": "2016-09-14 03:34:04",
+        "impact": 8
       },
       "date": 2009,
       "documents": [
@@ -8034,7 +8034,7 @@
       "title": "Understanding users and their needs",
       "scopus": {
         "cluster": "2-s2.0-70350736192",
-        "datestamp": "2016-08-14 05:04:12",
+        "datestamp": "2016-09-14 03:54:08",
         "impact": 15
       },
       "pages": 17,
@@ -8102,7 +8102,7 @@
       "eprintid": 1648150,
       "wos": {
         "cluster": 207889500006,
-        "datestamp": "2016-08-11 04:30:38",
+        "datestamp": "2016-09-11 03:18:54",
         "impact": 3
       },
       "date": 2009,
@@ -8116,9 +8116,9 @@
                   "hash_type": "MD5",
                   "mtime": "2015-10-29 11:56:02",
                   "datasetid": "document",
-                  "fileid": 1590709,
-                  "objectid": 753322,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1590709",
+                  "fileid": 1984360,
+                  "objectid": 971287,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/1984360",
                   "mime_type": "application\/pdf",
                   "hash": "d3ee809f83dd7396f8fa0dd37f5a2480",
                   "filesize": 880170,
@@ -8132,14 +8132,14 @@
             "license": "not_public",
             "main": "56359_UPLOAD.pdf",
             "original_docid": 48273,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/753322",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/971287",
             "format": "application\/pdf",
-            "docid": 753322,
+            "docid": 971287,
             "security": "staffonly",
             "formatdesc": "56359_UPLOAD.pdf"
           }
       ],
-      "upddate": "2015-12-15 11:13:53",
+      "upddate": "2016-09-07 14:44:20",
       "pagerange": "311-321",
       "publisher": "Springer",
       "irisid": 39718,
@@ -8156,7 +8156,7 @@
       "title": "A blueprint for integrated eye-controlled environments",
       "scopus": {
         "cluster": "2-s2.0-70350706059",
-        "datestamp": "2016-08-11 04:48:34",
+        "datestamp": "2016-09-11 03:20:39",
         "impact": 8
       },
       "pages": 11,
@@ -8167,18 +8167,9 @@
         "USER_D1010"
       ],
       "issn": "1615-5289",
-      "rev_number": 28,
+      "rev_number": 34,
       "dir": "disk0\/01\/64\/81\/50",
       "creators": [
-        {
-          "name": {
-            "lineage": 12325,
-            "given": "Dario",
-            "honourific": null,
-            "family": "Bonino"
-          },
-          "id": 12325
-        },
         {
           "name": {
             "lineage": 2154,
@@ -8199,6 +8190,15 @@
         },
         {
           "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
+        },
+        {
+          "name": {
             "lineage": 13816,
             "given": "Alessandro",
             "honourific": null,
@@ -8207,7 +8207,7 @@
           "id": 13816
         }
       ],
-      "lastmod": "2016-01-08 03:47:42",
+      "lastmod": "2016-09-09 04:35:17",
       "ispublished": "pub",
       "item_issues_count": 0,
       "metadata_visibility": "show",
@@ -8311,8 +8311,8 @@
       "eprintid": 1853049,
       "wos": {
         "cluster": 261700400028,
-        "datestamp": "2016-07-16 03:24:18",
-        "impact": 26
+        "datestamp": "2016-09-15 03:37:31",
+        "impact": 27
       },
       "date": 2008,
       "documents": [
@@ -8438,11 +8438,11 @@
       "eprintid": 1845489,
       "wos": {
         "cluster": 262214700020,
-        "datestamp": "2016-08-15 04:10:58",
+        "datestamp": "2016-09-15 05:14:08",
         "impact": 4
       },
       "date": 2008,
-      "upddate": "2016-02-01 16:37:59",
+      "upddate": "2016-09-13 14:02:56",
       "publisher": "IEEE",
       "event_title": "20th IEEE Int'l Conference on Tools with Artificial Intelligence",
       "irisid": 51246,
@@ -8455,7 +8455,7 @@
       "title": "DOG: an Ontology-Powered OSGi Domotic Gateway",
       "scopus": {
         "cluster": "2-s2.0-57649155544",
-        "datestamp": "2016-08-15 04:37:38",
+        "datestamp": "2016-09-15 05:24:52",
         "impact": 13
       },
       "types": "TYPES8",
@@ -8463,9 +8463,18 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 8,
+      "rev_number": 10,
       "dir": "disk0\/01\/84\/54\/89",
       "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
         {
           "name": {
             "lineage": 12325,
@@ -8483,18 +8492,9 @@
             "family": "Castellina"
           },
           "id": 14800
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
         }
       ],
-      "lastmod": "2016-02-05 03:51:30",
+      "lastmod": "2016-09-15 04:41:51",
       "ispublished": "pub",
       "item_issues_count": 0,
       "metadata_visibility": "show",
@@ -8527,7 +8527,7 @@
       "eprintid": 1838746,
       "wos": {
         "cluster": 263688400051,
-        "datestamp": "2016-08-15 04:02:24",
+        "datestamp": "2016-09-16 05:00:32",
         "impact": 37
       },
       "date": 2008,
@@ -8539,11 +8539,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2014-12-22 23:19:28",
+                  "mtime": "2015-10-29 11:57:33",
                   "datasetid": "document",
-                  "fileid": 1257426,
-                  "objectid": 565773,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1257426",
+                  "fileid": 2014481,
+                  "objectid": 988417,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2014481",
                   "mime_type": "application\/pdf",
                   "hash": "fb7c57f6570dbd86289a6927dea93dc6",
                   "filesize": 164606,
@@ -8551,28 +8551,28 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 26,
+            "rev_number": 2,
             "copyright_date": "2014-12-23",
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/565773",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/988417",
             "original_docid": 50046,
             "main": "paper31_camera_ready.pdf",
             "format": "application\/pdf",
-            "docid": 565773,
+            "docid": 988417,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/935578"
+                "uri": "\/id\/document\/990524"
               }
             ],
             "copyright_operator": "MN",
-            "formatdesc": "Pre_print"
+            "formatdesc": "paper31_camera_ready.pdf"
           }
       ],
-      "upddate": "2014-12-22 23:57:00",
+      "upddate": "2016-09-14 15:55:23",
       "isbn": 9783540885634,
       "pagerange": "790-803",
       "irisid": 50489,
@@ -8584,7 +8584,7 @@
       "title": "DogOnt - Ontology Modeling for Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-57349200560",
-        "datestamp": "2016-08-15 04:22:58",
+        "datestamp": "2016-09-16 05:06:19",
         "impact": 27
       },
       "pages": 14,
@@ -8595,18 +8595,9 @@
       ],
       "twitted": 1,
       "issn": "0302-9743",
-      "rev_number": 36,
+      "rev_number": 47,
       "dir": "disk0\/01\/83\/87\/46",
       "creators": [
-        {
-          "name": {
-            "lineage": 12325,
-            "given": "Dario",
-            "honourific": null,
-            "family": "Bonino"
-          },
-          "id": 12325
-        },
         {
           "name": {
             "lineage": 2154,
@@ -8615,9 +8606,18 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
         }
       ],
-      "lastmod": "2016-06-22 11:00:44",
+      "lastmod": "2016-09-16 14:41:38",
       "ispublished": "pub",
       "metadata_visibility": "show",
       "id_number": "10.1007\/978-3-540-88564-1_51",
@@ -8631,7 +8631,7 @@
         "id": 12325
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "language": [
         "en"
       ],
@@ -8651,7 +8651,7 @@
       "eprintid": 1806506,
       "wos": {
         "cluster": 258398900009,
-        "datestamp": "2016-08-15 03:19:42",
+        "datestamp": "2016-09-14 03:37:23",
         "impact": 8
       },
       "date": 2008,
@@ -8746,7 +8746,7 @@
       "title": "Eye Tracking Impact on Quality-of-Life of ALS Patients",
       "scopus": {
         "cluster": "2-s2.0-50249107796",
-        "datestamp": "2016-08-15 03:19:42",
+        "datestamp": "2016-09-14 03:59:19",
         "impact": 5
       },
       "pages": 8,
@@ -8833,7 +8833,7 @@
       "title": "Integrated Speech and GazeControl for Realistic Desktop Environments",
       "scopus": {
         "cluster": "2-s2.0-77950334341",
-        "datestamp": "2016-08-13 03:50:18",
+        "datestamp": "2016-09-13 03:16:18",
         "impact": 8
       },
       "place_of_pub": "NEW YORK, NY",
@@ -8989,7 +8989,7 @@
       "title": "Self-Similarity metric for Index Pruning in Conceptual Vector Space Models",
       "scopus": {
         "cluster": "2-s2.0-57849096225",
-        "datestamp": "2016-08-14 04:57:23",
+        "datestamp": "2016-09-14 03:48:35",
         "impact": 0
       },
       "place_of_pub": "PISCATAWAY",
@@ -9203,11 +9203,11 @@
       "eprintid": 1513189,
       "wos": {
         "cluster": 265665300011,
-        "datestamp": "2016-07-09 03:34:37",
+        "datestamp": "2016-09-09 04:53:17",
         "impact": 0
       },
       "date": 2007,
-      "upddate": "2016-01-28 13:56:34",
+      "upddate": "2016-09-07 14:07:34",
       "publisher": "ACM",
       "event_title": "Web 3D 2007 symposium",
       "irisid": 33879,
@@ -9220,7 +9220,7 @@
       "title": "A Reusable 3D Visualization Component for the Semantic Web",
       "scopus": {
         "cluster": "2-s2.0-34248362362",
-        "datestamp": "2016-07-09 03:43:36",
+        "datestamp": "2016-09-09 04:54:24",
         "impact": 7
       },
       "place_of_pub": "NEW YORK",
@@ -9230,18 +9230,9 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 7,
+      "rev_number": 9,
       "dir": "disk0\/01\/51\/31\/89",
       "creators": [
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        },
         {
           "name": {
             "lineage": 12324,
@@ -9259,9 +9250,18 @@
             "family": "Bonino"
           },
           "id": 12325
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
         }
       ],
-      "lastmod": "2016-02-02 03:42:30",
+      "lastmod": "2016-09-09 04:33:54",
       "ispublished": "pub",
       "metadata_visibility": "show",
       "proprietary": {
@@ -9289,7 +9289,7 @@
       "eprintid": 1639529,
       "wos": {
         "cluster": 253293000005,
-        "datestamp": "2016-08-10 04:21:57",
+        "datestamp": "2016-09-10 03:43:07",
         "impact": 0
       },
       "date": 2007,
@@ -9306,7 +9306,7 @@
       "title": "Versatile RDF Representation for Multimedia Semantic Search",
       "scopus": {
         "cluster": "2-s2.0-48649087243",
-        "datestamp": "2016-08-10 04:46:24",
+        "datestamp": "2016-09-10 03:59:00",
         "impact": 0
       },
       "types": "TYPES8",
@@ -9392,7 +9392,7 @@
       "title": "Accessing Ambient Intelligence through Devices with Low Computational and Communication Power",
       "scopus": {
         "cluster": "2-s2.0-84901343860",
-        "datestamp": "2016-08-08 04:11:05",
+        "datestamp": "2016-09-08 03:29:50",
         "impact": 0
       },
       "pages": 15,
@@ -9549,7 +9549,7 @@
       "title": "Domotic House Gateway",
       "scopus": {
         "cluster": "2-s2.0-33751023311",
-        "datestamp": "2016-08-08 04:11:03",
+        "datestamp": "2016-09-08 03:29:46",
         "impact": 12
       },
       "place_of_pub": "NEW YORK",
@@ -9629,7 +9629,7 @@
       "title": "On-the-fly Construction of Web Services Compositions from Natural Language Requests",
       "scopus": {
         "cluster": "2-s2.0-74049119683",
-        "datestamp": "2016-08-15 04:32:54",
+        "datestamp": "2016-09-15 03:21:10",
         "impact": 9
       },
       "types": "TYPES2",
@@ -9696,7 +9696,7 @@
       "title": "An extensible platform for semantic classification and retrieval of multimedia resources",
       "scopus": {
         "cluster": "2-s2.0-84874235764",
-        "datestamp": "2016-08-11 04:59:02",
+        "datestamp": "2016-09-11 03:31:28",
         "impact": 0
       },
       "types": "TYPES8",
@@ -9802,7 +9802,7 @@
       "title": "Automatic Test Generation for Verifying Microprocessors",
       "scopus": {
         "cluster": "2-s2.0-27844528023",
-        "datestamp": "2016-07-09 04:11:59",
+        "datestamp": "2016-09-09 03:49:48",
         "impact": 5
       },
       "types": "TYPES2",
@@ -9897,7 +9897,7 @@
       "title": "Automatic learning of text-to-concept mappings exploiting WordNet-like lexical networks",
       "scopus": {
         "cluster": "2-s2.0-33644536074",
-        "datestamp": "2016-08-08 04:28:01",
+        "datestamp": "2016-09-08 03:48:39",
         "impact": 3
       },
       "place_of_pub": "NEW YORK, NY",
@@ -9957,7 +9957,7 @@
       "eprintid": 1498045,
       "wos": {
         "cluster": 231306500103,
-        "datestamp": "2016-08-08 04:12:16",
+        "datestamp": "2016-09-08 03:36:03",
         "impact": 2
       },
       "date": 2005,
@@ -9974,7 +9974,7 @@
       "title": "Composing Web Services on the Basis of Natural Language Requests",
       "scopus": {
         "cluster": "2-s2.0-33746371857",
-        "datestamp": "2016-08-08 04:31:33",
+        "datestamp": "2016-09-08 03:52:19",
         "impact": 7
       },
       "types": "TYPES8",
@@ -10301,7 +10301,7 @@
       "eprintid": 1498083,
       "wos": {
         "cluster": 234716300054,
-        "datestamp": "2016-08-08 04:12:17",
+        "datestamp": "2016-09-08 03:36:10",
         "impact": 0
       },
       "date": 2005,
@@ -10322,7 +10322,7 @@
       "title": "Specifying Web Service Compositions on the Basis of Natural Language Requests",
       "scopus": {
         "cluster": "2-s2.0-33744964581",
-        "datestamp": "2016-08-08 04:31:38",
+        "datestamp": "2016-09-08 03:52:22",
         "impact": 0
       },
       "pages": 6,
@@ -10609,7 +10609,7 @@
       "eprintid": 1509272,
       "wos": {
         "cluster": 187354300007,
-        "datestamp": "2016-07-09 03:26:39",
+        "datestamp": "2016-09-08 03:57:32",
         "impact": 1
       },
       "date": 2004,
@@ -10624,7 +10624,7 @@
       "title": "A BIST-based Solution for the Diagnosis of Embedded Memories Adopting Image Processing Techniques",
       "scopus": {
         "cluster": "2-s2.0-1242352973",
-        "datestamp": "2016-07-09 03:30:53",
+        "datestamp": "2016-09-08 04:28:57",
         "impact": 1
       },
       "types": "TYPES2",
@@ -10883,7 +10883,7 @@
       "title": "Domain Specific Searches using Conceptual Spectra",
       "scopus": {
         "cluster": "2-s2.0-16244390830",
-        "datestamp": "2016-08-08 04:27:57",
+        "datestamp": "2016-09-08 03:48:34",
         "impact": 3
       },
       "pages": 8,
@@ -10956,7 +10956,7 @@
       "eprintid": 1497271,
       "wos": {
         "cluster": 222818400182,
-        "datestamp": "2016-08-08 04:09:58",
+        "datestamp": "2016-09-08 03:33:50",
         "impact": 0
       },
       "date": 2004,
@@ -10975,7 +10975,7 @@
       "title": "Dynamic Optimization of Semantic Annotation Relevance",
       "scopus": {
         "cluster": "2-s2.0-4344612468",
-        "datestamp": "2016-08-08 04:27:55",
+        "datestamp": "2016-09-08 03:48:31",
         "impact": 0
       },
       "types": "TYPES8",
@@ -11110,7 +11110,7 @@
       "twitted": 1,
       "wos": {
         "cluster": 225277600145,
-        "datestamp": "2016-08-07 03:49:19",
+        "datestamp": "2016-09-07 03:38:15",
         "impact": 3
       },
       "date": 2004,
@@ -11173,7 +11173,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-18144406573",
-        "datestamp": "2016-08-07 04:04:36",
+        "datestamp": "2016-09-07 03:47:37",
         "impact": 7
       }
     },
@@ -11449,7 +11449,7 @@
       "title": "Multilingual Semantic Elaboration in the DOSE platform",
       "scopus": {
         "cluster": "2-s2.0-2442602536",
-        "datestamp": "2016-08-08 04:27:39",
+        "datestamp": "2016-09-08 03:48:13",
         "impact": 2
       },
       "place_of_pub": "NEW YORK, NY",
@@ -11519,7 +11519,7 @@
       "eprintid": 1417961,
       "wos": {
         "cluster": 222818400019,
-        "datestamp": "2016-08-07 03:51:53",
+        "datestamp": "2016-09-07 03:40:59",
         "impact": 0
       },
       "date": 2004,
@@ -11592,7 +11592,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-4344576293",
-        "datestamp": "2016-08-07 04:07:55",
+        "datestamp": "2016-09-07 03:51:02",
         "impact": 6
       },
       "pages": 7
@@ -11689,7 +11689,7 @@
       "twitted": 1,
       "wos": {
         "cluster": 225923500026,
-        "datestamp": "2016-08-08 03:20:59",
+        "datestamp": "2016-09-07 03:57:07",
         "impact": 2
       },
       "date": 2004,
@@ -11762,7 +11762,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-19944422766",
-        "datestamp": "2016-08-08 03:21:27",
+        "datestamp": "2016-09-07 04:12:18",
         "impact": 4
       }
     },
@@ -11938,7 +11938,7 @@
       "title": "Automatic Test Program Generation for Pipelined Processors",
       "scopus": {
         "cluster": "2-s2.0-0038675297",
-        "datestamp": "2016-08-07 04:08:20",
+        "datestamp": "2016-09-07 03:51:27",
         "impact": 8
       },
       "place_of_pub": "NEW YORK, NY",
@@ -12008,7 +12008,7 @@
       "eprintid": 1417968,
       "wos": {
         "cluster": 185894400017,
-        "datestamp": "2016-08-07 03:52:00",
+        "datestamp": "2016-09-07 03:41:05",
         "impact": 0
       },
       "date": 2003,
@@ -12025,7 +12025,7 @@
       "title": "Code generation for functional validation of pipelined microprocessors",
       "scopus": {
         "cluster": "2-s2.0-84942905068",
-        "datestamp": "2016-08-07 04:08:06",
+        "datestamp": "2016-09-07 03:51:14",
         "impact": 5
       },
       "place_of_pub": "WASHINGTON, DC",
@@ -12094,7 +12094,7 @@
       "eprintid": 1497200,
       "wos": {
         "cluster": 189005700081,
-        "datestamp": "2016-08-08 04:09:36",
+        "datestamp": "2016-09-08 03:33:28",
         "impact": 1
       },
       "date": 2003,
@@ -12111,7 +12111,7 @@
       "title": "DOSE: a Distributed Open Semantic Elaboration Platform",
       "scopus": {
         "cluster": "2-s2.0-0344666726",
-        "datestamp": "2016-08-08 04:27:24",
+        "datestamp": "2016-09-08 03:47:58",
         "impact": 5
       },
       "types": "TYPES8",
@@ -12180,7 +12180,7 @@
       "eprintid": 1497213,
       "wos": {
         "cluster": 221532900274,
-        "datestamp": "2016-08-08 04:09:40",
+        "datestamp": "2016-09-08 03:33:32",
         "impact": 3
       },
       "date": 2003,
@@ -12198,7 +12198,7 @@
       "title": "Dynamic Prediction of Web Requests",
       "scopus": {
         "cluster": "2-s2.0-4344707044",
-        "datestamp": "2016-08-08 04:27:31",
+        "datestamp": "2016-09-08 03:48:05",
         "impact": 6
       },
       "types": "TYPES8",
@@ -12265,7 +12265,7 @@
       "eprintid": 1417973,
       "wos": {
         "cluster": 184814100028,
-        "datestamp": "2016-08-07 03:52:01",
+        "datestamp": "2016-09-07 03:41:08",
         "impact": 1
       },
       "date": 2003,
@@ -12285,7 +12285,7 @@
       "title": "An Enhanced Framework for Microprocessor Test-Program Generation",
       "scopus": {
         "cluster": "2-s2.0-35248894293",
-        "datestamp": "2016-08-07 04:08:13",
+        "datestamp": "2016-09-07 03:51:21",
         "impact": 1
       },
       "pages": 9,
@@ -12494,7 +12494,7 @@
       "eprintid": 1417970,
       "wos": {
         "cluster": 221532900298,
-        "datestamp": "2016-08-07 03:52:01",
+        "datestamp": "2016-09-07 03:41:07",
         "impact": 0
       },
       "date": 2003,
@@ -12567,7 +12567,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-84901456165",
-        "datestamp": "2016-08-07 04:08:11",
+        "datestamp": "2016-09-07 03:51:18",
         "impact": 0
       },
       "pages": 5
@@ -12577,7 +12577,7 @@
       "eprintid": 1417967,
       "wos": {
         "cluster": 182683800159,
-        "datestamp": "2016-08-07 03:51:59",
+        "datestamp": "2016-09-07 03:41:05",
         "impact": 16
       },
       "date": 2003,
@@ -12594,7 +12594,7 @@
       "title": "Fully automatic test program generation for microprocessor cores",
       "scopus": {
         "cluster": "2-s2.0-1642612182",
-        "datestamp": "2016-08-07 04:08:04",
+        "datestamp": "2016-09-07 03:51:11",
         "impact": 59
       },
       "place_of_pub": "WASHINGTON, DC",
@@ -13130,7 +13130,7 @@
       "eprintid": 1417969,
       "wos": {
         "cluster": 186520200020,
-        "datestamp": "2016-08-07 03:52:00",
+        "datestamp": "2016-09-07 03:41:06",
         "impact": 0
       },
       "date": 2003,
@@ -13147,7 +13147,7 @@
       "title": "A real-time evolutionary algorithm for Web prediction",
       "scopus": {
         "cluster": "2-s2.0-84945181539",
-        "datestamp": "2016-08-07 04:08:09",
+        "datestamp": "2016-09-07 03:51:16",
         "impact": 13
       },
       "pages": 7,
@@ -13437,7 +13437,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-84948649997",
-        "datestamp": "2016-08-08 04:34:05",
+        "datestamp": "2016-09-08 03:54:57",
         "impact": 0
       }
     },
@@ -13662,7 +13662,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-0038588235",
-        "datestamp": "2016-08-08 04:45:52",
+        "datestamp": "2016-09-08 04:07:47",
         "impact": 15
       }
     },
@@ -13683,7 +13683,7 @@
       "title": "An Evolutionary Algorithm for Reducing Integrated-Circuit Test Application Time",
       "scopus": {
         "cluster": "2-s2.0-0036040350",
-        "datestamp": "2016-08-08 04:45:45",
+        "datestamp": "2016-09-08 04:07:39",
         "impact": 0
       },
       "place_of_pub": "NEW YORK, NY",
@@ -13753,7 +13753,7 @@
       "eprintid": 1501667,
       "wos": {
         "cluster": 181139600019,
-        "datestamp": "2016-08-08 04:20:14",
+        "datestamp": "2016-09-08 03:44:16",
         "impact": 0
       },
       "date": 2002,
@@ -13775,7 +13775,7 @@
       "title": "Evolutionary Techniques for Minimizing Test Signals Application Time",
       "scopus": {
         "cluster": "2-s2.0-84878644969",
-        "datestamp": "2016-08-08 04:45:48",
+        "datestamp": "2016-09-08 04:07:42",
         "impact": 0
       },
       "pages": 7,
@@ -13848,7 +13848,7 @@
       "eprintid": 1501682,
       "wos": {
         "cluster": 179973300062,
-        "datestamp": "2016-08-08 04:20:20",
+        "datestamp": "2016-09-08 03:44:22",
         "impact": 6
       },
       "date": 2002,
@@ -13865,7 +13865,7 @@
       "title": "Evolutionary Test Program Induction for Microprocessor Design Verification",
       "scopus": {
         "cluster": "2-s2.0-84949798789",
-        "datestamp": "2016-08-08 04:45:56",
+        "datestamp": "2016-09-08 04:07:52",
         "impact": 16
       },
       "place_of_pub": "WASHINGTON, DC",
@@ -14079,7 +14079,7 @@
       "eprintid": 1840756,
       "wos": {
         "cluster": 176819900002,
-        "datestamp": "2016-08-15 04:05:21",
+        "datestamp": "2016-09-15 03:15:35",
         "impact": 8
       },
       "date": 2002,
@@ -14127,7 +14127,7 @@
       "title": "Initializability Analysis of Synchronous Sequential Circuits",
       "scopus": {
         "cluster": "2-s2.0-0036016193",
-        "datestamp": "2016-08-15 04:27:24",
+        "datestamp": "2016-09-15 03:15:48",
         "impact": 9
       },
       "pages": 16,
@@ -14294,8 +14294,8 @@
       "eprintid": 1501388,
       "wos": {
         "cluster": 176953300132,
-        "datestamp": "2016-08-08 04:19:49",
-        "impact": 13
+        "datestamp": "2016-09-08 03:43:51",
+        "impact": 14
       },
       "date": 2002,
       "upddate": "2016-04-28 10:23:35",
@@ -14312,7 +14312,7 @@
       "title": "New Techniques for Speeding-up Fault-injection Campaigns",
       "scopus": {
         "cluster": "2-s2.0-84893748923",
-        "datestamp": "2016-08-08 04:44:49",
+        "datestamp": "2016-09-08 04:06:39",
         "impact": 36
       },
       "place_of_pub": "WASHINGTON, DC",
@@ -14381,7 +14381,7 @@
       "eprintid": 1501690,
       "wos": {
         "cluster": 178109200014,
-        "datestamp": "2016-08-08 04:20:21",
+        "datestamp": "2016-09-08 03:44:22",
         "impact": 0
       },
       "date": 2002,
@@ -14398,7 +14398,7 @@
       "title": "Reducing Test Application Time through Interleaved Scan",
       "scopus": {
         "cluster": "2-s2.0-84965145185",
-        "datestamp": "2016-08-08 04:45:59",
+        "datestamp": "2016-09-08 04:07:54",
         "impact": 0
       },
       "place_of_pub": "WASHINGTON, DC",
@@ -14666,7 +14666,7 @@
       "eprintid": 1501661,
       "wos": {
         "cluster": 174203500031,
-        "datestamp": "2016-08-08 04:20:06",
+        "datestamp": "2016-09-08 03:44:08",
         "impact": 0
       },
       "date": 2001,
@@ -14721,7 +14721,7 @@
       "title": "ARPIA: a High-Level Evolutionary Test Signal Generator",
       "scopus": {
         "cluster": "2-s2.0-84958042182",
-        "datestamp": "2016-08-08 04:45:37",
+        "datestamp": "2016-09-08 04:07:30",
         "impact": 0
       },
       "pages": 9,
@@ -14865,7 +14865,7 @@
       "eprintid": 1501659,
       "wos": {
         "cluster": 173697300034,
-        "datestamp": "2016-08-08 04:20:04",
+        "datestamp": "2016-09-08 03:44:06",
         "impact": 2
       },
       "date": 2001,
@@ -14881,7 +14881,7 @@
       "title": "Effective Techniques for High-Level ATPG",
       "scopus": {
         "cluster": "2-s2.0-0035699320",
-        "datestamp": "2016-08-08 04:45:32",
+        "datestamp": "2016-09-08 04:07:26",
         "impact": 14
       },
       "place_of_pub": "WASHINGTON, DC",
@@ -15163,8 +15163,8 @@
       "eprintid": 1501662,
       "wos": {
         "cluster": 168322500035,
-        "datestamp": "2016-08-08 04:20:07",
-        "impact": 9
+        "datestamp": "2016-09-08 03:44:09",
+        "impact": 28
       },
       "date": 2001,
       "upddate": "2016-04-28 10:23:55",
@@ -15181,7 +15181,7 @@
       "title": "On the Test of Microprocessor IP Cores",
       "scopus": {
         "cluster": "2-s2.0-84893681164",
-        "datestamp": "2016-08-08 04:45:39",
+        "datestamp": "2016-09-08 04:07:33",
         "impact": 43
       },
       "place_of_pub": "PISCATAWAY, NJ",
@@ -15259,7 +15259,7 @@
       "eprintid": 1498976,
       "wos": {
         "cluster": 173697300015,
-        "datestamp": "2016-08-08 04:13:53",
+        "datestamp": "2016-09-08 03:37:53",
         "impact": 0
       },
       "date": 2001,
@@ -15276,7 +15276,7 @@
       "title": "A P1500 compliant BIST-based approach to embedded RAM diagnosis",
       "scopus": {
         "cluster": "2-s2.0-0035701292",
-        "datestamp": "2016-08-08 04:34:29",
+        "datestamp": "2016-09-08 03:55:24",
         "impact": 11
       },
       "types": "TYPES8",
@@ -15701,7 +15701,7 @@
       "eprintid": 1545254,
       "wos": {
         "cluster": 88652200020,
-        "datestamp": "2016-08-10 03:31:07",
+        "datestamp": "2016-09-09 03:59:58",
         "impact": 0
       },
       "date": 2000,
@@ -15756,7 +15756,7 @@
       "title": "Automatic Validation of Protocol Interfaces Described in VHDL",
       "scopus": {
         "cluster": "2-s2.0-84958611845",
-        "datestamp": "2016-08-10 03:38:43",
+        "datestamp": "2016-09-09 04:21:17",
         "impact": 0
       },
       "pages": 9,
@@ -15873,7 +15873,7 @@
       "title": "Automatic test bench generation for validation of RT-level descriptions: an industrial experience",
       "scopus": {
         "cluster": "2-s2.0-0001956779",
-        "datestamp": "2016-08-07 04:04:33",
+        "datestamp": "2016-09-07 03:47:34",
         "impact": 22
       },
       "pages": 5,
@@ -15938,6 +15938,11 @@
       "authors_string": "Corno F; Sonza Reorda M; Squillero G.; Violante M",
       "types": "TYPES8",
       "eprintid": 1545264,
+      "wos": {
+        "cluster": 89739600024,
+        "datestamp": "2016-09-09 04:00:00",
+        "impact": 1
+      },
       "date": 2000,
       "userdep": [
         "USER_D1010"
@@ -16211,7 +16216,7 @@
       "eprintid": 1661412,
       "wos": {
         "cluster": 89240600094,
-        "datestamp": "2016-08-12 04:04:26",
+        "datestamp": "2016-09-12 03:28:41",
         "impact": 3
       },
       "date": 2000,
@@ -16264,7 +16269,7 @@
       "title": "Exploiting the selfish gene algorithm for evolving cellular automata",
       "scopus": {
         "cluster": "2-s2.0-0033713939",
-        "datestamp": "2016-05-12 04:24:08",
+        "datestamp": "2016-09-12 03:42:02",
         "impact": 7
       },
       "pages": 5,
@@ -16423,7 +16428,7 @@
       "eprintid": 1661409,
       "wos": {
         "cluster": 165966400031,
-        "datestamp": "2016-08-12 04:04:24",
+        "datestamp": "2016-09-12 03:28:39",
         "impact": 2
       },
       "date": 2000,
@@ -16441,7 +16446,7 @@
       "title": "A Genetic Algorithm-based System for Generating Test Programs for Microprocessor IP Cores",
       "scopus": {
         "cluster": "2-s2.0-67651033273",
-        "datestamp": "2016-05-12 04:24:03",
+        "datestamp": "2016-09-12 03:41:57",
         "impact": 3
       },
       "pages": 4,
@@ -16531,8 +16536,8 @@
       "title": "High-Level Observability for Effective High-Level ATPG",
       "scopus": {
         "cluster": "2-s2.0-0033733909",
-        "datestamp": "2016-05-12 04:24:18",
-        "impact": 13
+        "datestamp": "2016-09-12 03:42:09",
+        "impact": 14
       },
       "types": "TYPES8",
       "userid": 2,
@@ -16681,7 +16686,7 @@
       "title": "Low Power BIST via Hybrid Cellular Automata",
       "scopus": {
         "cluster": "2-s2.0-0033751555",
-        "datestamp": "2016-05-12 04:24:14",
+        "datestamp": "2016-09-12 03:42:06",
         "impact": 58
       },
       "types": "TYPES8",
@@ -16853,7 +16858,7 @@
       "title": "Low Power BIST via Non-Linear Hybrid Cellular Automata",
       "scopus": {
         "cluster": "2-s2.0-0033751555",
-        "datestamp": "2016-08-10 03:38:55",
+        "datestamp": "2016-09-09 04:21:26",
         "impact": 58
       },
       "place_of_pub": "WASHINGTON, DC"
@@ -17002,7 +17007,7 @@
       "eprintid": 1545300,
       "wos": {
         "cluster": 166048700001,
-        "datestamp": "2016-08-10 03:31:23",
+        "datestamp": "2016-09-09 04:00:08",
         "impact": 6
       },
       "date": 2000,
@@ -17072,7 +17077,7 @@
       "title": "An RT-level Fault Model with High Gate Level Correlation",
       "scopus": {
         "cluster": "2-s2.0-84949658137",
-        "datestamp": "2016-08-10 03:39:04",
+        "datestamp": "2016-09-09 04:21:32",
         "impact": 9
       },
       "place_of_pub": "WASHINGTON, DC"
@@ -17427,7 +17432,7 @@
       "eprintid": 1661414,
       "wos": {
         "cluster": 88841100020,
-        "datestamp": "2016-08-12 04:04:27",
+        "datestamp": "2016-09-12 03:28:41",
         "impact": 0
       },
       "date": 2000,
@@ -17480,7 +17485,7 @@
       "title": "An improved cellular automata-based BIST architecture for sequential circuits",
       "scopus": {
         "cluster": "2-s2.0-0033697584",
-        "datestamp": "2016-05-12 04:24:10",
+        "datestamp": "2016-09-12 03:42:04",
         "impact": 1
       },
       "pages": 4,
@@ -17687,7 +17692,7 @@
       "title": "Approximate Equivalence Verification for Protocol Interface Implementation via Genetic Algorithms",
       "scopus": {
         "cluster": "2-s2.0-84958985027",
-        "datestamp": "2016-08-10 03:38:11",
+        "datestamp": "2016-09-09 04:21:03",
         "impact": 0
       },
       "pages": 11,
@@ -17753,7 +17758,7 @@
       "eprintid": 1545118,
       "wos": {
         "cluster": 79489400126,
-        "datestamp": "2016-08-10 03:30:52",
+        "datestamp": "2016-09-09 03:59:45",
         "impact": 0
       },
       "date": 1999,
@@ -17805,7 +17810,7 @@
       "title": "Approximate equivalence verification of sequential circuits via genetic algorithms",
       "scopus": {
         "cluster": "2-s2.0-84893626679",
-        "datestamp": "2016-08-10 03:38:03",
+        "datestamp": "2016-09-09 04:21:00",
         "impact": 0
       },
       "pages": 2,
@@ -18314,7 +18319,7 @@
       "title": "Optimizing Deceptive Functions with the SG-Clans Algorithm",
       "scopus": {
         "cluster": "2-s2.0-0004042634",
-        "datestamp": "2016-08-10 03:38:17",
+        "datestamp": "2016-09-09 04:21:05",
         "impact": 3
       }
     },
@@ -18838,7 +18843,7 @@
       "title": "Verifying the Equivalence of Sequential Circuits with Genetic Algorithms",
       "scopus": {
         "cluster": "2-s2.0-84901465721",
-        "datestamp": "2016-08-10 03:38:34",
+        "datestamp": "2016-09-09 04:21:10",
         "impact": 0
       }
     },
@@ -19344,7 +19349,7 @@
       "eprintid": 1545113,
       "wos": {
         "cluster": 75926200099,
-        "datestamp": "2016-08-10 03:30:47",
+        "datestamp": "2016-09-09 03:59:42",
         "impact": 11
       },
       "date": 1998,
@@ -19411,7 +19416,7 @@
       "title": "A New Evolutionary Algorithm Inspired by the Selfish Gene Theory",
       "scopus": {
         "cluster": "2-s2.0-0031648131",
-        "datestamp": "2016-08-10 03:37:53",
+        "datestamp": "2016-09-09 04:20:54",
         "impact": 17
       }
     },
@@ -19420,8 +19425,8 @@
       "eprintid": 1416268,
       "wos": {
         "cluster": 74079600059,
-        "datestamp": "2016-08-07 03:26:40",
-        "impact": 1
+        "datestamp": "2016-09-06 04:13:00",
+        "impact": 2
       },
       "date": 1998,
       "upddate": "2014-07-10 16:31:54",
@@ -19438,7 +19443,7 @@
       "title": "On the Identification of Optimal Cellular Automata for Built-In Self-Test of Sequential Circuits",
       "scopus": {
         "cluster": "2-s2.0-0032316914",
-        "datestamp": "2016-08-07 03:31:54",
+        "datestamp": "2016-09-06 04:41:36",
         "impact": 2
       },
       "pages": 6,
@@ -19577,7 +19582,7 @@
       "eprintid": 1408865,
       "wos": {
         "cluster": 78324900033,
-        "datestamp": "2016-09-04 04:02:22",
+        "datestamp": "2016-09-07 04:57:09",
         "impact": 0
       },
       "date": 1998,
@@ -19585,8 +19590,8 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2015-10-23 16:49:15",
-      "rev_number": 4,
+      "upddate": "2016-09-05 08:36:02",
+      "rev_number": 6,
       "creators": [
         {
           "name": {
@@ -19617,7 +19622,7 @@
         }
       ],
       "dir": "disk0\/01\/40\/88\/65",
-      "lastmod": "2015-11-05 15:11:17",
+      "lastmod": "2016-09-07 04:44:54",
       "ispublished": "pub",
       "isbn": 9780818688324,
       "pagerange": "284-291",
@@ -19634,7 +19639,7 @@
       "metadata_visibility": "show",
       "irisid": 24589,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "event_dates": "2-4 November 1998",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
@@ -19728,7 +19733,7 @@
       "eprintid": 1545109,
       "wos": {
         "cluster": 76796900053,
-        "datestamp": "2016-08-10 03:30:44",
+        "datestamp": "2016-09-09 03:59:41",
         "impact": 1
       },
       "date": 1998,
@@ -19795,7 +19800,7 @@
       "title": "VEGA: A Verification Tool Based on Genetic Algorithms",
       "scopus": {
         "cluster": "2-s2.0-0032295065",
-        "datestamp": "2016-08-10 03:37:35",
+        "datestamp": "2016-09-09 04:20:51",
         "impact": 4
       }
     },
@@ -20299,7 +20304,7 @@
       "eprintid": 1545105,
       "wos": {
         "cluster": "A1997BJ93L00017",
-        "datestamp": "2016-08-10 03:30:41",
+        "datestamp": "2016-09-09 03:59:41",
         "impact": 5
       },
       "date": 1997,
@@ -20318,7 +20323,7 @@
       "abstract": "This paper tackles the problem of analyzing the correctness and performance of a computer network protocol. Given the complexity of the problem, no currently used technique is able to achieve good results: formal techniques can discover some bugs but can be applied to over-simplified models, only; on the other hand, statistical techniques relying on simulation often fail to find some critical cases for the protocol. Our proposed approach relies on coupling a genetic algorithm with a simulator of the system under verification. Genetic algorithms recently proved themselves excellent tools for giving good, yet approximate, solution to hard-to-solve problems. To prove the effectiveness of our approach, we applied it to the quantitative verification of a network protocol: the complexity of this problem prevents the application of exact techniques, while experimental results show that the verification results we obtained are better than one can achieve with traditional statistical methods. As an example, the approach is applied to the verification of the TCP protocol operating on a given network. A genetic algorithm is able to find a configuration of the traffic over the network that sensitizes a critical problem in the TCP protocol",
       "scopus": {
         "cluster": "2-s2.0-0031359349",
-        "datestamp": "2016-08-10 03:37:05",
+        "datestamp": "2016-09-09 04:20:49",
         "impact": 6
       },
       "pages": 7,
@@ -20673,7 +20678,7 @@
       "eprintid": 1545097,
       "wos": {
         "cluster": "A1997BJ80H00054",
-        "datestamp": "2016-08-10 03:30:24",
+        "datestamp": "2016-09-09 03:59:35",
         "impact": 5
       },
       "date": 1997,
@@ -20758,7 +20763,7 @@
       "title": "A New Approach for Initialization Sequences Computation for Synchronous Sequential Circuits",
       "scopus": {
         "cluster": "2-s2.0-0031355564",
-        "datestamp": "2016-08-10 03:36:50",
+        "datestamp": "2016-09-09 04:20:29",
         "impact": 7
       }
     },
@@ -21192,7 +21197,7 @@
       "eprintid": 1416266,
       "wos": {
         "cluster": 71293600094,
-        "datestamp": "2016-08-07 03:26:39",
+        "datestamp": "2016-09-06 04:12:59",
         "impact": 38
       },
       "date": 1997,
@@ -21211,7 +21216,7 @@
       "title": "Testability analysis and ATPG on behavioral RT-level VHDL",
       "scopus": {
         "cluster": "2-s2.0-0031386288",
-        "datestamp": "2016-08-07 03:31:51",
+        "datestamp": "2016-09-06 04:41:34",
         "impact": 30
       },
       "pages": 7,
@@ -21280,7 +21285,7 @@
       "eprintid": 1545099,
       "wos": {
         "cluster": "A1997BJ93X00010",
-        "datestamp": "2016-08-10 03:30:29",
+        "datestamp": "2016-09-09 03:59:35",
         "impact": 0
       },
       "date": 1997,
@@ -21333,7 +21338,7 @@
       "title": "A genetic algorithm for the computation of initialization sequences for synchronous sequential circuits",
       "scopus": {
         "cluster": "2-s2.0-0031383799",
-        "datestamp": "2016-08-10 03:36:54",
+        "datestamp": "2016-09-09 04:20:41",
         "impact": 3
       },
       "pages": 6,
@@ -22337,7 +22342,7 @@
       "eprintid": 1751203,
       "wos": {
         "cluster": "A1996VN33500006",
-        "datestamp": "2016-08-14 04:27:51",
+        "datestamp": "2016-09-14 03:24:52",
         "impact": 0
       },
       "date": 1996,
@@ -23747,7 +23752,7 @@
       "title": "A New Functional Fault Model for System-Level Descriptions",
       "scopus": {
         "cluster": "2-s2.0-0028756092",
-        "datestamp": "2016-05-13 03:18:07",
+        "datestamp": "2016-09-12 03:50:35",
         "impact": 2
       }
     },
@@ -24082,7 +24087,7 @@
       "title": "An Approach to Sequential Circuit Diagnosis Based on Formal Verification Techniques",
       "scopus": {
         "cluster": "2-s2.0-0027542373",
-        "datestamp": "2016-08-12 04:03:13",
+        "datestamp": "2016-09-11 04:20:16",
         "impact": 2
       },
       "pages": 7
@@ -24643,7 +24648,7 @@
       "eprintid": 1680214,
       "wos": {
         "cluster": "A1992BW69U00047",
-        "datestamp": "2016-08-14 04:01:55",
+        "datestamp": "2016-09-13 03:53:37",
         "impact": 0
       },
       "date": 1992,
@@ -24660,7 +24665,7 @@
       "title": "Cross-fertilizing FSM Verification Techniques and Sequential Diagnosis",
       "scopus": {
         "cluster": "2-s2.0-0026960635",
-        "datestamp": "2016-08-14 04:05:10",
+        "datestamp": "2016-09-13 04:08:41",
         "impact": 0
       },
       "types": "TYPES8",
@@ -24743,7 +24748,7 @@
       "eprintid": 2297068,
       "wos": {
         "cluster": "A1992BX97X00020",
-        "datestamp": "2016-08-19 03:59:21",
+        "datestamp": "2016-09-18 03:34:02",
         "impact": 1
       },
       "date": 1992,
@@ -24761,7 +24766,7 @@
       "title": "Sequential circuit diagnosis based on formal verification techniques",
       "scopus": {
         "cluster": "2-s2.0-84914614079",
-        "datestamp": "2016-08-19 03:59:11",
+        "datestamp": "2016-09-18 03:51:30",
         "impact": 1
       },
       "types": "TYPES8",
@@ -24843,7 +24848,7 @@
       "eprintid": 1848210,
       "wos": {
         "cluster": "A1992BW39C00112",
-        "datestamp": "2016-08-15 04:17:04",
+        "datestamp": "2016-09-15 03:27:24",
         "impact": 1
       },
       "date": 1992,
@@ -24860,7 +24865,7 @@
       "title": "A new model for improving symbolic Product Machine traversal",
       "scopus": {
         "cluster": "2-s2.0-0027004889",
-        "datestamp": "2016-08-15 04:52:14",
+        "datestamp": "2016-09-15 03:40:07",
         "impact": 4
       },
       "pages": 6,
@@ -25044,7 +25049,7 @@
                 }
             ],
             "content": "accepted",
-            "rev_number": 17,
+            "rev_number": 19,
             "copyright_date": "2015-11-30",
             "copyright_note": "Non trovo editoriale, messo OA e vers. accettata",
             "pos": 1,
@@ -25059,7 +25064,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/963310"
+                "uri": "\/id\/document\/995425"
               }
             ],
             "copyright_operator": "MGD",
@@ -25087,7 +25092,7 @@
       ],
       "twitted": 1,
       "issn": "1520-9202",
-      "rev_number": 17,
+      "rev_number": 19,
       "dir": "disk0\/02\/62\/19\/28",
       "creators": [
         {
@@ -25118,7 +25123,7 @@
           "id": 2154
         }
       ],
-      "lastmod": "2016-08-29 20:54:25",
+      "lastmod": "2016-09-19 14:56:57",
       "ispublished": "inpress",
       "metadata_visibility": "show",
       "proprietary": {
@@ -25291,6 +25296,121 @@
       },
       "eprint_status": "archive",
       "status_changed": "2016-08-26 12:19:35",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi",
+      "eprintid": 2648065,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2648065,
+            "insert_date": "2016-09-12 12:39:16",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-12 12:39:16",
+                  "datasetid": "document",
+                  "fileid": 2004399,
+                  "objectid": 981773,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2004399",
+                  "mime_type": "application\/pdf",
+                  "hash": "219c24432969816e1b3b69d49a232d52",
+                  "filesize": 275988,
+                  "filename": "amicourse_FINAL.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2016-09-13",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/981773",
+            "original_docid": 120876,
+            "main": "amicourse_FINAL.pdf",
+            "format": "application\/pdf",
+            "docid": 981773,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/988074"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "amicourse_FINAL.pdf"
+          }
+      ],
+      "upddate": "2016-09-12 12:39:16",
+      "keywords": [
+        "ambient intelligence, computer engineering, computing skills, multidisciplinary teams, internet of things, project-based learning"
+      ],
+      "publisher": "IEEE",
+      "irisid": 125211,
+      "publisher_review": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
+      "datestamp": "2016-09-12 14:39:16",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2648065",
+      "publication": "IEEE TRANSACTIONS ON EDUCATION",
+      "abstract": "The increasing complexity of the new breed of distributed intelligent systems, such as the Internet of Things (IoT), which require a diversity of languages and protocols, can only be tamed with design and programming best practices. Interest is also growing for including the human factor, as advocated by the Ambient Intelligence (AmI) research ﬁeld, whose focus is on transparently and intelligently supporting people. These new design methodologies are increasingly needed in the toolbox of new electronic and computer engineers, and teaching strategies should be devised that allow students to acquire a systems-level view instead of getting lost in technology-oriented approaches. This paper describes a study carried out over two academic years, in a course in ambient intelligence at Politecnico di Torino, Italy. In the course, a project-based learning approach was adopted, in which students design and prototype an AmI system, and their progress is closely monitored throughout the semester. The paper presents the learning goals and teaching strategies, analyzes the learning outcomes from the qualitative and quantitative points of view, and highlights the lessons learned in the process",
+      "type": "article",
+      "title": "Training Engineers for the Ambient Intelligence Challenge",
+      "pages": 10,
+      "types": "TYPES2",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "twitted": 1,
+      "issn": "0018-9359",
+      "rev_number": 10,
+      "dir": "disk0\/02\/64\/80\/65",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        }
+      ],
+      "lastmod": "2016-09-15 12:57:28",
+      "ispublished": "inpress",
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/TE.2016.2608785",
+      "proprietary": {
+        "name": {
+          "lineage": 2154,
+          "given": "Fulvio",
+          "honourific": null,
+          "family": "Corno"
+        },
+        "id": 2154
+      },
+      "eprint_status": "archive",
+      "status_changed": "2016-09-12 14:39:16",
       "language": [
         "en"
       ],

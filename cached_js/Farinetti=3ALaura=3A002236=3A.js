@@ -677,8 +677,8 @@
       "eprintid": 2263141,
       "wos": {
         "cluster": 279800000074,
-        "datestamp": "2016-08-18 03:44:02",
-        "impact": 1
+        "datestamp": "2016-09-17 03:47:34",
+        "impact": 2
       },
       "date": 2009,
       "documents": [
@@ -923,7 +923,7 @@
       "eprintid": 1806506,
       "wos": {
         "cluster": 258398900009,
-        "datestamp": "2016-08-15 03:19:42",
+        "datestamp": "2016-09-14 03:37:23",
         "impact": 8
       },
       "date": 2008,
@@ -1018,7 +1018,7 @@
       "title": "Eye Tracking Impact on Quality-of-Life of ALS Patients",
       "scopus": {
         "cluster": "2-s2.0-50249107796",
-        "datestamp": "2016-08-15 03:19:42",
+        "datestamp": "2016-09-14 03:59:19",
         "impact": 5
       },
       "pages": 8,
@@ -1214,7 +1214,7 @@
       "title": "Domain Specific Searches using Conceptual Spectra",
       "scopus": {
         "cluster": "2-s2.0-16244390830",
-        "datestamp": "2016-08-08 04:27:57",
+        "datestamp": "2016-09-08 03:48:34",
         "impact": 3
       },
       "pages": 8,
@@ -1382,7 +1382,7 @@
       "title": "Multilingual Semantic Elaboration in the DOSE platform",
       "scopus": {
         "cluster": "2-s2.0-2442602536",
-        "datestamp": "2016-08-08 04:27:39",
+        "datestamp": "2016-09-08 03:48:13",
         "impact": 2
       },
       "place_of_pub": "NEW YORK, NY",
@@ -1590,7 +1590,7 @@
       "eprintid": 1497200,
       "wos": {
         "cluster": 189005700081,
-        "datestamp": "2016-08-08 04:09:36",
+        "datestamp": "2016-09-08 03:33:28",
         "impact": 1
       },
       "date": 2003,
@@ -1607,7 +1607,7 @@
       "title": "DOSE: a Distributed Open Semantic Elaboration Platform",
       "scopus": {
         "cluster": "2-s2.0-0344666726",
-        "datestamp": "2016-08-08 04:27:24",
+        "datestamp": "2016-09-08 03:47:58",
         "impact": 5
       },
       "types": "TYPES8",
@@ -2058,7 +2058,7 @@
       "eprintid": 1527792,
       "wos": {
         "cluster": 178771600036,
-        "datestamp": "2016-07-09 03:45:27",
+        "datestamp": "2016-09-09 03:29:19",
         "impact": 0
       },
       "date": 2002,
@@ -2075,8 +2075,8 @@
       "title": "Perceptual Classification of MPEG Video for Differentiated-Services Communications",
       "scopus": {
         "cluster": "2-s2.0-79551650954",
-        "datestamp": "2016-07-09 03:58:59",
-        "impact": 12
+        "datestamp": "2016-09-09 03:36:32",
+        "impact": 13
       },
       "types": "TYPES8",
       "userid": 2,
@@ -3191,7 +3191,7 @@
       "title": "Educational strategies and technical implementation: the experienceof Politecnico di Torino in remote tutoring",
       "scopus": {
         "cluster": "2-s2.0-0032659933",
-        "datestamp": "2016-08-08 04:16:32",
+        "datestamp": "2016-09-08 03:36:06",
         "impact": 0
       },
       "types": "TYPES8",
