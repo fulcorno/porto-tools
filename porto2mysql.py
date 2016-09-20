@@ -7,19 +7,21 @@ __author__ = 'Fulvio Corno'
 import json, gzip
 
 @begin.start(auto_convert=True)
-def run(filename):
+def run(*filenames):
 
     model = porto.Model()
 
     try:
-        doc = json.load(open(filename, 'r'))
-
-        model.fromJSON(doc)
-
-
-    except:
+        for filename in filenames:
+            print "Loading %s" % filename
+            doc = json.load(open(filename, 'r'))
+            model.fromJSON(doc)
+    except IOError as e:
         print "Error in processing %s" % filename
+        print e
 
+    print "Saving into database"
+    model.saveSQL()
 
 """"
 print "Found %d types (from %d main types)" % (len(allTypes), len({a.type for a in allTypes}))

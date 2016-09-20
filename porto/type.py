@@ -13,6 +13,7 @@ class Type:
         "TYPES77": "Breve introduzione",
         "TYPES78": "Voce di dizionario/enciclopedia",
         "TYPES8": "Contributo in atti di convegno",
+        "TYPES86": "Libro???",
         "TYPES89": "Abstract in atti di convegno",
         "TYPES90": "Poster",
         "TYPES12": "Curatela",

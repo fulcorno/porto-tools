@@ -1,6 +1,7 @@
 from porto.type import Type
 from porto.author import Author
 from porto.paper import Paper
+import portoDAO
 
 class Model:
 
@@ -49,3 +50,16 @@ class Model:
 
         print "Loaded %d papers" % len(self.allPapers)
         print "Found %d authors" % len(self.allAuthors)
+
+    def saveSQL(self):
+
+        DAO = portoDAO.DAO()
+
+        # dump all papers
+        DAO.delete_all_papers()
+        for id in self.allPapers:
+            DAO.create_paper(self.allPapers[id])
+
+        # dump all authors
+        # dump paper<>author relationship
+        pass
