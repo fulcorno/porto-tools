@@ -8,6 +8,10 @@ import json, gzip
 
 @begin.start(auto_convert=True)
 def run(*filenames):
+    """
+    Reads the specified JSON files and insert the corresponding
+    papers and authors into the SQL database.
+    """
 
     model = porto.Model()
 

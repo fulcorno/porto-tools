@@ -56,10 +56,19 @@ class Model:
         DAO = portoDAO.DAO()
 
         # dump all papers
-        DAO.delete_all_papers()
+        #DAO.delete_all_papers()
+
         for id in self.allPapers:
             DAO.create_paper(self.allPapers[id])
 
         # dump all authors
+        for au in self.allAuthors:
+            DAO.create_author(self.allAuthors[au])
+
         # dump paper<>author relationship
-        pass
+        for id in self.allPapers:
+            for au in self.allPapers[id].authors:
+                # print "paper %d author %d" % (id, au.id)
+                DAO.create_paper_author(self.allPapers[id], au)
+
+        DAO.close()
