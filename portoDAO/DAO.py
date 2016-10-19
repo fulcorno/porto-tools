@@ -1,5 +1,6 @@
 import mysql.connector
 
+
 class DAO:
 
     db_params = {
@@ -19,7 +20,6 @@ class DAO:
         DAO.conn.commit()
         cursor.close()
 
-
     def create_paper(self, paper):
 
         cursor = DAO.conn.cursor()
@@ -30,18 +30,18 @@ class DAO:
             "is_wos, impact_wos, is_scopus, impact_scopus, "
             "issn, isbn, "
             "publisher, event_title, book_title, publication, "
-            "DOI) " +
+            "DOI, uri, pages) " +
             "VALUES ( %s, %s, %s, %s, %s, %s, "
             "%s, %s, %s, %s, "
             "%s, %s, "
             "%s, %s, %s, %s,"
-            "%s)" )
+            "%s, %s, %s )")
 
         cursor.execute(sql, (paper.eprintid, paper.title, paper.date, paper.type.type, paper.type.types, paper.abstract,
                              paper.is_wos, paper.impact_wos, paper.is_scopus, paper.impact_scopus,
                              paper.issn, paper.isbn,
                              paper.publisher, paper.event_title, paper.book_title, paper.publication,
-                             paper.DOI) )
+                             paper.DOI, paper.uri, paper.pages) )
 
         DAO.conn.commit()
         cursor.close()
@@ -51,9 +51,10 @@ class DAO:
 
         sql = (
             "INSERT IGNORE INTO author (id , lastname, firstname) "
-            "VALUES ( %s, %s, %s )" )
+            "VALUES ( %s, %s, %s )"
+        )
 
-        cursor.execute(sql, (author.id, author.lastname, author.firstname))
+        cursor.execute(sql, (author.matricola(), author.lastname, author.firstname))
 
         DAO.conn.commit()
         cursor.close()
@@ -61,10 +62,12 @@ class DAO:
     def create_paper_author(self, paper, author):
         cursor = DAO.conn.cursor()
 
-        sql = ( "INSERT IGNORE INTO creator (eprintid, authorid) "
-            "VALUES ( %s, %s )" )
+        sql = (
+            "INSERT IGNORE INTO creator (eprintid, authorid) "
+            "VALUES ( %s, %s )"
+        )
 
-        cursor.execute(sql, (paper.eprintid, author.id))
+        cursor.execute(sql, (paper.eprintid, author.matricola()))
 
         DAO.conn.commit()
         cursor.close()

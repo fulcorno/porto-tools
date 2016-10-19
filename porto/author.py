@@ -10,5 +10,8 @@ class Author:
     def name(self):
         return self.lastname.upper()+" "+self.firstname
 
+    def matricola(self):
+        return ("000000"+str(self.id))[-6:]
+
     def __repr__(self):
         return self.name()

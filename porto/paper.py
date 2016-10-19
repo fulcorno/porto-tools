@@ -3,7 +3,7 @@ __author__ = 'Fulvio Corno'
 
 class Paper:
     #def __init__(self, eprintid, title, date, type, publication, issn,  ):
-    def __init__(self, eprintid, title, date, type, abstract=""):
+    def __init__(self, eprintid, title, date, type, abstract="", uri=""):
         # type: (int, str, int, tuple) -> Paper
         self.eprintid = eprintid
         self.title = title
@@ -26,6 +26,8 @@ class Paper:
         self.book_title = None
         self.publication = None
         self.DOI = None # called id_number in JSON
+        self.uri = None
+        self.pages = None
 
 
     def make_wos(self, impact):

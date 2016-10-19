@@ -33,6 +33,8 @@ class Model:
             thisPaper.book_title = pub.get('book_title', None)
             thisPaper.publication = pub.get('publication', None)
             thisPaper.DOI = pub.get('id_number', None)
+            thisPaper.uri = pub.get('uri', None)
+            thisPaper.pages = pub.get('pages', None)
 
             # store paper
             self.allPapers[eprintid] = thisPaper
