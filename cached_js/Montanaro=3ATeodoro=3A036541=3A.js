@@ -140,6 +140,11 @@
     {
       "authors_string": "Corno, Fulvio; De Russis, Luigi; Montanaro, Teodoro",
       "eprintid": 2627751,
+      "wos": {
+        "cluster": 380567200114,
+        "datestamp": "2016-09-30 03:16:01",
+        "impact": 0
+      },
       "date": 2015,
       "documents": [
           {
@@ -202,7 +207,7 @@
       "title": "A Context and User Aware Smart Notification System",
       "scopus": {
         "cluster": "2-s2.0-84964465721",
-        "datestamp": "2016-08-31 03:21:15",
+        "datestamp": "2016-09-30 03:16:31",
         "impact": 0
       },
       "pages": 7,
@@ -276,7 +281,7 @@
       "eprintid": 2610554,
       "wos": {
         "cluster": 378639200045,
-        "datestamp": "2016-08-30 03:21:37",
+        "datestamp": "2016-09-29 03:22:05",
         "impact": 0
       },
       "date": 2015,
@@ -344,7 +349,7 @@
       "title": "IoT Meets Exhibition Areas: a Modular Architecture to Improve Proximity Interactions",
       "scopus": {
         "cluster": "2-s2.0-84959042684",
-        "datestamp": "2016-08-30 03:25:28",
+        "datestamp": "2016-09-29 03:27:15",
         "impact": 0
       },
       "pages": 8,
@@ -479,7 +484,7 @@
       "eprintid": 2550539,
       "wos": {
         "cluster": 358742400031,
-        "datestamp": "2016-08-28 03:30:44",
+        "datestamp": "2016-09-27 03:41:01",
         "impact": 0
       },
       "date": 2014,
@@ -536,7 +541,7 @@
       "title": "Lightweight Formal Verification in Real World, A Case Study",
       "scopus": {
         "cluster": "2-s2.0-84904537414",
-        "datestamp": "2016-08-28 03:45:38",
+        "datestamp": "2016-09-27 03:58:13",
         "impact": 0
       },
       "pages": 8,

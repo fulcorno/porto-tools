@@ -4,7 +4,7 @@
       "eprintid": 2519025,
       "wos": {
         "cluster": 357989200004,
-        "datestamp": "2016-08-27 03:33:36",
+        "datestamp": "2016-09-26 03:52:11",
         "impact": 0
       },
       "date": 2015,
@@ -63,7 +63,7 @@
       "title": "Autonomic goal-oriented device management for Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84949546003",
-        "datestamp": "2016-08-27 03:47:36",
+        "datestamp": "2016-09-26 04:07:15",
         "impact": 0
       },
       "pages": 24,
@@ -144,8 +144,8 @@
       "eprintid": 2510296,
       "wos": {
         "cluster": 352647600003,
-        "datestamp": "2016-08-26 03:50:30",
-        "impact": 0
+        "datestamp": "2016-09-25 03:58:10",
+        "impact": 1
       },
       "date": 2015,
       "documents": [
@@ -168,7 +168,7 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 2,
+            "rev_number": 4,
             "copyright_date": "2014-12-23",
             "pos": 1,
             "language": "it",
@@ -182,7 +182,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/906962"
+                "uri": "\/id\/document\/997778"
               }
             ],
             "copyright_operator": "MN",
@@ -209,7 +209,7 @@
       "title": "Real-Time Monitoring of High-Level States in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84925710465",
-        "datestamp": "2016-08-26 04:14:16",
+        "datestamp": "2016-09-25 04:28:18",
         "impact": 2
       },
       "pages": 21,
@@ -221,7 +221,7 @@
         "USER_D1010"
       ],
       "issn": "1876-1364",
-      "rev_number": 78,
+      "rev_number": 80,
       "dir": "disk0\/02\/51\/02\/96",
       "creators": [
         {
@@ -243,7 +243,7 @@
           "id": 23127
         }
       ],
-      "lastmod": "2016-05-11 07:02:33",
+      "lastmod": "2016-09-20 19:31:44",
       "ispublished": "pub",
       "metadata_visibility": "show",
       "id_number": "10.3233\/AIS-150310",
@@ -277,7 +277,7 @@
       "eprintid": 2507278,
       "wos": {
         "cluster": 351240600009,
-        "datestamp": "2016-08-26 03:33:26",
+        "datestamp": "2016-09-25 03:40:14",
         "impact": 1
       },
       "date": 2014,
@@ -301,7 +301,7 @@
                 }
             ],
             "content": "published",
-            "rev_number": 4,
+            "rev_number": 6,
             "copyright_date": "2013-04-12",
             "copyright_note": "Springer",
             "pos": 1,
@@ -316,7 +316,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/934245"
+                "uri": "\/id\/document\/995557"
               }
             ],
             "copyright_operator": "EP",
@@ -345,7 +345,7 @@
       "title": "SAT based Enforcement of Domotic Effects in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84905088535",
-        "datestamp": "2016-08-26 03:46:07",
+        "datestamp": "2016-09-25 04:02:36",
         "impact": 1
       },
       "pages": 15,
@@ -357,7 +357,7 @@
         "USER_D1010"
       ],
       "issn": "1868-5137",
-      "rev_number": 55,
+      "rev_number": 57,
       "dir": "disk0\/02\/50\/72\/78",
       "creators": [
         {
@@ -379,7 +379,7 @@
           "id": 2154
         }
       ],
-      "lastmod": "2016-06-19 11:53:01",
+      "lastmod": "2016-09-20 02:53:55",
       "ispublished": "pub",
       "metadata_visibility": "show",
       "id_number": "10.1007\/s12652-013-0183-x",
@@ -531,8 +531,8 @@
       "eprintid": 2501975,
       "wos": {
         "cluster": 325485000060,
-        "datestamp": "2016-08-25 03:25:27",
-        "impact": 14
+        "datestamp": "2016-10-24 03:53:02",
+        "impact": 18
       },
       "date": 2012,
       "documents": [
@@ -597,8 +597,8 @@
       "title": "Intelligent Energy Optimization for User Intelligible Goals in Smart Home Environments",
       "scopus": {
         "cluster": "2-s2.0-84872060816",
-        "datestamp": "2016-08-25 03:43:19",
-        "impact": 24
+        "datestamp": "2016-10-24 04:14:45",
+        "impact": 26
       },
       "pages": 8,
       "types": "TYPES2",
@@ -666,7 +666,7 @@
       "eprintid": 2496718,
       "wos": {
         "cluster": 314400700046,
-        "datestamp": "2016-08-23 03:43:27",
+        "datestamp": "2016-10-23 03:23:45",
         "impact": 2
       },
       "date": 2012,
@@ -729,8 +729,8 @@
       "title": "Publishing LO(D)D: Linked Open (Dynamic) Data for Smart Sensing and Measuring Environments",
       "scopus": {
         "cluster": "2-s2.0-84896939132",
-        "datestamp": "2016-08-23 04:05:10",
-        "impact": 4
+        "datestamp": "2016-10-23 03:31:26",
+        "impact": 3
       },
       "pages": 8,
       "types": "TYPES8",
@@ -858,7 +858,7 @@
       "title": "Semantic Web Technologies' Role in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84873840471",
-        "datestamp": "2016-08-25 04:04:17",
+        "datestamp": "2016-09-24 04:14:33",
         "impact": 0
       },
       "pages": 5,
@@ -918,8 +918,8 @@
       "eprintid": 2502682,
       "wos": {
         "cluster": 314400700079,
-        "datestamp": "2016-07-25 03:52:45",
-        "impact": 2
+        "datestamp": "2016-10-24 04:04:11",
+        "impact": 3
       },
       "date": 2012,
       "upddate": "2016-05-10 12:06:12",
@@ -949,8 +949,8 @@
       "title": "Spamming the Internet of Things: A Possibility and its probable Solution",
       "scopus": {
         "cluster": "2-s2.0-84875366170",
-        "datestamp": "2016-08-25 04:02:35",
-        "impact": 5
+        "datestamp": "2016-10-24 04:33:06",
+        "impact": 6
       },
       "pages": 8,
       "types": "TYPES8",
@@ -1005,7 +1005,7 @@
       "eprintid": 2381047,
       "wos": {
         "cluster": 290978900027,
-        "datestamp": "2016-08-21 03:42:38",
+        "datestamp": "2016-10-21 03:16:09",
         "impact": 12
       },
       "date": 2011,
@@ -1099,8 +1099,8 @@
       "title": "Enabling Machine Understandable Exchange of Energy Consumption Information in Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-79953745282",
-        "datestamp": "2016-08-21 03:59:35",
-        "impact": 15
+        "datestamp": "2016-10-21 03:16:57",
+        "impact": 16
       },
       "pages": 11,
       "types": "TYPES2",
@@ -1176,11 +1176,11 @@
       "eprintid": 2366483,
       "wos": {
         "cluster": 295015302078,
-        "datestamp": "2016-08-20 03:16:57",
+        "datestamp": "2016-10-19 03:48:22",
         "impact": 0
       },
       "date": 2010,
-      "upddate": "2016-02-04 11:17:00",
+      "upddate": "2016-10-10 09:18:58",
       "isbn": 9781424465866,
       "pagerange": "2922-2929",
       "publisher": "IEEE",
@@ -1195,7 +1195,7 @@
       "title": "Mobile Interaction with Smart Environments through Linked Data",
       "scopus": {
         "cluster": "2-s2.0-78751530656",
-        "datestamp": "2016-08-20 03:17:57",
+        "datestamp": "2016-10-19 04:11:16",
         "impact": 5
       },
       "pages": 8,
@@ -1206,18 +1206,9 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 6,
+      "rev_number": 8,
       "dir": "disk0\/02\/36\/64\/83",
       "creators": [
-        {
-          "name": {
-            "lineage": 12325,
-            "given": "Dario",
-            "honourific": null,
-            "family": "Bonino"
-          },
-          "id": 12325
-        },
         {
           "name": {
             "lineage": 2154,
@@ -1235,9 +1226,18 @@
             "family": "Razzak"
           },
           "id": 23127
+        },
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
         }
       ],
-      "lastmod": "2016-02-06 03:44:05",
+      "lastmod": "2016-10-12 04:45:18",
       "ispublished": "pub",
       "metadata_visibility": "show",
       "id_number": "10.1109\/ICSMC.2010.5641951",

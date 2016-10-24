@@ -23,6 +23,11 @@
       "abstract": "The Social Web is quickly becoming a way of life: millions of people, everywhere, use social network sites to stay connected with their friends, discover new people and activities, and share user-created contents. Moreover, the Social Web phenomenon experiments an astoundingly rapid growth that is not likely to slow down in the near future. At the same time, the borderline between social networks and social media is more and more blurred. This complex and evolving scenario requires a new generation of computer scientists and engineers that understand how to properly design software for supporting and fostering social interactions. This paper describes a university-level experience started four academic years ago with a Social Web course. The course uses a multidisciplinary and active learning approach by requesting the students to design and prototype a Social Web application, and the teachers provide an active support and follow-up along the semester. The paper presents the adopted teaching strategies and analyzes the attained learning outcomes, both from the qualitative and quantitative point of views",
       "type": "conference_item",
       "title": "Learning the Social Web: a Multidisciplinary Approach",
+      "scopus": {
+        "cluster": "2-s2.0-84988025751",
+        "datestamp": "2016-09-30 04:34:21",
+        "impact": 0
+      },
       "pages": 6,
       "types": "TYPES8",
       "userid": 2,
@@ -142,6 +147,11 @@
       "abstract": "E-learning systems commonly rely on advanced ICT technologies to enable users to access and browse electronic resources. Document summarization is an established text mining technique which focuses on extracting succinct summaries of potentially long textual documents. The application of summarization algorithms in the e-learning context is particularly appealing, because readers may want to pinpoint the key concepts by reading short summaries instead of the whole document content. This paper investigates the application of a state-of-the-art summarization algorithm to English-written academic teaching material. The summarizer produces an ordered sequence of key phrases extracted from learning material organized in different sections. The generated summaries are provided to students as additional material for study and revision. A crowd-sourcing experience of evaluation of the generated summaries was conducted by involving the students of a B.S. course given by a technical university. The results show that the automatically generated summaries reflect, to a large extent, the student's expectations and therefore they can be useful for supporting individual and collective learning activities",
       "type": "conference_item",
       "title": "Generation and evaluation of summaries of academic teaching materials",
+      "scopus": {
+        "cluster": "2-s2.0-84962159016",
+        "datestamp": "2016-09-30 04:36:02",
+        "impact": 1
+      },
       "pages": 6,
       "place_of_pub": "Piscataway (NJ)",
       "types": "TYPES8",
@@ -677,7 +687,7 @@
       "eprintid": 2263141,
       "wos": {
         "cluster": 279800000074,
-        "datestamp": "2016-09-17 03:47:34",
+        "datestamp": "2016-10-17 04:02:50",
         "impact": 2
       },
       "date": 2009,
@@ -691,9 +701,9 @@
                   "hash_type": "MD5",
                   "mtime": "2015-10-29 11:58:54",
                   "datasetid": "document",
-                  "fileid": 1659562,
-                  "objectid": 789972,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1659562",
+                  "fileid": 2032100,
+                  "objectid": 998281,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2032100",
                   "mime_type": "application\/pdf",
                   "hash": "0b2a9c82e1e90cc2c3122f0ea569c637",
                   "filesize": 268421,
@@ -707,14 +717,14 @@
             "license": "not_public",
             "main": "56594_UPLOAD.pdf",
             "original_docid": 51470,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/789972",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/998281",
             "format": "application\/pdf",
-            "docid": 789972,
+            "docid": 998281,
             "security": "staffonly",
             "formatdesc": "56594_UPLOAD.pdf"
           }
       ],
-      "upddate": "2016-02-04 14:45:46",
+      "upddate": "2016-09-19 12:02:58",
       "isbn": 9780769538013,
       "pagerange": "474-481",
       "publisher": "IEEE",
@@ -730,8 +740,8 @@
       "title": "FaSet: A Set Theory Model for Faceted Search",
       "scopus": {
         "cluster": "2-s2.0-79955077023",
-        "datestamp": "2016-08-18 04:13:11",
-        "impact": 6
+        "datestamp": "2016-09-21 05:24:28",
+        "impact": 7
       },
       "pages": 8,
       "place_of_pub": "PISCATAWAY, NJ",
@@ -740,7 +750,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 18,
+      "rev_number": 24,
       "dir": "disk0\/02\/26\/31\/41",
       "creators": [
         {
@@ -754,24 +764,24 @@
         },
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        },
-        {
-          "name": {
             "lineage": 12325,
             "given": "Dario",
             "honourific": null,
             "family": "Bonino"
           },
           "id": 12325
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
         }
       ],
-      "lastmod": "2016-02-06 03:53:13",
+      "lastmod": "2016-09-21 04:45:01",
       "ispublished": "pub",
       "item_issues_count": 0,
       "proprietary": {
@@ -923,7 +933,7 @@
       "eprintid": 1806506,
       "wos": {
         "cluster": 258398900009,
-        "datestamp": "2016-09-14 03:37:23",
+        "datestamp": "2016-09-21 05:10:34",
         "impact": 8
       },
       "date": 2008,
@@ -937,9 +947,9 @@
                   "hash_type": "MD5",
                   "mtime": "2015-10-29 11:57:20",
                   "datasetid": "document",
-                  "fileid": 1649387,
-                  "objectid": 784007,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1649387",
+                  "fileid": 2031567,
+                  "objectid": 998096,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2031567",
                   "mime_type": "application\/pdf",
                   "hash": "c6be580d6cbeccd8eb99ca41459aa820",
                   "filesize": 277783,
@@ -953,9 +963,9 @@
             "license": "not_public",
             "main": "final_from_Springer.pdf",
             "original_docid": 49786,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/784007",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/998096",
             "format": "application\/pdf",
-            "docid": 784007,
+            "docid": 998096,
             "security": "staffonly",
             "formatdesc": "final_from_Springer.pdf"
           },
@@ -968,9 +978,9 @@
                   "hash_type": "MD5",
                   "mtime": "2015-10-29 11:57:20",
                   "datasetid": "document",
-                  "fileid": 1649390,
-                  "objectid": 784009,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1649390",
+                  "fileid": 2031569,
+                  "objectid": 998097,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2031569",
                   "mime_type": "application\/pdf",
                   "hash": "862858aea951b8a02ff8438d99a3d8d2",
                   "filesize": 167262,
@@ -984,23 +994,23 @@
             "pos": 2,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/784009",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/998097",
             "original_docid": 49785,
             "main": "document2.pdf",
             "format": "application\/pdf",
-            "docid": 784009,
+            "docid": 998097,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/786619"
+                "uri": "\/id\/document\/1001164"
               }
             ],
             "copyright_operator": "MGD",
             "formatdesc": "document2.pdf"
           }
       ],
-      "upddate": "2016-02-03 13:49:03",
+      "upddate": "2016-09-19 11:35:58",
       "isbn": 9783540705390,
       "pagerange": "70-77",
       "publisher": "Springer",
@@ -1018,7 +1028,7 @@
       "title": "Eye Tracking Impact on Quality-of-Life of ALS Patients",
       "scopus": {
         "cluster": "2-s2.0-50249107796",
-        "datestamp": "2016-09-14 03:59:19",
+        "datestamp": "2016-10-14 04:18:22",
         "impact": 5
       },
       "pages": 8,
@@ -1029,7 +1039,7 @@
         "USER_D1010"
       ],
       "issn": "0302-9743",
-      "rev_number": 70,
+      "rev_number": 86,
       "dir": "disk0\/01\/80\/65\/06",
       "creators": [
         {
@@ -1060,7 +1070,7 @@
           "id": 2154
         }
       ],
-      "lastmod": "2016-02-05 06:19:15",
+      "lastmod": "2016-09-22 03:44:37",
       "ispublished": "pub",
       "item_issues_count": 0,
       "proprietary": {
@@ -1214,7 +1224,7 @@
       "title": "Domain Specific Searches using Conceptual Spectra",
       "scopus": {
         "cluster": "2-s2.0-16244390830",
-        "datestamp": "2016-09-08 03:48:34",
+        "datestamp": "2016-10-08 03:58:41",
         "impact": 3
       },
       "pages": 8,
@@ -1382,7 +1392,7 @@
       "title": "Multilingual Semantic Elaboration in the DOSE platform",
       "scopus": {
         "cluster": "2-s2.0-2442602536",
-        "datestamp": "2016-09-08 03:48:13",
+        "datestamp": "2016-10-08 03:58:24",
         "impact": 2
       },
       "place_of_pub": "NEW YORK, NY",
@@ -1590,7 +1600,7 @@
       "eprintid": 1497200,
       "wos": {
         "cluster": 189005700081,
-        "datestamp": "2016-09-08 03:33:28",
+        "datestamp": "2016-10-08 03:39:56",
         "impact": 1
       },
       "date": 2003,
@@ -1607,7 +1617,7 @@
       "title": "DOSE: a Distributed Open Semantic Elaboration Platform",
       "scopus": {
         "cluster": "2-s2.0-0344666726",
-        "datestamp": "2016-09-08 03:47:58",
+        "datestamp": "2016-10-08 03:58:08",
         "impact": 5
       },
       "types": "TYPES8",
@@ -1772,7 +1782,7 @@
       "title": "A Simulative Study of Analysis-By-Synthesis Perceptual Video Classification and Transmission over DiffServ IP Networks",
       "scopus": {
         "cluster": "2-s2.0-0038266279",
-        "datestamp": "2016-09-05 03:51:22",
+        "datestamp": "2016-10-05 03:58:55",
         "impact": 4
       },
       "pages": 5,
@@ -1912,7 +1922,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-1542643611",
-        "datestamp": "2016-09-05 03:53:04",
+        "datestamp": "2016-10-05 04:01:14",
         "impact": 0
       }
     },
@@ -1986,7 +1996,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-84908203961",
-        "datestamp": "2016-09-05 03:25:22",
+        "datestamp": "2016-10-05 03:31:45",
         "impact": 23
       }
     },
@@ -2058,7 +2068,7 @@
       "eprintid": 1527792,
       "wos": {
         "cluster": 178771600036,
-        "datestamp": "2016-09-09 03:29:19",
+        "datestamp": "2016-10-09 03:35:22",
         "impact": 0
       },
       "date": 2002,
@@ -2075,7 +2085,7 @@
       "title": "Perceptual Classification of MPEG Video for Differentiated-Services Communications",
       "scopus": {
         "cluster": "2-s2.0-79551650954",
-        "datestamp": "2016-09-09 03:36:32",
+        "datestamp": "2016-10-09 03:46:28",
         "impact": 13
       },
       "types": "TYPES8",
@@ -2198,7 +2208,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-0036288103",
-        "datestamp": "2016-09-05 04:05:55",
+        "datestamp": "2016-10-05 04:15:05",
         "impact": 6
       }
     },
@@ -3169,7 +3179,7 @@
       "title": "An educational-oriented framework for building on-line courses using XML",
       "scopus": {
         "cluster": "2-s2.0-0034501739",
-        "datestamp": "2016-09-05 04:06:04",
+        "datestamp": "2016-10-05 04:15:14",
         "impact": 5
       }
     },
@@ -3191,7 +3201,7 @@
       "title": "Educational strategies and technical implementation: the experienceof Politecnico di Torino in remote tutoring",
       "scopus": {
         "cluster": "2-s2.0-0032659933",
-        "datestamp": "2016-09-08 03:36:06",
+        "datestamp": "2016-10-08 03:47:05",
         "impact": 0
       },
       "types": "TYPES8",

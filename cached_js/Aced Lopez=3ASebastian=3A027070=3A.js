@@ -240,6 +240,11 @@
     {
       "authors_string": "Aced López, Sebastián; Corno, Fulvio; De Russis, Luigi",
       "eprintid": 2620664,
+      "wos": {
+        "cluster": 380614200093,
+        "datestamp": "2016-09-29 03:58:42",
+        "impact": 0
+      },
       "date": 2015,
       "upddate": "2015-10-26 11:52:14",
       "keywords": [
@@ -264,7 +269,7 @@
       "title": "Can We Make Dynamic, Accessible and Fun One-Switch Video Games?",
       "scopus": {
         "cluster": "2-s2.0-84962653798",
-        "datestamp": "2016-08-30 03:55:55",
+        "datestamp": "2016-09-29 04:00:26",
         "impact": 0
       },
       "pages": 2,
@@ -402,7 +407,7 @@
       "title": "GNomon: Enabling Dynamic One-Switch Games for Children with Severe Motor Disabilities",
       "scopus": {
         "cluster": "2-s2.0-84954210169",
-        "datestamp": "2016-08-29 03:46:59",
+        "datestamp": "2016-09-28 03:49:06",
         "impact": 0
       },
       "pages": 6,
@@ -547,7 +552,7 @@
       "title": "IoT Meets Caregivers: a Healthcare Support System in Assisted Living Facilities",
       "scopus": {
         "cluster": "2-s2.0-84948760964",
-        "datestamp": "2016-08-28 04:27:03",
+        "datestamp": "2016-09-27 04:39:17",
         "impact": 0
       },
       "pages": 6,
@@ -624,7 +629,7 @@
       "eprintid": 2605010,
       "wos": {
         "cluster": 380422800027,
-        "datestamp": "2016-08-29 04:02:41",
+        "datestamp": "2016-09-28 03:59:32",
         "impact": 0
       },
       "date": 2015,
@@ -695,7 +700,7 @@
       "title": "Playable One-Switch Video Games for Children with Severe Motor Disabilities Based on GNomon",
       "scopus": {
         "cluster": "2-s2.0-84959051383",
-        "datestamp": "2016-08-29 04:38:42",
+        "datestamp": "2016-09-28 04:37:40",
         "impact": 0
       },
       "pages": 10,
@@ -770,7 +775,7 @@
       "eprintid": 2582743,
       "wos": {
         "cluster": 350366500011,
-        "datestamp": "2016-08-29 03:23:11",
+        "datestamp": "2016-09-28 03:24:59",
         "impact": 0
       },
       "date": 2015,
@@ -828,8 +833,8 @@
       "title": "Supporting Caregivers in Assisted Living Facilities for Persons with Disabilities: a User Study",
       "scopus": {
         "cluster": "2-s2.0-84925538136",
-        "datestamp": "2016-08-29 03:28:07",
-        "impact": 0
+        "datestamp": "2016-09-28 03:31:51",
+        "impact": 1
       },
       "pages": 12,
       "types": "TYPES2",
@@ -904,7 +909,7 @@
       "eprintid": 2518929,
       "wos": {
         "cluster": 342901400024,
-        "datestamp": "2016-08-27 03:31:36",
+        "datestamp": "2016-09-26 03:49:38",
         "impact": 0
       },
       "date": 2014,
@@ -974,7 +979,7 @@
       "title": "Template-based ontology population for Smart Environments configuration",
       "scopus": {
         "cluster": "2-s2.0-84901335491",
-        "datestamp": "2016-08-27 03:44:12",
+        "datestamp": "2016-09-26 04:03:57",
         "impact": 0
       },
       "pages": 8,

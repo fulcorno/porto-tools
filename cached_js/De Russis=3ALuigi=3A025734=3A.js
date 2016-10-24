@@ -198,13 +198,18 @@
       "abstract": "In the field of Ambient Assisted Living a limited amount of research aims at supporting caregivers that work with people with disabilities in assisted living facilities (ALFs). In fact, research activities on healthcare support systems in AAL mainly focus on improving the quality of life for people in their own homes or supporting nurses and doctors in hospitals. This paper explores and applies the Internet of Things paradigm in the ALFs context. In particular, we present the design, the implementation, and the experimental evaluation of a system capable of supporting the daily activities of healthcare assistants that operate in ALFs for people with physical or cognitive disabilities. The solution combines wearable and mobile technologies to improve assistance requests and anomaly detection. With this healthcare support system, caregivers can be automatically alerted of potentially hazardous situations that happen to the inhabitants while these are out of sight. Furthermore, inhabitants can require assistance instantly and from any point of the facility. We evaluated the system in two ways. We performed a functional test with two professional caregivers, and we deployed the system in an ALF in Italy for 36 hours, collecting the opinions of the involved caregivers and inhabitants",
       "type": "conference_item",
       "title": "A Healthcare Support System for Assisted Living Facilities: an IoT Solution",
+      "scopus": {
+        "cluster": "2-s2.0-84988000953",
+        "datestamp": "2016-09-30 04:33:13",
+        "impact": 0
+      },
       "pages": 9,
       "types": "TYPES8",
+      "twitted": 1,
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "twitted": 1,
       "rev_number": 12,
       "dir": "disk0\/02\/63\/86\/01",
       "creators": [
@@ -288,6 +293,11 @@
       "abstract": "The Social Web is quickly becoming a way of life: millions of people, everywhere, use social network sites to stay connected with their friends, discover new people and activities, and share user-created contents. Moreover, the Social Web phenomenon experiments an astoundingly rapid growth that is not likely to slow down in the near future. At the same time, the borderline between social networks and social media is more and more blurred. This complex and evolving scenario requires a new generation of computer scientists and engineers that understand how to properly design software for supporting and fostering social interactions. This paper describes a university-level experience started four academic years ago with a Social Web course. The course uses a multidisciplinary and active learning approach by requesting the students to design and prototype a Social Web application, and the teachers provide an active support and follow-up along the semester. The paper presents the adopted teaching strategies and analyzes the attained learning outcomes, both from the qualitative and quantitative point of views",
       "type": "conference_item",
       "title": "Learning the Social Web: a Multidisciplinary Approach",
+      "scopus": {
+        "cluster": "2-s2.0-84988025751",
+        "datestamp": "2016-09-30 04:34:21",
+        "impact": 0
+      },
       "pages": 6,
       "types": "TYPES8",
       "userid": 2,
@@ -419,6 +429,11 @@
     {
       "authors_string": "Aced López, Sebastián; Corno, Fulvio; De Russis, Luigi",
       "eprintid": 2620664,
+      "wos": {
+        "cluster": 380614200093,
+        "datestamp": "2016-09-29 03:58:42",
+        "impact": 0
+      },
       "date": 2015,
       "upddate": "2015-10-26 11:52:14",
       "keywords": [
@@ -443,7 +458,7 @@
       "title": "Can We Make Dynamic, Accessible and Fun One-Switch Video Games?",
       "scopus": {
         "cluster": "2-s2.0-84962653798",
-        "datestamp": "2016-08-30 03:55:55",
+        "datestamp": "2016-09-29 04:00:26",
         "impact": 0
       },
       "pages": 2,
@@ -515,6 +530,11 @@
     {
       "authors_string": "Corno, Fulvio; De Russis, Luigi; Montanaro, Teodoro",
       "eprintid": 2627751,
+      "wos": {
+        "cluster": 380567200114,
+        "datestamp": "2016-09-30 03:16:01",
+        "impact": 0
+      },
       "date": 2015,
       "documents": [
           {
@@ -577,7 +597,7 @@
       "title": "A Context and User Aware Smart Notification System",
       "scopus": {
         "cluster": "2-s2.0-84964465721",
-        "datestamp": "2016-08-31 03:21:15",
+        "datestamp": "2016-09-30 03:16:31",
         "impact": 0
       },
       "pages": 7,
@@ -651,7 +671,7 @@
       "eprintid": 2586167,
       "wos": {
         "cluster": 351801900001,
-        "datestamp": "2016-08-29 03:31:23",
+        "datestamp": "2016-09-28 03:31:15",
         "impact": 0
       },
       "date": 2015,
@@ -715,13 +735,18 @@
       "abstract": "In the era of green energy and smart grids, the ability to access energy information and effectively analyze such data to extract key performance indicators is a crucial factor for successful building management. Energy data can in fact be exploited both in long-term policy adaptation and in shorter term habits modification, providing the basis for stable improvements of the overall efficiency of buildings and dwellings. To reach the ambitious goal of actually improving how buildings consume energy, four main challenges emerge from literature: (a) lack of skills and experience of energy managers, (b) complex and disparate data sets, which are currently blocking decision making processes, (c) mostly-manual work-flows that struggle to find relevant information into overwhelming streams of data sourced by monitoring systems, and (d) lack of collaborations between organizational departments. This paper provides deeper insights on these challenges, by investigating the kind of analysis currently performed by energy managers (in Italy) and the expectations they have if required to reason about systems that will be available within the next five years, and proposes design recommendations for next generation energy intelligence systems",
       "type": "article",
       "title": "Design Recommendations for Smart Energy Monitoring: a Case Study in Italy",
+      "scopus": {
+        "cluster": "2-s2.0-84983273956",
+        "datestamp": "2016-09-28 03:43:48",
+        "impact": 0
+      },
       "pages": 9,
       "types": "TYPES2",
+      "twitted": 1,
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "twitted": 1,
       "issn": "0378-7788",
       "rev_number": 25,
       "dir": "disk0\/02\/58\/61\/67",
@@ -973,7 +998,7 @@
       "title": "GNomon: Enabling Dynamic One-Switch Games for Children with Severe Motor Disabilities",
       "scopus": {
         "cluster": "2-s2.0-84954210169",
-        "datestamp": "2016-08-29 03:46:59",
+        "datestamp": "2016-09-28 03:49:06",
         "impact": 0
       },
       "pages": 6,
@@ -1112,7 +1137,7 @@
       "title": "HomeRules: A Tangible End-User Programming Interface for Smart Homes",
       "scopus": {
         "cluster": "2-s2.0-84954289172",
-        "datestamp": "2016-08-29 03:46:51",
+        "datestamp": "2016-09-28 03:48:59",
         "impact": 1
       },
       "pages": 6,
@@ -1178,7 +1203,7 @@
       "eprintid": 2582744,
       "wos": {
         "cluster": 348310100009,
-        "datestamp": "2016-08-29 03:23:11",
+        "datestamp": "2016-09-28 03:24:59",
         "impact": 1
       },
       "date": 2015,
@@ -1244,7 +1269,7 @@
       "title": "Interacting with Smart Environments: Users, Interfaces, and Devices",
       "scopus": {
         "cluster": "2-s2.0-84921636929",
-        "datestamp": "2016-08-29 03:28:09",
+        "datestamp": "2016-09-28 03:31:54",
         "impact": 1
       },
       "pages": 2,
@@ -1368,7 +1393,7 @@
       "title": "IoT Meets Caregivers: a Healthcare Support System in Assisted Living Facilities",
       "scopus": {
         "cluster": "2-s2.0-84948760964",
-        "datestamp": "2016-08-28 04:27:03",
+        "datestamp": "2016-09-27 04:39:17",
         "impact": 0
       },
       "pages": 6,
@@ -1445,7 +1470,7 @@
       "eprintid": 2610554,
       "wos": {
         "cluster": 378639200045,
-        "datestamp": "2016-08-30 03:21:37",
+        "datestamp": "2016-09-29 03:22:05",
         "impact": 0
       },
       "date": 2015,
@@ -1513,7 +1538,7 @@
       "title": "IoT Meets Exhibition Areas: a Modular Architecture to Improve Proximity Interactions",
       "scopus": {
         "cluster": "2-s2.0-84959042684",
-        "datestamp": "2016-08-30 03:25:28",
+        "datestamp": "2016-09-29 03:27:15",
         "impact": 0
       },
       "pages": 8,
@@ -1588,7 +1613,7 @@
       "eprintid": 2605010,
       "wos": {
         "cluster": 380422800027,
-        "datestamp": "2016-08-29 04:02:41",
+        "datestamp": "2016-09-28 03:59:32",
         "impact": 0
       },
       "date": 2015,
@@ -1659,7 +1684,7 @@
       "title": "Playable One-Switch Video Games for Children with Severe Motor Disabilities Based on GNomon",
       "scopus": {
         "cluster": "2-s2.0-84959051383",
-        "datestamp": "2016-08-29 04:38:42",
+        "datestamp": "2016-09-28 04:37:40",
         "impact": 0
       },
       "pages": 10,
@@ -1804,7 +1829,7 @@
       "title": "PowerOnt: An Ontology-based Approach for Power Consumption Estimation in Smart Homes",
       "scopus": {
         "cluster": "2-s2.0-84948757014",
-        "datestamp": "2016-08-28 04:27:01",
+        "datestamp": "2016-09-27 04:39:14",
         "impact": 0
       },
       "pages": 6,
@@ -1881,7 +1906,7 @@
       "eprintid": 2582743,
       "wos": {
         "cluster": 350366500011,
-        "datestamp": "2016-08-29 03:23:11",
+        "datestamp": "2016-09-28 03:24:59",
         "impact": 0
       },
       "date": 2015,
@@ -1939,8 +1964,8 @@
       "title": "Supporting Caregivers in Assisted Living Facilities for Persons with Disabilities: a User Study",
       "scopus": {
         "cluster": "2-s2.0-84925538136",
-        "datestamp": "2016-08-29 03:28:07",
-        "impact": 0
+        "datestamp": "2016-09-28 03:31:51",
+        "impact": 1
       },
       "pages": 12,
       "types": "TYPES2",
@@ -2129,7 +2154,7 @@
       "eprintid": 2506317,
       "wos": {
         "cluster": 341569300010,
-        "datestamp": "2016-08-26 03:30:54",
+        "datestamp": "2016-09-25 03:36:20",
         "impact": 2
       },
       "date": 2014,
@@ -2188,7 +2213,7 @@
       "title": "JEERP: Energy Aware Enterprise Resource Planning",
       "scopus": {
         "cluster": "2-s2.0-84906269891",
-        "datestamp": "2016-08-26 03:40:42",
+        "datestamp": "2016-09-25 03:57:51",
         "impact": 1
       },
       "pages": 7,
@@ -2284,9 +2309,10 @@
                 }
             ],
             "content": "published",
-            "rev_number": 20,
+            "rev_number": 24,
             "copyright_date": "2014-11-06",
             "pos": 1,
+            "coverpage": "FALSE",
             "language": "it",
             "license": "cc_by",
             "uri": "http:\/\/porto.polito.it\/id\/document\/657445",
@@ -2295,12 +2321,6 @@
             "format": "application\/pdf",
             "docid": 657445,
             "security": "public",
-            "relation": [
-              {
-                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/836339"
-              }
-            ],
             "copyright_operator": "MN",
             "formatdesc": "Full_paper_open_access_"
           }
@@ -2333,7 +2353,7 @@
       ],
       "twitted": 1,
       "issn": "2075-5309",
-      "rev_number": 35,
+      "rev_number": 38,
       "dir": "disk0\/02\/57\/25\/65",
       "creators": [
         {
@@ -2364,7 +2384,7 @@
           "id": 12325
         }
       ],
-      "lastmod": "2016-03-04 14:45:35",
+      "lastmod": "2016-09-27 15:02:51",
       "ispublished": "pub",
       "metadata_visibility": "show",
       "id_number": "10.3390\/buildings4040880",
@@ -2502,9 +2522,10 @@
                 }
             ],
             "content": "other",
-            "rev_number": 106,
+            "rev_number": 114,
             "copyright_date": "2014-12-24",
             "pos": 1,
+            "coverpage": "FALSE",
             "language": "it",
             "license": "cc_by_nc_sa",
             "uri": "http:\/\/porto.polito.it\/id\/document\/710967",
@@ -2513,12 +2534,6 @@
             "format": "application\/pdf",
             "docid": 710967,
             "security": "public",
-            "relation": [
-              {
-                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/965015"
-              }
-            ],
             "copyright_operator": "MN",
             "formatdesc": "Poster.pdf"
           },
@@ -2541,7 +2556,7 @@
                 }
             ],
             "content": "published",
-            "rev_number": 106,
+            "rev_number": 112,
             "copyright_date": "2015-11-13",
             "copyright_note": "c dell'autore",
             "pos": 2,
@@ -2556,7 +2571,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/965018"
+                "uri": "\/id\/document\/1004667"
               }
             ],
             "copyright_operator": "MN",
@@ -2584,7 +2599,7 @@
       "title": "The Smart Home Controller on Your Wrist",
       "scopus": {
         "cluster": "2-s2.0-84885228678",
-        "datestamp": "2016-08-26 04:04:44",
+        "datestamp": "2016-09-25 04:19:46",
         "impact": 2
       },
       "pages": 8,
@@ -2595,7 +2610,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 139,
+      "rev_number": 145,
       "dir": "disk0\/02\/50\/85\/26",
       "creators": [
         {
@@ -2626,7 +2641,7 @@
           "id": 2154
         }
       ],
-      "lastmod": "2016-09-03 17:24:56",
+      "lastmod": "2016-09-23 20:46:11",
       "ispublished": "pub",
       "metadata_visibility": "show",
       "id_number": "10.1145\/2494091.2497319",
@@ -2658,7 +2673,7 @@
       "eprintid": 2465381,
       "wos": {
         "cluster": 301989800044,
-        "datestamp": "2016-08-22 04:30:59",
+        "datestamp": "2016-10-22 03:36:50",
         "impact": 20
       },
       "date": 2012,
@@ -2723,8 +2738,8 @@
       "title": "Home Energy Consumption Feedback: A User Survey",
       "scopus": {
         "cluster": "2-s2.0-84857049125",
-        "datestamp": "2016-06-22 03:43:36",
-        "impact": 23
+        "datestamp": "2016-09-22 03:20:06",
+        "impact": 25
       },
       "pages": 11,
       "types": "TYPES2",
@@ -2879,7 +2894,7 @@
       "eprintid": 2496719,
       "wos": {
         "cluster": 314400700036,
-        "datestamp": "2016-08-23 03:43:28",
+        "datestamp": "2016-10-23 03:23:45",
         "impact": 2
       },
       "date": 2012,
@@ -2949,7 +2964,7 @@
       "title": "dWatch: a Personal Wrist Watch for Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84883286759",
-        "datestamp": "2016-08-23 04:05:13",
+        "datestamp": "2016-10-23 03:31:29",
         "impact": 6
       },
       "pages": 8,
@@ -3031,8 +3046,8 @@
       "eprintid": 2425975,
       "wos": {
         "cluster": 297871400013,
-        "datestamp": "2016-08-22 03:22:01",
-        "impact": 3
+        "datestamp": "2016-10-21 03:52:12",
+        "impact": 4
       },
       "date": 2011,
       "documents": [
@@ -3098,7 +3113,7 @@
       "title": "DOGeye: Controlling your Home with Eye Interaction",
       "scopus": {
         "cluster": "2-s2.0-80255126828",
-        "datestamp": "2016-08-22 03:23:03",
+        "datestamp": "2016-10-21 04:15:47",
         "impact": 7
       },
       "pages": 15,
@@ -3271,7 +3286,7 @@
       "title": "A User-Friendly Interface for Rules Composition in Intelligent Environments",
       "scopus": {
         "cluster": "2-s2.0-80053006718",
-        "datestamp": "2016-08-21 03:52:12",
+        "datestamp": "2016-10-20 04:30:41",
         "impact": 5
       },
       "pages": 5,
@@ -3371,7 +3386,7 @@
                 }
             ],
             "content": "accepted",
-            "rev_number": 17,
+            "rev_number": 19,
             "copyright_date": "2015-11-30",
             "copyright_note": "Non trovo editoriale, messo OA e vers. accettata",
             "pos": 1,
@@ -3386,7 +3401,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/963310"
+                "uri": "\/id\/document\/995425"
               }
             ],
             "copyright_operator": "MGD",
@@ -3414,7 +3429,7 @@
       ],
       "twitted": 1,
       "issn": "1520-9202",
-      "rev_number": 17,
+      "rev_number": 19,
       "dir": "disk0\/02\/62\/19\/28",
       "creators": [
         {
@@ -3445,7 +3460,7 @@
           "id": 2154
         }
       ],
-      "lastmod": "2016-08-29 20:54:25",
+      "lastmod": "2016-09-19 14:56:57",
       "ispublished": "inpress",
       "metadata_visibility": "show",
       "proprietary": {
@@ -3618,6 +3633,121 @@
       },
       "eprint_status": "archive",
       "status_changed": "2016-08-26 12:19:35",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi",
+      "eprintid": 2648065,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2648065,
+            "insert_date": "2016-09-12 12:39:16",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-12 12:39:16",
+                  "datasetid": "document",
+                  "fileid": 2004399,
+                  "objectid": 981773,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2004399",
+                  "mime_type": "application\/pdf",
+                  "hash": "219c24432969816e1b3b69d49a232d52",
+                  "filesize": 275988,
+                  "filename": "amicourse_FINAL.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2016-09-13",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/981773",
+            "original_docid": 120876,
+            "main": "amicourse_FINAL.pdf",
+            "format": "application\/pdf",
+            "docid": 981773,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/988074"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "amicourse_FINAL.pdf"
+          }
+      ],
+      "upddate": "2016-09-12 12:39:16",
+      "keywords": [
+        "ambient intelligence, computer engineering, computing skills, multidisciplinary teams, internet of things, project-based learning"
+      ],
+      "publisher": "IEEE",
+      "irisid": 125211,
+      "publisher_review": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
+      "datestamp": "2016-09-12 14:39:16",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2648065",
+      "publication": "IEEE TRANSACTIONS ON EDUCATION",
+      "abstract": "The increasing complexity of the new breed of distributed intelligent systems, such as the Internet of Things (IoT), which require a diversity of languages and protocols, can only be tamed with design and programming best practices. Interest is also growing for including the human factor, as advocated by the Ambient Intelligence (AmI) research ﬁeld, whose focus is on transparently and intelligently supporting people. These new design methodologies are increasingly needed in the toolbox of new electronic and computer engineers, and teaching strategies should be devised that allow students to acquire a systems-level view instead of getting lost in technology-oriented approaches. This paper describes a study carried out over two academic years, in a course in ambient intelligence at Politecnico di Torino, Italy. In the course, a project-based learning approach was adopted, in which students design and prototype an AmI system, and their progress is closely monitored throughout the semester. The paper presents the learning goals and teaching strategies, analyzes the learning outcomes from the qualitative and quantitative points of view, and highlights the lessons learned in the process",
+      "type": "article",
+      "title": "Training Engineers for the Ambient Intelligence Challenge",
+      "pages": 10,
+      "types": "TYPES2",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "twitted": 1,
+      "issn": "0018-9359",
+      "rev_number": 10,
+      "dir": "disk0\/02\/64\/80\/65",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        }
+      ],
+      "lastmod": "2016-09-15 12:57:28",
+      "ispublished": "inpress",
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/TE.2016.2608785",
+      "proprietary": {
+        "name": {
+          "lineage": 2154,
+          "given": "Fulvio",
+          "honourific": null,
+          "family": "Corno"
+        },
+        "id": 2154
+      },
+      "eprint_status": "archive",
+      "status_changed": "2016-09-12 14:39:16",
       "language": [
         "en"
       ],

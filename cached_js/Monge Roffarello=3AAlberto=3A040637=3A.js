@@ -65,13 +65,18 @@
       "abstract": "In the field of Ambient Assisted Living a limited amount of research aims at supporting caregivers that work with people with disabilities in assisted living facilities (ALFs). In fact, research activities on healthcare support systems in AAL mainly focus on improving the quality of life for people in their own homes or supporting nurses and doctors in hospitals. This paper explores and applies the Internet of Things paradigm in the ALFs context. In particular, we present the design, the implementation, and the experimental evaluation of a system capable of supporting the daily activities of healthcare assistants that operate in ALFs for people with physical or cognitive disabilities. The solution combines wearable and mobile technologies to improve assistance requests and anomaly detection. With this healthcare support system, caregivers can be automatically alerted of potentially hazardous situations that happen to the inhabitants while these are out of sight. Furthermore, inhabitants can require assistance instantly and from any point of the facility. We evaluated the system in two ways. We performed a functional test with two professional caregivers, and we deployed the system in an ALF in Italy for 36 hours, collecting the opinions of the involved caregivers and inhabitants",
       "type": "conference_item",
       "title": "A Healthcare Support System for Assisted Living Facilities: an IoT Solution",
+      "scopus": {
+        "cluster": "2-s2.0-84988000953",
+        "datestamp": "2016-09-30 04:33:13",
+        "impact": 0
+      },
       "pages": 9,
       "types": "TYPES8",
+      "twitted": 1,
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "twitted": 1,
       "rev_number": 12,
       "dir": "disk0\/02\/63\/86\/01",
       "creators": [
