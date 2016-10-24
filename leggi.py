@@ -24,9 +24,9 @@ http://porto.polito.it/cgi/exportview/creators/Corno=3AFulvio=3A002154=3A/2016/J
 import json, gzip
 
 
-dauin = json.load(gzip.open('export_pub.json.gz', 'r'))
+#dauin = json.load(gzip.open('DAUIN.json.gz', 'r'))
 
-#dauin = json.load(open('export_pub.json', 'r'))
+dauin = json.load(open('DAUIN.json', 'r'))
 
 allPapers = {}
 allTypes = set()
@@ -52,14 +52,19 @@ for pub in dauin:
 
     # browse through authors
     for auth in pub['creators']:
-        authid = auth['id']
+        if 'id' in auth:
+            authid = auth['id']
 
-        thisAuthor = Author(authid, auth['name']['family'], auth['name']['given'])
+            thisAuthor = Author(authid, auth['name']['family'], auth['name']['given'])
 
-        if thisAuthor not in allAuthors:
-            allAuthors[authid] = thisAuthor
+            if thisAuthor not in allAuthors:
+                allAuthors[authid] = thisAuthor
 
-        thisPaper.authors.append(allAuthors[authid])
+            thisPaper.authors.append(allAuthors[authid])
+        else:
+            print "Author %s not found in paper %s" % (
+                auth['name']['family']+" "+auth['name']['given'],
+                eprintid)
 
 print "Loaded %d papers" % len(allPapers)
 print "Found %d authors" % len(allAuthors)
