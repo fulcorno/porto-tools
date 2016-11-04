@@ -4,8 +4,6 @@ import requests
 import codecs
 import begin
 
-
-
 authors = [
     Author(firstname="Fulvio", lastname="Corno", id="002154"),
     Author(firstname="Dario", lastname="Bonino", id="012325"),
@@ -16,13 +14,14 @@ authors = [
     Author(firstname="Laura", lastname="Farinetti", id="002236"),
     Author(firstname="Teodoro", lastname="Montanaro", id="036541"),
     Author(firstname="Alberto", lastname="Monge Roffarello", id="040637"),
+    Author(firstname="Juan Pablo", lastname="Saenz", id="042870"),
 ]
 
 baseURL = "http://porto.polito.it/cgi/exportview/creators/"
-output_basedir = "./cached_js/"
+default_output_dir = "./cached_js"
 
 
-def scarica_autore(author):
+def scarica_autore(author, output_dir):
 
     name = author.lastname + '=3A' + author.firstname + '=3A' + author.id + '=3A' + '.js'
 
@@ -35,8 +34,14 @@ def scarica_autore(author):
 
         #porto_text = r.text
 
-        filename = output_basedir + name
-        f = codecs.open(filename, "w", encoding="utf-8")
+        filename = output_dir + "/" + name
+
+        try:
+            f = codecs.open(filename, "w", encoding="utf-8")
+        except IOError:
+            print "ERROR in creating %s" % filename
+            return
+
         f.write(r.text)
         f.close()
     except ValueError:
@@ -44,7 +49,7 @@ def scarica_autore(author):
 
 
 @begin.start(auto_convert=True)
-def run(list=False, *selected):
+def run(list=False, directory=default_output_dir, *selected):
     """
     Scarica automaticamente pubblicazioni dal PORTO in formato JSON.
 
@@ -68,14 +73,14 @@ def run(list=False, *selected):
             print "%s: %s %s" % (author.id, author.lastname, author.firstname)
     elif len(selected) == 0:
         # print all
-        print "Downloading all authors"
+        print "Downloading all authors in %s" % directory
         for author in authors:
             print "Downloading author: %s" % author
-            scarica_autore(author)
+            scarica_autore(author, directory)
     else:
         print "Downloading authors matching: %s" % str(selected)
         for sel in selected:
             sel_author = [a for a in authors if (sel in a.id or sel.lower() in a.lastname.lower())]
             if(len(sel_author)==1):
                 #print sel_author[0]
-                scarica_autore(sel_author[0])
+                scarica_autore(sel_author[0], directory)
