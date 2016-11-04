@@ -4,7 +4,7 @@
       "eprintid": 2519025,
       "wos": {
         "cluster": 357989200004,
-        "datestamp": "2016-09-26 03:52:11",
+        "datestamp": "2016-10-26 03:59:36",
         "impact": 0
       },
       "date": 2015,
@@ -63,7 +63,7 @@
       "title": "Autonomic goal-oriented device management for Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84949546003",
-        "datestamp": "2016-09-26 04:07:15",
+        "datestamp": "2016-10-26 04:39:14",
         "impact": 0
       },
       "pages": 24,
@@ -248,7 +248,7 @@
       "eprintid": 2518928,
       "wos": {
         "cluster": 351240600010,
-        "datestamp": "2016-09-26 03:49:37",
+        "datestamp": "2016-10-26 03:57:41",
         "impact": 1
       },
       "date": 2014,
@@ -313,7 +313,7 @@
       "title": "Design-time formal verification for smart environments: an exploratory perspective",
       "scopus": {
         "cluster": "2-s2.0-84905082972",
-        "datestamp": "2016-09-26 04:03:55",
+        "datestamp": "2016-10-26 04:34:40",
         "impact": 1
       },
       "pages": 19,
@@ -386,7 +386,7 @@
       "eprintid": 2506415,
       "wos": {
         "cluster": 343009300016,
-        "datestamp": "2016-09-25 03:38:35",
+        "datestamp": "2016-10-25 04:08:58",
         "impact": 0
       },
       "date": 2014,
@@ -454,7 +454,7 @@
       "title": "Modeling and Formal Verification of Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84908202723",
-        "datestamp": "2016-09-25 04:00:05",
+        "datestamp": "2016-10-25 04:40:22",
         "impact": 3
       },
       "pages": 17,

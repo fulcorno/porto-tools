@@ -242,7 +242,7 @@
       "eprintid": 2620664,
       "wos": {
         "cluster": 380614200093,
-        "datestamp": "2016-09-29 03:58:42",
+        "datestamp": "2016-10-30 04:18:12",
         "impact": 0
       },
       "date": 2015,
@@ -269,7 +269,7 @@
       "title": "Can We Make Dynamic, Accessible and Fun One-Switch Video Games?",
       "scopus": {
         "cluster": "2-s2.0-84962653798",
-        "datestamp": "2016-09-29 04:00:26",
+        "datestamp": "2016-10-30 04:19:29",
         "impact": 0
       },
       "pages": 2,
@@ -407,7 +407,7 @@
       "title": "GNomon: Enabling Dynamic One-Switch Games for Children with Severe Motor Disabilities",
       "scopus": {
         "cluster": "2-s2.0-84954210169",
-        "datestamp": "2016-09-28 03:49:06",
+        "datestamp": "2016-10-28 04:44:03",
         "impact": 0
       },
       "pages": 6,
@@ -552,7 +552,7 @@
       "title": "IoT Meets Caregivers: a Healthcare Support System in Assisted Living Facilities",
       "scopus": {
         "cluster": "2-s2.0-84948760964",
-        "datestamp": "2016-09-27 04:39:17",
+        "datestamp": "2016-10-28 04:02:55",
         "impact": 0
       },
       "pages": 6,
@@ -629,7 +629,7 @@
       "eprintid": 2605010,
       "wos": {
         "cluster": 380422800027,
-        "datestamp": "2016-09-28 03:59:32",
+        "datestamp": "2016-10-29 03:38:04",
         "impact": 0
       },
       "date": 2015,
@@ -700,7 +700,7 @@
       "title": "Playable One-Switch Video Games for Children with Severe Motor Disabilities Based on GNomon",
       "scopus": {
         "cluster": "2-s2.0-84959051383",
-        "datestamp": "2016-09-28 04:37:40",
+        "datestamp": "2016-10-29 03:56:23",
         "impact": 0
       },
       "pages": 10,
@@ -833,7 +833,7 @@
       "title": "Supporting Caregivers in Assisted Living Facilities for Persons with Disabilities: a User Study",
       "scopus": {
         "cluster": "2-s2.0-84925538136",
-        "datestamp": "2016-09-28 03:31:51",
+        "datestamp": "2016-10-28 04:25:57",
         "impact": 1
       },
       "pages": 12,
@@ -909,7 +909,7 @@
       "eprintid": 2518929,
       "wos": {
         "cluster": 342901400024,
-        "datestamp": "2016-09-26 03:49:38",
+        "datestamp": "2016-10-26 03:57:41",
         "impact": 0
       },
       "date": 2014,
@@ -979,7 +979,7 @@
       "title": "Template-based ontology population for Smart Environments configuration",
       "scopus": {
         "cluster": "2-s2.0-84901335491",
-        "datestamp": "2016-09-26 04:03:57",
+        "datestamp": "2016-10-26 04:34:43",
         "impact": 0
       },
       "pages": 8,

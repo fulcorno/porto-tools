@@ -274,7 +274,7 @@
       "eprintid": 2519025,
       "wos": {
         "cluster": 357989200004,
-        "datestamp": "2016-09-26 03:52:11",
+        "datestamp": "2016-10-26 03:59:36",
         "impact": 0
       },
       "date": 2015,
@@ -333,7 +333,7 @@
       "title": "Autonomic goal-oriented device management for Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84949546003",
-        "datestamp": "2016-09-26 04:07:15",
+        "datestamp": "2016-10-26 04:39:14",
         "impact": 0
       },
       "pages": 24,
@@ -414,7 +414,7 @@
       "eprintid": 2620664,
       "wos": {
         "cluster": 380614200093,
-        "datestamp": "2016-09-29 03:58:42",
+        "datestamp": "2016-10-30 04:18:12",
         "impact": 0
       },
       "date": 2015,
@@ -441,7 +441,7 @@
       "title": "Can We Make Dynamic, Accessible and Fun One-Switch Video Games?",
       "scopus": {
         "cluster": "2-s2.0-84962653798",
-        "datestamp": "2016-09-29 04:00:26",
+        "datestamp": "2016-10-30 04:19:29",
         "impact": 0
       },
       "pages": 2,
@@ -515,7 +515,7 @@
       "eprintid": 2627751,
       "wos": {
         "cluster": 380567200114,
-        "datestamp": "2016-09-30 03:16:01",
+        "datestamp": "2016-10-30 04:40:24",
         "impact": 0
       },
       "date": 2015,
@@ -925,7 +925,7 @@
       "title": "GNomon: Enabling Dynamic One-Switch Games for Children with Severe Motor Disabilities",
       "scopus": {
         "cluster": "2-s2.0-84954210169",
-        "datestamp": "2016-09-28 03:49:06",
+        "datestamp": "2016-10-28 04:44:03",
         "impact": 0
       },
       "pages": 6,
@@ -1064,7 +1064,7 @@
       "title": "HomeRules: A Tangible End-User Programming Interface for Smart Homes",
       "scopus": {
         "cluster": "2-s2.0-84954289172",
-        "datestamp": "2016-09-28 03:48:59",
+        "datestamp": "2016-10-28 04:43:55",
         "impact": 1
       },
       "pages": 6,
@@ -1200,7 +1200,7 @@
       "title": "IoT Meets Caregivers: a Healthcare Support System in Assisted Living Facilities",
       "scopus": {
         "cluster": "2-s2.0-84948760964",
-        "datestamp": "2016-09-27 04:39:17",
+        "datestamp": "2016-10-28 04:02:55",
         "impact": 0
       },
       "pages": 6,
@@ -1277,7 +1277,7 @@
       "eprintid": 2610554,
       "wos": {
         "cluster": 378639200045,
-        "datestamp": "2016-09-29 03:22:05",
+        "datestamp": "2016-10-29 03:45:51",
         "impact": 0
       },
       "date": 2015,
@@ -1345,7 +1345,7 @@
       "title": "IoT Meets Exhibition Areas: a Modular Architecture to Improve Proximity Interactions",
       "scopus": {
         "cluster": "2-s2.0-84959042684",
-        "datestamp": "2016-09-29 03:27:15",
+        "datestamp": "2016-10-29 04:09:17",
         "impact": 0
       },
       "pages": 8,
@@ -1420,7 +1420,7 @@
       "eprintid": 2627121,
       "wos": {
         "cluster": 370934402044,
-        "datestamp": "2016-08-31 03:15:50",
+        "datestamp": "2016-10-30 04:38:04",
         "impact": 0
       },
       "date": 2015,
@@ -1569,7 +1569,7 @@
       "eprintid": 2605010,
       "wos": {
         "cluster": 380422800027,
-        "datestamp": "2016-09-28 03:59:32",
+        "datestamp": "2016-10-29 03:38:04",
         "impact": 0
       },
       "date": 2015,
@@ -1640,7 +1640,7 @@
       "title": "Playable One-Switch Video Games for Children with Severe Motor Disabilities Based on GNomon",
       "scopus": {
         "cluster": "2-s2.0-84959051383",
-        "datestamp": "2016-09-28 04:37:40",
+        "datestamp": "2016-10-29 03:56:23",
         "impact": 0
       },
       "pages": 10,
@@ -1785,7 +1785,7 @@
       "title": "PowerOnt: An Ontology-based Approach for Power Consumption Estimation in Smart Homes",
       "scopus": {
         "cluster": "2-s2.0-84948757014",
-        "datestamp": "2016-09-27 04:39:14",
+        "datestamp": "2016-10-28 04:02:51",
         "impact": 0
       },
       "pages": 6,
@@ -1862,8 +1862,8 @@
       "eprintid": 2510296,
       "wos": {
         "cluster": 352647600003,
-        "datestamp": "2016-09-25 03:58:10",
-        "impact": 1
+        "datestamp": "2016-10-26 03:29:31",
+        "impact": 2
       },
       "date": 2015,
       "documents": [
@@ -1927,7 +1927,7 @@
       "title": "Real-Time Monitoring of High-Level States in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84925710465",
-        "datestamp": "2016-09-25 04:28:18",
+        "datestamp": "2016-10-26 03:42:25",
         "impact": 2
       },
       "pages": 21,
@@ -1939,7 +1939,7 @@
         "USER_D1010"
       ],
       "issn": "1876-1364",
-      "rev_number": 80,
+      "rev_number": 81,
       "dir": "disk0\/02\/51\/02\/96",
       "creators": [
         {
@@ -1961,7 +1961,7 @@
           "id": 23127
         }
       ],
-      "lastmod": "2016-09-20 19:31:44",
+      "lastmod": "2016-10-29 02:36:52",
       "ispublished": "pub",
       "metadata_visibility": "show",
       "id_number": "10.3233\/AIS-150310",
@@ -2182,7 +2182,7 @@
       "title": "Smart Systems (Guest Editors' Introduction)",
       "scopus": {
         "cluster": "2-s2.0-84960863347",
-        "datestamp": "2016-09-29 04:15:56",
+        "datestamp": "2016-10-30 04:34:53",
         "impact": 0
       },
       "pages": 4,
@@ -2303,7 +2303,7 @@
       "title": "Supporting Caregivers in Assisted Living Facilities for Persons with Disabilities: a User Study",
       "scopus": {
         "cluster": "2-s2.0-84925538136",
-        "datestamp": "2016-09-28 03:31:51",
+        "datestamp": "2016-10-28 04:25:57",
         "impact": 1
       },
       "pages": 12,
@@ -2399,7 +2399,7 @@
       "title": "Advancing Cloud Computing",
       "scopus": {
         "cluster": "2-s2.0-84913595678",
-        "datestamp": "2016-09-27 04:45:07",
+        "datestamp": "2016-10-28 04:08:09",
         "impact": 0
       },
       "pages": 2,
@@ -2455,7 +2455,7 @@
       "eprintid": 2518928,
       "wos": {
         "cluster": 351240600010,
-        "datestamp": "2016-09-26 03:49:37",
+        "datestamp": "2016-10-26 03:57:41",
         "impact": 1
       },
       "date": 2014,
@@ -2520,7 +2520,7 @@
       "title": "Design-time formal verification for smart environments: an exploratory perspective",
       "scopus": {
         "cluster": "2-s2.0-84905082972",
-        "datestamp": "2016-09-26 04:03:55",
+        "datestamp": "2016-10-26 04:34:40",
         "impact": 1
       },
       "pages": 19,
@@ -2593,7 +2593,7 @@
       "eprintid": 2506317,
       "wos": {
         "cluster": 341569300010,
-        "datestamp": "2016-09-25 03:36:20",
+        "datestamp": "2016-10-25 04:07:25",
         "impact": 2
       },
       "date": 2014,
@@ -2652,7 +2652,7 @@
       "title": "JEERP: Energy Aware Enterprise Resource Planning",
       "scopus": {
         "cluster": "2-s2.0-84906269891",
-        "datestamp": "2016-09-25 03:57:51",
+        "datestamp": "2016-10-25 04:38:01",
         "impact": 1
       },
       "pages": 7,
@@ -2729,7 +2729,7 @@
       "eprintid": 2506415,
       "wos": {
         "cluster": 343009300016,
-        "datestamp": "2016-09-25 03:38:35",
+        "datestamp": "2016-10-25 04:08:58",
         "impact": 0
       },
       "date": 2014,
@@ -2797,7 +2797,7 @@
       "title": "Modeling and Formal Verification of Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84908202723",
-        "datestamp": "2016-09-25 04:00:05",
+        "datestamp": "2016-10-25 04:40:22",
         "impact": 3
       },
       "pages": 17,
@@ -2865,7 +2865,7 @@
       "eprintid": 2507278,
       "wos": {
         "cluster": 351240600009,
-        "datestamp": "2016-09-25 03:40:14",
+        "datestamp": "2016-10-25 04:10:44",
         "impact": 1
       },
       "date": 2014,
@@ -2933,7 +2933,7 @@
       "title": "SAT based Enforcement of Domotic Effects in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84905088535",
-        "datestamp": "2016-09-25 04:02:36",
+        "datestamp": "2016-10-25 04:43:56",
         "impact": 1
       },
       "pages": 15,
@@ -3129,7 +3129,7 @@
       "eprintid": 2518929,
       "wos": {
         "cluster": 342901400024,
-        "datestamp": "2016-09-26 03:49:38",
+        "datestamp": "2016-10-26 03:57:41",
         "impact": 0
       },
       "date": 2014,
@@ -3199,7 +3199,7 @@
       "title": "Template-based ontology population for Smart Environments configuration",
       "scopus": {
         "cluster": "2-s2.0-84901335491",
-        "datestamp": "2016-09-26 04:03:57",
+        "datestamp": "2016-10-26 04:34:43",
         "impact": 0
       },
       "pages": 8,
@@ -3330,7 +3330,7 @@
       "title": "Innovative and Disruptive Technologies",
       "scopus": {
         "cluster": "2-s2.0-84878415577",
-        "datestamp": "2016-09-25 04:14:10",
+        "datestamp": "2016-10-26 03:26:24",
         "impact": 0
       },
       "pages": 2,
@@ -3567,7 +3567,7 @@
       "title": "The Smart Home Controller on Your Wrist",
       "scopus": {
         "cluster": "2-s2.0-84885228678",
-        "datestamp": "2016-09-25 04:19:46",
+        "datestamp": "2016-10-26 03:33:02",
         "impact": 2
       },
       "pages": 8,
@@ -10039,7 +10039,7 @@
       "eprintid": 1406116,
       "wos": {
         "cluster": 233972800013,
-        "datestamp": "2016-09-04 03:16:43",
+        "datestamp": "2016-11-03 04:49:29",
         "impact": 14
       },
       "date": 2005,
@@ -10234,7 +10234,8 @@
       "eprintid": 1605986,
       "date": 2005,
       "userdep": [
-        "USER_D1010"
+        "USER_D1010",
+        "USER_D1080"
       ],
       "userid": 2,
       "upddate": "2015-10-23 16:48:49",
@@ -10474,8 +10475,8 @@
       "eprintid": 1406112,
       "wos": {
         "cluster": 220349200006,
-        "datestamp": "2016-09-04 03:16:42",
-        "impact": 64
+        "datestamp": "2016-11-03 04:49:29",
+        "impact": 66
       },
       "date": 2004,
       "documents": [
@@ -10711,7 +10712,7 @@
       "eprintid": 1405878,
       "wos": {
         "cluster": 222309800005,
-        "datestamp": "2016-09-03 04:08:19",
+        "datestamp": "2016-11-03 04:48:04",
         "impact": 6
       },
       "date": 2004,
@@ -17167,8 +17168,8 @@
       "eprintid": 1398724,
       "wos": {
         "cluster": 88988700013,
-        "datestamp": "2016-09-01 03:44:38",
-        "impact": 81
+        "datestamp": "2016-11-01 04:53:07",
+        "impact": 88
       },
       "date": 2000,
       "documents": [
@@ -17222,7 +17223,7 @@
       "title": "RT-level ITC'99 benchmarks and first ATPG results",
       "scopus": {
         "cluster": "2-s2.0-0343826160",
-        "datestamp": "2016-10-01 04:23:13",
+        "datestamp": "2016-11-01 05:22:36",
         "impact": 192
       },
       "pages": 10,
@@ -17879,7 +17880,7 @@
       "eprintid": 1398714,
       "wos": {
         "cluster": 80732400017,
-        "datestamp": "2016-09-01 03:44:35",
+        "datestamp": "2016-11-01 04:53:05",
         "impact": 0
       },
       "date": 1999,
@@ -17895,7 +17896,7 @@
       "title": "Exploiting Behavioral Information in Gate-Level ATPG",
       "scopus": {
         "cluster": "2-s2.0-0032657453",
-        "datestamp": "2016-10-01 04:23:06",
+        "datestamp": "2016-11-01 05:22:29",
         "impact": 5
       },
       "types": "TYPES2",
@@ -18030,7 +18031,7 @@
       "eprintid": 1408859,
       "wos": {
         "cluster": 79489400085,
-        "datestamp": "2016-09-04 04:02:15",
+        "datestamp": "2016-11-04 04:57:05",
         "impact": 0
       },
       "date": 1999,
@@ -18089,7 +18090,7 @@
       "title": "Integrating Symbolic Techniques in ATPG-Based Sequential Logic Optimization",
       "scopus": {
         "cluster": "2-s2.0-0006962126",
-        "datestamp": "2016-10-04 04:29:43",
+        "datestamp": "2016-11-04 05:24:03",
         "impact": 4
       }
     },
@@ -18334,7 +18335,7 @@
       "eprintid": 1408863,
       "wos": {
         "cluster": 81779300046,
-        "datestamp": "2016-09-04 04:02:20",
+        "datestamp": "2016-11-04 04:57:09",
         "impact": 5
       },
       "date": 1999,
@@ -18403,7 +18404,7 @@
       "title": "RT-level TPG Exploiting High-Level Synthesis Information",
       "scopus": {
         "cluster": "2-s2.0-0032691809",
-        "datestamp": "2016-10-04 04:29:51",
+        "datestamp": "2016-11-04 05:24:10",
         "impact": 7
       }
     },
@@ -18478,7 +18479,7 @@
       "eprintid": 1404470,
       "wos": {
         "cluster": 78407000009,
-        "datestamp": "2016-09-03 03:45:20",
+        "datestamp": "2016-11-03 04:32:51",
         "impact": 3
       },
       "date": 1999,
@@ -18493,7 +18494,7 @@
       "title": "SymFony: a hybrid topological-symbolic ATPG exploiting RT-level information",
       "scopus": {
         "cluster": "2-s2.0-0033078138",
-        "datestamp": "2016-10-03 04:05:23",
+        "datestamp": "2016-11-03 04:56:57",
         "impact": 4
       },
       "pages": 12,
@@ -19106,7 +19107,7 @@
       "eprintid": 1398715,
       "wos": {
         "cluster": 73481500003,
-        "datestamp": "2016-09-01 03:44:36",
+        "datestamp": "2016-11-01 04:53:05",
         "impact": 3
       },
       "date": 1998,
@@ -19122,7 +19123,7 @@
       "title": "The General Product Machine: a New Model for Symbolic FSM Traversal",
       "scopus": {
         "cluster": "2-s2.0-0032050649",
-        "datestamp": "2016-10-01 04:23:08",
+        "datestamp": "2016-11-01 05:22:31",
         "impact": 2
       },
       "types": "TYPES2",
@@ -19273,7 +19274,7 @@
       "eprintid": 1404458,
       "wos": {
         "cluster": 72123900017,
-        "datestamp": "2016-09-03 03:45:05",
+        "datestamp": "2016-11-03 04:32:34",
         "impact": 7
       },
       "date": 1998,
@@ -19288,7 +19289,7 @@
       "title": "Integrating Online and Offline Testing of a Switching Memory",
       "scopus": {
         "cluster": "2-s2.0-0031655150",
-        "datestamp": "2016-10-03 04:05:03",
+        "datestamp": "2016-11-03 04:56:39",
         "impact": 6
       },
       "types": "TYPES2",
@@ -19592,7 +19593,7 @@
       "eprintid": 1408865,
       "wos": {
         "cluster": 78324900033,
-        "datestamp": "2016-09-07 04:57:09",
+        "datestamp": "2016-11-04 04:57:09",
         "impact": 0
       },
       "date": 1998,
@@ -19665,8 +19666,8 @@
       "eprintid": 1408864,
       "wos": {
         "cluster": 78276400079,
-        "datestamp": "2016-09-04 04:02:21",
-        "impact": 0
+        "datestamp": "2016-11-04 04:57:09",
+        "impact": 1
       },
       "date": 1998,
       "userdep": [
@@ -19733,7 +19734,7 @@
       "title": "A Test Pattern Generation Algorithm Exploiting Behavioral Information",
       "scopus": {
         "cluster": "2-s2.0-0032298416",
-        "datestamp": "2016-10-04 04:29:53",
+        "datestamp": "2016-11-04 05:24:12",
         "impact": 3
       }
     },
@@ -20032,7 +20033,7 @@
       "eprintid": 1408867,
       "wos": {
         "cluster": "A1997BH73L00009",
-        "datestamp": "2016-09-04 04:02:24",
+        "datestamp": "2016-11-04 04:57:10",
         "impact": 9
       },
       "date": 1997,
@@ -20110,7 +20111,7 @@
       "title": "Cellular automata for deterministic sequential test pattern generation",
       "scopus": {
         "cluster": "2-s2.0-0030674214",
-        "datestamp": "2016-10-04 04:30:01",
+        "datestamp": "2016-11-04 05:24:19",
         "impact": 9
       }
     },
@@ -20218,7 +20219,7 @@
       "eprintid": 1408868,
       "wos": {
         "cluster": "A1997BJ93L00019",
-        "datestamp": "2016-09-04 04:02:25",
+        "datestamp": "2016-11-04 04:57:10",
         "impact": 0
       },
       "date": 1997,
@@ -20305,7 +20306,7 @@
       "title": "Exploiting Symbolic Techniques within Genetic Algorithms for Power Optimization",
       "scopus": {
         "cluster": "2-s2.0-0031365957",
-        "datestamp": "2016-10-04 04:30:03",
+        "datestamp": "2016-11-04 05:24:21",
         "impact": 1
       }
     },
@@ -20420,7 +20421,7 @@
       "eprintid": 1408866,
       "wos": {
         "cluster": "A1997BJ93X00006",
-        "datestamp": "2016-09-04 04:02:23",
+        "datestamp": "2016-11-04 04:57:10",
         "impact": 1
       },
       "date": 1997,
@@ -20507,7 +20508,7 @@
       "title": "Guaranteeing Testability in Re-encoding for Low Power",
       "scopus": {
         "cluster": "2-s2.0-0031362439",
-        "datestamp": "2016-10-04 04:29:58",
+        "datestamp": "2016-11-04 05:24:16",
         "impact": 3
       }
     },
@@ -20516,7 +20517,7 @@
       "eprintid": 1408869,
       "wos": {
         "cluster": "A1997BH54U00067",
-        "datestamp": "2016-09-04 04:02:26",
+        "datestamp": "2016-11-04 04:57:11",
         "impact": 2
       },
       "date": 1997,
@@ -20534,7 +20535,7 @@
       "title": "Hybrid Symbolic-Explicit Techniques for the Graph Coloring Problem",
       "scopus": {
         "cluster": "2-s2.0-0030677632",
-        "datestamp": "2016-10-04 04:30:05",
+        "datestamp": "2016-11-04 05:24:23",
         "impact": 1
       },
       "pages": 5,
@@ -21518,7 +21519,7 @@
       "eprintid": 1404471,
       "wos": {
         "cluster": "A1996WD25800013",
-        "datestamp": "2016-09-03 03:45:20",
+        "datestamp": "2016-11-03 04:32:53",
         "impact": 1
       },
       "date": 1996,
@@ -21533,7 +21534,7 @@
       "title": "Circular self-test path for FSMs",
       "scopus": {
         "cluster": "2-s2.0-0030388604",
-        "datestamp": "2016-10-03 04:05:26",
+        "datestamp": "2016-11-03 04:57:00",
         "impact": 7
       },
       "types": "TYPES2",
@@ -21973,8 +21974,8 @@
       "eprintid": 1398711,
       "wos": {
         "cluster": "A1996UY95500013",
-        "datestamp": "2016-09-01 03:44:35",
-        "impact": 45
+        "datestamp": "2016-11-01 04:53:04",
+        "impact": 51
       },
       "date": 1996,
       "upddate": "2013-10-15 11:38:01",
@@ -21989,8 +21990,8 @@
       "title": "GATTO: A Genetic Algorithm for Automatic Test Pattern Generation for Large Synchronous Sequential Circuits",
       "scopus": {
         "cluster": "2-s2.0-0030215849",
-        "datestamp": "2016-10-01 04:23:03",
-        "impact": 63
+        "datestamp": "2016-11-01 05:22:26",
+        "impact": 64
       },
       "types": "TYPES2",
       "userid": 2,

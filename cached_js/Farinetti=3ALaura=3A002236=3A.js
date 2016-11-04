@@ -1104,7 +1104,8 @@
       "eprintid": 1605986,
       "date": 2005,
       "userdep": [
-        "USER_D1010"
+        "USER_D1010",
+        "USER_D1080"
       ],
       "userid": 2,
       "upddate": "2015-10-23 16:48:49",

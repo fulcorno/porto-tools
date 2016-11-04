@@ -4,7 +4,7 @@
       "eprintid": 2519025,
       "wos": {
         "cluster": 357989200004,
-        "datestamp": "2016-09-26 03:52:11",
+        "datestamp": "2016-10-26 03:59:36",
         "impact": 0
       },
       "date": 2015,
@@ -63,7 +63,7 @@
       "title": "Autonomic goal-oriented device management for Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84949546003",
-        "datestamp": "2016-09-26 04:07:15",
+        "datestamp": "2016-10-26 04:39:14",
         "impact": 0
       },
       "pages": 24,
@@ -144,8 +144,8 @@
       "eprintid": 2510296,
       "wos": {
         "cluster": 352647600003,
-        "datestamp": "2016-09-25 03:58:10",
-        "impact": 1
+        "datestamp": "2016-10-26 03:29:31",
+        "impact": 2
       },
       "date": 2015,
       "documents": [
@@ -209,7 +209,7 @@
       "title": "Real-Time Monitoring of High-Level States in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84925710465",
-        "datestamp": "2016-09-25 04:28:18",
+        "datestamp": "2016-10-26 03:42:25",
         "impact": 2
       },
       "pages": 21,
@@ -221,7 +221,7 @@
         "USER_D1010"
       ],
       "issn": "1876-1364",
-      "rev_number": 80,
+      "rev_number": 81,
       "dir": "disk0\/02\/51\/02\/96",
       "creators": [
         {
@@ -243,7 +243,7 @@
           "id": 23127
         }
       ],
-      "lastmod": "2016-09-20 19:31:44",
+      "lastmod": "2016-10-29 02:36:52",
       "ispublished": "pub",
       "metadata_visibility": "show",
       "id_number": "10.3233\/AIS-150310",
@@ -277,7 +277,7 @@
       "eprintid": 2507278,
       "wos": {
         "cluster": 351240600009,
-        "datestamp": "2016-09-25 03:40:14",
+        "datestamp": "2016-10-25 04:10:44",
         "impact": 1
       },
       "date": 2014,
@@ -345,7 +345,7 @@
       "title": "SAT based Enforcement of Domotic Effects in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84905088535",
-        "datestamp": "2016-09-25 04:02:36",
+        "datestamp": "2016-10-25 04:43:56",
         "impact": 1
       },
       "pages": 15,
@@ -858,7 +858,7 @@
       "title": "Semantic Web Technologies' Role in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84873840471",
-        "datestamp": "2016-09-24 04:14:33",
+        "datestamp": "2016-10-25 03:15:36",
         "impact": 0
       },
       "pages": 5,

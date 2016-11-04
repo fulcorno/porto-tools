@@ -431,7 +431,7 @@
       "eprintid": 2620664,
       "wos": {
         "cluster": 380614200093,
-        "datestamp": "2016-09-29 03:58:42",
+        "datestamp": "2016-10-30 04:18:12",
         "impact": 0
       },
       "date": 2015,
@@ -458,7 +458,7 @@
       "title": "Can We Make Dynamic, Accessible and Fun One-Switch Video Games?",
       "scopus": {
         "cluster": "2-s2.0-84962653798",
-        "datestamp": "2016-09-29 04:00:26",
+        "datestamp": "2016-10-30 04:19:29",
         "impact": 0
       },
       "pages": 2,
@@ -532,7 +532,7 @@
       "eprintid": 2627751,
       "wos": {
         "cluster": 380567200114,
-        "datestamp": "2016-09-30 03:16:01",
+        "datestamp": "2016-10-30 04:40:24",
         "impact": 0
       },
       "date": 2015,
@@ -737,7 +737,7 @@
       "title": "Design Recommendations for Smart Energy Monitoring: a Case Study in Italy",
       "scopus": {
         "cluster": "2-s2.0-84983273956",
-        "datestamp": "2016-09-28 03:43:48",
+        "datestamp": "2016-10-28 04:37:47",
         "impact": 0
       },
       "pages": 9,
@@ -998,7 +998,7 @@
       "title": "GNomon: Enabling Dynamic One-Switch Games for Children with Severe Motor Disabilities",
       "scopus": {
         "cluster": "2-s2.0-84954210169",
-        "datestamp": "2016-09-28 03:49:06",
+        "datestamp": "2016-10-28 04:44:03",
         "impact": 0
       },
       "pages": 6,
@@ -1137,7 +1137,7 @@
       "title": "HomeRules: A Tangible End-User Programming Interface for Smart Homes",
       "scopus": {
         "cluster": "2-s2.0-84954289172",
-        "datestamp": "2016-09-28 03:48:59",
+        "datestamp": "2016-10-28 04:43:55",
         "impact": 1
       },
       "pages": 6,
@@ -1269,7 +1269,7 @@
       "title": "Interacting with Smart Environments: Users, Interfaces, and Devices",
       "scopus": {
         "cluster": "2-s2.0-84921636929",
-        "datestamp": "2016-09-28 03:31:54",
+        "datestamp": "2016-10-28 04:25:59",
         "impact": 1
       },
       "pages": 2,
@@ -1393,7 +1393,7 @@
       "title": "IoT Meets Caregivers: a Healthcare Support System in Assisted Living Facilities",
       "scopus": {
         "cluster": "2-s2.0-84948760964",
-        "datestamp": "2016-09-27 04:39:17",
+        "datestamp": "2016-10-28 04:02:55",
         "impact": 0
       },
       "pages": 6,
@@ -1470,7 +1470,7 @@
       "eprintid": 2610554,
       "wos": {
         "cluster": 378639200045,
-        "datestamp": "2016-09-29 03:22:05",
+        "datestamp": "2016-10-29 03:45:51",
         "impact": 0
       },
       "date": 2015,
@@ -1538,7 +1538,7 @@
       "title": "IoT Meets Exhibition Areas: a Modular Architecture to Improve Proximity Interactions",
       "scopus": {
         "cluster": "2-s2.0-84959042684",
-        "datestamp": "2016-09-29 03:27:15",
+        "datestamp": "2016-10-29 04:09:17",
         "impact": 0
       },
       "pages": 8,
@@ -1613,7 +1613,7 @@
       "eprintid": 2605010,
       "wos": {
         "cluster": 380422800027,
-        "datestamp": "2016-09-28 03:59:32",
+        "datestamp": "2016-10-29 03:38:04",
         "impact": 0
       },
       "date": 2015,
@@ -1684,7 +1684,7 @@
       "title": "Playable One-Switch Video Games for Children with Severe Motor Disabilities Based on GNomon",
       "scopus": {
         "cluster": "2-s2.0-84959051383",
-        "datestamp": "2016-09-28 04:37:40",
+        "datestamp": "2016-10-29 03:56:23",
         "impact": 0
       },
       "pages": 10,
@@ -1829,7 +1829,7 @@
       "title": "PowerOnt: An Ontology-based Approach for Power Consumption Estimation in Smart Homes",
       "scopus": {
         "cluster": "2-s2.0-84948757014",
-        "datestamp": "2016-09-27 04:39:14",
+        "datestamp": "2016-10-28 04:02:51",
         "impact": 0
       },
       "pages": 6,
@@ -1964,7 +1964,7 @@
       "title": "Supporting Caregivers in Assisted Living Facilities for Persons with Disabilities: a User Study",
       "scopus": {
         "cluster": "2-s2.0-84925538136",
-        "datestamp": "2016-09-28 03:31:51",
+        "datestamp": "2016-10-28 04:25:57",
         "impact": 1
       },
       "pages": 12,
@@ -2154,7 +2154,7 @@
       "eprintid": 2506317,
       "wos": {
         "cluster": 341569300010,
-        "datestamp": "2016-09-25 03:36:20",
+        "datestamp": "2016-10-25 04:07:25",
         "impact": 2
       },
       "date": 2014,
@@ -2213,7 +2213,7 @@
       "title": "JEERP: Energy Aware Enterprise Resource Planning",
       "scopus": {
         "cluster": "2-s2.0-84906269891",
-        "datestamp": "2016-09-25 03:57:51",
+        "datestamp": "2016-10-25 04:38:01",
         "impact": 1
       },
       "pages": 7,
@@ -2599,7 +2599,7 @@
       "title": "The Smart Home Controller on Your Wrist",
       "scopus": {
         "cluster": "2-s2.0-84885228678",
-        "datestamp": "2016-09-25 04:19:46",
+        "datestamp": "2016-10-26 03:33:02",
         "impact": 2
       },
       "pages": 8,

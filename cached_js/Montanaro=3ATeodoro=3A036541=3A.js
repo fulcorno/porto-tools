@@ -2,6 +2,11 @@
     {
       "authors_string": "Ghajargar, Maliheh; Zenezini, Giovanni; Montanaro, Teodoro",
       "eprintid": 2646653,
+      "wos": {
+        "cluster": 383468400235,
+        "datestamp": "2016-10-31 04:45:45",
+        "impact": 0
+      },
       "date": 2016,
       "documents": [
           {
@@ -142,7 +147,7 @@
       "eprintid": 2627751,
       "wos": {
         "cluster": 380567200114,
-        "datestamp": "2016-09-30 03:16:01",
+        "datestamp": "2016-10-30 04:40:24",
         "impact": 0
       },
       "date": 2015,
@@ -281,7 +286,7 @@
       "eprintid": 2610554,
       "wos": {
         "cluster": 378639200045,
-        "datestamp": "2016-09-29 03:22:05",
+        "datestamp": "2016-10-29 03:45:51",
         "impact": 0
       },
       "date": 2015,
@@ -349,7 +354,7 @@
       "title": "IoT Meets Exhibition Areas: a Modular Architecture to Improve Proximity Interactions",
       "scopus": {
         "cluster": "2-s2.0-84959042684",
-        "datestamp": "2016-09-29 03:27:15",
+        "datestamp": "2016-10-29 04:09:17",
         "impact": 0
       },
       "pages": 8,
@@ -484,7 +489,7 @@
       "eprintid": 2550539,
       "wos": {
         "cluster": 358742400031,
-        "datestamp": "2016-09-27 03:41:01",
+        "datestamp": "2016-10-27 03:57:15",
         "impact": 0
       },
       "date": 2014,
@@ -541,7 +546,7 @@
       "title": "Lightweight Formal Verification in Real World, A Case Study",
       "scopus": {
         "cluster": "2-s2.0-84904537414",
-        "datestamp": "2016-09-27 03:58:13",
+        "datestamp": "2016-10-27 04:32:15",
         "impact": 0
       },
       "pages": 8,

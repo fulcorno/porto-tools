@@ -63,6 +63,11 @@
       "abstract": "Modern Information and Communication Technologies are definitely a key factor to develop the green and sustainable applications that the so-called \\\"smart city\\\" needs. Effective management of resources, gathering and interpreting data as well as ecological considerations are prerequisites to turn such a vision into reality. The European FP7 project DIMMER address these issues by providing a flexible Internet of Thing platform for application development and data integration, exploiting information about buildings, energy distribution grids and user behaviors. Among those applications, the possibility to real-time access and aggregate information about building environmental characteristics and energy consumption enables the optimization of energy management and control, as well as the user's awareness about, which is the scope of the DIMMER project. The paper will describe the ontology-driven approach, as well as the actual design, exploited to model the physical world within the context of this project, adding a special emphasis on the state of art research in the field of energy profiling",
       "type": "conference_item",
       "title": "Towards an ontology driven approach for systems interoperability and energy management in the smart city",
+      "scopus": {
+        "cluster": "2-s2.0-84988864325",
+        "datestamp": "2016-10-31 05:10:03",
+        "impact": 0
+      },
       "pages": 7,
       "types": "TYPES8",
       "userid": 2,
@@ -188,7 +193,7 @@
       "title": "Design Recommendations for Smart Energy Monitoring: a Case Study in Italy",
       "scopus": {
         "cluster": "2-s2.0-84983273956",
-        "datestamp": "2016-09-28 03:43:48",
+        "datestamp": "2016-10-28 04:37:47",
         "impact": 0
       },
       "pages": 9,
@@ -322,7 +327,7 @@
       "title": "PowerOnt: An Ontology-based Approach for Power Consumption Estimation in Smart Homes",
       "scopus": {
         "cluster": "2-s2.0-84948757014",
-        "datestamp": "2016-09-27 04:39:14",
+        "datestamp": "2016-10-28 04:02:51",
         "impact": 0
       },
       "pages": 6,
@@ -399,7 +404,7 @@
       "eprintid": 2533890,
       "wos": {
         "cluster": 344578600007,
-        "datestamp": "2016-09-27 03:16:05",
+        "datestamp": "2016-10-27 03:39:17",
         "impact": 1
       },
       "date": 2014,
@@ -464,7 +469,7 @@
       "title": "Exploiting Semantic Technologies in Smart Environments and Grids: Emerging Roles and Case Studies",
       "scopus": {
         "cluster": "2-s2.0-84922229829",
-        "datestamp": "2016-09-27 03:16:44",
+        "datestamp": "2016-10-27 03:55:07",
         "impact": 1
       },
       "pages": 37,
@@ -531,7 +536,7 @@
       "eprintid": 2506317,
       "wos": {
         "cluster": 341569300010,
-        "datestamp": "2016-09-25 03:36:20",
+        "datestamp": "2016-10-25 04:07:25",
         "impact": 2
       },
       "date": 2014,
@@ -590,7 +595,7 @@
       "title": "JEERP: Energy Aware Enterprise Resource Planning",
       "scopus": {
         "cluster": "2-s2.0-84906269891",
-        "datestamp": "2016-09-25 03:57:51",
+        "datestamp": "2016-10-25 04:38:01",
         "impact": 1
       },
       "pages": 7,
@@ -795,7 +800,7 @@
       "eprintid": 2518929,
       "wos": {
         "cluster": 342901400024,
-        "datestamp": "2016-09-26 03:49:38",
+        "datestamp": "2016-10-26 03:57:41",
         "impact": 0
       },
       "date": 2014,
@@ -865,7 +870,7 @@
       "title": "Template-based ontology population for Smart Environments configuration",
       "scopus": {
         "cluster": "2-s2.0-84901335491",
-        "datestamp": "2016-09-26 04:03:57",
+        "datestamp": "2016-10-26 04:34:43",
         "impact": 0
       },
       "pages": 8,
@@ -1195,7 +1200,7 @@
       "title": "The Smart Home Controller on Your Wrist",
       "scopus": {
         "cluster": "2-s2.0-84885228678",
-        "datestamp": "2016-09-25 04:19:46",
+        "datestamp": "2016-10-26 03:33:02",
         "impact": 2
       },
       "pages": 8,
