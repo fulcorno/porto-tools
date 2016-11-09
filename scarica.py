@@ -1,27 +1,24 @@
 # coding: utf-8
-from porto.author import Author
+from porto import Author
 import requests
 import codecs
 import begin
-
-authors = [
-    Author(firstname="Fulvio", lastname="Corno", id="002154"),
-    Author(firstname="Dario", lastname="Bonino", id="012325"),
-    Author(firstname="Luigi", lastname="De Russis", id="025734"),
-    Author(firstname="Sebastian", lastname="Aced Lopez", id="027070"),
-    Author(firstname="Faisal", lastname="Razzak", id="023127"),
-    Author(firstname="Muhammad", lastname="Sanaullah", id="024462"),
-    Author(firstname="Laura", lastname="Farinetti", id="002236"),
-    Author(firstname="Teodoro", lastname="Montanaro", id="036541"),
-    Author(firstname="Alberto", lastname="Monge Roffarello", id="040637"),
-    Author(firstname="Juan Pablo", lastname="Saenz", id="042870"),
-]
+import json
 
 baseURL = "http://porto.polito.it/cgi/exportview/creators/"
-default_output_dir = "./cached_js"
+default_output_directory = "./cached_js"
+default_authors_file = "./authors.json"
 
 
-def scarica_autore(author, output_dir):
+def load_authors(authors_file):
+    json_authors = json.load(open(authors_file))
+    authors = []
+    for jauth in json_authors:
+        authors.append(Author(id=jauth['id'], lastname=jauth['last'], firstname=jauth['first']))
+    return authors
+
+
+def download_author(author, output_dir):
 
     name = author.lastname + '=3A' + author.firstname + '=3A' + author.id + '=3A' + '.js'
 
@@ -49,7 +46,7 @@ def scarica_autore(author, output_dir):
 
 
 @begin.start(auto_convert=True)
-def run(list=False, directory=default_output_dir, *selected):
+def run(list=False, all=False, authors_file=default_authors_file, output_directory=default_output_directory,  *selected):
     """
     Scarica automaticamente pubblicazioni dal PORTO in formato JSON.
 
@@ -62,25 +59,33 @@ def run(list=False, directory=default_output_dir, *selected):
 
         scarica <id> <id> <id> ...
             scarica e salva solo le pubblicazioni degli autori citati
-            <id> può essere una parte (substring) della matricola autore
+            <id> può essere una matricola autore
             <id> può essere una parte (substring, case-insensitive) del cognome autore
             in caso di match multipli, vale solo il primo
     """
 
-    if list == True:
-        print "Known authors:"
+    authors = load_authors(authors_file)
+
+    # filter selection
+    if all:
+        if len(selected)>0:
+            print "ERROR: --all and selection list are incompatible options"
+            exit()
+    else:
+        if len(selected)>0:
+            authors = [a for a in authors if
+                       a.matricola() in [("000000"+s)[-6:] for s in selected]
+                       or a.lastname.lower() in [s.lower() for s in selected]]
+        else:
+            print "WARNING: no author selected. Nothing to do. Use --all or provide list of IDs or surnames"
+            exit()
+
+    if list:
+        print "Selected authors:"
         for author in authors:
-            print "%s: %s %s" % (author.id, author.lastname, author.firstname)
-    elif len(selected) == 0:
-        # print all
-        print "Downloading all authors in %s" % directory
+            print "{author.id}: {author.lastname} {author.firstname}".format(author=author)
+    else:
+        print "Downloading selected authors in %s" % output_directory
         for author in authors:
             print "Downloading author: %s" % author
-            scarica_autore(author, directory)
-    else:
-        print "Downloading authors matching: %s" % str(selected)
-        for sel in selected:
-            sel_author = [a for a in authors if (sel in a.id or sel.lower() in a.lastname.lower())]
-            if(len(sel_author)==1):
-                #print sel_author[0]
-                scarica_autore(sel_author[0], directory)
+            download_author(author, output_directory)
