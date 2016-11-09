@@ -1,5 +1,6 @@
 import porto
 import begin
+from model import Model
 
 __author__ = 'Fulvio Corno'
 
@@ -13,7 +14,7 @@ def run(*filenames):
     papers and authors into the SQL database.
     """
 
-    model = porto.Model()
+    model = Model()
 
     try:
         for filename in filenames:
