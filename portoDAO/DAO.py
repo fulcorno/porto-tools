@@ -1,5 +1,4 @@
-import mysql.connector
-
+import pymysql.cursors
 
 class DAO:
 
@@ -11,7 +10,7 @@ class DAO:
     }
 
     def __init__(self):
-        DAO.conn = mysql.connector.connect(**DAO.db_params)
+        DAO.conn = pymysql.connect(**DAO.db_params)
 
     def delete_all_papers(self):
         cursor = DAO.conn.cursor()

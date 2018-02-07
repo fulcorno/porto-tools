@@ -24,9 +24,9 @@ http://porto.polito.it/cgi/exportview/creators/Corno=3AFulvio=3A002154=3A/2016/J
 import json, gzip
 
 
-#dauin = json.load(gzip.open('DAUIN.json.gz', 'r'))
+dauin = json.load(gzip.open('DAUIN.json.gz', 'r'))
 
-dauin = json.load(open('DAUIN.json', 'r'))
+#dauin = json.load(open('DAUIN.json', 'r'))
 
 allPapers = {}
 allTypes = set()
@@ -62,17 +62,17 @@ for pub in dauin:
 
             thisPaper.authors.append(allAuthors[authid])
         else:
-            print "Author %s not found in paper %s" % (
-                auth['name']['family']+" "+auth['name']['given'],
-                eprintid)
+            print("Author %s not found in paper %s" % (
+                auth['name']['family'] + " " + auth['name']['given'],
+                eprintid))
 
-print "Loaded %d papers" % len(allPapers)
-print "Found %d authors" % len(allAuthors)
+print("Loaded %d papers" % len(allPapers))
+print("Found %d authors" % len(allAuthors))
 
-print "Found %d types (from %d main types)" % (len(allTypes), len({a.type for a in allTypes}))
-print allTypes
+print("Found %d types (from %d main types)" % (len(allTypes), len({a.type for a in allTypes})))
+print(allTypes)
 for t in sorted(allTypes):
-    print t, len([paper for paper in allPapers if (allPapers[paper].type.types == t.types)])
+    print(t, len([paper for paper in allPapers if (allPapers[paper].type.types == t.types)]))
 
 yearRange = range(1995, 2017)
 
@@ -82,10 +82,10 @@ for eprintid, thisPaper in allPapers.items():
     if thisPaper.date in yearRange:
         stats[(thisPaper.date,thisPaper.type)] += 1
 
-print 0, [t.description for t in allTypes]
+print(0, [t.description for t in allTypes])
 for year in yearRange:
     row = [stats[(year, type)] for type in allTypes]
-    print year, row
+    print(year, row)
 
 """
 print "ALL PAPERS"

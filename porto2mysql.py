@@ -1,7 +1,6 @@
 import porto
 import begin
 from model import Model
-
 __author__ = 'Fulvio Corno'
 
 
@@ -18,14 +17,14 @@ def run(*filenames):
 
     try:
         for filename in filenames:
-            print "Loading %s" % filename
+            print("Loading %s" % filename)
             doc = json.load(open(filename, 'r'))
             model.fromJSON(doc)
     except IOError as e:
-        print "Error in processing %s" % filename
-        print e
+        print("Error in processing %s" % filename)
+        print(e)
 
-    print "Saving into database"
+    print("Saving into database")
     model.saveSQL()
 
 """"

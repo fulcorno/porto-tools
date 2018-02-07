@@ -50,8 +50,8 @@ class Model:
 
                 thisPaper.authors.append(self.allAuthors[authid])
 
-        print "Loaded %d papers" % len(self.allPapers)
-        print "Found %d authors" % len(self.allAuthors)
+        print("Loaded %d papers" % len(self.allPapers))
+        print("Found %d authors" % len(self.allAuthors))
 
     def saveSQL(self):
 

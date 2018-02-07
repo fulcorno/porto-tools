@@ -1,7 +1,7 @@
 __author__ = 'Fulvio Corno'
 
-class Type:
 
+class Type:
     descriptions = {
         "TYPES2": "Articolo in rivista",
         "TYPES70": "Recensione in rivista",
@@ -31,16 +31,23 @@ class Type:
         self.description = self.descriptions[types]
 
     def __eq__(self, other):
-        return self.type==other.type and self.types==other.types
+        return self.type == other.type and self.types == other.types
 
     def __hash__(self):
-        return hash((self.type,self.types))
+        return hash((self.type, self.types))
 
     def __str__(self):
-        return self.type+"/"+self.types
+        return self.type + "/" + self.types
 
     def __repr__(self):
-        return self.type+"/"+self.types
+        return self.type + "/" + self.types
+
+    def __lt__(self, other):
+        if self.type < other.type:
+            return True
+        if self.type == other.type:
+            return self.types < other.types
+        return False
 
 
 """
