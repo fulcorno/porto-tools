@@ -1,5 +1,1620 @@
 [
     {
+      "authors_string": "Canonico, Massimo; De Russis, Luigi",
+      "eprintid": 2694629,
+      "date": 2018,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2694629,
+            "insert_date": "2018-03-02 09:09:11",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-03-02 09:09:11",
+                  "datasetid": "document",
+                  "fileid": 2584102,
+                  "objectid": 1329614,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2584102",
+                  "mime_type": "application\/pdf",
+                  "hash": "b0cb473b14c5f6c69b892e55aa946b05",
+                  "filesize": 197236,
+                  "filename": "cloud_computing_2018_6_20_20057.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1329614",
+            "main": "cloud_computing_2018_6_20_20057.pdf",
+            "original_docid": 188100,
+            "format": "application\/pdf",
+            "docid": 1329614,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1330973"
+              }
+            ],
+            "formatdesc": "cloud_computing_2018_6_20_20057.pdf"
+          }
+      ],
+      "upddate": "2018-03-02 09:09:11",
+      "keywords": [
+        "comparison",
+        "nlu taxonomy",
+        "natural language understanding",
+        "cloud platform"
+      ],
+      "isbn": "978-1-61208-607-1",
+      "pagerange": "110-115",
+      "publisher": "IARIA",
+      "event_title": "CLOUD COMPUTING 2018: The Ninth International Conference on Cloud Computing, GRIDs, and Virtualization",
+      "irisid": 174755,
+      "event_dates": "February 18-22, 2018",
+      "book_title": "CLOUD COMPUTING 2018: The Ninth International Conference on Cloud Computing, GRIDs, and Virtualization",
+      "datestamp": "2017-12-12 15:34:18",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2694629",
+      "event_location": "Barcelona, Spain",
+      "abstract": "In the last 10 years, various cloud platforms enabled developers to easily create applications able to understand, with some limitations, natural languages. Nowadays, such cloud platforms for natural language understanding (NLU) are widely used, thanks to the raise of multiple chat services and conversational assistants on our mobile devices. This paper compares and analyses the main cloud-based NLU platforms, both from a descriptive and from a performance-based point of view. For the descriptive analysis, a taxonomy is proposed and six cloud platforms are analyzed. The performance evaluation, instead, compares three of these platforms, highlighting strengths and weaknesses of the different NLU tools.",
+      "type": "conference_item",
+      "title": "A Comparison and Critique of Natural Language Understanding Tools",
+      "pages": 6,
+      "types": "TYPES8",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "twitted": 1,
+      "rev_number": 13,
+      "dir": "disk0\/02\/69\/46\/29",
+      "creators": [
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        }
+      ],
+      "lastmod": "2018-03-07 05:24:55",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-12-12 15:51:23",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Sáenz, Juan Pablo",
+      "eprintid": 2698336,
+      "date": 2018,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2698336,
+            "insert_date": "2018-01-30 09:22:37",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-01-30 09:22:37",
+                  "datasetid": "document",
+                  "fileid": 2553025,
+                  "objectid": 1309944,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2553025",
+                  "mime_type": "application\/pdf",
+                  "hash": "5975a22e850bd4b9b7071547bc145b5a",
+                  "filesize": 478445,
+                  "filename": "recipes.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1309944",
+            "main": "recipes.pdf",
+            "original_docid": 183734,
+            "format": "application\/pdf",
+            "docid": 1309944,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1310272"
+              }
+            ],
+            "formatdesc": "recipes.pdf"
+          }
+      ],
+      "upddate": "2018-01-30 09:22:37",
+      "keywords": [
+        "code fragments",
+        "novice programmers",
+        "internet of things",
+        "documentation",
+        "novice programmers",
+        "internet of things",
+        "documentation",
+        "code fragments"
+      ],
+      "isbn": "978-1-4503-5660-2\/18\/05",
+      "publisher": "ACM",
+      "event_title": "40th International Conference on Software Engineering: Software Engineering Education and Training Track",
+      "irisid": 178421,
+      "event_dates": "May 27-June 3 2018",
+      "book_title": "ICSE-SEET'18: 40th International Conference on Software Engineering: Software Engineering Education and Training Track, May 27-June 3 2018, Gothenburg, Sweden",
+      "datestamp": "2018-01-26 15:07:20",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2698336",
+      "event_location": "Gothenburg, Sweden",
+      "abstract": "The co-existence of various kinds of devices, protocols, architectures, and programming languages make Internet of Things (IoT) systems complex to develop, even for experienced programmers. Perforce, Software Engineering challenges are even more difficult to address by novice programmers. Previous research focused on identifying the most challenging issues that novice programmers experience when developing IoT systems. The results suggested that the integration of heterogeneous software components resulted one of the most painful issues, mainly due to the lack of documentation understandable by inexperienced developers, from both conceptual and technical perspectives. In fact, novice programmers devote a significant effort looking for documentation and code samples willing to understand them conceptually, or in the worst case, at least to make them work. Driven by the research question: \\\"How do the lessons learned by IoT novice programmers can be captured, so they become an asset for other novice developers?\\\", in this paper, we introduce Code Recipes. They consist of summarized and well-defined documentation modules, independent from programming languages or run-time environments, by which non-expert programmers can smoothly become familiar with source code, written by other developers that faced similar issues. Through a use case, we show how Code Recipes are a feasible mechanism to support novice IoT programmers in building their IoT systems",
+      "type": "conference_item",
+      "title": "Easing IoT Development for Novice Programmers Through Code Recipes",
+      "pages": 4,
+      "types": "TYPES8",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "twitted": 1,
+      "rev_number": 15,
+      "dir": "disk0\/02\/69\/83\/36",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 42870,
+            "given": "Juan Pablo",
+            "honourific": null,
+            "family": "Saenz"
+          },
+          "id": 42870
+        }
+      ],
+      "lastmod": "2018-02-01 18:09:58",
+      "ispublished": "inpress",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/3183377.3183385",
+      "proprietary": {
+        "name": {
+          "lineage": 42870,
+          "given": "Juan Pablo",
+          "honourific": null,
+          "family": "Saenz"
+        },
+        "id": 42870
+      },
+      "eprint_status": "archive",
+      "status_changed": "2018-01-26 15:51:19",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Aced López, Sebastián; Corno, Fulvio; De Russis, Luigi",
+      "eprintid": 2669698,
+      "date": 2017,
+      "documents": [
+          {
+            "disclaimer": "acm_draft",
+            "placement": 1,
+            "eprintid": 2669698,
+            "insert_date": "2017-08-11 10:42:56",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-11 10:42:56",
+                  "datasetid": "document",
+                  "fileid": 2303743,
+                  "objectid": 1163549,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2303743",
+                  "mime_type": "application\/pdf",
+                  "hash": "b0275dde604a48f89739f8db5bf6aa67",
+                  "filesize": 5511893,
+                  "filename": "01_journal_gnomon.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 8,
+            "copyright_date": "2017-08-21",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1163549",
+            "original_docid": 158654,
+            "main": "01_journal_gnomon.pdf",
+            "format": "application\/pdf",
+            "docid": 1163549,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1167059"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "01_journal_gnomon.pdf"
+          }
+      ],
+      "upddate": "2017-08-11 10:42:56",
+      "keywords": [
+        "action-oriented games",
+        "children with disabilities",
+        "one-switch interaction",
+        "single-switch selection",
+        "accessible games"
+      ],
+      "pagerange": "1-42",
+      "publisher": "ACM",
+      "irisid": 148260,
+      "publisher_review": "New York, N.Y. : Association for Computing Machinery, 2008-",
+      "datestamp": "2017-04-23 14:35:56",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2669698",
+      "publication": "ACM TRANSACTIONS ON ACCESSIBLE COMPUTING",
+      "abstract": "Video games are not just played for fun; they have become a handy instrument for the cognitive, emotional, and social development of children. However, several barriers prevent many children with disabilities from playing action-oriented video games, alone or with their peers. In particular, children with severe motor disabilities, who rely on one-switch interaction for accessing electronic devices, find fast-paced games that require rapid decision-making and timely responses, completely unplayable. This article contributes to lowering such barriers by presenting GNomon (Gaming NOMON), a software framework based on the NOMON mode of interaction that allows the creation of action-oriented single-switch video games. The article reports the results of two studies that evaluate the playability and rehabilitation suitability of GNomon-based video games. The playability of GNomon-based games is evaluated by assessing their learnability, effectiveness, errors, satisfaction, memorability, and enjoyability with a group of eight children with severe motor disabilities. The suitability for pediatric rehabilitation is determined by means of a focus group with a team of speech therapists, physiotherapists, and psychologists from a Local Health Agency in Turin, Italy. The results of the playability study are positive: All children had fun playing GNomon-based video games, and seven of eight were able to interact and play autonomously. The results of the rehabilitation-suitability study also entail that GNomon-based games can be exploited in training hand-eye coordination and maintenance of selective attention over time. The article finally offers critical hindsight and reflections and shows possible new future game concepts.",
+      "type": "article",
+      "title": "Design and Development of One-Switch Video Games for Children with Severe Motor Disabilities",
+      "scopus": {
+        "cluster": "2-s2.0-85027516758",
+        "datestamp": "2018-02-27 04:58:45",
+        "impact": 0
+      },
+      "pages": 42,
+      "types": "TYPES2",
+      "number": 4,
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "1936-7228",
+      "rev_number": 10,
+      "dir": "disk0\/02\/66\/96\/98",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 27070,
+            "given": "Sebastian",
+            "honourific": null,
+            "family": "Aced Lopez"
+          },
+          "id": 27070
+        }
+      ],
+      "lastmod": "2017-09-01 17:26:13",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/3085957",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-04-24 02:00:35",
+      "language": [
+        "en"
+      ],
+      "volume": 10,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Monge Roffarello, Alberto",
+      "eprintid": 2665147,
+      "date": 2017,
+      "documents": [
+          {
+            "disclaimer": "acm_proc",
+            "placement": 1,
+            "eprintid": 2665147,
+            "insert_date": "2017-05-03 11:03:42",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-03 11:03:42",
+                  "datasetid": "document",
+                  "fileid": 2219730,
+                  "objectid": 1113357,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2219730",
+                  "mime_type": "application\/pdf",
+                  "hash": "17d796efb404f4fc2d738a353e590c2d",
+                  "filesize": 263946,
+                  "filename": "eud_camera_ready.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 3,
+            "copyright_date": "2017-05-04",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1113357",
+            "original_docid": 149563,
+            "main": "eud_camera_ready.pdf",
+            "format": "application\/pdf",
+            "docid": 1113357,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1116945"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "eud_camera_ready.pdf"
+          }
+      ],
+      "upddate": "2017-05-03 11:04:09",
+      "keywords": [
+        "end user development",
+        "internet of things",
+        "trigger-action",
+        "trigger-action",
+        "end user development",
+        "internet of things"
+      ],
+      "isbn": "978-1-4503-4656-6",
+      "pagerange": "1546-1552",
+      "publisher": "ACM",
+      "event_title": "CHI 2017: The 35th Annual CHI Conference on Human Factors in Computing Systems",
+      "irisid": 143528,
+      "event_dates": "May 6–11, 2017",
+      "book_title": "Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+      "datestamp": "2017-02-14 14:21:34",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2665147",
+      "event_location": "Denver, CO (USA)",
+      "abstract": "Programming environments for end-user personalization in the Internet of Things (IoT) are becoming increasingly common. They allow users to define simple IoT applications, i.e., connections between different IoT devices and services. Unfortunately, the adopted representation models are highly technology-dependent, e.g., they often categorize devices and services by manufacturer or brand. Such an approach is not suitable to face the expected growth of the IoT, nor it allows to adapt to yet undiscovered IoT services. In this paper, we present a generic and technology-independent representation for IoT end-user programming environments. The aim of this \\\"high-level\\\" representation is to allow end-users to create abstract IoT applications that adapt to different contextual situations. We preliminary evaluated the representation by comparing it with the one used by existing programming environments in a user study with 10 participants. Results show that the representation is understandable, and it allows users to create IoT applications more correctly and quickly.",
+      "type": "conference_item",
+      "title": "A High-Level Approach Towards End User Development in the IoT",
+      "scopus": {
+        "cluster": "2-s2.0-85019570937",
+        "datestamp": "2018-02-27 04:26:51",
+        "impact": 1
+      },
+      "pages": 7,
+      "place_of_pub": "New York, NY, USA",
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 11,
+      "dir": "disk0\/02\/66\/51\/47",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 40637,
+            "given": "Alberto",
+            "honourific": null,
+            "family": "Monge Roffarello"
+          },
+          "id": 40637
+        }
+      ],
+      "lastmod": "2017-05-15 21:55:28",
+      "ispublished": "pub",
+      "openaire": 1,
+      "proprietary": {
+        "name": {
+          "lineage": 40637,
+          "given": "Alberto",
+          "honourific": null,
+          "family": "Monge Roffarello"
+        },
+        "id": 40637
+      },
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/3027063.3053157",
+      "eprint_status": "archive",
+      "status_changed": "2017-02-15 03:02:42",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Monge Roffarello, Alberto",
+      "eprintid": 2644849,
+      "date": 2017,
+      "upddate": "2017-11-27 16:21:16",
+      "keywords": [
+        "assisted living facilities",
+        "healthcare assistants",
+        "caregivers",
+        "assistance requests",
+        "ambient assisted living",
+        "wearable devices",
+        "disabilities",
+        "people with disabilities",
+        "disabilities",
+        "people with disabilities",
+        "assisted living facilities",
+        "healthcare assistants",
+        "caregivers",
+        "assistance requests",
+        "ambient assisted living",
+        "wearable devices"
+      ],
+      "isbn": 9781522518204,
+      "pagerange": "66-97",
+      "publisher": "IGI Global",
+      "irisid": 121525,
+      "book_title": "Internet of Things and Advanced Application in Healthcare \/ Reis C. I., and Maximiano M. D.",
+      "datestamp": "2016-07-07 17:28:32",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2644849",
+      "abstract": "Research activities on healthcare support systems mainly focus on people in their own homes or nurses and doctors in hospitals. A limited amount of research aims at supporting caregivers that work with people with disabilities in assisted living facilities (ALFs). This chapter explores and applies the Internet of Things to the ALF context. In particular, it presents the design, the implementation, and the experimental evaluation of Care4Me, a system supporting the daily activities of assistants. The requirements for designing and implementing Care4Me derive from a literature analysis and from a user study. The solution combines wearable and mobile technologies. With this healthcare support system, caregivers can be automatically alerted of potentially hazardous situations. Furthermore, inhabitants can require assistance instantly and from any point of the facility. The system was evaluated in two ways. The authors performed a functional test with a group of professional caregivers, and deployed the system in an ALF in Italy, collecting the opinions of caregivers and inhabitants.",
+      "type": "book_section",
+      "title": "IoT for Ambient Assisted Living: Care4Me - A Healthcare Support System",
+      "scopus": {
+        "cluster": "2-s2.0-85016368646",
+        "datestamp": "2017-11-29 05:41:57",
+        "impact": 0
+      },
+      "pages": 32,
+      "types": "TYPES4",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 10,
+      "dir": "disk0\/02\/64\/48\/49",
+      "creators": [
+        {
+          "name": {
+            "lineage": 40637,
+            "given": "Alberto",
+            "honourific": null,
+            "family": "Monge Roffarello"
+          },
+          "id": 40637
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        }
+      ],
+      "lastmod": "2017-11-29 03:58:30",
+      "ispublished": "pub",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.4018\/978-1-5225-1820-4.ch003",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2016-11-09 22:48:45",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "none",
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Demartini, Claudio Giovanni; Yoshida, Kenichi; De Russis, Luigi",
+      "eprintid": 2692870,
+      "date": 2017,
+      "upddate": "2017-11-28 14:05:58",
+      "keywords": [
+        "industries",
+        "software",
+        "conferences",
+        "engineering profession"
+      ],
+      "isbn": "978-1-5386-0367-3",
+      "pagerange": "681-681",
+      "publisher": "IEEE",
+      "event_title": "IEEE COMPSAC 2017",
+      "irisid": 172811,
+      "event_dates": "4-8 July 2017",
+      "book_title": "2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC)",
+      "datestamp": "2017-11-20 15:25:24",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2692870",
+      "event_location": "Torino",
+      "abstract": "Welcome message from the Student Research Symposium Chairs at IEEE COMPSAC 2017",
+      "type": "conference_item",
+      "title": "Message from the Student Research Symposium Chairs",
+      "scopus": {
+        "cluster": "2-s2.0-85031906886",
+        "datestamp": "2018-02-28 05:29:27",
+        "impact": 0
+      },
+      "pages": 1,
+      "types": "TYPES8",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 5,
+      "dir": "disk0\/02\/69\/28\/70",
+      "creators": [
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 1846,
+            "given": "Claudio Giovanni",
+            "honourific": null,
+            "family": "Demartini"
+          },
+          "id": 1846
+        }
+      ],
+      "lastmod": "2017-11-30 03:04:51",
+      "ispublished": "pub",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/COMPSAC.2017.294",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-11-21 03:10:26",
+      "language": [
+        "en"
+      ],
+      "volume": 1,
+      "full_text_status": "none",
+      "referee": "REF_0",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "De Russis, Luigi; Monge Roffarello, Alberto",
+      "eprintid": 2665148,
+      "date": 2017,
+      "documents": [
+          {
+            "disclaimer": "acm_proc",
+            "placement": 1,
+            "eprintid": 2665148,
+            "insert_date": "2017-05-03 10:59:50",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-03 10:59:50",
+                  "datasetid": "document",
+                  "fileid": 2219734,
+                  "objectid": 1113359,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2219734",
+                  "mime_type": "application\/pdf",
+                  "hash": "f32b22287c1e2225ff29810b99a33862",
+                  "filesize": 1549175,
+                  "filename": "notificationpreferences_camera_ready.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 3,
+            "copyright_date": "2017-05-04",
+            "copyright_note": null,
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1113359",
+            "original_docid": 149562,
+            "main": "notificationpreferences_camera_ready.pdf",
+            "format": "application\/pdf",
+            "docid": 1113359,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1116856"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "notificationpreferences_camera_ready.pdf"
+          }
+      ],
+      "upddate": "2017-05-03 11:04:25",
+      "keywords": [
+        "mobile devices",
+        "notifications",
+        "end-user personalization",
+        "mobile devices",
+        "notifications",
+        "end-user personalization"
+      ],
+      "isbn": "978-1-4503-4656-6",
+      "pagerange": "1561-1568",
+      "publisher": "ACM",
+      "event_title": "CHI 2017: The 35th Annual CHI Conference on Human Factors in Computing Systems",
+      "irisid": 143529,
+      "event_dates": "May 6–11, 2017",
+      "book_title": "Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+      "datestamp": "2017-02-14 14:28:28",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2665148",
+      "event_location": "Denver, CO (USA)",
+      "abstract": "Notifications may have a disruptive effect on users and the vision of a smart notification delivery is still an open question. Alternatively to existing user-opaque solutions, we identify the lack of significant end-user personalization features as one of the main issues in the \\\"traditional\\\" notification management. In this paper, we explore a preference-based approach towards smart notification delivery. By considering existing in-the-wild studies that directly involve users, we defined a set of preferences to customize the notification delivery, and we built a mobile application for their set up. We evaluated the understandability of such preferences, and the acceptance of our preference-based approach in a user study with 10 participants. Preliminary results show that the preferences were easily understood, and that users are willing to set them up.",
+      "type": "conference_item",
+      "title": "On the Benefit of Adding User Preferences to Notification Delivery",
+      "scopus": {
+        "cluster": "2-s2.0-85019576926",
+        "datestamp": "2018-02-27 04:26:53",
+        "impact": 0
+      },
+      "pages": 8,
+      "place_of_pub": "New York, NY, USA",
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 9,
+      "dir": "disk0\/02\/66\/51\/48",
+      "creators": [
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 40637,
+            "given": "Alberto",
+            "honourific": null,
+            "family": "Monge Roffarello"
+          },
+          "id": 40637
+        }
+      ],
+      "lastmod": "2017-05-14 12:14:18",
+      "ispublished": "pub",
+      "openaire": 1,
+      "proprietary": {
+        "name": {
+          "lineage": 40637,
+          "given": "Alberto",
+          "honourific": null,
+          "family": "Monge Roffarello"
+        },
+        "id": 40637
+      },
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/3027063.3053160",
+      "eprint_status": "archive",
+      "status_changed": "2017-02-15 03:02:43",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Sáenz, Juan Pablo",
+      "eprintid": 2674394,
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2674394,
+            "insert_date": "2018-01-30 09:52:23",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-01-30 09:52:23",
+                  "datasetid": "document",
+                  "fileid": 2552944,
+                  "objectid": 1309908,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2552944",
+                  "mime_type": "application\/pdf",
+                  "hash": "b68180b9cbfb2a7a54fd2037229d8eca",
+                  "filesize": 712185,
+                  "filename": "studyroom.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1309908",
+            "main": "studyroom.pdf",
+            "original_docid": 183633,
+            "format": "application\/pdf",
+            "docid": 1309908,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1310250"
+              }
+            ],
+            "formatdesc": "studyroom.pdf"
+          }
+      ],
+      "upddate": "2018-01-30 09:53:31",
+      "keywords": [
+        "energy efficiency",
+        "smart study room",
+        "ambient intelligence",
+        "building management systems",
+        "ambient intelligence",
+        "building management systems",
+        "energy efficiency",
+        "smart study room",
+        "smart study room",
+        "ambient intelligence",
+        "building management systems",
+        "energy efficiency"
+      ],
+      "publisher": "IEEE",
+      "event_title": "7th IEEE International Conference on Innovative Smart Grid Technologies (ISGT Europe 2017)",
+      "irisid": 153284,
+      "event_dates": "September 26 - 29, 2017",
+      "book_title": "2017 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe)",
+      "datestamp": "2017-06-09 11:42:55",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2674394",
+      "event_location": "Torino (Italy)",
+      "abstract": "Energetic sustainability on university campuses relies on the efficiency and smartness of the energy systems, as well as the behavior of its users. The aim of this work is to identify the requirements and propose the design of a Smart Study Room that, besides relying on users' awareness about their energy consumption, might also rely on their feedback about issues that could affect the optimal use of the study room resources. This concept is presented in the paper as two-way awareness. To determine the requirements, a survey was conducted among 61 university students to understand: (i) their usual behavior at the study room; (ii) their complaints about the study room; (iii) the set of users' behaviors that, in their opinion, have a negative impact on the energy consumption; and (iv) the information of the study room that they would find useful and interesting to visualize. Based on the results of this survey the design of the smart study room was developed and presented.",
+      "type": "conference_item",
+      "title": "On the Design of an Energy and User Aware Study Room",
+      "pages": 6,
+      "types": "TYPES8",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "twitted": 1,
+      "rev_number": 27,
+      "dir": "disk0\/02\/67\/43\/94",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 42870,
+            "given": "Juan Pablo",
+            "honourific": null,
+            "family": "Saenz"
+          },
+          "id": 42870
+        }
+      ],
+      "lastmod": "2018-02-01 06:43:09",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/ISGTEurope.2017.8260192",
+      "proprietary": {
+        "name": {
+          "lineage": 42870,
+          "given": "Juan Pablo",
+          "honourific": null,
+          "family": "Saenz"
+        },
+        "id": 42870
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-06-09 11:55:42",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Sáenz, Juan Pablo",
+      "eprintid": 2669243,
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2669243,
+            "insert_date": "2017-09-12 12:01:23",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-12 12:01:23",
+                  "datasetid": "document",
+                  "fileid": 2317593,
+                  "objectid": 1171417,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2317593",
+                  "mime_type": "application\/pdf",
+                  "hash": "d39a78ab16344ea002e6591f4fa5567b",
+                  "filesize": 467540,
+                  "filename": "2017_compsac_painpoints.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2017-09-13",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1171417",
+            "original_docid": 159878,
+            "main": "2017_compsac_painpoints.pdf",
+            "format": "application\/pdf",
+            "docid": 1171417,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1172976"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "2017_compsac_painpoints.pdf"
+          }
+      ],
+      "upddate": "2017-09-12 12:01:24",
+      "keywords": [
+        "novice developers",
+        "ambient intelligence",
+        "software engineering",
+        "survey",
+        "internet of things"
+      ],
+      "isbn": "978-1-5386-0367-3",
+      "pagerange": "250-255",
+      "publisher": "IEEE",
+      "event_title": "41st IEEE Computer Society International Conference on Computers, Software & Applications (COMPSAC 2017), Symposium on Software Engineering Technologies & Applications (SETA)",
+      "irisid": 147827,
+      "event_dates": "July 4 - 8, 2017",
+      "book_title": "2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC)",
+      "datestamp": "2017-04-19 08:52:33",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2669243",
+      "event_location": "Torino (Italy)",
+      "abstract": "This paper presents an exploratory study aimed at identifying the pain points that novice programmers experience, from the software engineering perspective, when developing and deploying smart and distributed systems, that may be classified as Ambient Intelligence (AmI) systems. The exploratory study was conducted among undergraduate students, that worked in groups for developing AmI projects during a university course. Based on their own experiences, individually and as a group, the pain points were identified and prioritized over a common architecture and a set of software development activities. The quantification of the pain points was based on the difficulty level that the students perceived on the development activities and the time they spent completing them. Results represent a starting point for the design of tools and methodologies targeted at overcoming the complexity that novice programmers face when developing AmI systems.",
+      "type": "conference_item",
+      "title": "Pain Points for Novice Programmers of Ambient Intelligence Systems: An Exploratory Study",
+      "scopus": {
+        "cluster": "2-s2.0-85031918351",
+        "datestamp": "2018-02-27 04:57:03",
+        "impact": 0
+      },
+      "pages": 6,
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 12,
+      "dir": "disk0\/02\/66\/92\/43",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 42870,
+            "given": "Juan Pablo",
+            "honourific": null,
+            "family": "Saenz"
+          },
+          "id": 42870
+        }
+      ],
+      "lastmod": "2017-09-15 09:45:20",
+      "ispublished": "pub",
+      "openaire": 1,
+      "proprietary": {
+        "name": {
+          "lineage": 42870,
+          "given": "Juan Pablo",
+          "honourific": null,
+          "family": "Saenz"
+        },
+        "id": 42870
+      },
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/COMPSAC.2017.186",
+      "eprint_status": "archive",
+      "status_changed": "2017-04-20 02:01:43",
+      "language": [
+        "en"
+      ],
+      "volume": 1,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Monge Roffarello, Alberto",
+      "eprintid": 2691911,
+      "wos": {
+        "cluster": 415132500004,
+        "datestamp": "2018-03-02 03:32:46",
+        "impact": 0
+      },
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2691911,
+            "insert_date": "2017-11-21 14:19:59",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-21 14:19:59",
+                  "datasetid": "document",
+                  "fileid": 2581847,
+                  "objectid": 1328122,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2581847",
+                  "mime_type": "application\/pdf",
+                  "hash": "9b238cd26a6610697c64422f0a63ac59",
+                  "filesize": 1029158,
+                  "filename": "programming_the_iot_postprint.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2017-11-21",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1328122",
+            "original_docid": 177615,
+            "main": "programming_the_iot_postprint.pdf",
+            "format": "application\/pdf",
+            "docid": 1328122,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1329915"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "programming_the_iot_postprint.pdf"
+          }
+      ],
+      "upddate": "2018-02-28 08:07:26",
+      "keywords": [
+        "trigger-action programming",
+        "ontology",
+        "end-user development",
+        "internet of things",
+        "semantic web"
+      ],
+      "pagerange": "18-24",
+      "publisher": "IEEE",
+      "irisid": 171781,
+      "publisher_review": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
+      "datestamp": "2017-11-15 11:21:24",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2691911",
+      "publication": "COMPUTER",
+      "abstract": "End-user programming environments for the IoT such as IFTTT rely on a multitude of low-level trigger-action rules that categorize devices and services by technology or brand. EUPont is a Semantic Web ontology that enables users to meet their needs with fewer, higher-level rules that can be adapted to different contextual situations and as-yet-unknown IoT devices and services.",
+      "type": "article",
+      "title": "A Semantic Web Approach to Simplifying Trigger-Action Programming in the IoT",
+      "scopus": {
+        "cluster": "2-s2.0-85034964026",
+        "datestamp": "2018-03-02 03:33:55",
+        "impact": 0
+      },
+      "pages": 7,
+      "types": "TYPES2",
+      "number": 11,
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "0018-9162",
+      "rev_number": 37,
+      "dir": "disk0\/02\/69\/19\/11",
+      "creators": [
+        {
+          "name": {
+            "lineage": 40637,
+            "given": "Alberto",
+            "honourific": null,
+            "family": "Monge Roffarello"
+          },
+          "id": 40637
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        }
+      ],
+      "lastmod": "2018-03-04 22:23:08",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/MC.2017.4041355",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-11-15 11:24:54",
+      "language": [
+        "en"
+      ],
+      "volume": 50,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi",
+      "eprintid": 2648065,
+      "wos": {
+        "cluster": 396401700007,
+        "datestamp": "2018-02-26 04:24:04",
+        "impact": 0
+      },
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2648065,
+            "insert_date": "2016-09-12 12:39:16",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-12 12:39:16",
+                  "datasetid": "document",
+                  "fileid": 2183716,
+                  "objectid": 1091748,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2183716",
+                  "mime_type": "application\/pdf",
+                  "hash": "219c24432969816e1b3b69d49a232d52",
+                  "filesize": 275988,
+                  "filename": "amicourse_FINAL.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2016-09-13",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1091748",
+            "original_docid": 120876,
+            "main": "amicourse_FINAL.pdf",
+            "format": "application\/pdf",
+            "docid": 1091748,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1092475"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "amicourse_FINAL.pdf"
+          },
+          {
+            "placement": 2,
+            "eprintid": 2648065,
+            "insert_date": "2017-02-03 09:58:15",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-02-03 09:58:15",
+                  "datasetid": "document",
+                  "fileid": 2183720,
+                  "objectid": 1091751,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2183720",
+                  "mime_type": "application\/pdf",
+                  "hash": "99e3894fc693db974e4c456616afd227",
+                  "filesize": 1194441,
+                  "filename": "published_paper_07582358.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 1,
+            "pos": 2,
+            "language": "it",
+            "license": "not_public",
+            "main": "published_paper_07582358.pdf",
+            "original_docid": 143456,
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1091751",
+            "format": "application\/pdf",
+            "docid": 1091751,
+            "security": "staffonly",
+            "formatdesc": "published_paper_07582358.pdf"
+          }
+      ],
+      "upddate": "2017-02-03 09:58:46",
+      "keywords": [
+        "project-based learning",
+        "ambient intelligence",
+        "computer engineering",
+        "computing skills",
+        "multidisciplinary teams",
+        "internet of things",
+        "multidisciplinary teams",
+        "internet of things",
+        "project-based learning",
+        "ambient intelligence",
+        "computer engineering",
+        "computing skills"
+      ],
+      "pagerange": "40-49",
+      "publisher": "IEEE",
+      "irisid": 125211,
+      "publisher_review": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
+      "datestamp": "2016-09-12 12:31:17",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2648065",
+      "publication": "IEEE TRANSACTIONS ON EDUCATION",
+      "abstract": "The increasing complexity of the new breed of distributed intelligent systems, such as the Internet of Things (IoT), which require a diversity of languages and protocols, can only be tamed with design and programming best practices. Interest is also growing for including the human factor, as advocated by the Ambient Intelligence (AmI) research ﬁeld, whose focus is on transparently and intelligently supporting people. These new design methodologies are increasingly needed in the toolbox of new electronic and computer engineers, and teaching strategies should be devised that allow students to acquire a systems-level view instead of getting lost in technology-oriented approaches. This paper describes a study carried out over two academic years, in a course in ambient intelligence at Politecnico di Torino, Italy. In the course, a project-based learning approach was adopted, in which students design and prototype an AmI system, and their progress is closely monitored throughout the semester. The paper presents the learning goals and teaching strategies, analyzes the learning outcomes from the qualitative and quantitative points of view, and highlights the lessons learned in the process",
+      "type": "article",
+      "title": "Training Engineers for the Ambient Intelligence Challenge",
+      "scopus": {
+        "cluster": "2-s2.0-85012005615",
+        "datestamp": "2018-02-26 04:30:47",
+        "impact": 2
+      },
+      "pages": 10,
+      "types": "TYPES2",
+      "number": 1,
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "0018-9359",
+      "rev_number": 30,
+      "dir": "disk0\/02\/64\/80\/65",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        }
+      ],
+      "lastmod": "2017-02-06 23:03:19",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/TE.2016.2608785",
+      "proprietary": {
+        "name": {
+          "lineage": 2154,
+          "given": "Fulvio",
+          "honourific": null,
+          "family": "Corno"
+        },
+        "id": 2154
+      },
+      "eprint_status": "archive",
+      "status_changed": "2016-09-12 14:39:16",
+      "language": [
+        "en"
+      ],
+      "volume": 60,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "related_url": [
+        {
+          "url": "http:\/\/ieeexplore.ieee.org\/document\/7582358\/"
+        }
+      ],
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Montanaro, Teodoro",
+      "eprintid": 2673059,
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2673059,
+            "insert_date": "2017-10-06 11:12:33",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-10-06 11:12:33",
+                  "datasetid": "document",
+                  "fileid": 2350802,
+                  "objectid": 1191867,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2350802",
+                  "mime_type": "application\/pdf",
+                  "hash": "1c6837339d364aae05c8e6ed4b7ab768",
+                  "filesize": 762663,
+                  "filename": "2017_eics_latebreaking_XDNtool.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2017-10-06",
+            "pos": 1,
+            "language": "it",
+            "license": "not_public",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1191867",
+            "original_docid": 167046,
+            "main": "2017_eics_latebreaking_XDNtool.pdf",
+            "format": "application\/pdf",
+            "docid": 1191867,
+            "security": "staffonly",
+            "copyright_operator": "MN",
+            "formatdesc": "2017_eics_latebreaking_XDNtool.pdf"
+          },
+          {
+            "disclaimer": "acm_proc",
+            "placement": 2,
+            "eprintid": 2673059,
+            "insert_date": "2017-10-06 11:12:58",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-10-06 11:12:58",
+                  "datasetid": "document",
+                  "fileid": 2350804,
+                  "objectid": 1191868,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2350804",
+                  "mime_type": "application\/pdf",
+                  "hash": "b52cfe8a262dbd977da8cd4cee0f9207",
+                  "filesize": 762662,
+                  "filename": "postprint_draft.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 3,
+            "copyright_date": "2017-10-09",
+            "copyright_note": "Email autore 6\/10\/2017",
+            "pos": 2,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1191868",
+            "original_docid": 167164,
+            "main": "postprint_draft.pdf",
+            "format": "application\/pdf",
+            "docid": 1191868,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1192978"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "postprint_draft.pdf"
+          }
+      ],
+      "upddate": "2017-10-06 11:12:59",
+      "keywords": [
+        "api",
+        "cross-device",
+        "framework",
+        "notifications",
+        "developer"
+      ],
+      "isbn": "978-1-4503-5083-9",
+      "pagerange": "57-62",
+      "publisher": "ACM",
+      "event_title": "The 9th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+      "irisid": 151767,
+      "event_dates": "June 26-29, 2017",
+      "book_title": "Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '17)",
+      "datestamp": "2017-05-26 11:46:13",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2673059",
+      "event_location": "Lisbon (Portugal)",
+      "abstract": "As notifications become part of people's lives, their importance often depends on various factors that can influence the reaction and the disruption of recipients. The generation and the distribution of notifications should be carefully designed every time a new application or smart device is devised. This paper presents XDN (Cross Device Notification), a framework to assist developers in creating cross-device notifications by scripting. XDN provides a set of high-level APIs, based on JavaScript, for designing personalized notifications to be distributed among ad-hoc sets of end-user devices. Developers are also supported in implementing and testing notification strategies thanks to a web-based integrated environment. We present a use case, representative of a realistic application, to demonstrate the functionality and the applicability of the framework.",
+      "type": "conference_item",
+      "title": "XDN: Cross-Device Framework for Custom Notifications Management",
+      "scopus": {
+        "cluster": "2-s2.0-85033226806",
+        "datestamp": "2018-02-27 05:27:49",
+        "impact": 0
+      },
+      "pages": 6,
+      "place_of_pub": "New York, NY",
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 15,
+      "dir": "disk0\/02\/67\/30\/59",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 36541,
+            "given": "Teodoro",
+            "honourific": null,
+            "family": "Montanaro"
+          },
+          "id": 36541
+        }
+      ],
+      "lastmod": "2017-10-10 12:25:29",
+      "ispublished": "pub",
+      "openaire": 1,
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/3102113.3102127",
+      "eprint_status": "archive",
+      "status_changed": "2017-05-27 02:09:07",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
       "authors_string": "Aced López, Sebastián; Corno, Fulvio; De Russis, Luigi",
       "eprintid": 2636642,
       "date": 2016,
@@ -65,6 +1680,11 @@
       "abstract": "Children that rely on the use of single switches to access electronic devices, due to physical impairments, can play dynamic video games as their normally developing peers thanks to GNomon: one of the first framework for creating dynamic one-switch video games. However, children with physical impairments that also have cognitive disabilities find additional difficulties in using the current GNomon-based interface. To compensate these difficulties, the \\\"classical\\\" GNomon widget must be rethought and simplified. This paper proposes a parallel between three different widgets specifically designed for GNomon-based interfaces. Each widget employs metaphor in a different way and it has been evaluated with six children with motor and cognitive disabilities. The results are encouraging: a widget, based on the \\\"big and small\\\" concept, is preferred by children and is a candidate to make single-switch games easier to approach",
       "type": "conference_item",
       "title": "Clocks, Bars and Balls: Design and Evaluation of Alternative GNomon Widgets for Children with Disabilities",
+      "scopus": {
+        "cluster": "2-s2.0-85014670176",
+        "datestamp": "2018-02-25 04:50:39",
+        "impact": 1
+      },
       "pages": 7,
       "place_of_pub": "New York, NY, USA",
       "types": "TYPES8",
@@ -106,6 +1726,7 @@
       ],
       "lastmod": "2016-05-13 04:15:32",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -133,8 +1754,418 @@
       ]
     },
     {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Bonino, Dario",
+      "eprintid": 2621928,
+      "wos": {
+        "cluster": 390431300008,
+        "datestamp": "2018-02-24 05:04:46",
+        "impact": 0
+      },
+      "date": 2016,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2621928,
+            "insert_date": "2016-12-05 15:06:25",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-12-05 15:06:25",
+                  "datasetid": "document",
+                  "fileid": 2192786,
+                  "objectid": 1096842,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2192786",
+                  "mime_type": "application\/pdf",
+                  "hash": "bafb3b1fba107ec62eb318d416dd7406",
+                  "filesize": 739719,
+                  "filename": "IT_ITPro_2015_04_0032.R2_Corno.pdf"
+                }
+            ],
+            "content": "draft",
+            "rev_number": 2,
+            "copyright_date": "2015-11-30",
+            "copyright_note": "Riaperto 6\/12\/2016 Non trovo editoriale, messo OA e vers. accettata",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1096842",
+            "original_docid": 69701,
+            "main": "IT_ITPro_2015_04_0032.R2_Corno.pdf",
+            "format": "application\/pdf",
+            "docid": 1096842,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1098698"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "IT_ITPro_2015_04_0032.R2_Corno.pdf"
+          },
+          {
+            "placement": 2,
+            "eprintid": 2621928,
+            "insert_date": "2016-12-05 15:04:31",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-12-05 15:04:31",
+                  "datasetid": "document",
+                  "fileid": 2192789,
+                  "objectid": 1096844,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2192789",
+                  "mime_type": "application\/pdf",
+                  "hash": "9f995c03408d71c2a86220223ff28799",
+                  "filesize": 1225689,
+                  "filename": "ITPro_AmICourse_07763720.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 1,
+            "pos": 2,
+            "language": "it",
+            "license": "not_public",
+            "main": "ITPro_AmICourse_07763720.pdf",
+            "original_docid": 135736,
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1096844",
+            "format": "application\/pdf",
+            "docid": 1096844,
+            "security": "staffonly",
+            "formatdesc": "ITPro_AmICourse_07763720.pdf"
+          }
+      ],
+      "upddate": "2017-03-02 15:00:10",
+      "keywords": [
+        "computer engineering",
+        "ambient intelligence",
+        "internet of things",
+        "computer education",
+        "active learning",
+        "active learning",
+        "computer engineering",
+        "ambient intelligence",
+        "internet of things",
+        "computer education"
+      ],
+      "pagerange": "50-57",
+      "publisher": "IEEE Computer Society",
+      "irisid": 95646,
+      "publisher_review": "IEEE Computer Society, Los Alamitos, CA",
+      "datestamp": "2015-10-06 16:21:47",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2621928",
+      "publication": "IT PROFESSIONAL",
+      "abstract": "The increasing popularity and complexity of the Internet of Things (IoT) requires engineers to master various languages and protocols. Interest is also growing in the human factors for transparently and intelligently supporting people with these new IoT systems. New design methodologies are increasingly needed in the toolbox of new electronic and computer engineers, and teaching strategies must allow students to acquire a systems-level view. This article describes the experience of a university undergraduate course in ambient intelligence (AmI) at Politecnico di Torino, Italy. In the course, through a project-based learning approach, students design and prototype an AmI system, and their progress is closely monitored throughout the semester. The article presents the course organization and its main results, including the relationship with industry stakeholders that collaborated in the course delivery.",
+      "type": "article",
+      "title": "Educating Internet of Things Professionals: The Ambient Intelligence Course",
+      "scopus": {
+        "cluster": "2-s2.0-85014640011",
+        "datestamp": "2018-02-24 05:30:39",
+        "impact": 1
+      },
+      "pages": 8,
+      "types": "TYPES2",
+      "number": 6,
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "1520-9202",
+      "rev_number": 84,
+      "dir": "disk0\/02\/62\/19\/28",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        }
+      ],
+      "lastmod": "2017-03-09 14:04:46",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/MITP.2016.100",
+      "proprietary": {
+        "name": {
+          "lineage": 2154,
+          "given": "Fulvio",
+          "honourific": null,
+          "family": "Corno"
+        },
+        "id": 2154
+      },
+      "eprint_status": "archive",
+      "status_changed": "2016-12-05 16:06:26",
+      "language": [
+        "en"
+      ],
+      "volume": 18,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "related_url": [
+        {
+          "url": "http:\/\/ieeexplore.ieee.org\/document\/7763720\/"
+        }
+      ],
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Montanaro, Teodoro",
+      "eprintid": 2644262,
+      "wos": {
+        "cluster": 402634702153,
+        "datestamp": "2018-02-25 04:53:56",
+        "impact": 0
+      },
+      "date": 2016,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2644262,
+            "insert_date": "2016-08-26 09:28:54",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-26 09:28:54",
+                  "datasetid": "document",
+                  "fileid": 2187340,
+                  "objectid": 1093931,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2187340",
+                  "mime_type": "application\/pdf",
+                  "hash": "a6c44518a182765c09a7c470e07cb4bf",
+                  "filesize": 446389,
+                  "filename": "PID4321083.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 1,
+            "copyright_date": "2016-08-24",
+            "copyright_note": "invio mail 25-08-2016 :ctrl preprint, togliere prezzo, copyr e isbn",
+            "pos": 1,
+            "language": "it",
+            "license": "not_public",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1093931",
+            "original_docid": 115381,
+            "main": "PID4321083.pdf",
+            "format": "application\/pdf",
+            "docid": 1093931,
+            "security": "staffonly",
+            "copyright_operator": "MGD",
+            "formatdesc": "PID4321083.pdf"
+          },
+          {
+            "placement": 2,
+            "eprintid": 2644262,
+            "insert_date": "2016-08-26 11:05:49",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-26 11:05:49",
+                  "datasetid": "document",
+                  "fileid": 2187343,
+                  "objectid": 1093933,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2187343",
+                  "mime_type": "application\/pdf",
+                  "hash": "ec0ae806cc47f4f3a1e35675ddec2af7",
+                  "filesize": 441461,
+                  "filename": "SMC2016_CornoDeRussisMontanaro.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2016-08-29",
+            "pos": 2,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1093933",
+            "original_docid": 118865,
+            "main": "SMC2016_CornoDeRussisMontanaro.pdf",
+            "format": "application\/pdf",
+            "docid": 1093933,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1094166"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "SMC2016_CornoDeRussisMontanaro.pdf"
+          },
+          {
+            "placement": 3,
+            "eprintid": 2644262,
+            "insert_date": "2017-02-16 10:38:31",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-02-16 10:38:31",
+                  "datasetid": "document",
+                  "fileid": 2187346,
+                  "objectid": 1093935,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2187346",
+                  "mime_type": "application\/pdf",
+                  "hash": "3d6c57d9e2b012b0777140cd5f60ccfc",
+                  "filesize": 545010,
+                  "filename": "smc2016_published.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 1,
+            "pos": 3,
+            "language": "it",
+            "license": "not_public",
+            "main": "smc2016_published.pdf",
+            "original_docid": 144038,
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1093935",
+            "format": "application\/pdf",
+            "docid": 1093935,
+            "security": "staffonly",
+            "formatdesc": "smc2016_published.pdf"
+          }
+      ],
+      "upddate": "2017-02-16 10:39:41",
+      "keywords": [
+        "estimation",
+        "global positioning system",
+        "machine learning algorithms",
+        "receivers",
+        "sensors",
+        "batteries",
+        "decision trees",
+        "machine learning application",
+        "decision trees",
+        "user meaningful places estimation",
+        "low-energy location"
+      ],
+      "isbn": "978-1-5090-1897-0",
+      "pagerange": "003039-003044",
+      "publisher": "IEEE",
+      "event_title": "SMC 2016: IEEE International Conference on Systems, Man, and Cybernetics",
+      "irisid": 120708,
+      "event_dates": "9-12 October, 2016",
+      "book_title": "IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2016",
+      "datestamp": "2016-06-21 17:11:08",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2644262",
+      "event_location": "Budapest",
+      "abstract": "Due to the increasing spread of location-aware applications, developers interest in user location estimation has grown in recent years. As users spend the majority of their time in few meaningful places (i.e., groups of near locations that can be considered as a unique place, such as home, school or the workplace), this paper presents a new energy efficient method to estimate user presence in a meaningful place. Specifically, instead of using commonly used but energy hungry methods such as GPS and network positioning techniques, the proposed method applies a Machine Learning algorithm based on Decision Trees, to predict the user presence in a meaningful place by collecting and analyzing: a) user activity, b) information from received notifications (receipt time, generating service, sender-receiver relationship), and c) device status (battery level and ringtone mode). The results demonstrate that, using 20 days of training data and testing the system with data coming from 14 persons, the accuracy (percentage of correct predictions) is 89.40% (standard deviation: 8.27%) with a precision of 89.04% and a recall of 89.40%. Furthermore, the paper analyzes the importance of each considered feature, by comparing the prediction accuracy obtained with different combinations of features.",
+      "type": "conference_item",
+      "title": "Estimate User Meaningful Places through Low-Energy Mobile Sensing",
+      "scopus": {
+        "cluster": "2-s2.0-85015745974",
+        "datestamp": "2018-02-25 05:21:05",
+        "impact": 0
+      },
+      "pages": 6,
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 25,
+      "dir": "disk0\/02\/64\/42\/62",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 36541,
+            "given": "Teodoro",
+            "honourific": null,
+            "family": "Montanaro"
+          },
+          "id": 36541
+        }
+      ],
+      "lastmod": "2017-02-19 05:49:14",
+      "ispublished": "pub",
+      "openaire": 1,
+      "proprietary": {
+        "name": {
+          "lineage": 2154,
+          "given": "Fulvio",
+          "honourific": null,
+          "family": "Corno"
+        },
+        "id": 2154
+      },
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/SMC.2016.7844703",
+      "eprint_status": "archive",
+      "status_changed": "2016-08-26 12:19:35",
+      "language": [
+        "en"
+      ],
+      "volume": "2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "related_url": [
+        {
+          "url": "http:\/\/ieeexplore.ieee.org\/stamp\/stamp.jsp?tp=&arnumber=7844703&isnumber=7844217"
+        }
+      ],
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
       "authors_string": "Corno, Fulvio; De Russis, Luigi; Monge Roffarello, Alberto",
       "eprintid": 2638601,
+      "wos": {
+        "cluster": 389533300045,
+        "datestamp": "2018-02-25 04:38:42",
+        "impact": 2
+      },
       "date": 2016,
       "documents": [
           {
@@ -200,8 +2231,8 @@
       "title": "A Healthcare Support System for Assisted Living Facilities: an IoT Solution",
       "scopus": {
         "cluster": "2-s2.0-84988000953",
-        "datestamp": "2016-09-30 04:33:13",
-        "impact": 0
+        "datestamp": "2018-02-25 04:57:08",
+        "impact": 4
       },
       "pages": 9,
       "types": "TYPES8",
@@ -243,6 +2274,7 @@
       ],
       "lastmod": "2016-06-15 08:59:41",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1109\/COMPSAC.2016.29",
       "proprietary": {
@@ -272,6 +2304,11 @@
     {
       "authors_string": "De Russis, Luigi; Farinetti, Laura; Taddeo, Gabriella",
       "eprintid": 2638970,
+      "wos": {
+        "cluster": 389533300099,
+        "datestamp": "2018-02-25 04:39:17",
+        "impact": 0
+      },
       "date": 2016,
       "upddate": "2016-06-13 11:05:22",
       "keywords": [
@@ -295,7 +2332,7 @@
       "title": "Learning the Social Web: a Multidisciplinary Approach",
       "scopus": {
         "cluster": "2-s2.0-84988025751",
-        "datestamp": "2016-09-30 04:34:21",
+        "datestamp": "2018-02-25 04:58:08",
         "impact": 0
       },
       "pages": 6,
@@ -337,6 +2374,7 @@
       ],
       "lastmod": "2016-06-15 03:34:37",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/COMPSAC.2016.148",
       "proprietary": {
@@ -404,6 +2442,7 @@
       ],
       "lastmod": "2016-01-08 04:01:17",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/2845159",
       "proprietary": {
@@ -417,10 +2456,10 @@
       },
       "eprint_status": "archive",
       "status_changed": "2016-01-06 03:31:32",
-      "volume": 22,
       "language": [
         "en"
       ],
+      "volume": 22,
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
@@ -431,7 +2470,7 @@
       "eprintid": 2620664,
       "wos": {
         "cluster": 380614200093,
-        "datestamp": "2016-10-30 04:18:12",
+        "datestamp": "2018-02-24 04:59:45",
         "impact": 0
       },
       "date": 2015,
@@ -458,7 +2497,7 @@
       "title": "Can We Make Dynamic, Accessible and Fun One-Switch Video Games?",
       "scopus": {
         "cluster": "2-s2.0-84962653798",
-        "datestamp": "2016-10-30 04:19:29",
+        "datestamp": "2018-02-24 05:21:54",
         "impact": 0
       },
       "pages": 2,
@@ -501,6 +2540,7 @@
       ],
       "lastmod": "2015-11-05 16:54:38",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/2700648.2811333",
       "proprietary": {
@@ -532,8 +2572,8 @@
       "eprintid": 2627751,
       "wos": {
         "cluster": 380567200114,
-        "datestamp": "2016-10-30 04:40:24",
-        "impact": 0
+        "datestamp": "2018-02-25 04:24:22",
+        "impact": 1
       },
       "date": 2015,
       "documents": [
@@ -546,9 +2586,9 @@
                   "hash_type": "MD5",
                   "mtime": "2016-01-12 11:37:18",
                   "datasetid": "document",
-                  "fileid": 1628993,
-                  "objectid": 772945,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1628993",
+                  "fileid": 2445197,
+                  "objectid": 1246569,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2445197",
                   "mime_type": "application\/pdf",
                   "hash": "1ccc4b280951261851933be7f6a8aa24",
                   "filesize": 256310,
@@ -556,28 +2596,28 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 9,
+            "rev_number": 2,
             "copyright_date": "2016-02-02",
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/772945",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1246569",
             "original_docid": 82109,
             "main": "smartnotifications_preprint.pdf",
             "format": "application\/pdf",
-            "docid": 772945,
+            "docid": 1246569,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/935217"
+                "uri": "\/id\/document\/1254363"
               }
             ],
             "copyright_operator": "MGD",
             "formatdesc": "smartnotifications_preprint.pdf"
           }
       ],
-      "upddate": "2016-01-27 20:30:35",
+      "upddate": "2017-11-27 16:20:07",
       "keywords": [
         "notifications",
         "machine learning",
@@ -589,16 +2629,16 @@
       "irisid": 96032,
       "event_dates": "14-16 December 2015",
       "book_title": "Internet of Things (WF-IoT), 2015 IEEE 2nd World Forum on",
-      "datestamp": "2016-01-27 21:30:34",
+      "datestamp": "2015-10-12 09:33:43",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2627751",
       "event_location": "Milan, Italy",
-      "abstract": "Nowadays, notifications are increasingly gaining momentum in our society. New smart devices and appliances are developed everyday with the ability to generate, send and show messages about their status, acquired data and\/or information received from other devices and users. Consequently, the number of notifications received by a user is growing and the tolerance to them could decrease in a short time. This paper presents a smart notification system that uses machine learning algorithms to adequately manage incoming notifications. According to context awareness and user habits, the system decides: a) who should receive an incoming notification; b) what is the best moment to show the notification to the chosen user(s); c) on which device(s) the chosen user(s) should receive the notification; d) which is the best way to notify the incoming notification. After the design of a general architecture, as a first step in building such a system, three different machine learning algorithms were compared in the task of establishing the best device on which the incoming notification should be delivered. The algorithms were applied to a dataset derived from real data provided by the MIT Media Laboratory Reality Mining project, enriched with additional synthetic information",
+      "abstract": "Nowadays, notifications are increasingly gaining momentum in our society. New smart devices and appliances are developed everyday with the ability to generate, send and show messages about their status, acquired data and\/or information received from other devices and users. Consequently, the number of notifications received by a user is growing and the tolerance to them could decrease in a short time. This paper presents a smart notification system that uses machine learning algorithms to adequately manage incoming notifications. According to context awareness and user habits, the system decides: a) who should receive an incoming notification; b) what is the best moment to show the notification to the chosen user(s); c) on which device(s) the chosen user(s) should receive the notification; d) which is the best way to notify the incoming notification. After the design of a general architecture, as a first step in building such a system, three different machine learning algorithms were compared in the task of establishing the best device on which the incoming notification should be delivered. The algorithms were applied to a dataset derived from real data provided by the MIT Media Laboratory Reality Mining project, enriched with additional synthetic information.",
       "type": "conference_item",
       "title": "A Context and User Aware Smart Notification System",
       "scopus": {
         "cluster": "2-s2.0-84964465721",
-        "datestamp": "2016-09-30 03:16:31",
-        "impact": 0
+        "datestamp": "2018-02-25 04:32:22",
+        "impact": 7
       },
       "pages": 7,
       "types": "TYPES8",
@@ -607,9 +2647,18 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 23,
+      "rev_number": 54,
       "dir": "disk0\/02\/62\/77\/51",
       "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
         {
           "name": {
             "lineage": 25734,
@@ -627,19 +2676,11 @@
             "family": "Montanaro"
           },
           "id": 36541
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
         }
       ],
-      "lastmod": "2016-06-21 11:03:10",
+      "lastmod": "2017-11-29 13:04:06",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1109\/WF-IoT.2015.7389130",
       "proprietary": {
@@ -671,8 +2712,8 @@
       "eprintid": 2586167,
       "wos": {
         "cluster": 351801900001,
-        "datestamp": "2016-09-28 03:31:15",
-        "impact": 0
+        "datestamp": "2018-02-23 05:17:27",
+        "impact": 1
       },
       "date": 2015,
       "documents": [
@@ -695,11 +2736,10 @@
                 }
             ],
             "content": "published",
-            "rev_number": 2,
+            "rev_number": 5,
             "copyright_date": "2016-05-03",
             "original_note": "Il Gruppo Copyright ha modificato la tipologia di Licenza da Pubblico - Tutti i diritti riservati a Licenza CC by-nc-nd e il tipo di allegato da Pre-print a Post-print e ha inserito una data di embargo in conformità alla policy dell'editore",
             "copyright_note": "SCRITTO PER INFO: PRE O POSTPRINT= l'autore dice che è un postprint. inserito embargo e cc-by-nc-nd",
-            "date_embargo": "2017-01-29",
             "pos": 1,
             "language": "it",
             "license": "cc_by_nc_nd",
@@ -712,7 +2752,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/897944"
+                "uri": "\/id\/document\/1092556"
               }
             ],
             "copyright_operator": "MN",
@@ -737,8 +2777,8 @@
       "title": "Design Recommendations for Smart Energy Monitoring: a Case Study in Italy",
       "scopus": {
         "cluster": "2-s2.0-84983273956",
-        "datestamp": "2016-10-28 04:37:47",
-        "impact": 0
+        "datestamp": "2018-02-23 05:40:14",
+        "impact": 2
       },
       "pages": 9,
       "types": "TYPES2",
@@ -748,7 +2788,7 @@
         "USER_D1010"
       ],
       "issn": "0378-7788",
-      "rev_number": 25,
+      "rev_number": 27,
       "dir": "disk0\/02\/58\/61\/67",
       "creators": [
         {
@@ -770,8 +2810,9 @@
           "id": 25734
         }
       ],
-      "lastmod": "2016-05-06 08:20:44",
+      "lastmod": "2017-02-07 03:36:16",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.enbuild.2015.01.031",
       "proprietary": {
@@ -789,7 +2830,7 @@
         "en"
       ],
       "volume": 91,
-      "full_text_status": "restricted",
+      "full_text_status": "public",
       "referee": "REF_1",
       "refereed": 1,
       "divisions": [
@@ -902,6 +2943,7 @@
       ],
       "lastmod": "2015-11-28 05:43:31",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s40860-015-0001-7",
       "proprietary": {
@@ -953,7 +2995,7 @@
                 }
             ],
             "content": "published",
-            "rev_number": 16,
+            "rev_number": 18,
             "copyright_date": "2015-02-26",
             "copyright_note": "Copyright is held by the owner\/author(s).CHI'15 Extended Abstracts, Apr 18-23, 2015, Seoul, Republic of Korea",
             "pos": 1,
@@ -968,7 +3010,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/935518"
+                "uri": "\/id\/document\/1052804"
               }
             ],
             "copyright_operator": "MN",
@@ -998,8 +3040,8 @@
       "title": "GNomon: Enabling Dynamic One-Switch Games for Children with Severe Motor Disabilities",
       "scopus": {
         "cluster": "2-s2.0-84954210169",
-        "datestamp": "2016-10-28 04:44:03",
-        "impact": 0
+        "datestamp": "2018-02-23 05:44:47",
+        "impact": 4
       },
       "pages": 6,
       "types": "TYPES8",
@@ -1008,7 +3050,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 27,
+      "rev_number": 29,
       "dir": "disk0\/02\/58\/82\/19",
       "creators": [
         {
@@ -1039,8 +3081,9 @@
           "id": 25734
         }
       ],
-      "lastmod": "2016-06-22 05:46:19",
+      "lastmod": "2016-11-15 13:46:23",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -1137,8 +3180,8 @@
       "title": "HomeRules: A Tangible End-User Programming Interface for Smart Homes",
       "scopus": {
         "cluster": "2-s2.0-84954289172",
-        "datestamp": "2016-10-28 04:43:55",
-        "impact": 1
+        "datestamp": "2018-02-23 05:44:41",
+        "impact": 9
       },
       "pages": 6,
       "types": "TYPES8",
@@ -1171,6 +3214,7 @@
       ],
       "lastmod": "2015-04-21 13:49:23",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -1203,7 +3247,7 @@
       "eprintid": 2582744,
       "wos": {
         "cluster": 348310100009,
-        "datestamp": "2016-09-28 03:24:59",
+        "datestamp": "2018-02-23 05:08:10",
         "impact": 1
       },
       "date": 2015,
@@ -1269,7 +3313,7 @@
       "title": "Interacting with Smart Environments: Users, Interfaces, and Devices",
       "scopus": {
         "cluster": "2-s2.0-84921636929",
-        "datestamp": "2016-10-28 04:25:59",
+        "datestamp": "2018-02-23 05:28:10",
         "impact": 1
       },
       "pages": 2,
@@ -1296,6 +3340,7 @@
       ],
       "lastmod": "2016-05-07 19:41:18",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.3233\/AIS-140294",
       "proprietary": {
@@ -1323,7 +3368,7 @@
       "eprintid": 2570937,
       "wos": {
         "cluster": 365176500025,
-        "datestamp": "2016-07-29 04:12:38",
+        "datestamp": "2018-02-23 04:50:14",
         "impact": 0
       },
       "date": 2015,
@@ -1393,7 +3438,7 @@
       "title": "IoT Meets Caregivers: a Healthcare Support System in Assisted Living Facilities",
       "scopus": {
         "cluster": "2-s2.0-84948760964",
-        "datestamp": "2016-10-28 04:02:55",
+        "datestamp": "2018-02-23 05:03:09",
         "impact": 0
       },
       "pages": 6,
@@ -1437,6 +3482,7 @@
       ],
       "lastmod": "2016-05-07 14:26:11",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -1470,7 +3516,7 @@
       "eprintid": 2610554,
       "wos": {
         "cluster": 378639200045,
-        "datestamp": "2016-10-29 03:45:51",
+        "datestamp": "2018-02-24 04:40:03",
         "impact": 0
       },
       "date": 2015,
@@ -1538,7 +3584,7 @@
       "title": "IoT Meets Exhibition Areas: a Modular Architecture to Improve Proximity Interactions",
       "scopus": {
         "cluster": "2-s2.0-84959042684",
-        "datestamp": "2016-10-29 04:09:17",
+        "datestamp": "2018-02-24 04:54:29",
         "impact": 0
       },
       "pages": 8,
@@ -1581,6 +3627,7 @@
       ],
       "lastmod": "2015-11-25 09:34:35",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1109\/FiCloud.2015.25",
       "proprietary": {
@@ -1613,7 +3660,7 @@
       "eprintid": 2605010,
       "wos": {
         "cluster": 380422800027,
-        "datestamp": "2016-10-29 03:38:04",
+        "datestamp": "2018-02-24 04:32:08",
         "impact": 0
       },
       "date": 2015,
@@ -1684,8 +3731,8 @@
       "title": "Playable One-Switch Video Games for Children with Severe Motor Disabilities Based on GNomon",
       "scopus": {
         "cluster": "2-s2.0-84959051383",
-        "datestamp": "2016-10-29 03:56:23",
-        "impact": 0
+        "datestamp": "2018-02-24 04:41:57",
+        "impact": 3
       },
       "pages": 10,
       "types": "TYPES8",
@@ -1727,6 +3774,7 @@
       ],
       "lastmod": "2016-08-31 15:00:58",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -1759,8 +3807,8 @@
       "eprintid": 2570936,
       "wos": {
         "cluster": 365176500001,
-        "datestamp": "2016-07-29 04:12:38",
-        "impact": 0
+        "datestamp": "2018-02-23 04:50:13",
+        "impact": 1
       },
       "date": 2015,
       "documents": [
@@ -1829,8 +3877,8 @@
       "title": "PowerOnt: An Ontology-based Approach for Power Consumption Estimation in Smart Homes",
       "scopus": {
         "cluster": "2-s2.0-84948757014",
-        "datestamp": "2016-10-28 04:02:51",
-        "impact": 0
+        "datestamp": "2018-02-23 05:03:05",
+        "impact": 1
       },
       "pages": 6,
       "types": "TYPES8",
@@ -1873,6 +3921,7 @@
       ],
       "lastmod": "2016-05-17 00:38:26",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -1906,51 +3955,60 @@
       "eprintid": 2582743,
       "wos": {
         "cluster": 350366500011,
-        "datestamp": "2016-09-28 03:24:59",
-        "impact": 0
+        "datestamp": "2018-02-23 05:08:09",
+        "impact": 3
       },
       "date": 2015,
       "documents": [
           {
             "placement": 1,
             "eprintid": 2582743,
-            "insert_date": "2015-10-29 12:10:58",
+            "insert_date": "2017-10-13 13:57:07",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2015-10-29 12:10:58",
+                  "mtime": "2017-10-13 13:57:07",
                   "datasetid": "document",
-                  "fileid": 1869467,
-                  "objectid": 907744,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1869467",
+                  "fileid": 2357874,
+                  "objectid": 1196194,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2357874",
                   "mime_type": "application\/pdf",
                   "hash": "c7762fba9d79b0259d6b9b9b61b3b102",
                   "filesize": 364701,
                   "filename": "main.pdf"
                 }
             ],
-            "content": "draft",
-            "rev_number": 2,
+            "content": "published",
+            "rev_number": 3,
+            "copyright_date": "2017-10-16",
+            "original_note": "Il Gruppo Copyright ha modificato la licenza da â��Non Pubblicoâ�� a â��Pubblicoâ�� coerentemente alla scelta della policy di accesso: â��Embargo 31\/01\/2015â��, ora â��Visibile a tuttiâ��",
             "pos": 1,
             "language": "it",
-            "license": "not_public",
-            "main": "main.pdf",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1196194",
             "original_docid": 64045,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/907744",
+            "main": "main.pdf",
             "format": "application\/pdf",
-            "docid": 907744,
-            "security": "staffonly",
+            "docid": 1196194,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1197936"
+              }
+            ],
+            "copyright_operator": "MN",
             "formatdesc": "main.pdf"
           }
       ],
-      "upddate": "2016-05-10 15:04:10",
+      "upddate": "2017-10-13 13:57:07",
       "keywords": [
-        "assisted living facilities",
-        "healthcare support system",
-        "design guidelines",
         "focus groups",
         "caregivers",
-        "persons with disabilities"
+        "persons with disabilities",
+        "assisted living facilities",
+        "healthcare support system",
+        "design guidelines"
       ],
       "pagerange": "133-144",
       "publisher": "Springer",
@@ -1959,25 +4017,35 @@
       "datestamp": "2014-12-19 11:02:58",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2582743",
       "publication": "UNIVERSAL ACCESS IN THE INFORMATION SOCIETY",
-      "abstract": "Research activities on designing healthcare support systems in the field of ambient assisted living are mainly focused on addressing two problems: improving the quality of life for people in their own homes, especially the elderly, and supporting nurses and physicians in hospitals. However, few papers focus on designing specific systems for supporting caregivers that work with persons with disabilities in the context of assisted living facilities (ALFs). This paper intends to contribute to filling this gap and presents a series of guidelines for designing systems that could effectively support caregivers in tasks such as monitoring ALF inhabitants, attending to their assistance requests and managing notes and reminders regarding daily activities. These design guidelines derive from the qualitative analysis of a comprehensive user study, carried out in northern Italy, of three focus groups conducted with a total of 30 caregivers in three different ALFs for persons with physical and cognitive disabilities",
+      "abstract": "Research activities on designing healthcare support systems in the field of ambient assisted living are mainly focused on addressing two problems: improving the quality of life for people in their own homes, especially the elderly, and supporting nurses and physicians in hospitals. However, few papers focus on designing specific systems for supporting caregivers that work with persons with disabilities in the context of assisted living facilities (ALFs). This paper intends to contribute to filling this gap and presents a series of guidelines for designing systems that could effectively support caregivers in tasks such as monitoring ALF inhabitants, attending to their assistance requests and managing notes and reminders regarding daily activities. These design guidelines derive from the qualitative analysis of a comprehensive user study, carried out in northern Italy, of three focus groups conducted with a total of 30 caregivers in three different ALFs for persons with physical and cognitive disabilities.",
       "type": "article",
       "title": "Supporting Caregivers in Assisted Living Facilities for Persons with Disabilities: a User Study",
       "scopus": {
         "cluster": "2-s2.0-84925538136",
-        "datestamp": "2016-10-28 04:25:57",
-        "impact": 1
+        "datestamp": "2018-02-23 05:28:07",
+        "impact": 5
       },
       "pages": 12,
       "types": "TYPES2",
       "number": 1,
+      "twitted": 1,
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
       "issn": "1615-5289",
-      "rev_number": 14,
+      "rev_number": 22,
       "dir": "disk0\/02\/58\/27\/43",
       "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
         {
           "name": {
             "lineage": 25734,
@@ -1995,19 +4063,11 @@
             "family": "Aced Lopez"
           },
           "id": 27070
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
         }
       ],
-      "lastmod": "2016-05-12 03:46:52",
+      "lastmod": "2017-10-19 09:05:47",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s10209-014-0400-1",
       "proprietary": {
@@ -2025,7 +4085,7 @@
         "en"
       ],
       "volume": 14,
-      "full_text_status": "restricted",
+      "full_text_status": "public",
       "referee": "REF_1",
       "refereed": 1,
       "divisions": [
@@ -2060,7 +4120,7 @@
                 }
             ],
             "content": "thesis",
-            "rev_number": 40,
+            "rev_number": 42,
             "pos": 1,
             "language": "it",
             "license": "cc_by_nc",
@@ -2073,7 +4133,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/928412"
+                "uri": "\/id\/document\/1074118"
               }
             ],
             "formatdesc": "DeRussis_PhD_Thesis"
@@ -2101,7 +4161,7 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 60,
+      "rev_number": 62,
       "dir": "disk0\/02\/53\/68\/87",
       "creators": [
         {
@@ -2114,8 +4174,9 @@
           "id": 25734
         }
       ],
-      "lastmod": "2016-06-07 00:17:19",
+      "lastmod": "2016-12-10 10:30:02",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.6092\/polito\/porto\/2536887",
       "proprietary": {
@@ -2154,8 +4215,8 @@
       "eprintid": 2506317,
       "wos": {
         "cluster": 341569300010,
-        "datestamp": "2016-10-25 04:07:25",
-        "impact": 2
+        "datestamp": "2018-02-21 04:35:36",
+        "impact": 3
       },
       "date": 2014,
       "documents": [
@@ -2213,8 +4274,8 @@
       "title": "JEERP: Energy Aware Enterprise Resource Planning",
       "scopus": {
         "cluster": "2-s2.0-84906269891",
-        "datestamp": "2016-10-25 04:38:01",
-        "impact": 1
+        "datestamp": "2018-02-21 04:49:49",
+        "impact": 6
       },
       "pages": 7,
       "types": "TYPES2",
@@ -2258,6 +4319,7 @@
       ],
       "lastmod": "2016-05-04 13:26:13",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1109\/MITP.2013.22",
       "proprietary": {
@@ -2344,14 +4406,19 @@
       "abstract": "The design of smart homes, buildings and environments currently suffers from a low maturity of available methodologies and tools. Technologies, devices and protocols strongly bias the design process towards vertical integration, and more flexible solutions based on separation of design concerns are seldom applied. As a result, the current landscape of smart environments is mostly populated by defectively designed solutions where application requirements (e.g., end-user functionality) are too often mixed and intertwined with technical requirements (e.g., managing the network of devices). A mature and effective design process must, instead, rely on a clear separation between the application layer and the underlying enabling technologies, to enable effective design reuse. The role of smart gateways is to enable this separation of concerns and to provide an abstracted view of available automation technology to higher software layers. This paper presents a blueprint for the information technology (IT) architecture of smart buildings that builds on top of established software engineering practices, such as model-driven development and semantic representation, and that avoids many pitfalls inherent in legacy approaches. The paper will also present a representative use case where the approach has been applied and the corresponding modeling and software tools",
       "type": "article",
       "title": "A Semantics-Rich Information Technology Architecture for Smart Buildings",
+      "scopus": {
+        "cluster": "2-s2.0-84977864453",
+        "datestamp": "2018-02-23 05:07:57",
+        "impact": 3
+      },
       "pages": 31,
       "types": "TYPES2",
       "number": 4,
+      "twitted": 1,
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "twitted": 1,
       "issn": "2075-5309",
       "rev_number": 38,
       "dir": "disk0\/02\/57\/25\/65",
@@ -2386,6 +4453,7 @@
       ],
       "lastmod": "2016-09-27 15:02:51",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.3390\/buildings4040880",
       "proprietary": {
@@ -2473,6 +4541,7 @@
       ],
       "lastmod": "2015-10-09 10:31:09",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1201\/b16014-20",
       "proprietary": {
@@ -2486,10 +4555,10 @@
       },
       "eprint_status": "archive",
       "status_changed": "2012-11-13 15:11:51",
-      "volume": 1,
       "language": [
         "en"
       ],
+      "volume": 1,
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
@@ -2506,15 +4575,15 @@
           {
             "placement": 1,
             "eprintid": 2508526,
-            "insert_date": "2015-10-29 12:07:22",
+            "insert_date": "2017-10-26 11:09:16",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2015-10-09 10:18:59",
+                  "mtime": "2017-10-26 11:09:16",
                   "datasetid": "document",
-                  "fileid": 1512460,
-                  "objectid": 710967,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1512460",
+                  "fileid": 2368795,
+                  "objectid": 1202442,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2368795",
                   "mime_type": "application\/pdf",
                   "hash": "a1b949efd92cc37894d2454c9ea26be5",
                   "filesize": 1800882,
@@ -2522,17 +4591,18 @@
                 }
             ],
             "content": "other",
-            "rev_number": 114,
+            "rev_number": 2,
             "copyright_date": "2014-12-24",
+            "copyright_note": "Riaperto 30\/10\/2017 MN",
             "pos": 1,
             "coverpage": "FALSE",
             "language": "it",
             "license": "cc_by_nc_sa",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/710967",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1202442",
             "original_docid": 60014,
             "main": "Poster.pdf",
             "format": "application\/pdf",
-            "docid": 710967,
+            "docid": 1202442,
             "security": "public",
             "copyright_operator": "MN",
             "formatdesc": "Poster.pdf"
@@ -2540,15 +4610,15 @@
           {
             "placement": 2,
             "eprintid": 2508526,
-            "insert_date": "2015-07-14 12:26:32",
+            "insert_date": "2017-10-26 11:09:16",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2015-10-09 10:19:01",
+                  "mtime": "2017-10-26 11:09:16",
                   "datasetid": "document",
-                  "fileid": 1512463,
-                  "objectid": 710969,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1512463",
+                  "fileid": 2368797,
+                  "objectid": 1202443,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2368797",
                   "mime_type": "application\/pdf",
                   "hash": "043109cecdfcd819c4441aba256c0599",
                   "filesize": 850541,
@@ -2556,29 +4626,28 @@
                 }
             ],
             "content": "published",
-            "rev_number": 112,
-            "copyright_date": "2015-11-13",
-            "copyright_note": "c dell'autore",
+            "rev_number": 3,
+            "copyright_date": "2017-10-30",
             "pos": 2,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/710969",
-            "original_docid": 27141,
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1202443",
+            "original_docid": 171460,
             "main": "dWatch.pdf",
             "format": "application\/pdf",
-            "docid": 710969,
+            "docid": 1202443,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/1004667"
+                "uri": "\/id\/document\/1205285"
               }
             ],
             "copyright_operator": "MN",
             "formatdesc": "dWatch.pdf"
           }
       ],
-      "upddate": "2015-07-14 12:07:53",
+      "upddate": "2017-10-26 11:09:16",
       "keywords": [
         "home automation",
         "smart environments",
@@ -2594,13 +4663,13 @@
       "datestamp": "2013-06-27 09:44:29",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2508526",
       "event_location": "Zurich, Switzerland",
-      "abstract": "This paper addresses human-home interaction mediated by everyday objects, with a particular focus on wrist watches. Everyday wrist-worn devices are turned into flexible home access points by exploiting a modular architecture independent from the underlying home automation system, and from the specific watch device, provided that the necessary capabilities are available. A first working prototype based on a cost-effective consumer watch is presented, and experimental results confirm the viability of the approach",
+      "abstract": "This paper addresses human-home interaction mediated by everyday objects, with a particular focus on wrist watches. Everyday wrist-worn devices are turned into flexible home access points by exploiting a modular architecture independent from the underlying home automation system, and from the specific watch device, provided that the necessary capabilities are available. A first working prototype based on a cost-effective consumer watch is presented, and experimental results confirm the viability of the approach.",
       "type": "conference_item",
       "title": "The Smart Home Controller on Your Wrist",
       "scopus": {
         "cluster": "2-s2.0-84885228678",
-        "datestamp": "2016-10-26 03:33:02",
-        "impact": 2
+        "datestamp": "2018-02-21 05:11:15",
+        "impact": 4
       },
       "pages": 8,
       "place_of_pub": "New York",
@@ -2610,17 +4679,17 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 145,
+      "rev_number": 176,
       "dir": "disk0\/02\/50\/85\/26",
       "creators": [
         {
           "name": {
-            "lineage": 25734,
-            "given": "Luigi",
+            "lineage": 2154,
+            "given": "Fulvio",
             "honourific": null,
-            "family": "De Russis"
+            "family": "Corno"
           },
-          "id": 25734
+          "id": 2154
         },
         {
           "name": {
@@ -2633,18 +4702,17 @@
         },
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 25734,
+            "given": "Luigi",
             "honourific": null,
-            "family": "Corno"
+            "family": "De Russis"
           },
-          "id": 2154
+          "id": 25734
         }
       ],
-      "lastmod": "2016-09-23 20:46:11",
+      "lastmod": "2017-10-31 22:24:24",
       "ispublished": "pub",
-      "metadata_visibility": "show",
-      "id_number": "10.1145\/2494091.2497319",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -2654,6 +4722,8 @@
         },
         "id": 25734
       },
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/2494091.2497319",
       "eprint_status": "archive",
       "status_changed": "2013-09-10 08:09:51",
       "language": [
@@ -2661,6 +4731,8 @@
       ],
       "event_relevance": "I",
       "full_text_status": "public",
+      "referee": "REF_0",
+      "refereed": 1,
       "divisions": [
         "DAUIN"
       ],
@@ -2673,8 +4745,8 @@
       "eprintid": 2465381,
       "wos": {
         "cluster": 301989800044,
-        "datestamp": "2016-10-22 03:36:50",
-        "impact": 20
+        "datestamp": "2018-02-18 04:45:59",
+        "impact": 32
       },
       "date": 2012,
       "documents": [
@@ -2738,8 +4810,8 @@
       "title": "Home Energy Consumption Feedback: A User Survey",
       "scopus": {
         "cluster": "2-s2.0-84857049125",
-        "datestamp": "2016-09-22 03:20:06",
-        "impact": 25
+        "datestamp": "2018-02-18 04:58:41",
+        "impact": 38
       },
       "pages": 11,
       "types": "TYPES2",
@@ -2782,6 +4854,7 @@
       ],
       "lastmod": "2016-05-01 13:38:20",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.enbuild.2011.12.017",
@@ -2867,6 +4940,7 @@
       ],
       "lastmod": "2014-10-29 16:48:56",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/2331042.2331050",
       "proprietary": {
@@ -2880,10 +4954,10 @@
       },
       "eprint_status": "archive",
       "status_changed": "2012-09-26 11:09:18",
-      "volume": 19,
       "language": [
         "en"
       ],
+      "volume": 19,
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
@@ -2894,8 +4968,8 @@
       "eprintid": 2496719,
       "wos": {
         "cluster": 314400700036,
-        "datestamp": "2016-10-23 03:23:45",
-        "impact": 2
+        "datestamp": "2018-02-19 04:23:28",
+        "impact": 3
       },
       "date": 2012,
       "documents": [
@@ -2964,8 +5038,8 @@
       "title": "dWatch: a Personal Wrist Watch for Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84883286759",
-        "datestamp": "2016-10-23 03:31:29",
-        "impact": 6
+        "datestamp": "2018-02-19 04:28:55",
+        "impact": 7
       },
       "pages": 8,
       "types": "TYPES8",
@@ -3008,6 +5082,7 @@
       ],
       "lastmod": "2016-05-26 04:33:15",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -3042,12 +5117,12 @@
       ]
     },
     {
-      "authors_string": "Bonino D., Castellina E., Corno F., De Russis L.",
+      "authors_string": "Bonino D.; Castellina E.; Corno F.; De Russis L.",
       "eprintid": 2425975,
       "wos": {
         "cluster": 297871400013,
-        "datestamp": "2016-10-21 03:52:12",
-        "impact": 4
+        "datestamp": "2018-03-19 04:43:08",
+        "impact": 6
       },
       "date": 2011,
       "documents": [
@@ -3058,11 +5133,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2011-06-17 11:51:09",
+                  "mtime": "2015-10-29 12:02:30",
                   "datasetid": "document",
-                  "fileid": 1112961,
-                  "objectid": 479539,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1112961",
+                  "fileid": 2519734,
+                  "objectid": 1288783,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2519734",
                   "mime_type": "application\/pdf",
                   "hash": "a4ea14a7431443323712ddab5b1a8ec0",
                   "filesize": 4524105,
@@ -3070,36 +5145,36 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 4,
+            "rev_number": 2,
             "copyright_date": "2011-06-23",
             "copyright_note": "Elsevier, ok sia se preprint che draft. Inserito come preprint e segnato come tale anche sull'allegato ma sul nome dell'allegato compare: final accepted paper. Cambiare tipologia in postprint?",
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/479539",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1288783",
             "original_docid": 54636,
             "main": "dogeye.pdf",
             "format": "application\/pdf",
-            "docid": 479539,
+            "docid": 1288783,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/579932"
+                "uri": "\/id\/document\/1306541"
               }
             ],
             "copyright_operator": "MGD",
-            "formatdesc": "DogEye_pre_print_final_accepted_paper_"
+            "formatdesc": "dogeye.pdf"
           }
       ],
-      "upddate": "2013-10-15 13:02:04",
+      "upddate": "2018-01-16 02:30:06",
       "keywords": [
-        "domotics",
-        "human-home interaction",
         "user study",
+        "human-home interaction",
+        "smart homes",
+        "domotics",
         "usability",
-        "user interface",
-        "smart homes"
+        "user interface"
       ],
       "pagerange": "484-498",
       "publisher": "Elsevier",
@@ -3108,13 +5183,13 @@
       "datestamp": "2011-06-16 00:08:36",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2425975",
       "publication": "INTERACTING WITH COMPUTERS",
-      "abstract": "Nowadays home automation, with its increased availability, reliability and with its ever reducing costs is gaining momentum and is starting to become a viable solution for enabling people with disabilities to autonomously interact with their homes and to better communicate with other people. However, especially for people with severe mobility impairments, there is still a lack of tools and interfaces for effective control and interaction with home automation systems, and general-purpose solutions are seldom applicable due to the complexity, asynchronicity, time dependent behavior, and safety concerns typical of the home environment. This paper focuses on user-environment interfaces based on the eye tracking technology, which often is the only viable interaction modality for users as such. We propose an eye-based interface tackling the specific requirements of smart environments, already outlined in a public Recommendation issued by the COGAIN European Network of Excellence. The proposed interface has been implemented as a software prototype based on the ETU universal driver, thus being potentially able to run on a variety of eye trackers, and it is compatible with a wide set of smart home technologies, handled by the Domotic OSGi Gateway. A first interface evaluation, with user testing sessions, has been carried and results show that the interface is quite effective and usable without discomfort by people with almost regular eye movement control",
+      "abstract": "Nowadays home automation, with its increased availability, reliability and with its ever reducing costs is gaining momentum and is starting to become a viable solution for enabling people with disabilities to autonomously interact with their homes and to better communicate with other people. However, especially for people with severe mobility impairments, there is still a lack of tools and interfaces for effective control and interaction with home automation systems, and general-purpose solutions are seldom applicable due to the complexity, asynchronicity, time dependent behavior, and safety concerns typical of the home environment. This paper focuses on user-environment interfaces based on the eye tracking technology, which often is the only viable interaction modality for users as such. We propose an eye-based interface tackling the specific requirements of smart environments, already outlined in a public Recommendation issued by the COGAIN European Network of Excellence. The proposed interface has been implemented as a software prototype based on the ETU universal driver, thus being potentially able to run on a variety of eye trackers, and it is compatible with a wide set of smart home technologies, handled by the Domotic OSGi Gateway. A first interface evaluation, with user testing sessions, has been carried and results show that the interface is quite effective and usable without discomfort by people with almost regular eye movement control.",
       "type": "article",
       "title": "DOGeye: Controlling your Home with Eye Interaction",
       "scopus": {
         "cluster": "2-s2.0-80255126828",
-        "datestamp": "2016-10-21 04:15:47",
-        "impact": 7
+        "datestamp": "2018-03-19 05:07:16",
+        "impact": 8
       },
       "pages": 15,
       "types": "TYPES2",
@@ -3124,7 +5199,7 @@
         "USER_D1010"
       ],
       "issn": "0953-5438",
-      "rev_number": 30,
+      "rev_number": 40,
       "dir": "disk0\/02\/42\/59\/75",
       "creators": [
         {
@@ -3164,8 +5239,9 @@
           "id": 12325
         }
       ],
-      "lastmod": "2015-01-16 04:01:16",
+      "lastmod": "2018-01-19 16:47:28",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.intcom.2011.06.002",
@@ -3179,7 +5255,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2011-09-07 10:09:28",
+      "status_changed": "2015-06-30 17:48:04",
       "language": [
         "en"
       ],
@@ -3286,7 +5362,7 @@
       "title": "A User-Friendly Interface for Rules Composition in Intelligent Environments",
       "scopus": {
         "cluster": "2-s2.0-80053006718",
-        "datestamp": "2016-10-20 04:30:41",
+        "datestamp": "2018-03-18 05:26:12",
         "impact": 5
       },
       "pages": 5,
@@ -3330,6 +5406,7 @@
       ],
       "lastmod": "2016-04-09 11:21:51",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/978-3-642-19937-0_27",
@@ -3363,74 +5440,192 @@
       ]
     },
     {
-      "authors_string": "Fulvio Corno, Luigi De Russis, Dario Bonino",
-      "eprintid": 2621928,
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Monge Roffarello, Alberto",
+      "eprintid": 2693822,
       "documents": [
           {
-            "disclaimer": "ieee",
             "placement": 1,
-            "eprintid": 2621928,
-            "insert_date": "2015-11-12 09:25:01",
+            "eprintid": 2693822,
+            "insert_date": "2017-11-30 08:35:27",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2015-11-12 09:25:01",
+                  "mtime": "2017-11-30 08:35:27",
                   "datasetid": "document",
-                  "fileid": 1538059,
-                  "objectid": 725173,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1538059",
+                  "fileid": 2457945,
+                  "objectid": 1256132,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2457945",
                   "mime_type": "application\/pdf",
-                  "hash": "bafb3b1fba107ec62eb318d416dd7406",
-                  "filesize": 739719,
-                  "filename": "IT_ITPro_2015_04_0032.R2_Corno.pdf"
+                  "hash": "9f2834c4037e2545ab25ec0c751867ce",
+                  "filesize": 2148744,
+                  "filename": "awarenotifications.pdf"
                 }
             ],
-            "content": "accepted",
-            "rev_number": 19,
-            "copyright_date": "2015-11-30",
-            "copyright_note": "Non trovo editoriale, messo OA e vers. accettata",
+            "content": "published",
+            "rev_number": 1,
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/725173",
-            "original_docid": 69701,
-            "main": "IT_ITPro_2015_04_0032.R2_Corno.pdf",
+            "main": "awarenotifications.pdf",
+            "original_docid": 179400,
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1256132",
             "format": "application\/pdf",
-            "docid": 725173,
-            "security": "public",
-            "relation": [
-              {
-                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/995425"
-              }
-            ],
-            "copyright_operator": "MGD",
-            "formatdesc": "IT_ITPro_2015_04_0032.R2_Corno.pdf"
+            "docid": 1256132,
+            "security": "undercontrol",
+            "formatdesc": "awarenotifications.pdf"
           }
       ],
-      "upddate": "2015-11-12 09:25:22",
+      "upddate": "2017-11-30 08:35:28",
       "keywords": [
-        "ambient intelligence, internet of things, computer education, active learning, computer engineering"
+        "notification delivery",
+        "semantic web",
+        "reasoning",
+        "internet of things",
+        "notifications"
       ],
-      "publisher": "IEEE Computer Society",
-      "irisid": 95646,
-      "publisher_review": "IEEE Computer Society, Los Alamitos, CA",
-      "datestamp": "2015-11-13 03:32:04",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2621928",
-      "publication": "IT PROFESSIONAL",
-      "abstract": "The new breed of Internet of Things (IoT) distributed intelligent systems require a diversity of languages and protocols to be adequately designed and implemented, especially if we also consider At the same time, there is a growing interest in including the human factor in IoT systems design, as the focus on transparently and intelligently supporting people, as advocated by the Ambient Intelligence research field. All these new design methodologies and tools are increasingly needed in the toolbox of new computer engineers, and suitable teaching strategies should be devised to allow them to tackle a system-view design approach. This paper describes an experience, developed across two academic years at Politecnico di Torino, with a course in Ambient Intelligence. In the course, a project-based learning approach was adopted, by letting students choose an AmI system to design and prototype, and following their development along the semester",
+      "publisher": "IOS Press",
+      "irisid": 173883,
+      "publisher_review": "Amsterdam: Ios Press",
+      "datestamp": "2017-11-30 08:19:33",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2693822",
+      "publication": "JOURNAL OF AMBIENT INTELLIGENCE AND SMART ENVIRONMENTS",
+      "abstract": "With the increase of connected devices and online services, the number of notifications received by each person is growing. Although notifications are useful to inform users about important information such as new messages and events, the continuous interruptions, the notification duplication, and the rigid delivery can be sources of discomfort. To overcome these issues, we present AwareNotifications, an intelligent system based on user-defined preferences to manage multi-device notifications. AwareNotifications is powered by Semantic Web technologies. By directly exploiting user preferences in the semantic reasoning process, the system is able to identify suitable device(s), modality, and moment(s) to deliver the incoming user notifications. We evaluated AwareNotifications in a user study with 15 participants, in which we compared our system with the \\\"traditional\\\" notification delivery system. The study confirms the perceived effectiveness of AwareNotifications, and provides insights to further improve the system.",
       "type": "article",
-      "title": "Breeding Internet of Things professionals through education: the Ambient Intelligence course",
-      "pages": 9,
+      "title": "AwareNotifications: Multi-Device Semantic Notification Handling with User-Defined Preferences",
+      "pages": 17,
       "types": "TYPES2",
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
+      "issn": "1876-1364",
+      "rev_number": 3,
+      "dir": "disk0\/02\/69\/38\/22",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 40637,
+            "given": "Alberto",
+            "honourific": null,
+            "family": "Monge Roffarello"
+          },
+          "id": 40637
+        }
+      ],
+      "lastmod": "2017-12-02 03:01:48",
+      "ispublished": "inpress",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-12-01 03:07:22",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "restricted",
+      "referee": "REF_1",
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "De Russis, Luigi; Monge Roffarello, Alberto",
+      "eprintid": 2701270,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2701270,
+            "insert_date": "2018-02-27 09:10:46",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-02-27 09:10:46",
+                  "datasetid": "document",
+                  "fileid": 2578796,
+                  "objectid": 1325907,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2578796",
+                  "mime_type": "application\/pdf",
+                  "hash": "3af0eca8335903ef3ef64af974a85ffc",
+                  "filesize": 271715,
+                  "filename": "paper1600.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1325907",
+            "main": "paper1600.pdf",
+            "original_docid": 186795,
+            "format": "application\/pdf",
+            "docid": 1325907,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1329534"
+              }
+            ],
+            "formatdesc": "paper1600.pdf"
+          }
+      ],
+      "upddate": "2018-02-27 09:10:47",
+      "keywords": [
+        "end user development",
+        "trigger-action",
+        "debug",
+        "internet of things"
+      ],
+      "isbn": "978-1-4503-5621-3",
+      "publisher": "ACM",
+      "event_title": "CHI 2018: The 36th Annual CHI Conference on Human Factors in Computing Systems",
+      "irisid": 181399,
+      "event_dates": "April 21–26, 2018",
+      "book_title": "Proceedings of the 2018 CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+      "datestamp": "2018-02-23 08:09:57",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2701270",
+      "event_location": "Montreal, QC (Canada)",
+      "abstract": "Nowadays, end users can customize their technological devices and web applications by means of trigger-action rules, defined through End-User Development (EUD) tools. However, debugging capabilities are important missing features in these tools that limit their large-scale adoption. Problems in trigger-action rules, in fact, can lead to unpredictable behaviors and security issues, e.g., a door that is unexpectedly unlocked. In this paper, we present a novel debugging approach for trigger-action programming. The goal is to assists end users during the composition of trigger-action rules by: a) highlighting possible problems that the rules may generate, and b) allowing their step-by-step simulation. The approach, based on Semantic Web and Petri Nets, has been implemented in a EUD tool, and it has been preliminary evaluated in a user study with 6 participants. Results provide evidence that the tool is usable, and it helps users in understanding and identifying problems in trigger-action rules.",
+      "type": "conference_item",
+      "title": "A Debugging Approach for Trigger-Action Programming",
+      "pages": 6,
+      "place_of_pub": "New York, NY, USA",
+      "types": "TYPES8",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
       "twitted": 1,
-      "issn": "1520-9202",
-      "rev_number": 19,
-      "dir": "disk0\/02\/62\/19\/28",
+      "rev_number": 13,
+      "dir": "disk0\/02\/70\/12\/70",
       "creators": [
         {
           "name": {
@@ -3441,6 +5636,115 @@
           },
           "id": 25734
         },
+        {
+          "name": {
+            "lineage": 40637,
+            "given": "Alberto",
+            "honourific": null,
+            "family": "Monge Roffarello"
+          },
+          "id": 40637
+        }
+      ],
+      "lastmod": "2018-03-03 05:56:57",
+      "ispublished": "inpress",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/3170427.3188641",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2018-02-23 08:21:44",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Bonino, Dario; De Russis, Luigi",
+      "eprintid": 2679191,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2679191,
+            "insert_date": "2017-09-06 12:05:50",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-06 12:05:50",
+                  "datasetid": "document",
+                  "fileid": 2312319,
+                  "objectid": 1168469,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2312319",
+                  "mime_type": "application\/pdf",
+                  "hash": "230e21b7aa5d22501c136c7b2ce321e2",
+                  "filesize": 583326,
+                  "filename": "dogont.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2017-09-07",
+            "copyright_note": "Final author versions of accepted manuscripts remain publicly available from this website. The official published versions of papers are available via the publisher, IOS Press.",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1168469",
+            "original_docid": 159475,
+            "main": "dogont.pdf",
+            "format": "application\/pdf",
+            "docid": 1168469,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1171182"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "dogont.pdf"
+          }
+      ],
+      "upddate": "2017-09-06 12:05:51",
+      "keywords": [
+        "smart city",
+        "aec\/fm",
+        "energy modeling",
+        "built environment",
+        "ontology"
+      ],
+      "publisher": "IOS Press",
+      "irisid": 158625,
+      "publisher_review": "Amsterdam:IOP press",
+      "datestamp": "2017-09-06 11:59:48",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2679191",
+      "publication": "SEMANTIC WEB",
+      "abstract": "Energy consumption and performance assessment of Smart Cities must consider different levels and various sub-domains. A comprehensive energy profile of a city, in fact, should work at the city, district, and building levels. At the same time and for each level, it should take into account both electrical and thermal consumptions, and gather these information from a plethora of different sensors and from various stakeholders (i.e., citizens, utilities, policy makers, and energy providers). Current modeling approaches for this context address each level and domain separately, thus preventing a structured and comprehensive approach to a unified energy representation. Moreover, current approaches make it difficult to keep the consistency between the energetic data through levels, sub-domains, and across stakeholders. Starting from an analysis of ontologies at the state-of-the-art, this paper shows how DogOnt can be used as a foundation towards a shared and unified model for such a context. DogOnt was firstly developed in 2008 and withstands over 8 years of usage without major failures and shortcomings. We discuss successful design choices and adaptations, which kept the model up-to-date and increasingly adopted in such a mid-term time frame for energy representation in Smart Cities.",
+      "type": "article",
+      "title": "DogOnt as a viable seed for semantic modeling of AEC\/FM",
+      "pages": 17,
+      "types": "TYPES2",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "twitted": 1,
+      "issn": "1570-0844",
+      "rev_number": 9,
+      "dir": "disk0\/02\/67\/91\/91",
+      "creators": [
         {
           "name": {
             "lineage": 12325,
@@ -3452,279 +5756,6 @@
         },
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        }
-      ],
-      "lastmod": "2016-09-19 14:56:57",
-      "ispublished": "inpress",
-      "metadata_visibility": "show",
-      "proprietary": {
-        "name": {
-          "lineage": 2154,
-          "given": "Fulvio",
-          "honourific": null,
-          "family": "Corno"
-        },
-        "id": 2154
-      },
-      "eprint_status": "archive",
-      "status_changed": "2015-11-13 03:32:04",
-      "language": [
-        "en"
-      ],
-      "full_text_status": "public",
-      "referee": "REF_1",
-      "refereed": 1,
-      "divisions": [
-        "DAUIN"
-      ],
-      "ssd": [
-        "ING-INF\/05"
-      ]
-    },
-    {
-      "authors_string": "Corno, Fulvio; De Russis, Luigi; Montanaro, Teodoro",
-      "eprintid": 2644262,
-      "documents": [
-          {
-            "placement": 1,
-            "eprintid": 2644262,
-            "insert_date": "2016-08-26 09:28:54",
-            "files": [
-                {
-                  "hash_type": "MD5",
-                  "mtime": "2016-08-26 09:28:54",
-                  "datasetid": "document",
-                  "fileid": 1970204,
-                  "objectid": 963067,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1970204",
-                  "mime_type": "application\/pdf",
-                  "hash": "a6c44518a182765c09a7c470e07cb4bf",
-                  "filesize": 446389,
-                  "filename": "PID4321083.pdf"
-                }
-            ],
-            "content": "published",
-            "rev_number": 1,
-            "copyright_date": "2016-08-24",
-            "copyright_note": "invio mail 25-08-2016 :ctrl preprint, togliere prezzo, copyr e isbn",
-            "pos": 1,
-            "language": "it",
-            "license": "not_public",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/963067",
-            "original_docid": 115381,
-            "main": "PID4321083.pdf",
-            "format": "application\/pdf",
-            "docid": 963067,
-            "security": "staffonly",
-            "copyright_operator": "MGD",
-            "formatdesc": "PID4321083.pdf"
-          },
-          {
-            "disclaimer": "ieee",
-            "placement": 2,
-            "eprintid": 2644262,
-            "insert_date": "2016-08-26 11:05:49",
-            "files": [
-                {
-                  "hash_type": "MD5",
-                  "mtime": "2016-08-26 11:05:49",
-                  "datasetid": "document",
-                  "fileid": 1970206,
-                  "objectid": 963068,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1970206",
-                  "mime_type": "application\/pdf",
-                  "hash": "ec0ae806cc47f4f3a1e35675ddec2af7",
-                  "filesize": 441461,
-                  "filename": "SMC2016_CornoDeRussisMontanaro.pdf"
-                }
-            ],
-            "content": "published",
-            "rev_number": 3,
-            "copyright_date": "2016-08-29",
-            "pos": 2,
-            "language": "it",
-            "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/963068",
-            "original_docid": 118865,
-            "main": "SMC2016_CornoDeRussisMontanaro.pdf",
-            "format": "application\/pdf",
-            "docid": 963068,
-            "security": "public",
-            "relation": [
-              {
-                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/963283"
-              }
-            ],
-            "copyright_operator": "MN",
-            "formatdesc": "SMC2016_CornoDeRussisMontanaro.pdf"
-          }
-      ],
-      "upddate": "2016-08-26 11:06:24",
-      "keywords": [
-        "user meaningful places estimation, low-energy location, machine learning application, decision trees"
-      ],
-      "publisher": "IEEE",
-      "event_title": "SMC 2016: IEEE International Conference on Systems, Man, and Cybernetics",
-      "irisid": 120708,
-      "event_dates": "9-12 October, 2016",
-      "book_title": "IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2016",
-      "datestamp": "2016-08-26 12:19:35",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2644262",
-      "event_location": "Budapest",
-      "abstract": "Due to the increasing spread of location-aware applications, developers interest in user location estimation has grown in recent years. As users spend the majority of their time in few meaningful places (i.e., groups of near locations that can be considered as a unique place, such as home, school or the workplace), this paper presents a new energy efficient method to estimate user presence in a meaningful place. Specifically, instead of using commonly used but energy hungry methods such as GPS and network positioning techniques, the proposed method applies a Machine Learning algorithm based on Decision Trees, to predict the user presence in a meaningful place by collecting and analyzing: a) user activity, b) information from received notifications (receipt time, generating service, sender-receiver relationship), and c) device status (battery level and ringtone mode). The results demonstrate that, using 20 days of training data and testing the system with data coming from 14 persons, the accuracy (percentage of correct predictions) is 89.40% (standard deviation: 8.27%) with a precision of 89.04% and a recall of 89.40%. Furthermore, the paper analyzes the importance of each considered feature, by comparing the prediction accuracy obtained with different combinations of features",
-      "type": "conference_item",
-      "title": "Estimate User Meaningful Places through Low-Energy Mobile Sensing",
-      "pages": 6,
-      "types": "TYPES8",
-      "userid": 2,
-      "userdep": [
-        "USER_D1010"
-      ],
-      "twitted": 1,
-      "rev_number": 16,
-      "dir": "disk0\/02\/64\/42\/62",
-      "creators": [
-        {
-          "name": {
-            "lineage": 36541,
-            "given": "Teodoro",
-            "honourific": null,
-            "family": "Montanaro"
-          },
-          "id": 36541
-        },
-        {
-          "name": {
-            "lineage": 25734,
-            "given": "Luigi",
-            "honourific": null,
-            "family": "De Russis"
-          },
-          "id": 25734
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        }
-      ],
-      "lastmod": "2016-08-29 16:13:48",
-      "ispublished": "inpress",
-      "metadata_visibility": "show",
-      "proprietary": {
-        "name": {
-          "lineage": 36541,
-          "given": "Teodoro",
-          "honourific": null,
-          "family": "Montanaro"
-        },
-        "id": 36541
-      },
-      "eprint_status": "archive",
-      "status_changed": "2016-08-26 12:19:35",
-      "language": [
-        "en"
-      ],
-      "full_text_status": "public",
-      "referee": "REF_1",
-      "refereed": 1,
-      "divisions": [
-        "DAUIN"
-      ],
-      "ssd": [
-        "ING-INF\/05"
-      ]
-    },
-    {
-      "authors_string": "Corno, Fulvio; De Russis, Luigi",
-      "eprintid": 2648065,
-      "documents": [
-          {
-            "placement": 1,
-            "eprintid": 2648065,
-            "insert_date": "2016-09-12 12:39:16",
-            "files": [
-                {
-                  "hash_type": "MD5",
-                  "mtime": "2016-09-12 12:39:16",
-                  "datasetid": "document",
-                  "fileid": 2004399,
-                  "objectid": 981773,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/2004399",
-                  "mime_type": "application\/pdf",
-                  "hash": "219c24432969816e1b3b69d49a232d52",
-                  "filesize": 275988,
-                  "filename": "amicourse_FINAL.pdf"
-                }
-            ],
-            "content": "published",
-            "rev_number": 2,
-            "copyright_date": "2016-09-13",
-            "pos": 1,
-            "language": "it",
-            "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/981773",
-            "original_docid": 120876,
-            "main": "amicourse_FINAL.pdf",
-            "format": "application\/pdf",
-            "docid": 981773,
-            "security": "public",
-            "relation": [
-              {
-                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/988074"
-              }
-            ],
-            "copyright_operator": "MGD",
-            "formatdesc": "amicourse_FINAL.pdf"
-          }
-      ],
-      "upddate": "2016-09-12 12:39:16",
-      "keywords": [
-        "ambient intelligence, computer engineering, computing skills, multidisciplinary teams, internet of things, project-based learning"
-      ],
-      "publisher": "IEEE",
-      "irisid": 125211,
-      "publisher_review": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
-      "datestamp": "2016-09-12 14:39:16",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2648065",
-      "publication": "IEEE TRANSACTIONS ON EDUCATION",
-      "abstract": "The increasing complexity of the new breed of distributed intelligent systems, such as the Internet of Things (IoT), which require a diversity of languages and protocols, can only be tamed with design and programming best practices. Interest is also growing for including the human factor, as advocated by the Ambient Intelligence (AmI) research ﬁeld, whose focus is on transparently and intelligently supporting people. These new design methodologies are increasingly needed in the toolbox of new electronic and computer engineers, and teaching strategies should be devised that allow students to acquire a systems-level view instead of getting lost in technology-oriented approaches. This paper describes a study carried out over two academic years, in a course in ambient intelligence at Politecnico di Torino, Italy. In the course, a project-based learning approach was adopted, in which students design and prototype an AmI system, and their progress is closely monitored throughout the semester. The paper presents the learning goals and teaching strategies, analyzes the learning outcomes from the qualitative and quantitative points of view, and highlights the lessons learned in the process",
-      "type": "article",
-      "title": "Training Engineers for the Ambient Intelligence Challenge",
-      "pages": 10,
-      "types": "TYPES2",
-      "userid": 2,
-      "userdep": [
-        "USER_D1010"
-      ],
-      "twitted": 1,
-      "issn": "0018-9359",
-      "rev_number": 10,
-      "dir": "disk0\/02\/64\/80\/65",
-      "creators": [
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        },
-        {
-          "name": {
             "lineage": 25734,
             "given": "Luigi",
             "honourific": null,
@@ -3733,80 +5764,10 @@
           "id": 25734
         }
       ],
-      "lastmod": "2016-09-15 12:57:28",
+      "lastmod": "2017-09-13 10:41:43",
       "ispublished": "inpress",
+      "openaire": 1,
       "metadata_visibility": "show",
-      "id_number": "10.1109\/TE.2016.2608785",
-      "proprietary": {
-        "name": {
-          "lineage": 2154,
-          "given": "Fulvio",
-          "honourific": null,
-          "family": "Corno"
-        },
-        "id": 2154
-      },
-      "eprint_status": "archive",
-      "status_changed": "2016-09-12 14:39:16",
-      "language": [
-        "en"
-      ],
-      "full_text_status": "public",
-      "referee": "REF_1",
-      "refereed": 1,
-      "divisions": [
-        "DAUIN"
-      ],
-      "ssd": [
-        "ING-INF\/05"
-      ]
-    },
-    {
-      "authors_string": "Fulvio, Corno; Luigi, De Russis; Alberto, Monge Roffarello",
-      "types": "TYPES4",
-      "eprintid": 2644849,
-      "userdep": [
-        "USER_D1010"
-      ],
-      "userid": 2,
-      "upddate": "2016-07-07 17:42:28",
-      "rev_number": 2,
-      "creators": [
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        },
-        {
-          "name": {
-            "lineage": 40637,
-            "given": "Alberto",
-            "honourific": null,
-            "family": "Monge Roffarello"
-          },
-          "id": 40637
-        },
-        {
-          "name": {
-            "lineage": 25734,
-            "given": "Luigi",
-            "honourific": null,
-            "family": "De Russis"
-          },
-          "id": 25734
-        }
-      ],
-      "dir": "disk0\/02\/64\/48\/49",
-      "keywords": [
-        "ambient assisted living, wearable devices, disabilities, people with disabilities, assisted living facilities, healthcare assistants, caregivers, assistance requests"
-      ],
-      "lastmod": "2016-07-09 03:32:33",
-      "ispublished": "inpress",
-      "publisher": "IGI Global",
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -3816,27 +5777,97 @@
         },
         "id": 25734
       },
-      "metadata_visibility": "show",
-      "irisid": 121525,
       "eprint_status": "archive",
-      "status_changed": "2016-07-07 19:42:27",
+      "status_changed": "2017-09-07 02:01:56",
       "language": [
         "en"
       ],
-      "book_title": "Handbook of Research on the Internet of Things and Advanced Applications in Healthcare \/ Reis C., Maximiano M.",
-      "datestamp": "2016-07-07 19:42:27",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2644849",
-      "full_text_status": "none",
-      "divisions": [
-        "DAUIN"
-      ],
-      "abstract": "Research activities on healthcare support systems mainly focus on people in their own homes or nurses and doctors in hospitals. A limited amount of research aims at supporting caregivers that work with people with disabilities in assisted living facilities (ALFs). This chapter explores and applies the Internet of Things to the ALF context. In particular, it presents the design, the implementation, and the experimental evaluation of Care4Me, a system supporting the daily activities of assistants. The requirements for designing and implementing Care4Me derive from a literature analysis and from a user study. The solution combines wearable and mobile technologies. With this healthcare support system, caregivers can be automatically alerted of potentially hazardous situations. Furthermore, inhabitants can require assistance instantly and from any point of the facility. The system was evaluated in two ways. The authors performed a functional test with a group of professional caregivers, and deployed the system in an ALF in Italy, collecting the opinions of caregivers and inhabitants",
-      "type": "book_section",
-      "title": "IoT for Ambient Assisted Living: Care4Me - A Healthcare Support System",
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
       "ssd": [
         "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Bonino, Dario; De Russis, Luigi",
+      "eprintid": 2676507,
+      "upddate": "2017-07-14 12:17:07",
+      "keywords": [
+        "complex event processing",
+        "block-based programming",
+        "filter and pipe",
+        "big data analysis",
+        "smart city",
+        "visual programming"
       ],
-      "pages": 24
+      "publisher": "IEEE",
+      "irisid": 155752,
+      "publisher_review": "Piscataway, NJ : Institute of Electrical and Electronics Engineers, 2014-.",
+      "datestamp": "2017-07-14 12:10:49",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2676507",
+      "publication": "IEEE INTERNET OF THINGS JOURNAL",
+      "abstract": "Administrators and operators of next generation cities will likely be required to exhibit a good understanding of technical features, data issues, and complex information that, up to few years ago, were quite far from day-to-day administration tasks. In the smart city era, the increased attention to data harvested from the city fosters a more informed approach to city administration, requiring involved operators to drive, direct, and orient technological processes in the city more effectively. Such an increasing need requires tools and platforms that can easily and effectively be controlled by non-technical people. In this paper, an approach for enabling \\\"easier\\\" composition of real-time data processing pipelines in smart cities is presented, exploiting a visual and block-based design approach, similar to the one adopted in the Scratch programming language for elementary school students. The proposed approach encompasses both a graphical editor and a sound methodology and workflow, to allow city operators to effectively design, develop, test, and deploy their own data processing pipelines. The editor and the workflow are described in the context of a pilot of the ALMANAC European project.",
+      "type": "article",
+      "title": "Complex Event Processing for City Officers: A Filter and Pipe Visual Approach",
+      "scopus": {
+        "cluster": "2-s2.0-85028924212",
+        "datestamp": "2018-02-27 06:05:55",
+        "impact": 0
+      },
+      "pages": 9,
+      "types": "TYPES2",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "2327-4662",
+      "rev_number": 2,
+      "dir": "disk0\/02\/67\/65\/07",
+      "creators": [
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        }
+      ],
+      "lastmod": "2017-07-16 02:02:02",
+      "ispublished": "inpress",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-07-15 02:02:44",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "none",
+      "referee": "REF_1",
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     }
 ]
 

@@ -1,5 +1,1426 @@
 [
     {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Sáenz, Juan Pablo",
+      "eprintid": 2698336,
+      "date": 2018,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2698336,
+            "insert_date": "2018-01-30 09:22:37",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-01-30 09:22:37",
+                  "datasetid": "document",
+                  "fileid": 2553025,
+                  "objectid": 1309944,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2553025",
+                  "mime_type": "application\/pdf",
+                  "hash": "5975a22e850bd4b9b7071547bc145b5a",
+                  "filesize": 478445,
+                  "filename": "recipes.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1309944",
+            "main": "recipes.pdf",
+            "original_docid": 183734,
+            "format": "application\/pdf",
+            "docid": 1309944,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1310272"
+              }
+            ],
+            "formatdesc": "recipes.pdf"
+          }
+      ],
+      "upddate": "2018-01-30 09:22:37",
+      "keywords": [
+        "code fragments",
+        "novice programmers",
+        "internet of things",
+        "documentation",
+        "novice programmers",
+        "internet of things",
+        "documentation",
+        "code fragments"
+      ],
+      "isbn": "978-1-4503-5660-2\/18\/05",
+      "publisher": "ACM",
+      "event_title": "40th International Conference on Software Engineering: Software Engineering Education and Training Track",
+      "irisid": 178421,
+      "event_dates": "May 27-June 3 2018",
+      "book_title": "ICSE-SEET'18: 40th International Conference on Software Engineering: Software Engineering Education and Training Track, May 27-June 3 2018, Gothenburg, Sweden",
+      "datestamp": "2018-01-26 15:07:20",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2698336",
+      "event_location": "Gothenburg, Sweden",
+      "abstract": "The co-existence of various kinds of devices, protocols, architectures, and programming languages make Internet of Things (IoT) systems complex to develop, even for experienced programmers. Perforce, Software Engineering challenges are even more difficult to address by novice programmers. Previous research focused on identifying the most challenging issues that novice programmers experience when developing IoT systems. The results suggested that the integration of heterogeneous software components resulted one of the most painful issues, mainly due to the lack of documentation understandable by inexperienced developers, from both conceptual and technical perspectives. In fact, novice programmers devote a significant effort looking for documentation and code samples willing to understand them conceptually, or in the worst case, at least to make them work. Driven by the research question: \\\"How do the lessons learned by IoT novice programmers can be captured, so they become an asset for other novice developers?\\\", in this paper, we introduce Code Recipes. They consist of summarized and well-defined documentation modules, independent from programming languages or run-time environments, by which non-expert programmers can smoothly become familiar with source code, written by other developers that faced similar issues. Through a use case, we show how Code Recipes are a feasible mechanism to support novice IoT programmers in building their IoT systems",
+      "type": "conference_item",
+      "title": "Easing IoT Development for Novice Programmers Through Code Recipes",
+      "pages": 4,
+      "types": "TYPES8",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "twitted": 1,
+      "rev_number": 15,
+      "dir": "disk0\/02\/69\/83\/36",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 42870,
+            "given": "Juan Pablo",
+            "honourific": null,
+            "family": "Saenz"
+          },
+          "id": 42870
+        }
+      ],
+      "lastmod": "2018-02-01 18:09:58",
+      "ispublished": "inpress",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/3183377.3183385",
+      "proprietary": {
+        "name": {
+          "lineage": 42870,
+          "given": "Juan Pablo",
+          "honourific": null,
+          "family": "Saenz"
+        },
+        "id": 42870
+      },
+      "eprint_status": "archive",
+      "status_changed": "2018-01-26 15:51:19",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Aced López, Sebastián; Corno, Fulvio; De Russis, Luigi",
+      "eprintid": 2669698,
+      "date": 2017,
+      "documents": [
+          {
+            "disclaimer": "acm_draft",
+            "placement": 1,
+            "eprintid": 2669698,
+            "insert_date": "2017-08-11 10:42:56",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-11 10:42:56",
+                  "datasetid": "document",
+                  "fileid": 2303743,
+                  "objectid": 1163549,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2303743",
+                  "mime_type": "application\/pdf",
+                  "hash": "b0275dde604a48f89739f8db5bf6aa67",
+                  "filesize": 5511893,
+                  "filename": "01_journal_gnomon.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 8,
+            "copyright_date": "2017-08-21",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1163549",
+            "original_docid": 158654,
+            "main": "01_journal_gnomon.pdf",
+            "format": "application\/pdf",
+            "docid": 1163549,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1167059"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "01_journal_gnomon.pdf"
+          }
+      ],
+      "upddate": "2017-08-11 10:42:56",
+      "keywords": [
+        "action-oriented games",
+        "children with disabilities",
+        "one-switch interaction",
+        "single-switch selection",
+        "accessible games"
+      ],
+      "pagerange": "1-42",
+      "publisher": "ACM",
+      "irisid": 148260,
+      "publisher_review": "New York, N.Y. : Association for Computing Machinery, 2008-",
+      "datestamp": "2017-04-23 14:35:56",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2669698",
+      "publication": "ACM TRANSACTIONS ON ACCESSIBLE COMPUTING",
+      "abstract": "Video games are not just played for fun; they have become a handy instrument for the cognitive, emotional, and social development of children. However, several barriers prevent many children with disabilities from playing action-oriented video games, alone or with their peers. In particular, children with severe motor disabilities, who rely on one-switch interaction for accessing electronic devices, find fast-paced games that require rapid decision-making and timely responses, completely unplayable. This article contributes to lowering such barriers by presenting GNomon (Gaming NOMON), a software framework based on the NOMON mode of interaction that allows the creation of action-oriented single-switch video games. The article reports the results of two studies that evaluate the playability and rehabilitation suitability of GNomon-based video games. The playability of GNomon-based games is evaluated by assessing their learnability, effectiveness, errors, satisfaction, memorability, and enjoyability with a group of eight children with severe motor disabilities. The suitability for pediatric rehabilitation is determined by means of a focus group with a team of speech therapists, physiotherapists, and psychologists from a Local Health Agency in Turin, Italy. The results of the playability study are positive: All children had fun playing GNomon-based video games, and seven of eight were able to interact and play autonomously. The results of the rehabilitation-suitability study also entail that GNomon-based games can be exploited in training hand-eye coordination and maintenance of selective attention over time. The article finally offers critical hindsight and reflections and shows possible new future game concepts.",
+      "type": "article",
+      "title": "Design and Development of One-Switch Video Games for Children with Severe Motor Disabilities",
+      "scopus": {
+        "cluster": "2-s2.0-85027516758",
+        "datestamp": "2018-02-27 04:58:45",
+        "impact": 0
+      },
+      "pages": 42,
+      "types": "TYPES2",
+      "number": 4,
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "1936-7228",
+      "rev_number": 10,
+      "dir": "disk0\/02\/66\/96\/98",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 27070,
+            "given": "Sebastian",
+            "honourific": null,
+            "family": "Aced Lopez"
+          },
+          "id": 27070
+        }
+      ],
+      "lastmod": "2017-09-01 17:26:13",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/3085957",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-04-24 02:00:35",
+      "language": [
+        "en"
+      ],
+      "volume": 10,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Monge Roffarello, Alberto",
+      "eprintid": 2665147,
+      "date": 2017,
+      "documents": [
+          {
+            "disclaimer": "acm_proc",
+            "placement": 1,
+            "eprintid": 2665147,
+            "insert_date": "2017-05-03 11:03:42",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-05-03 11:03:42",
+                  "datasetid": "document",
+                  "fileid": 2219730,
+                  "objectid": 1113357,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2219730",
+                  "mime_type": "application\/pdf",
+                  "hash": "17d796efb404f4fc2d738a353e590c2d",
+                  "filesize": 263946,
+                  "filename": "eud_camera_ready.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 3,
+            "copyright_date": "2017-05-04",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1113357",
+            "original_docid": 149563,
+            "main": "eud_camera_ready.pdf",
+            "format": "application\/pdf",
+            "docid": 1113357,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1116945"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "eud_camera_ready.pdf"
+          }
+      ],
+      "upddate": "2017-05-03 11:04:09",
+      "keywords": [
+        "end user development",
+        "internet of things",
+        "trigger-action",
+        "trigger-action",
+        "end user development",
+        "internet of things"
+      ],
+      "isbn": "978-1-4503-4656-6",
+      "pagerange": "1546-1552",
+      "publisher": "ACM",
+      "event_title": "CHI 2017: The 35th Annual CHI Conference on Human Factors in Computing Systems",
+      "irisid": 143528,
+      "event_dates": "May 6–11, 2017",
+      "book_title": "Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems",
+      "datestamp": "2017-02-14 14:21:34",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2665147",
+      "event_location": "Denver, CO (USA)",
+      "abstract": "Programming environments for end-user personalization in the Internet of Things (IoT) are becoming increasingly common. They allow users to define simple IoT applications, i.e., connections between different IoT devices and services. Unfortunately, the adopted representation models are highly technology-dependent, e.g., they often categorize devices and services by manufacturer or brand. Such an approach is not suitable to face the expected growth of the IoT, nor it allows to adapt to yet undiscovered IoT services. In this paper, we present a generic and technology-independent representation for IoT end-user programming environments. The aim of this \\\"high-level\\\" representation is to allow end-users to create abstract IoT applications that adapt to different contextual situations. We preliminary evaluated the representation by comparing it with the one used by existing programming environments in a user study with 10 participants. Results show that the representation is understandable, and it allows users to create IoT applications more correctly and quickly.",
+      "type": "conference_item",
+      "title": "A High-Level Approach Towards End User Development in the IoT",
+      "scopus": {
+        "cluster": "2-s2.0-85019570937",
+        "datestamp": "2018-02-27 04:26:51",
+        "impact": 1
+      },
+      "pages": 7,
+      "place_of_pub": "New York, NY, USA",
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 11,
+      "dir": "disk0\/02\/66\/51\/47",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 40637,
+            "given": "Alberto",
+            "honourific": null,
+            "family": "Monge Roffarello"
+          },
+          "id": 40637
+        }
+      ],
+      "lastmod": "2017-05-15 21:55:28",
+      "ispublished": "pub",
+      "openaire": 1,
+      "proprietary": {
+        "name": {
+          "lineage": 40637,
+          "given": "Alberto",
+          "honourific": null,
+          "family": "Monge Roffarello"
+        },
+        "id": 40637
+      },
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/3027063.3053157",
+      "eprint_status": "archive",
+      "status_changed": "2017-02-15 03:02:42",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Monge Roffarello, Alberto",
+      "eprintid": 2644849,
+      "date": 2017,
+      "upddate": "2017-11-27 16:21:16",
+      "keywords": [
+        "assisted living facilities",
+        "healthcare assistants",
+        "caregivers",
+        "assistance requests",
+        "ambient assisted living",
+        "wearable devices",
+        "disabilities",
+        "people with disabilities",
+        "disabilities",
+        "people with disabilities",
+        "assisted living facilities",
+        "healthcare assistants",
+        "caregivers",
+        "assistance requests",
+        "ambient assisted living",
+        "wearable devices"
+      ],
+      "isbn": 9781522518204,
+      "pagerange": "66-97",
+      "publisher": "IGI Global",
+      "irisid": 121525,
+      "book_title": "Internet of Things and Advanced Application in Healthcare \/ Reis C. I., and Maximiano M. D.",
+      "datestamp": "2016-07-07 17:28:32",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2644849",
+      "abstract": "Research activities on healthcare support systems mainly focus on people in their own homes or nurses and doctors in hospitals. A limited amount of research aims at supporting caregivers that work with people with disabilities in assisted living facilities (ALFs). This chapter explores and applies the Internet of Things to the ALF context. In particular, it presents the design, the implementation, and the experimental evaluation of Care4Me, a system supporting the daily activities of assistants. The requirements for designing and implementing Care4Me derive from a literature analysis and from a user study. The solution combines wearable and mobile technologies. With this healthcare support system, caregivers can be automatically alerted of potentially hazardous situations. Furthermore, inhabitants can require assistance instantly and from any point of the facility. The system was evaluated in two ways. The authors performed a functional test with a group of professional caregivers, and deployed the system in an ALF in Italy, collecting the opinions of caregivers and inhabitants.",
+      "type": "book_section",
+      "title": "IoT for Ambient Assisted Living: Care4Me - A Healthcare Support System",
+      "scopus": {
+        "cluster": "2-s2.0-85016368646",
+        "datestamp": "2017-11-29 05:41:57",
+        "impact": 0
+      },
+      "pages": 32,
+      "types": "TYPES4",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 10,
+      "dir": "disk0\/02\/64\/48\/49",
+      "creators": [
+        {
+          "name": {
+            "lineage": 40637,
+            "given": "Alberto",
+            "honourific": null,
+            "family": "Monge Roffarello"
+          },
+          "id": 40637
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        }
+      ],
+      "lastmod": "2017-11-29 03:58:30",
+      "ispublished": "pub",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.4018\/978-1-5225-1820-4.ch003",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2016-11-09 22:48:45",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "none",
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Sáenz, Juan Pablo",
+      "eprintid": 2674394,
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2674394,
+            "insert_date": "2018-01-30 09:52:23",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2018-01-30 09:52:23",
+                  "datasetid": "document",
+                  "fileid": 2552944,
+                  "objectid": 1309908,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2552944",
+                  "mime_type": "application\/pdf",
+                  "hash": "b68180b9cbfb2a7a54fd2037229d8eca",
+                  "filesize": 712185,
+                  "filename": "studyroom.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1309908",
+            "main": "studyroom.pdf",
+            "original_docid": 183633,
+            "format": "application\/pdf",
+            "docid": 1309908,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1310250"
+              }
+            ],
+            "formatdesc": "studyroom.pdf"
+          }
+      ],
+      "upddate": "2018-01-30 09:53:31",
+      "keywords": [
+        "energy efficiency",
+        "smart study room",
+        "ambient intelligence",
+        "building management systems",
+        "ambient intelligence",
+        "building management systems",
+        "energy efficiency",
+        "smart study room",
+        "smart study room",
+        "ambient intelligence",
+        "building management systems",
+        "energy efficiency"
+      ],
+      "publisher": "IEEE",
+      "event_title": "7th IEEE International Conference on Innovative Smart Grid Technologies (ISGT Europe 2017)",
+      "irisid": 153284,
+      "event_dates": "September 26 - 29, 2017",
+      "book_title": "2017 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe)",
+      "datestamp": "2017-06-09 11:42:55",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2674394",
+      "event_location": "Torino (Italy)",
+      "abstract": "Energetic sustainability on university campuses relies on the efficiency and smartness of the energy systems, as well as the behavior of its users. The aim of this work is to identify the requirements and propose the design of a Smart Study Room that, besides relying on users' awareness about their energy consumption, might also rely on their feedback about issues that could affect the optimal use of the study room resources. This concept is presented in the paper as two-way awareness. To determine the requirements, a survey was conducted among 61 university students to understand: (i) their usual behavior at the study room; (ii) their complaints about the study room; (iii) the set of users' behaviors that, in their opinion, have a negative impact on the energy consumption; and (iv) the information of the study room that they would find useful and interesting to visualize. Based on the results of this survey the design of the smart study room was developed and presented.",
+      "type": "conference_item",
+      "title": "On the Design of an Energy and User Aware Study Room",
+      "pages": 6,
+      "types": "TYPES8",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "twitted": 1,
+      "rev_number": 27,
+      "dir": "disk0\/02\/67\/43\/94",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 42870,
+            "given": "Juan Pablo",
+            "honourific": null,
+            "family": "Saenz"
+          },
+          "id": 42870
+        }
+      ],
+      "lastmod": "2018-02-01 06:43:09",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/ISGTEurope.2017.8260192",
+      "proprietary": {
+        "name": {
+          "lineage": 42870,
+          "given": "Juan Pablo",
+          "honourific": null,
+          "family": "Saenz"
+        },
+        "id": 42870
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-06-09 11:55:42",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Sáenz, Juan Pablo",
+      "eprintid": 2669243,
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2669243,
+            "insert_date": "2017-09-12 12:01:23",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-12 12:01:23",
+                  "datasetid": "document",
+                  "fileid": 2317593,
+                  "objectid": 1171417,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2317593",
+                  "mime_type": "application\/pdf",
+                  "hash": "d39a78ab16344ea002e6591f4fa5567b",
+                  "filesize": 467540,
+                  "filename": "2017_compsac_painpoints.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2017-09-13",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1171417",
+            "original_docid": 159878,
+            "main": "2017_compsac_painpoints.pdf",
+            "format": "application\/pdf",
+            "docid": 1171417,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1172976"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "2017_compsac_painpoints.pdf"
+          }
+      ],
+      "upddate": "2017-09-12 12:01:24",
+      "keywords": [
+        "novice developers",
+        "ambient intelligence",
+        "software engineering",
+        "survey",
+        "internet of things"
+      ],
+      "isbn": "978-1-5386-0367-3",
+      "pagerange": "250-255",
+      "publisher": "IEEE",
+      "event_title": "41st IEEE Computer Society International Conference on Computers, Software & Applications (COMPSAC 2017), Symposium on Software Engineering Technologies & Applications (SETA)",
+      "irisid": 147827,
+      "event_dates": "July 4 - 8, 2017",
+      "book_title": "2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC)",
+      "datestamp": "2017-04-19 08:52:33",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2669243",
+      "event_location": "Torino (Italy)",
+      "abstract": "This paper presents an exploratory study aimed at identifying the pain points that novice programmers experience, from the software engineering perspective, when developing and deploying smart and distributed systems, that may be classified as Ambient Intelligence (AmI) systems. The exploratory study was conducted among undergraduate students, that worked in groups for developing AmI projects during a university course. Based on their own experiences, individually and as a group, the pain points were identified and prioritized over a common architecture and a set of software development activities. The quantification of the pain points was based on the difficulty level that the students perceived on the development activities and the time they spent completing them. Results represent a starting point for the design of tools and methodologies targeted at overcoming the complexity that novice programmers face when developing AmI systems.",
+      "type": "conference_item",
+      "title": "Pain Points for Novice Programmers of Ambient Intelligence Systems: An Exploratory Study",
+      "scopus": {
+        "cluster": "2-s2.0-85031918351",
+        "datestamp": "2018-02-27 04:57:03",
+        "impact": 0
+      },
+      "pages": 6,
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 12,
+      "dir": "disk0\/02\/66\/92\/43",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 42870,
+            "given": "Juan Pablo",
+            "honourific": null,
+            "family": "Saenz"
+          },
+          "id": 42870
+        }
+      ],
+      "lastmod": "2017-09-15 09:45:20",
+      "ispublished": "pub",
+      "openaire": 1,
+      "proprietary": {
+        "name": {
+          "lineage": 42870,
+          "given": "Juan Pablo",
+          "honourific": null,
+          "family": "Saenz"
+        },
+        "id": 42870
+      },
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/COMPSAC.2017.186",
+      "eprint_status": "archive",
+      "status_changed": "2017-04-20 02:01:43",
+      "language": [
+        "en"
+      ],
+      "volume": 1,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Monge Roffarello, Alberto",
+      "eprintid": 2691911,
+      "wos": {
+        "cluster": 415132500004,
+        "datestamp": "2018-03-02 03:32:46",
+        "impact": 0
+      },
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2691911,
+            "insert_date": "2017-11-21 14:19:59",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-11-21 14:19:59",
+                  "datasetid": "document",
+                  "fileid": 2581847,
+                  "objectid": 1328122,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2581847",
+                  "mime_type": "application\/pdf",
+                  "hash": "9b238cd26a6610697c64422f0a63ac59",
+                  "filesize": 1029158,
+                  "filename": "programming_the_iot_postprint.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2017-11-21",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1328122",
+            "original_docid": 177615,
+            "main": "programming_the_iot_postprint.pdf",
+            "format": "application\/pdf",
+            "docid": 1328122,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1329915"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "programming_the_iot_postprint.pdf"
+          }
+      ],
+      "upddate": "2018-02-28 08:07:26",
+      "keywords": [
+        "trigger-action programming",
+        "ontology",
+        "end-user development",
+        "internet of things",
+        "semantic web"
+      ],
+      "pagerange": "18-24",
+      "publisher": "IEEE",
+      "irisid": 171781,
+      "publisher_review": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
+      "datestamp": "2017-11-15 11:21:24",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2691911",
+      "publication": "COMPUTER",
+      "abstract": "End-user programming environments for the IoT such as IFTTT rely on a multitude of low-level trigger-action rules that categorize devices and services by technology or brand. EUPont is a Semantic Web ontology that enables users to meet their needs with fewer, higher-level rules that can be adapted to different contextual situations and as-yet-unknown IoT devices and services.",
+      "type": "article",
+      "title": "A Semantic Web Approach to Simplifying Trigger-Action Programming in the IoT",
+      "scopus": {
+        "cluster": "2-s2.0-85034964026",
+        "datestamp": "2018-03-02 03:33:55",
+        "impact": 0
+      },
+      "pages": 7,
+      "types": "TYPES2",
+      "number": 11,
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "0018-9162",
+      "rev_number": 37,
+      "dir": "disk0\/02\/69\/19\/11",
+      "creators": [
+        {
+          "name": {
+            "lineage": 40637,
+            "given": "Alberto",
+            "honourific": null,
+            "family": "Monge Roffarello"
+          },
+          "id": 40637
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        }
+      ],
+      "lastmod": "2018-03-04 22:23:08",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/MC.2017.4041355",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-11-15 11:24:54",
+      "language": [
+        "en"
+      ],
+      "volume": 50,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; Montanaro, Teodoro; Migliore, Carmelo; Castrogiovanni, Pino",
+      "eprintid": 2679363,
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2679363,
+            "insert_date": "2017-09-12 11:25:42",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-12 11:25:42",
+                  "datasetid": "document",
+                  "fileid": 2441585,
+                  "objectid": 1245155,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2441585",
+                  "mime_type": "application\/pdf",
+                  "hash": "bc3064a8fb8c43d6dcca79e201daaf85",
+                  "filesize": 1554278,
+                  "filename": "2017_ijece_smartbike.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2017-09-08",
+            "original_note": "Il Gruppo Copyright ha modificato la tipologia di Licenza da Pubblico - Tutti i diritti riservati a Pubblico - CC by-nc-nd in conformitÃ  alla policy della rivista",
+            "copyright_note": "http:\/\/iaesjournal.com\/online\/index.php\/IJECE\/article\/view\/14908 Il Gruppo Copyright ha modificato la tipologia di Licenza da Pubblico - Tutti i diritti riservati a Pubblico - CC by-nc-nd come indicato sull’allegato",
+            "pos": 1,
+            "language": "it",
+            "license": "cc_by_nc_nd_30_it",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1245155",
+            "original_docid": 159633,
+            "main": "2017_ijece_smartbike.pdf",
+            "format": "application\/pdf",
+            "docid": 1245155,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1255365"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "2017_ijece_smartbike.pdf"
+          }
+      ],
+      "upddate": "2017-11-27 16:17:49",
+      "keywords": [
+        "internet of things",
+        "smart city",
+        "crowd sensing",
+        "bike",
+        "pollution",
+        "location"
+      ],
+      "pagerange": "3602-3612",
+      "publisher": "IAES",
+      "irisid": 158807,
+      "publisher_review": "Institute of Advanced Engineering and Science (IAES)",
+      "datestamp": "2017-09-07 17:55:46",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2679363",
+      "publication": "INTERNATIONAL JOURNAL OF ELECTRICAL AND COMPUTER ENGINEERING",
+      "abstract": "In recent years, the Smart City concept is emerging as a way to increase efficiency, reduce costs, and improve the overall quality of citizen life. The rise of Smart City solutions is encouraged by the increasing availability of Internet of Things (IoT) devices and crowd sensing technologies. This paper presents an IoT Crowd Sensing platform that offers a set of services to citizens by exploiting a network of bicycles as IoT probes. Based on a survey conducted to identify the most interesting bike-enabled services, the SmartBike platform provides: real time remote geo-location of users' bikes, anti-theft service, information about traveled route, and air pollution monitoring. The proposed SmartBike platform is composed of three main components: the SmartBike mobile sensors for data collection installed on the bicycle; the end-user devices implementing the user interface for geo-location and anti-theft; and the SmartBike central servers for storing and processing detected data and providing a web interface for data visualization. The suitability of the platform was evaluated through the implementation of an initial prototype. Results demonstrate that the proposed SmartBike platform is able to provide the stated services, and, in addition, that the accuracy of the acquired air quality measurements is compatible with the one provided by the official environmental monitoring system of the city of Turin. The described platform will be adopted within a project promoted by the city of Turin, that aims at helping people making their mobility behavior more sustainable.",
+      "type": "article",
+      "title": "SmartBike: an IoT Crowd Sensing Platform for Monitoring City Air Pollution",
+      "scopus": {
+        "cluster": "2-s2.0-85032207454",
+        "datestamp": "2018-02-28 04:31:24",
+        "impact": 1
+      },
+      "pages": 11,
+      "types": "TYPES2",
+      "number": 6,
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "2088-8708",
+      "rev_number": 98,
+      "dir": "disk0\/02\/67\/93\/63",
+      "creators": [
+        {
+          "name": {
+            "lineage": 36541,
+            "given": "Teodoro",
+            "honourific": null,
+            "family": "Montanaro"
+          },
+          "id": 36541
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        }
+      ],
+      "lastmod": "2017-11-30 04:19:22",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.11591\/ijece.v7i6.pp3602-3612",
+      "proprietary": {
+        "name": {
+          "lineage": 2154,
+          "given": "Fulvio",
+          "honourific": null,
+          "family": "Corno"
+        },
+        "id": 2154
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-09-08 02:06:52",
+      "language": [
+        "en"
+      ],
+      "volume": 7,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "related_url": [
+        {
+          "url": "http:\/\/iaescore.com\/journals\/index.php\/IJECE\/article\/view\/8729"
+        }
+      ],
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi",
+      "eprintid": 2648065,
+      "wos": {
+        "cluster": 396401700007,
+        "datestamp": "2018-02-26 04:24:04",
+        "impact": 0
+      },
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2648065,
+            "insert_date": "2016-09-12 12:39:16",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-12 12:39:16",
+                  "datasetid": "document",
+                  "fileid": 2183716,
+                  "objectid": 1091748,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2183716",
+                  "mime_type": "application\/pdf",
+                  "hash": "219c24432969816e1b3b69d49a232d52",
+                  "filesize": 275988,
+                  "filename": "amicourse_FINAL.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2016-09-13",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1091748",
+            "original_docid": 120876,
+            "main": "amicourse_FINAL.pdf",
+            "format": "application\/pdf",
+            "docid": 1091748,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1092475"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "amicourse_FINAL.pdf"
+          },
+          {
+            "placement": 2,
+            "eprintid": 2648065,
+            "insert_date": "2017-02-03 09:58:15",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-02-03 09:58:15",
+                  "datasetid": "document",
+                  "fileid": 2183720,
+                  "objectid": 1091751,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2183720",
+                  "mime_type": "application\/pdf",
+                  "hash": "99e3894fc693db974e4c456616afd227",
+                  "filesize": 1194441,
+                  "filename": "published_paper_07582358.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 1,
+            "pos": 2,
+            "language": "it",
+            "license": "not_public",
+            "main": "published_paper_07582358.pdf",
+            "original_docid": 143456,
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1091751",
+            "format": "application\/pdf",
+            "docid": 1091751,
+            "security": "staffonly",
+            "formatdesc": "published_paper_07582358.pdf"
+          }
+      ],
+      "upddate": "2017-02-03 09:58:46",
+      "keywords": [
+        "project-based learning",
+        "ambient intelligence",
+        "computer engineering",
+        "computing skills",
+        "multidisciplinary teams",
+        "internet of things",
+        "multidisciplinary teams",
+        "internet of things",
+        "project-based learning",
+        "ambient intelligence",
+        "computer engineering",
+        "computing skills"
+      ],
+      "pagerange": "40-49",
+      "publisher": "IEEE",
+      "irisid": 125211,
+      "publisher_review": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
+      "datestamp": "2016-09-12 12:31:17",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2648065",
+      "publication": "IEEE TRANSACTIONS ON EDUCATION",
+      "abstract": "The increasing complexity of the new breed of distributed intelligent systems, such as the Internet of Things (IoT), which require a diversity of languages and protocols, can only be tamed with design and programming best practices. Interest is also growing for including the human factor, as advocated by the Ambient Intelligence (AmI) research ﬁeld, whose focus is on transparently and intelligently supporting people. These new design methodologies are increasingly needed in the toolbox of new electronic and computer engineers, and teaching strategies should be devised that allow students to acquire a systems-level view instead of getting lost in technology-oriented approaches. This paper describes a study carried out over two academic years, in a course in ambient intelligence at Politecnico di Torino, Italy. In the course, a project-based learning approach was adopted, in which students design and prototype an AmI system, and their progress is closely monitored throughout the semester. The paper presents the learning goals and teaching strategies, analyzes the learning outcomes from the qualitative and quantitative points of view, and highlights the lessons learned in the process",
+      "type": "article",
+      "title": "Training Engineers for the Ambient Intelligence Challenge",
+      "scopus": {
+        "cluster": "2-s2.0-85012005615",
+        "datestamp": "2018-02-26 04:30:47",
+        "impact": 2
+      },
+      "pages": 10,
+      "types": "TYPES2",
+      "number": 1,
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "0018-9359",
+      "rev_number": 30,
+      "dir": "disk0\/02\/64\/80\/65",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        }
+      ],
+      "lastmod": "2017-02-06 23:03:19",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/TE.2016.2608785",
+      "proprietary": {
+        "name": {
+          "lineage": 2154,
+          "given": "Fulvio",
+          "honourific": null,
+          "family": "Corno"
+        },
+        "id": 2154
+      },
+      "eprint_status": "archive",
+      "status_changed": "2016-09-12 14:39:16",
+      "language": [
+        "en"
+      ],
+      "volume": 60,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "related_url": [
+        {
+          "url": "http:\/\/ieeexplore.ieee.org\/document\/7582358\/"
+        }
+      ],
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Montanaro, Teodoro",
+      "eprintid": 2673059,
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2673059,
+            "insert_date": "2017-10-06 11:12:33",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-10-06 11:12:33",
+                  "datasetid": "document",
+                  "fileid": 2350802,
+                  "objectid": 1191867,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2350802",
+                  "mime_type": "application\/pdf",
+                  "hash": "1c6837339d364aae05c8e6ed4b7ab768",
+                  "filesize": 762663,
+                  "filename": "2017_eics_latebreaking_XDNtool.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2017-10-06",
+            "pos": 1,
+            "language": "it",
+            "license": "not_public",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1191867",
+            "original_docid": 167046,
+            "main": "2017_eics_latebreaking_XDNtool.pdf",
+            "format": "application\/pdf",
+            "docid": 1191867,
+            "security": "staffonly",
+            "copyright_operator": "MN",
+            "formatdesc": "2017_eics_latebreaking_XDNtool.pdf"
+          },
+          {
+            "disclaimer": "acm_proc",
+            "placement": 2,
+            "eprintid": 2673059,
+            "insert_date": "2017-10-06 11:12:58",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-10-06 11:12:58",
+                  "datasetid": "document",
+                  "fileid": 2350804,
+                  "objectid": 1191868,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2350804",
+                  "mime_type": "application\/pdf",
+                  "hash": "b52cfe8a262dbd977da8cd4cee0f9207",
+                  "filesize": 762662,
+                  "filename": "postprint_draft.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 3,
+            "copyright_date": "2017-10-09",
+            "copyright_note": "Email autore 6\/10\/2017",
+            "pos": 2,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1191868",
+            "original_docid": 167164,
+            "main": "postprint_draft.pdf",
+            "format": "application\/pdf",
+            "docid": 1191868,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1192978"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "postprint_draft.pdf"
+          }
+      ],
+      "upddate": "2017-10-06 11:12:59",
+      "keywords": [
+        "api",
+        "cross-device",
+        "framework",
+        "notifications",
+        "developer"
+      ],
+      "isbn": "978-1-4503-5083-9",
+      "pagerange": "57-62",
+      "publisher": "ACM",
+      "event_title": "The 9th ACM SIGCHI Symposium on Engineering Interactive Computing Systems",
+      "irisid": 151767,
+      "event_dates": "June 26-29, 2017",
+      "book_title": "Proceedings of the ACM SIGCHI Symposium on Engineering Interactive Computing Systems (EICS '17)",
+      "datestamp": "2017-05-26 11:46:13",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2673059",
+      "event_location": "Lisbon (Portugal)",
+      "abstract": "As notifications become part of people's lives, their importance often depends on various factors that can influence the reaction and the disruption of recipients. The generation and the distribution of notifications should be carefully designed every time a new application or smart device is devised. This paper presents XDN (Cross Device Notification), a framework to assist developers in creating cross-device notifications by scripting. XDN provides a set of high-level APIs, based on JavaScript, for designing personalized notifications to be distributed among ad-hoc sets of end-user devices. Developers are also supported in implementing and testing notification strategies thanks to a web-based integrated environment. We present a use case, representative of a realistic application, to demonstrate the functionality and the applicability of the framework.",
+      "type": "conference_item",
+      "title": "XDN: Cross-Device Framework for Custom Notifications Management",
+      "scopus": {
+        "cluster": "2-s2.0-85033226806",
+        "datestamp": "2018-02-27 05:27:49",
+        "impact": 0
+      },
+      "pages": 6,
+      "place_of_pub": "New York, NY",
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 15,
+      "dir": "disk0\/02\/67\/30\/59",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 36541,
+            "given": "Teodoro",
+            "honourific": null,
+            "family": "Montanaro"
+          },
+          "id": 36541
+        }
+      ],
+      "lastmod": "2017-10-10 12:25:29",
+      "ispublished": "pub",
+      "openaire": 1,
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/3102113.3102127",
+      "eprint_status": "archive",
+      "status_changed": "2017-05-27 02:09:07",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
       "authors_string": "Aced López, Sebastián; Corno, Fulvio; De Russis, Luigi",
       "eprintid": 2636642,
       "date": 2016,
@@ -65,6 +1486,11 @@
       "abstract": "Children that rely on the use of single switches to access electronic devices, due to physical impairments, can play dynamic video games as their normally developing peers thanks to GNomon: one of the first framework for creating dynamic one-switch video games. However, children with physical impairments that also have cognitive disabilities find additional difficulties in using the current GNomon-based interface. To compensate these difficulties, the \\\"classical\\\" GNomon widget must be rethought and simplified. This paper proposes a parallel between three different widgets specifically designed for GNomon-based interfaces. Each widget employs metaphor in a different way and it has been evaluated with six children with motor and cognitive disabilities. The results are encouraging: a widget, based on the \\\"big and small\\\" concept, is preferred by children and is a candidate to make single-switch games easier to approach",
       "type": "conference_item",
       "title": "Clocks, Bars and Balls: Design and Evaluation of Alternative GNomon Widgets for Children with Disabilities",
+      "scopus": {
+        "cluster": "2-s2.0-85014670176",
+        "datestamp": "2018-02-25 04:50:39",
+        "impact": 1
+      },
       "pages": 7,
       "place_of_pub": "New York, NY, USA",
       "types": "TYPES8",
@@ -106,6 +1532,7 @@
       ],
       "lastmod": "2016-05-13 04:15:32",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -133,8 +1560,418 @@
       ]
     },
     {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Bonino, Dario",
+      "eprintid": 2621928,
+      "wos": {
+        "cluster": 390431300008,
+        "datestamp": "2018-02-24 05:04:46",
+        "impact": 0
+      },
+      "date": 2016,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2621928,
+            "insert_date": "2016-12-05 15:06:25",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-12-05 15:06:25",
+                  "datasetid": "document",
+                  "fileid": 2192786,
+                  "objectid": 1096842,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2192786",
+                  "mime_type": "application\/pdf",
+                  "hash": "bafb3b1fba107ec62eb318d416dd7406",
+                  "filesize": 739719,
+                  "filename": "IT_ITPro_2015_04_0032.R2_Corno.pdf"
+                }
+            ],
+            "content": "draft",
+            "rev_number": 2,
+            "copyright_date": "2015-11-30",
+            "copyright_note": "Riaperto 6\/12\/2016 Non trovo editoriale, messo OA e vers. accettata",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1096842",
+            "original_docid": 69701,
+            "main": "IT_ITPro_2015_04_0032.R2_Corno.pdf",
+            "format": "application\/pdf",
+            "docid": 1096842,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1098698"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "IT_ITPro_2015_04_0032.R2_Corno.pdf"
+          },
+          {
+            "placement": 2,
+            "eprintid": 2621928,
+            "insert_date": "2016-12-05 15:04:31",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-12-05 15:04:31",
+                  "datasetid": "document",
+                  "fileid": 2192789,
+                  "objectid": 1096844,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2192789",
+                  "mime_type": "application\/pdf",
+                  "hash": "9f995c03408d71c2a86220223ff28799",
+                  "filesize": 1225689,
+                  "filename": "ITPro_AmICourse_07763720.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 1,
+            "pos": 2,
+            "language": "it",
+            "license": "not_public",
+            "main": "ITPro_AmICourse_07763720.pdf",
+            "original_docid": 135736,
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1096844",
+            "format": "application\/pdf",
+            "docid": 1096844,
+            "security": "staffonly",
+            "formatdesc": "ITPro_AmICourse_07763720.pdf"
+          }
+      ],
+      "upddate": "2017-03-02 15:00:10",
+      "keywords": [
+        "computer engineering",
+        "ambient intelligence",
+        "internet of things",
+        "computer education",
+        "active learning",
+        "active learning",
+        "computer engineering",
+        "ambient intelligence",
+        "internet of things",
+        "computer education"
+      ],
+      "pagerange": "50-57",
+      "publisher": "IEEE Computer Society",
+      "irisid": 95646,
+      "publisher_review": "IEEE Computer Society, Los Alamitos, CA",
+      "datestamp": "2015-10-06 16:21:47",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2621928",
+      "publication": "IT PROFESSIONAL",
+      "abstract": "The increasing popularity and complexity of the Internet of Things (IoT) requires engineers to master various languages and protocols. Interest is also growing in the human factors for transparently and intelligently supporting people with these new IoT systems. New design methodologies are increasingly needed in the toolbox of new electronic and computer engineers, and teaching strategies must allow students to acquire a systems-level view. This article describes the experience of a university undergraduate course in ambient intelligence (AmI) at Politecnico di Torino, Italy. In the course, through a project-based learning approach, students design and prototype an AmI system, and their progress is closely monitored throughout the semester. The article presents the course organization and its main results, including the relationship with industry stakeholders that collaborated in the course delivery.",
+      "type": "article",
+      "title": "Educating Internet of Things Professionals: The Ambient Intelligence Course",
+      "scopus": {
+        "cluster": "2-s2.0-85014640011",
+        "datestamp": "2018-02-24 05:30:39",
+        "impact": 1
+      },
+      "pages": 8,
+      "types": "TYPES2",
+      "number": 6,
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "1520-9202",
+      "rev_number": 84,
+      "dir": "disk0\/02\/62\/19\/28",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        }
+      ],
+      "lastmod": "2017-03-09 14:04:46",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/MITP.2016.100",
+      "proprietary": {
+        "name": {
+          "lineage": 2154,
+          "given": "Fulvio",
+          "honourific": null,
+          "family": "Corno"
+        },
+        "id": 2154
+      },
+      "eprint_status": "archive",
+      "status_changed": "2016-12-05 16:06:26",
+      "language": [
+        "en"
+      ],
+      "volume": 18,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "related_url": [
+        {
+          "url": "http:\/\/ieeexplore.ieee.org\/document\/7763720\/"
+        }
+      ],
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Montanaro, Teodoro",
+      "eprintid": 2644262,
+      "wos": {
+        "cluster": 402634702153,
+        "datestamp": "2018-02-25 04:53:56",
+        "impact": 0
+      },
+      "date": 2016,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2644262,
+            "insert_date": "2016-08-26 09:28:54",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-26 09:28:54",
+                  "datasetid": "document",
+                  "fileid": 2187340,
+                  "objectid": 1093931,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2187340",
+                  "mime_type": "application\/pdf",
+                  "hash": "a6c44518a182765c09a7c470e07cb4bf",
+                  "filesize": 446389,
+                  "filename": "PID4321083.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 1,
+            "copyright_date": "2016-08-24",
+            "copyright_note": "invio mail 25-08-2016 :ctrl preprint, togliere prezzo, copyr e isbn",
+            "pos": 1,
+            "language": "it",
+            "license": "not_public",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1093931",
+            "original_docid": 115381,
+            "main": "PID4321083.pdf",
+            "format": "application\/pdf",
+            "docid": 1093931,
+            "security": "staffonly",
+            "copyright_operator": "MGD",
+            "formatdesc": "PID4321083.pdf"
+          },
+          {
+            "placement": 2,
+            "eprintid": 2644262,
+            "insert_date": "2016-08-26 11:05:49",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-08-26 11:05:49",
+                  "datasetid": "document",
+                  "fileid": 2187343,
+                  "objectid": 1093933,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2187343",
+                  "mime_type": "application\/pdf",
+                  "hash": "ec0ae806cc47f4f3a1e35675ddec2af7",
+                  "filesize": 441461,
+                  "filename": "SMC2016_CornoDeRussisMontanaro.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2016-08-29",
+            "pos": 2,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1093933",
+            "original_docid": 118865,
+            "main": "SMC2016_CornoDeRussisMontanaro.pdf",
+            "format": "application\/pdf",
+            "docid": 1093933,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1094166"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "SMC2016_CornoDeRussisMontanaro.pdf"
+          },
+          {
+            "placement": 3,
+            "eprintid": 2644262,
+            "insert_date": "2017-02-16 10:38:31",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-02-16 10:38:31",
+                  "datasetid": "document",
+                  "fileid": 2187346,
+                  "objectid": 1093935,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2187346",
+                  "mime_type": "application\/pdf",
+                  "hash": "3d6c57d9e2b012b0777140cd5f60ccfc",
+                  "filesize": 545010,
+                  "filename": "smc2016_published.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 1,
+            "pos": 3,
+            "language": "it",
+            "license": "not_public",
+            "main": "smc2016_published.pdf",
+            "original_docid": 144038,
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1093935",
+            "format": "application\/pdf",
+            "docid": 1093935,
+            "security": "staffonly",
+            "formatdesc": "smc2016_published.pdf"
+          }
+      ],
+      "upddate": "2017-02-16 10:39:41",
+      "keywords": [
+        "estimation",
+        "global positioning system",
+        "machine learning algorithms",
+        "receivers",
+        "sensors",
+        "batteries",
+        "decision trees",
+        "machine learning application",
+        "decision trees",
+        "user meaningful places estimation",
+        "low-energy location"
+      ],
+      "isbn": "978-1-5090-1897-0",
+      "pagerange": "003039-003044",
+      "publisher": "IEEE",
+      "event_title": "SMC 2016: IEEE International Conference on Systems, Man, and Cybernetics",
+      "irisid": 120708,
+      "event_dates": "9-12 October, 2016",
+      "book_title": "IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2016",
+      "datestamp": "2016-06-21 17:11:08",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2644262",
+      "event_location": "Budapest",
+      "abstract": "Due to the increasing spread of location-aware applications, developers interest in user location estimation has grown in recent years. As users spend the majority of their time in few meaningful places (i.e., groups of near locations that can be considered as a unique place, such as home, school or the workplace), this paper presents a new energy efficient method to estimate user presence in a meaningful place. Specifically, instead of using commonly used but energy hungry methods such as GPS and network positioning techniques, the proposed method applies a Machine Learning algorithm based on Decision Trees, to predict the user presence in a meaningful place by collecting and analyzing: a) user activity, b) information from received notifications (receipt time, generating service, sender-receiver relationship), and c) device status (battery level and ringtone mode). The results demonstrate that, using 20 days of training data and testing the system with data coming from 14 persons, the accuracy (percentage of correct predictions) is 89.40% (standard deviation: 8.27%) with a precision of 89.04% and a recall of 89.40%. Furthermore, the paper analyzes the importance of each considered feature, by comparing the prediction accuracy obtained with different combinations of features.",
+      "type": "conference_item",
+      "title": "Estimate User Meaningful Places through Low-Energy Mobile Sensing",
+      "scopus": {
+        "cluster": "2-s2.0-85015745974",
+        "datestamp": "2018-02-25 05:21:05",
+        "impact": 0
+      },
+      "pages": 6,
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 25,
+      "dir": "disk0\/02\/64\/42\/62",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 36541,
+            "given": "Teodoro",
+            "honourific": null,
+            "family": "Montanaro"
+          },
+          "id": 36541
+        }
+      ],
+      "lastmod": "2017-02-19 05:49:14",
+      "ispublished": "pub",
+      "openaire": 1,
+      "proprietary": {
+        "name": {
+          "lineage": 2154,
+          "given": "Fulvio",
+          "honourific": null,
+          "family": "Corno"
+        },
+        "id": 2154
+      },
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/SMC.2016.7844703",
+      "eprint_status": "archive",
+      "status_changed": "2016-08-26 12:19:35",
+      "language": [
+        "en"
+      ],
+      "volume": "2016 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "related_url": [
+        {
+          "url": "http:\/\/ieeexplore.ieee.org\/stamp\/stamp.jsp?tp=&arnumber=7844703&isnumber=7844217"
+        }
+      ],
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
       "authors_string": "Corno, Fulvio; De Russis, Luigi; Monge Roffarello, Alberto",
       "eprintid": 2638601,
+      "wos": {
+        "cluster": 389533300045,
+        "datestamp": "2018-02-25 04:38:42",
+        "impact": 2
+      },
       "date": 2016,
       "documents": [
           {
@@ -200,8 +2037,8 @@
       "title": "A Healthcare Support System for Assisted Living Facilities: an IoT Solution",
       "scopus": {
         "cluster": "2-s2.0-84988000953",
-        "datestamp": "2016-09-30 04:33:13",
-        "impact": 0
+        "datestamp": "2018-02-25 04:57:08",
+        "impact": 4
       },
       "pages": 9,
       "types": "TYPES8",
@@ -243,6 +2080,7 @@
       ],
       "lastmod": "2016-06-15 08:59:41",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1109\/COMPSAC.2016.29",
       "proprietary": {
@@ -274,8 +2112,8 @@
       "eprintid": 2519025,
       "wos": {
         "cluster": 357989200004,
-        "datestamp": "2016-10-26 03:59:36",
-        "impact": 0
+        "datestamp": "2018-02-22 04:28:42",
+        "impact": 1
       },
       "date": 2015,
       "documents": [
@@ -333,8 +2171,8 @@
       "title": "Autonomic goal-oriented device management for Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84949546003",
-        "datestamp": "2016-10-26 04:39:14",
-        "impact": 0
+        "datestamp": "2018-02-22 04:35:51",
+        "impact": 1
       },
       "pages": 24,
       "types": "TYPES2",
@@ -377,6 +2215,7 @@
       ],
       "lastmod": "2016-05-19 03:32:36",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.3233\/AIS-150329",
       "proprietary": {
@@ -414,7 +2253,7 @@
       "eprintid": 2620664,
       "wos": {
         "cluster": 380614200093,
-        "datestamp": "2016-10-30 04:18:12",
+        "datestamp": "2018-02-24 04:59:45",
         "impact": 0
       },
       "date": 2015,
@@ -441,7 +2280,7 @@
       "title": "Can We Make Dynamic, Accessible and Fun One-Switch Video Games?",
       "scopus": {
         "cluster": "2-s2.0-84962653798",
-        "datestamp": "2016-10-30 04:19:29",
+        "datestamp": "2018-02-24 05:21:54",
         "impact": 0
       },
       "pages": 2,
@@ -484,6 +2323,7 @@
       ],
       "lastmod": "2015-11-05 16:54:38",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/2700648.2811333",
       "proprietary": {
@@ -515,8 +2355,8 @@
       "eprintid": 2627751,
       "wos": {
         "cluster": 380567200114,
-        "datestamp": "2016-10-30 04:40:24",
-        "impact": 0
+        "datestamp": "2018-02-25 04:24:22",
+        "impact": 1
       },
       "date": 2015,
       "documents": [
@@ -529,9 +2369,9 @@
                   "hash_type": "MD5",
                   "mtime": "2016-01-12 11:37:18",
                   "datasetid": "document",
-                  "fileid": 1628993,
-                  "objectid": 772945,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1628993",
+                  "fileid": 2445197,
+                  "objectid": 1246569,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2445197",
                   "mime_type": "application\/pdf",
                   "hash": "1ccc4b280951261851933be7f6a8aa24",
                   "filesize": 256310,
@@ -539,28 +2379,28 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 9,
+            "rev_number": 2,
             "copyright_date": "2016-02-02",
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/772945",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1246569",
             "original_docid": 82109,
             "main": "smartnotifications_preprint.pdf",
             "format": "application\/pdf",
-            "docid": 772945,
+            "docid": 1246569,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/935217"
+                "uri": "\/id\/document\/1254363"
               }
             ],
             "copyright_operator": "MGD",
             "formatdesc": "smartnotifications_preprint.pdf"
           }
       ],
-      "upddate": "2016-01-27 20:30:35",
+      "upddate": "2017-11-27 16:20:07",
       "keywords": [
         "notifications",
         "machine learning",
@@ -572,16 +2412,16 @@
       "irisid": 96032,
       "event_dates": "14-16 December 2015",
       "book_title": "Internet of Things (WF-IoT), 2015 IEEE 2nd World Forum on",
-      "datestamp": "2016-01-27 21:30:34",
+      "datestamp": "2015-10-12 09:33:43",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2627751",
       "event_location": "Milan, Italy",
-      "abstract": "Nowadays, notifications are increasingly gaining momentum in our society. New smart devices and appliances are developed everyday with the ability to generate, send and show messages about their status, acquired data and\/or information received from other devices and users. Consequently, the number of notifications received by a user is growing and the tolerance to them could decrease in a short time. This paper presents a smart notification system that uses machine learning algorithms to adequately manage incoming notifications. According to context awareness and user habits, the system decides: a) who should receive an incoming notification; b) what is the best moment to show the notification to the chosen user(s); c) on which device(s) the chosen user(s) should receive the notification; d) which is the best way to notify the incoming notification. After the design of a general architecture, as a first step in building such a system, three different machine learning algorithms were compared in the task of establishing the best device on which the incoming notification should be delivered. The algorithms were applied to a dataset derived from real data provided by the MIT Media Laboratory Reality Mining project, enriched with additional synthetic information",
+      "abstract": "Nowadays, notifications are increasingly gaining momentum in our society. New smart devices and appliances are developed everyday with the ability to generate, send and show messages about their status, acquired data and\/or information received from other devices and users. Consequently, the number of notifications received by a user is growing and the tolerance to them could decrease in a short time. This paper presents a smart notification system that uses machine learning algorithms to adequately manage incoming notifications. According to context awareness and user habits, the system decides: a) who should receive an incoming notification; b) what is the best moment to show the notification to the chosen user(s); c) on which device(s) the chosen user(s) should receive the notification; d) which is the best way to notify the incoming notification. After the design of a general architecture, as a first step in building such a system, three different machine learning algorithms were compared in the task of establishing the best device on which the incoming notification should be delivered. The algorithms were applied to a dataset derived from real data provided by the MIT Media Laboratory Reality Mining project, enriched with additional synthetic information.",
       "type": "conference_item",
       "title": "A Context and User Aware Smart Notification System",
       "scopus": {
         "cluster": "2-s2.0-84964465721",
-        "datestamp": "2016-09-30 03:16:31",
-        "impact": 0
+        "datestamp": "2018-02-25 04:32:22",
+        "impact": 7
       },
       "pages": 7,
       "types": "TYPES8",
@@ -590,9 +2430,18 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 23,
+      "rev_number": 54,
       "dir": "disk0\/02\/62\/77\/51",
       "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
         {
           "name": {
             "lineage": 25734,
@@ -610,19 +2459,11 @@
             "family": "Montanaro"
           },
           "id": 36541
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
         }
       ],
-      "lastmod": "2016-06-21 11:03:10",
+      "lastmod": "2017-11-29 13:04:06",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1109\/WF-IoT.2015.7389130",
       "proprietary": {
@@ -755,6 +2596,7 @@
       ],
       "lastmod": "2015-11-28 05:43:31",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s40860-015-0001-7",
       "proprietary": {
@@ -824,6 +2666,7 @@
       ],
       "lastmod": "2015-03-13 01:12:08",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -836,10 +2679,10 @@
       },
       "eprint_status": "archive",
       "status_changed": "2015-03-12 11:03:49",
-      "volume": 16,
       "language": [
         "it"
       ],
+      "volume": 16,
       "full_text_status": "none",
       "related_url": [
         {
@@ -880,7 +2723,7 @@
                 }
             ],
             "content": "published",
-            "rev_number": 16,
+            "rev_number": 18,
             "copyright_date": "2015-02-26",
             "copyright_note": "Copyright is held by the owner\/author(s).CHI'15 Extended Abstracts, Apr 18-23, 2015, Seoul, Republic of Korea",
             "pos": 1,
@@ -895,7 +2738,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/935518"
+                "uri": "\/id\/document\/1052804"
               }
             ],
             "copyright_operator": "MN",
@@ -925,8 +2768,8 @@
       "title": "GNomon: Enabling Dynamic One-Switch Games for Children with Severe Motor Disabilities",
       "scopus": {
         "cluster": "2-s2.0-84954210169",
-        "datestamp": "2016-10-28 04:44:03",
-        "impact": 0
+        "datestamp": "2018-02-23 05:44:47",
+        "impact": 4
       },
       "pages": 6,
       "types": "TYPES8",
@@ -935,7 +2778,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 27,
+      "rev_number": 29,
       "dir": "disk0\/02\/58\/82\/19",
       "creators": [
         {
@@ -966,8 +2809,9 @@
           "id": 25734
         }
       ],
-      "lastmod": "2016-06-22 05:46:19",
+      "lastmod": "2016-11-15 13:46:23",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -1064,8 +2908,8 @@
       "title": "HomeRules: A Tangible End-User Programming Interface for Smart Homes",
       "scopus": {
         "cluster": "2-s2.0-84954289172",
-        "datestamp": "2016-10-28 04:43:55",
-        "impact": 1
+        "datestamp": "2018-02-23 05:44:41",
+        "impact": 9
       },
       "pages": 6,
       "types": "TYPES8",
@@ -1098,6 +2942,7 @@
       ],
       "lastmod": "2015-04-21 13:49:23",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -1130,7 +2975,7 @@
       "eprintid": 2570937,
       "wos": {
         "cluster": 365176500025,
-        "datestamp": "2016-07-29 04:12:38",
+        "datestamp": "2018-02-23 04:50:14",
         "impact": 0
       },
       "date": 2015,
@@ -1200,7 +3045,7 @@
       "title": "IoT Meets Caregivers: a Healthcare Support System in Assisted Living Facilities",
       "scopus": {
         "cluster": "2-s2.0-84948760964",
-        "datestamp": "2016-10-28 04:02:55",
+        "datestamp": "2018-02-23 05:03:09",
         "impact": 0
       },
       "pages": 6,
@@ -1244,6 +3089,7 @@
       ],
       "lastmod": "2016-05-07 14:26:11",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -1277,7 +3123,7 @@
       "eprintid": 2610554,
       "wos": {
         "cluster": 378639200045,
-        "datestamp": "2016-10-29 03:45:51",
+        "datestamp": "2018-02-24 04:40:03",
         "impact": 0
       },
       "date": 2015,
@@ -1345,7 +3191,7 @@
       "title": "IoT Meets Exhibition Areas: a Modular Architecture to Improve Proximity Interactions",
       "scopus": {
         "cluster": "2-s2.0-84959042684",
-        "datestamp": "2016-10-29 04:09:17",
+        "datestamp": "2018-02-24 04:54:29",
         "impact": 0
       },
       "pages": 8,
@@ -1388,6 +3234,7 @@
       ],
       "lastmod": "2015-11-25 09:34:35",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1109\/FiCloud.2015.25",
       "proprietary": {
@@ -1420,7 +3267,7 @@
       "eprintid": 2627121,
       "wos": {
         "cluster": 370934402044,
-        "datestamp": "2016-10-30 04:38:04",
+        "datestamp": "2018-02-25 04:22:31",
         "impact": 0
       },
       "date": 2015,
@@ -1428,15 +3275,15 @@
           {
             "placement": 1,
             "eprintid": 2627121,
-            "insert_date": "2016-01-02 15:13:58",
+            "insert_date": "2017-04-04 15:36:46",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2016-01-02 15:13:58",
+                  "mtime": "2017-04-04 15:36:46",
                   "datasetid": "document",
-                  "fileid": 1884230,
-                  "objectid": 916226,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1884230",
+                  "fileid": 2208452,
+                  "objectid": 1106404,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2208452",
                   "mime_type": "application\/pdf",
                   "hash": "a9d27da13d79535dbfe3a433f93c094e",
                   "filesize": 1234834,
@@ -1444,61 +3291,70 @@
                 }
             ],
             "content": "published",
-            "rev_number": 1,
+            "rev_number": 2,
+            "copyright_date": "2017-04-05",
             "pos": 1,
             "language": "it",
-            "license": "not_public",
-            "main": "DSS.pdf",
+            "license": "cc_by_nc_nd",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1106404",
             "original_docid": 80332,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/916226",
+            "main": "DSS.pdf",
             "format": "application\/pdf",
-            "docid": 916226,
-            "security": "staffonly",
+            "docid": 1106404,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1109352"
+              }
+            ],
+            "copyright_operator": "MGD",
             "formatdesc": "DSS.pdf"
           }
       ],
-      "upddate": "2016-05-17 12:20:10",
+      "upddate": "2017-04-04 15:36:56",
       "keywords": [
-        "energy management",
-        "energy monitoring",
-        "energy efficiency",
+        "smart building",
         "decision support system",
-        "smart building"
+        "energy efficiency",
+        "energy monitoring",
+        "energy management"
       ],
       "pagerange": "2196-2201",
       "publisher": "Elsevier",
       "irisid": 104146,
       "publisher_review": "[s.l]: Elsevier B.V",
-      "datestamp": "2016-01-02 16:35:32",
+      "datestamp": "2016-01-02 15:09:43",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2627121",
       "publication": "ENERGY PROCEDIA",
-      "abstract": "Building energy monitoring and real time control strategies can decrease energy consumption on one hand, and improve comfort on the other hand, by increasing the understanding of the control system. A decision support system for building energy management can be a proper tool for supporting the measurement and management of energy usage and costs of public buildings. The aim of the paper is to describe the architecture of the Decision Support System (DSS), that is being developed within the FP7-Smartcities Project OPTIMUS (OPTimising the energy Use in cities with smart decision support system). The architecture of the system is described considering both the energy related and the information technology aspects. An example of action modeling is also presented and the first results are discussed",
+      "abstract": "Building energy monitoring and real time control strategies can decrease energy consumption on one hand, and improve comfort on the other hand, by increasing the understanding of the control system. A decision support system for building energy management can be a proper tool for supporting the measurement and management of energy usage and costs of public buildings. The aim of the paper is to describe the architecture of the Decision Support System (DSS), that is being developed within the FP7-Smartcities Project OPTIMUS (OPTimising the energy Use in cities with smart decision support system). The architecture of the system is described considering both the energy related and the information technology aspects. An example of action modeling is also presented and the first results are discussed.",
       "type": "article",
       "title": "The Overall Architecture of a Decision Support System for Public Buildings",
       "scopus": {
         "cluster": "2-s2.0-84962546797",
-        "datestamp": "2016-08-31 03:16:15",
+        "datestamp": "2018-02-25 04:28:36",
         "impact": 0
       },
       "pages": 6,
       "types": "TYPES2",
+      "twitted": 1,
       "userid": 2,
       "userdep": [
         "USER_D1070",
         "USER_D1010"
       ],
       "issn": "1876-6102",
-      "rev_number": 10,
+      "rev_number": 23,
       "dir": "disk0\/02\/62\/71\/21",
       "creators": [
         {
           "name": {
-            "lineage": 22292,
-            "given": "Alfonso",
+            "lineage": 1996,
+            "given": "Vincenzo",
             "honourific": null,
-            "family": "Capozzoli"
+            "family": "Corrado"
           },
-          "id": 22292
+          "id": 1996
         },
         {
           "name": {
@@ -1511,12 +3367,12 @@
         },
         {
           "name": {
-            "lineage": 1996,
-            "given": "Vincenzo",
+            "lineage": 22292,
+            "given": "Alfonso",
             "honourific": null,
-            "family": "Corrado"
+            "family": "Capozzoli"
           },
-          "id": 1996
+          "id": 22292
         },
         {
           "name": {
@@ -1528,8 +3384,9 @@
           "id": 23109
         }
       ],
-      "lastmod": "2016-05-19 03:39:04",
+      "lastmod": "2017-04-17 17:34:23",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.egypro.2015.11.318",
       "proprietary": {
@@ -1547,7 +3404,7 @@
         "en"
       ],
       "volume": 78,
-      "full_text_status": "restricted",
+      "full_text_status": "public",
       "referee": "REF_1",
       "related_url": [
         {
@@ -1569,7 +3426,7 @@
       "eprintid": 2605010,
       "wos": {
         "cluster": 380422800027,
-        "datestamp": "2016-10-29 03:38:04",
+        "datestamp": "2018-02-24 04:32:08",
         "impact": 0
       },
       "date": 2015,
@@ -1640,8 +3497,8 @@
       "title": "Playable One-Switch Video Games for Children with Severe Motor Disabilities Based on GNomon",
       "scopus": {
         "cluster": "2-s2.0-84959051383",
-        "datestamp": "2016-10-29 03:56:23",
-        "impact": 0
+        "datestamp": "2018-02-24 04:41:57",
+        "impact": 3
       },
       "pages": 10,
       "types": "TYPES8",
@@ -1683,6 +3540,7 @@
       ],
       "lastmod": "2016-08-31 15:00:58",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -1715,8 +3573,8 @@
       "eprintid": 2570936,
       "wos": {
         "cluster": 365176500001,
-        "datestamp": "2016-07-29 04:12:38",
-        "impact": 0
+        "datestamp": "2018-02-23 04:50:13",
+        "impact": 1
       },
       "date": 2015,
       "documents": [
@@ -1785,8 +3643,8 @@
       "title": "PowerOnt: An Ontology-based Approach for Power Consumption Estimation in Smart Homes",
       "scopus": {
         "cluster": "2-s2.0-84948757014",
-        "datestamp": "2016-10-28 04:02:51",
-        "impact": 0
+        "datestamp": "2018-02-23 05:03:05",
+        "impact": 1
       },
       "pages": 6,
       "types": "TYPES8",
@@ -1829,6 +3687,7 @@
       ],
       "lastmod": "2016-05-17 00:38:26",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -1862,7 +3721,7 @@
       "eprintid": 2510296,
       "wos": {
         "cluster": 352647600003,
-        "datestamp": "2016-10-26 03:29:31",
+        "datestamp": "2018-02-21 04:54:44",
         "impact": 2
       },
       "date": 2015,
@@ -1886,7 +3745,7 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 4,
+            "rev_number": 6,
             "copyright_date": "2014-12-23",
             "pos": 1,
             "language": "it",
@@ -1900,7 +3759,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/997778"
+                "uri": "\/id\/document\/1052808"
               }
             ],
             "copyright_operator": "MN",
@@ -1927,8 +3786,8 @@
       "title": "Real-Time Monitoring of High-Level States in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84925710465",
-        "datestamp": "2016-10-26 03:42:25",
-        "impact": 2
+        "datestamp": "2018-02-21 05:19:26",
+        "impact": 3
       },
       "pages": 21,
       "types": "TYPES2",
@@ -1939,7 +3798,7 @@
         "USER_D1010"
       ],
       "issn": "1876-1364",
-      "rev_number": 81,
+      "rev_number": 82,
       "dir": "disk0\/02\/51\/02\/96",
       "creators": [
         {
@@ -1961,8 +3820,9 @@
           "id": 23127
         }
       ],
-      "lastmod": "2016-10-29 02:36:52",
+      "lastmod": "2016-11-15 15:31:54",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.3233\/AIS-150310",
       "proprietary": {
@@ -2097,6 +3957,7 @@
       ],
       "lastmod": "2016-05-08 03:42:40",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -2182,7 +4043,7 @@
       "title": "Smart Systems (Guest Editors' Introduction)",
       "scopus": {
         "cluster": "2-s2.0-84960863347",
-        "datestamp": "2016-10-30 04:34:53",
+        "datestamp": "2018-02-24 05:35:06",
         "impact": 0
       },
       "pages": 4,
@@ -2208,6 +4069,7 @@
       ],
       "lastmod": "2015-11-24 03:34:32",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/MITP.2015.115",
       "proprietary": {
@@ -2245,51 +4107,60 @@
       "eprintid": 2582743,
       "wos": {
         "cluster": 350366500011,
-        "datestamp": "2016-09-28 03:24:59",
-        "impact": 0
+        "datestamp": "2018-02-23 05:08:09",
+        "impact": 3
       },
       "date": 2015,
       "documents": [
           {
             "placement": 1,
             "eprintid": 2582743,
-            "insert_date": "2015-10-29 12:10:58",
+            "insert_date": "2017-10-13 13:57:07",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2015-10-29 12:10:58",
+                  "mtime": "2017-10-13 13:57:07",
                   "datasetid": "document",
-                  "fileid": 1869467,
-                  "objectid": 907744,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1869467",
+                  "fileid": 2357874,
+                  "objectid": 1196194,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2357874",
                   "mime_type": "application\/pdf",
                   "hash": "c7762fba9d79b0259d6b9b9b61b3b102",
                   "filesize": 364701,
                   "filename": "main.pdf"
                 }
             ],
-            "content": "draft",
-            "rev_number": 2,
+            "content": "published",
+            "rev_number": 3,
+            "copyright_date": "2017-10-16",
+            "original_note": "Il Gruppo Copyright ha modificato la licenza da â��Non Pubblicoâ�� a â��Pubblicoâ�� coerentemente alla scelta della policy di accesso: â��Embargo 31\/01\/2015â��, ora â��Visibile a tuttiâ��",
             "pos": 1,
             "language": "it",
-            "license": "not_public",
-            "main": "main.pdf",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1196194",
             "original_docid": 64045,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/907744",
+            "main": "main.pdf",
             "format": "application\/pdf",
-            "docid": 907744,
-            "security": "staffonly",
+            "docid": 1196194,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1197936"
+              }
+            ],
+            "copyright_operator": "MN",
             "formatdesc": "main.pdf"
           }
       ],
-      "upddate": "2016-05-10 15:04:10",
+      "upddate": "2017-10-13 13:57:07",
       "keywords": [
-        "assisted living facilities",
-        "healthcare support system",
-        "design guidelines",
         "focus groups",
         "caregivers",
-        "persons with disabilities"
+        "persons with disabilities",
+        "assisted living facilities",
+        "healthcare support system",
+        "design guidelines"
       ],
       "pagerange": "133-144",
       "publisher": "Springer",
@@ -2298,25 +4169,35 @@
       "datestamp": "2014-12-19 11:02:58",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2582743",
       "publication": "UNIVERSAL ACCESS IN THE INFORMATION SOCIETY",
-      "abstract": "Research activities on designing healthcare support systems in the field of ambient assisted living are mainly focused on addressing two problems: improving the quality of life for people in their own homes, especially the elderly, and supporting nurses and physicians in hospitals. However, few papers focus on designing specific systems for supporting caregivers that work with persons with disabilities in the context of assisted living facilities (ALFs). This paper intends to contribute to filling this gap and presents a series of guidelines for designing systems that could effectively support caregivers in tasks such as monitoring ALF inhabitants, attending to their assistance requests and managing notes and reminders regarding daily activities. These design guidelines derive from the qualitative analysis of a comprehensive user study, carried out in northern Italy, of three focus groups conducted with a total of 30 caregivers in three different ALFs for persons with physical and cognitive disabilities",
+      "abstract": "Research activities on designing healthcare support systems in the field of ambient assisted living are mainly focused on addressing two problems: improving the quality of life for people in their own homes, especially the elderly, and supporting nurses and physicians in hospitals. However, few papers focus on designing specific systems for supporting caregivers that work with persons with disabilities in the context of assisted living facilities (ALFs). This paper intends to contribute to filling this gap and presents a series of guidelines for designing systems that could effectively support caregivers in tasks such as monitoring ALF inhabitants, attending to their assistance requests and managing notes and reminders regarding daily activities. These design guidelines derive from the qualitative analysis of a comprehensive user study, carried out in northern Italy, of three focus groups conducted with a total of 30 caregivers in three different ALFs for persons with physical and cognitive disabilities.",
       "type": "article",
       "title": "Supporting Caregivers in Assisted Living Facilities for Persons with Disabilities: a User Study",
       "scopus": {
         "cluster": "2-s2.0-84925538136",
-        "datestamp": "2016-10-28 04:25:57",
-        "impact": 1
+        "datestamp": "2018-02-23 05:28:07",
+        "impact": 5
       },
       "pages": 12,
       "types": "TYPES2",
       "number": 1,
+      "twitted": 1,
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
       "issn": "1615-5289",
-      "rev_number": 14,
+      "rev_number": 22,
       "dir": "disk0\/02\/58\/27\/43",
       "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
         {
           "name": {
             "lineage": 25734,
@@ -2334,19 +4215,11 @@
             "family": "Aced Lopez"
           },
           "id": 27070
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
         }
       ],
-      "lastmod": "2016-05-12 03:46:52",
+      "lastmod": "2017-10-19 09:05:47",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s10209-014-0400-1",
       "proprietary": {
@@ -2364,7 +4237,7 @@
         "en"
       ],
       "volume": 14,
-      "full_text_status": "restricted",
+      "full_text_status": "public",
       "referee": "REF_1",
       "refereed": 1,
       "divisions": [
@@ -2379,7 +4252,7 @@
       "eprintid": 2572750,
       "wos": {
         "cluster": 345580800004,
-        "datestamp": "2016-07-29 04:16:17",
+        "datestamp": "2018-02-23 04:54:04",
         "impact": 0
       },
       "date": 2014,
@@ -2399,7 +4272,7 @@
       "title": "Advancing Cloud Computing",
       "scopus": {
         "cluster": "2-s2.0-84913595678",
-        "datestamp": "2016-10-28 04:08:09",
+        "datestamp": "2018-02-23 05:08:31",
         "impact": 0
       },
       "pages": 2,
@@ -2425,6 +4298,7 @@
       ],
       "lastmod": "2016-04-15 03:53:11",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/MITP.2014.82",
       "proprietary": {
@@ -2455,8 +4329,8 @@
       "eprintid": 2518928,
       "wos": {
         "cluster": 351240600010,
-        "datestamp": "2016-10-26 03:57:41",
-        "impact": 1
+        "datestamp": "2018-02-22 04:26:46",
+        "impact": 2
       },
       "date": 2014,
       "documents": [
@@ -2520,8 +4394,8 @@
       "title": "Design-time formal verification for smart environments: an exploratory perspective",
       "scopus": {
         "cluster": "2-s2.0-84905082972",
-        "datestamp": "2016-10-26 04:34:40",
-        "impact": 1
+        "datestamp": "2018-02-22 04:32:48",
+        "impact": 2
       },
       "pages": 19,
       "types": "TYPES2",
@@ -2556,6 +4430,7 @@
       ],
       "lastmod": "2016-04-25 17:36:24",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s12652-013-0209-4",
       "proprietary": {
@@ -2593,8 +4468,8 @@
       "eprintid": 2506317,
       "wos": {
         "cluster": 341569300010,
-        "datestamp": "2016-10-25 04:07:25",
-        "impact": 2
+        "datestamp": "2018-02-21 04:35:36",
+        "impact": 3
       },
       "date": 2014,
       "documents": [
@@ -2652,8 +4527,8 @@
       "title": "JEERP: Energy Aware Enterprise Resource Planning",
       "scopus": {
         "cluster": "2-s2.0-84906269891",
-        "datestamp": "2016-10-25 04:38:01",
-        "impact": 1
+        "datestamp": "2018-02-21 04:49:49",
+        "impact": 6
       },
       "pages": 7,
       "types": "TYPES2",
@@ -2697,6 +4572,7 @@
       ],
       "lastmod": "2016-05-04 13:26:13",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1109\/MITP.2013.22",
       "proprietary": {
@@ -2729,8 +4605,8 @@
       "eprintid": 2506415,
       "wos": {
         "cluster": 343009300016,
-        "datestamp": "2016-10-25 04:08:58",
-        "impact": 0
+        "datestamp": "2018-02-21 04:36:42",
+        "impact": 5
       },
       "date": 2014,
       "documents": [
@@ -2753,7 +4629,7 @@
                 }
             ],
             "content": "published",
-            "rev_number": 6,
+            "rev_number": 8,
             "copyright_date": "2013-04-10",
             "copyright_note": "WILEY-BLACKWELL PUBLISHING",
             "pos": 1,
@@ -2768,7 +4644,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/1006415"
+                "uri": "\/id\/document\/1166717"
               }
             ],
             "copyright_operator": "EP",
@@ -2797,8 +4673,8 @@
       "title": "Modeling and Formal Verification of Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84908202723",
-        "datestamp": "2016-10-25 04:40:22",
-        "impact": 3
+        "datestamp": "2018-02-21 04:51:57",
+        "impact": 8
       },
       "pages": 17,
       "types": "TYPES2",
@@ -2809,7 +4685,7 @@
         "USER_D1010"
       ],
       "issn": "1939-0122",
-      "rev_number": 49,
+      "rev_number": 51,
       "dir": "disk0\/02\/50\/64\/15",
       "creators": [
         {
@@ -2831,8 +4707,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2016-09-26 20:51:43",
+      "lastmod": "2017-08-31 07:40:32",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1002\/sec.794",
       "proprietary": {
@@ -2865,7 +4742,7 @@
       "eprintid": 2507278,
       "wos": {
         "cluster": 351240600009,
-        "datestamp": "2016-10-25 04:10:44",
+        "datestamp": "2018-02-21 04:37:54",
         "impact": 1
       },
       "date": 2014,
@@ -2933,7 +4810,7 @@
       "title": "SAT based Enforcement of Domotic Effects in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84905088535",
-        "datestamp": "2016-10-25 04:43:56",
+        "datestamp": "2018-02-21 04:54:30",
         "impact": 1
       },
       "pages": 15,
@@ -2969,6 +4846,7 @@
       ],
       "lastmod": "2016-09-20 02:53:55",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s12652-013-0183-x",
       "proprietary": {
@@ -3055,14 +4933,19 @@
       "abstract": "The design of smart homes, buildings and environments currently suffers from a low maturity of available methodologies and tools. Technologies, devices and protocols strongly bias the design process towards vertical integration, and more flexible solutions based on separation of design concerns are seldom applied. As a result, the current landscape of smart environments is mostly populated by defectively designed solutions where application requirements (e.g., end-user functionality) are too often mixed and intertwined with technical requirements (e.g., managing the network of devices). A mature and effective design process must, instead, rely on a clear separation between the application layer and the underlying enabling technologies, to enable effective design reuse. The role of smart gateways is to enable this separation of concerns and to provide an abstracted view of available automation technology to higher software layers. This paper presents a blueprint for the information technology (IT) architecture of smart buildings that builds on top of established software engineering practices, such as model-driven development and semantic representation, and that avoids many pitfalls inherent in legacy approaches. The paper will also present a representative use case where the approach has been applied and the corresponding modeling and software tools",
       "type": "article",
       "title": "A Semantics-Rich Information Technology Architecture for Smart Buildings",
+      "scopus": {
+        "cluster": "2-s2.0-84977864453",
+        "datestamp": "2018-02-23 05:07:57",
+        "impact": 3
+      },
       "pages": 31,
       "types": "TYPES2",
       "number": 4,
+      "twitted": 1,
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "twitted": 1,
       "issn": "2075-5309",
       "rev_number": 38,
       "dir": "disk0\/02\/57\/25\/65",
@@ -3097,6 +4980,7 @@
       ],
       "lastmod": "2016-09-27 15:02:51",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.3390\/buildings4040880",
       "proprietary": {
@@ -3129,7 +5013,7 @@
       "eprintid": 2518929,
       "wos": {
         "cluster": 342901400024,
-        "datestamp": "2016-10-26 03:57:41",
+        "datestamp": "2018-02-22 04:26:47",
         "impact": 0
       },
       "date": 2014,
@@ -3199,7 +5083,7 @@
       "title": "Template-based ontology population for Smart Environments configuration",
       "scopus": {
         "cluster": "2-s2.0-84901335491",
-        "datestamp": "2016-10-26 04:34:43",
+        "datestamp": "2018-02-22 04:32:50",
         "impact": 0
       },
       "pages": 8,
@@ -3243,6 +5127,7 @@
       ],
       "lastmod": "2016-05-13 10:19:07",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -3277,8 +5162,13 @@
       ]
     },
     {
-      "authors_string": "Phillip A. Laplante, Tom Jepsen, Joseph Williams, Fulvio Corno",
+      "authors_string": "Phillip A. Laplante; Tom Jepsen; Joseph Williams; Fulvio Corno",
       "eprintid": 2507842,
+      "wos": {
+        "cluster": 319104300001,
+        "datestamp": "2018-02-25 03:07:47",
+        "impact": 0
+      },
       "date": 2013,
       "documents": [
           {
@@ -3288,11 +5178,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2013-06-09 20:43:28",
+                  "mtime": "2015-10-29 12:07:15",
                   "datasetid": "document",
-                  "fileid": 1172807,
-                  "objectid": 514995,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1172807",
+                  "fileid": 2572335,
+                  "objectid": 1322164,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2572335",
                   "mime_type": "application\/pdf",
                   "hash": "ea59e1bf71e746c73005dcc306124210",
                   "filesize": 1197365,
@@ -3306,17 +5196,17 @@
             "license": "not_public",
             "main": "editorial.pdf",
             "original_docid": 59880,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/514995",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1322164",
             "format": "application\/pdf",
-            "docid": 514995,
+            "docid": 1322164,
             "security": "staffonly",
-            "formatdesc": "Published_paper"
+            "formatdesc": "editorial.pdf"
           }
       ],
-      "upddate": "2014-01-20 11:07:52",
+      "upddate": "2018-02-23 14:09:26",
       "keywords": [
-        "editorial",
-        "disruptive technologies"
+        "disruptive technologies",
+        "editorial"
       ],
       "pagerange": "4-5",
       "publisher": "IEEE - INST ELECTRICAL ELECTRONICS ENGINEERS INC",
@@ -3330,7 +5220,7 @@
       "title": "Innovative and Disruptive Technologies",
       "scopus": {
         "cluster": "2-s2.0-84878415577",
-        "datestamp": "2016-10-26 03:26:24",
+        "datestamp": "2018-02-25 03:07:52",
         "impact": 0
       },
       "pages": 2,
@@ -3341,7 +5231,7 @@
         "USER_D1010"
       ],
       "issn": "1520-9202",
-      "rev_number": 7,
+      "rev_number": 18,
       "dir": "disk0\/02\/50\/78\/42",
       "creators": [
         {
@@ -3354,8 +5244,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2014-10-31 07:52:53",
+      "lastmod": "2018-02-25 03:00:39",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/MITP.2013.43",
       "proprietary": {
@@ -3368,12 +5259,14 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2013-06-09 20:06:27",
+      "status_changed": "2015-06-30 19:19:02",
       "language": [
         "en"
       ],
       "volume": 15,
       "full_text_status": "restricted",
+      "referee": "REF_0",
+      "refereed": 1,
       "divisions": [
         "DAUIN"
       ],
@@ -3441,6 +5334,7 @@
       ],
       "lastmod": "2015-10-09 10:31:09",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1201\/b16014-20",
       "proprietary": {
@@ -3454,10 +5348,10 @@
       },
       "eprint_status": "archive",
       "status_changed": "2012-11-13 15:11:51",
-      "volume": 1,
       "language": [
         "en"
       ],
+      "volume": 1,
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
@@ -3474,15 +5368,15 @@
           {
             "placement": 1,
             "eprintid": 2508526,
-            "insert_date": "2015-10-29 12:07:22",
+            "insert_date": "2017-10-26 11:09:16",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2015-10-09 10:18:59",
+                  "mtime": "2017-10-26 11:09:16",
                   "datasetid": "document",
-                  "fileid": 1512460,
-                  "objectid": 710967,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1512460",
+                  "fileid": 2368795,
+                  "objectid": 1202442,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2368795",
                   "mime_type": "application\/pdf",
                   "hash": "a1b949efd92cc37894d2454c9ea26be5",
                   "filesize": 1800882,
@@ -3490,17 +5384,18 @@
                 }
             ],
             "content": "other",
-            "rev_number": 114,
+            "rev_number": 2,
             "copyright_date": "2014-12-24",
+            "copyright_note": "Riaperto 30\/10\/2017 MN",
             "pos": 1,
             "coverpage": "FALSE",
             "language": "it",
             "license": "cc_by_nc_sa",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/710967",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1202442",
             "original_docid": 60014,
             "main": "Poster.pdf",
             "format": "application\/pdf",
-            "docid": 710967,
+            "docid": 1202442,
             "security": "public",
             "copyright_operator": "MN",
             "formatdesc": "Poster.pdf"
@@ -3508,15 +5403,15 @@
           {
             "placement": 2,
             "eprintid": 2508526,
-            "insert_date": "2015-07-14 12:26:32",
+            "insert_date": "2017-10-26 11:09:16",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2015-10-09 10:19:01",
+                  "mtime": "2017-10-26 11:09:16",
                   "datasetid": "document",
-                  "fileid": 1512463,
-                  "objectid": 710969,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1512463",
+                  "fileid": 2368797,
+                  "objectid": 1202443,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2368797",
                   "mime_type": "application\/pdf",
                   "hash": "043109cecdfcd819c4441aba256c0599",
                   "filesize": 850541,
@@ -3524,29 +5419,28 @@
                 }
             ],
             "content": "published",
-            "rev_number": 112,
-            "copyright_date": "2015-11-13",
-            "copyright_note": "c dell'autore",
+            "rev_number": 3,
+            "copyright_date": "2017-10-30",
             "pos": 2,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/710969",
-            "original_docid": 27141,
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1202443",
+            "original_docid": 171460,
             "main": "dWatch.pdf",
             "format": "application\/pdf",
-            "docid": 710969,
+            "docid": 1202443,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/1004667"
+                "uri": "\/id\/document\/1205285"
               }
             ],
             "copyright_operator": "MN",
             "formatdesc": "dWatch.pdf"
           }
       ],
-      "upddate": "2015-07-14 12:07:53",
+      "upddate": "2017-10-26 11:09:16",
       "keywords": [
         "home automation",
         "smart environments",
@@ -3562,13 +5456,13 @@
       "datestamp": "2013-06-27 09:44:29",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2508526",
       "event_location": "Zurich, Switzerland",
-      "abstract": "This paper addresses human-home interaction mediated by everyday objects, with a particular focus on wrist watches. Everyday wrist-worn devices are turned into flexible home access points by exploiting a modular architecture independent from the underlying home automation system, and from the specific watch device, provided that the necessary capabilities are available. A first working prototype based on a cost-effective consumer watch is presented, and experimental results confirm the viability of the approach",
+      "abstract": "This paper addresses human-home interaction mediated by everyday objects, with a particular focus on wrist watches. Everyday wrist-worn devices are turned into flexible home access points by exploiting a modular architecture independent from the underlying home automation system, and from the specific watch device, provided that the necessary capabilities are available. A first working prototype based on a cost-effective consumer watch is presented, and experimental results confirm the viability of the approach.",
       "type": "conference_item",
       "title": "The Smart Home Controller on Your Wrist",
       "scopus": {
         "cluster": "2-s2.0-84885228678",
-        "datestamp": "2016-10-26 03:33:02",
-        "impact": 2
+        "datestamp": "2018-02-21 05:11:15",
+        "impact": 4
       },
       "pages": 8,
       "place_of_pub": "New York",
@@ -3578,17 +5472,17 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 145,
+      "rev_number": 176,
       "dir": "disk0\/02\/50\/85\/26",
       "creators": [
         {
           "name": {
-            "lineage": 25734,
-            "given": "Luigi",
+            "lineage": 2154,
+            "given": "Fulvio",
             "honourific": null,
-            "family": "De Russis"
+            "family": "Corno"
           },
-          "id": 25734
+          "id": 2154
         },
         {
           "name": {
@@ -3601,18 +5495,17 @@
         },
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 25734,
+            "given": "Luigi",
             "honourific": null,
-            "family": "Corno"
+            "family": "De Russis"
           },
-          "id": 2154
+          "id": 25734
         }
       ],
-      "lastmod": "2016-09-23 20:46:11",
+      "lastmod": "2017-10-31 22:24:24",
       "ispublished": "pub",
-      "metadata_visibility": "show",
-      "id_number": "10.1145\/2494091.2497319",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -3622,6 +5515,8 @@
         },
         "id": 25734
       },
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/2494091.2497319",
       "eprint_status": "archive",
       "status_changed": "2013-09-10 08:09:51",
       "language": [
@@ -3629,6 +5524,8 @@
       ],
       "event_relevance": "I",
       "full_text_status": "public",
+      "referee": "REF_0",
+      "refereed": 1,
       "divisions": [
         "DAUIN"
       ],
@@ -3641,8 +5538,8 @@
       "eprintid": 2458589,
       "wos": {
         "cluster": 306646200009,
-        "datestamp": "2016-10-22 03:20:58",
-        "impact": 2
+        "datestamp": "2018-03-19 05:02:27",
+        "impact": 3
       },
       "date": 2012,
       "documents": [
@@ -3708,8 +5605,8 @@
       "title": "DoMAIns: Domain-based Modeling for Ambient Intelligence",
       "scopus": {
         "cluster": "2-s2.0-84864435657",
-        "datestamp": "2016-10-22 03:25:24",
-        "impact": 2
+        "datestamp": "2018-03-19 05:44:04",
+        "impact": 3
       },
       "pages": 15,
       "types": "TYPES2",
@@ -3744,6 +5641,7 @@
       ],
       "lastmod": "2016-05-02 02:51:47",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.pmcj.2011.10.009",
@@ -3913,6 +5811,7 @@
       ],
       "lastmod": "2016-02-24 03:33:57",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.4018\/978-1-4666-2122-0.ch060",
       "proprietary": {
@@ -3948,7 +5847,8 @@
       "eprintid": 2501761,
       "date": 2012,
       "userdep": [
-        "USER_D1010"
+        "USER_D1010",
+        "USER_D1110"
       ],
       "userid": 2,
       "upddate": "2013-02-08 17:49:21",
@@ -3981,6 +5881,7 @@
       ],
       "lastmod": "2014-10-29 16:21:19",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9781291012880,
       "publisher": "Lulu Enterprises, Inc",
       "proprietary": {
@@ -4023,8 +5924,8 @@
       "eprintid": 2465381,
       "wos": {
         "cluster": 301989800044,
-        "datestamp": "2016-10-22 03:36:50",
-        "impact": 20
+        "datestamp": "2018-02-18 04:45:59",
+        "impact": 32
       },
       "date": 2012,
       "documents": [
@@ -4088,8 +5989,8 @@
       "title": "Home Energy Consumption Feedback: A User Survey",
       "scopus": {
         "cluster": "2-s2.0-84857049125",
-        "datestamp": "2016-09-22 03:20:06",
-        "impact": 25
+        "datestamp": "2018-02-18 04:58:41",
+        "impact": 38
       },
       "pages": 11,
       "types": "TYPES2",
@@ -4132,6 +6033,7 @@
       ],
       "lastmod": "2016-05-01 13:38:20",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.enbuild.2011.12.017",
@@ -4170,8 +6072,8 @@
       "eprintid": 2501975,
       "wos": {
         "cluster": 325485000060,
-        "datestamp": "2016-10-24 03:53:02",
-        "impact": 18
+        "datestamp": "2018-02-20 04:47:18",
+        "impact": 26
       },
       "date": 2012,
       "documents": [
@@ -4194,7 +6096,7 @@
                 }
             ],
             "content": "published",
-            "rev_number": 2,
+            "rev_number": 4,
             "copyright_date": "2012-09-07",
             "pos": 1,
             "language": "it",
@@ -4208,7 +6110,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/898169"
+                "uri": "\/id\/document\/1168910"
               }
             ],
             "copyright_operator": "MMO",
@@ -4236,8 +6138,8 @@
       "title": "Intelligent Energy Optimization for User Intelligible Goals in Smart Home Environments",
       "scopus": {
         "cluster": "2-s2.0-84872060816",
-        "datestamp": "2016-10-24 04:14:45",
-        "impact": 26
+        "datestamp": "2018-02-20 04:57:53",
+        "impact": 35
       },
       "pages": 8,
       "types": "TYPES2",
@@ -4248,7 +6150,7 @@
         "USER_D1010"
       ],
       "issn": "1949-3053",
-      "rev_number": 60,
+      "rev_number": 62,
       "dir": "disk0\/02\/50\/19\/75",
       "creators": [
         {
@@ -4270,8 +6172,9 @@
           "id": 23127
         }
       ],
-      "lastmod": "2016-05-07 01:29:17",
+      "lastmod": "2017-09-08 12:23:40",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TSG.2012.2214407",
@@ -4305,8 +6208,8 @@
       "eprintid": 2496718,
       "wos": {
         "cluster": 314400700046,
-        "datestamp": "2016-10-23 03:23:45",
-        "impact": 2
+        "datestamp": "2018-02-19 04:23:28",
+        "impact": 3
       },
       "date": 2012,
       "documents": [
@@ -4368,8 +6271,8 @@
       "title": "Publishing LO(D)D: Linked Open (Dynamic) Data for Smart Sensing and Measuring Environments",
       "scopus": {
         "cluster": "2-s2.0-84896939132",
-        "datestamp": "2016-10-23 03:31:26",
-        "impact": 3
+        "datestamp": "2018-02-19 04:28:53",
+        "impact": 4
       },
       "pages": 8,
       "types": "TYPES8",
@@ -4403,6 +6306,7 @@
       ],
       "lastmod": "2016-05-19 02:51:39",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -4441,8 +6345,8 @@
       "eprintid": 2496719,
       "wos": {
         "cluster": 314400700036,
-        "datestamp": "2016-10-23 03:23:45",
-        "impact": 2
+        "datestamp": "2018-02-19 04:23:28",
+        "impact": 3
       },
       "date": 2012,
       "documents": [
@@ -4511,8 +6415,8 @@
       "title": "dWatch: a Personal Wrist Watch for Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84883286759",
-        "datestamp": "2016-10-23 03:31:29",
-        "impact": 6
+        "datestamp": "2018-02-19 04:28:55",
+        "impact": 7
       },
       "pages": 8,
       "types": "TYPES8",
@@ -4555,6 +6459,7 @@
       ],
       "lastmod": "2016-05-26 04:33:15",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -4593,8 +6498,8 @@
       "eprintid": 2496720,
       "wos": {
         "cluster": 314400700038,
-        "datestamp": "2016-10-23 03:23:46",
-        "impact": 3
+        "datestamp": "2018-02-19 04:23:28",
+        "impact": 6
       },
       "date": 2012,
       "documents": [
@@ -4662,8 +6567,8 @@
       "title": "spChains: A Declarative Framework for Data Stream Processing in Pervasive Applications",
       "scopus": {
         "cluster": "2-s2.0-84893472667",
-        "datestamp": "2016-10-23 03:31:31",
-        "impact": 2
+        "datestamp": "2018-02-19 04:28:58",
+        "impact": 6
       },
       "pages": 8,
       "types": "TYPES8",
@@ -4697,6 +6602,7 @@
       ],
       "lastmod": "2016-05-22 14:09:21",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -4788,6 +6694,7 @@
       ],
       "lastmod": "2016-01-08 03:56:57",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.4018\/978-1-61350-098-9.ch010",
       "proprietary": {
@@ -4818,12 +6725,12 @@
       ]
     },
     {
-      "authors_string": "Bonino D., Castellina E., Corno F., De Russis L.",
+      "authors_string": "Bonino D.; Castellina E.; Corno F.; De Russis L.",
       "eprintid": 2425975,
       "wos": {
         "cluster": 297871400013,
-        "datestamp": "2016-10-21 03:52:12",
-        "impact": 4
+        "datestamp": "2018-03-19 04:43:08",
+        "impact": 6
       },
       "date": 2011,
       "documents": [
@@ -4834,11 +6741,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2011-06-17 11:51:09",
+                  "mtime": "2015-10-29 12:02:30",
                   "datasetid": "document",
-                  "fileid": 1112961,
-                  "objectid": 479539,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1112961",
+                  "fileid": 2519734,
+                  "objectid": 1288783,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2519734",
                   "mime_type": "application\/pdf",
                   "hash": "a4ea14a7431443323712ddab5b1a8ec0",
                   "filesize": 4524105,
@@ -4846,36 +6753,36 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 4,
+            "rev_number": 2,
             "copyright_date": "2011-06-23",
             "copyright_note": "Elsevier, ok sia se preprint che draft. Inserito come preprint e segnato come tale anche sull'allegato ma sul nome dell'allegato compare: final accepted paper. Cambiare tipologia in postprint?",
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/479539",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1288783",
             "original_docid": 54636,
             "main": "dogeye.pdf",
             "format": "application\/pdf",
-            "docid": 479539,
+            "docid": 1288783,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/579932"
+                "uri": "\/id\/document\/1306541"
               }
             ],
             "copyright_operator": "MGD",
-            "formatdesc": "DogEye_pre_print_final_accepted_paper_"
+            "formatdesc": "dogeye.pdf"
           }
       ],
-      "upddate": "2013-10-15 13:02:04",
+      "upddate": "2018-01-16 02:30:06",
       "keywords": [
-        "domotics",
-        "human-home interaction",
         "user study",
+        "human-home interaction",
+        "smart homes",
+        "domotics",
         "usability",
-        "user interface",
-        "smart homes"
+        "user interface"
       ],
       "pagerange": "484-498",
       "publisher": "Elsevier",
@@ -4884,13 +6791,13 @@
       "datestamp": "2011-06-16 00:08:36",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2425975",
       "publication": "INTERACTING WITH COMPUTERS",
-      "abstract": "Nowadays home automation, with its increased availability, reliability and with its ever reducing costs is gaining momentum and is starting to become a viable solution for enabling people with disabilities to autonomously interact with their homes and to better communicate with other people. However, especially for people with severe mobility impairments, there is still a lack of tools and interfaces for effective control and interaction with home automation systems, and general-purpose solutions are seldom applicable due to the complexity, asynchronicity, time dependent behavior, and safety concerns typical of the home environment. This paper focuses on user-environment interfaces based on the eye tracking technology, which often is the only viable interaction modality for users as such. We propose an eye-based interface tackling the specific requirements of smart environments, already outlined in a public Recommendation issued by the COGAIN European Network of Excellence. The proposed interface has been implemented as a software prototype based on the ETU universal driver, thus being potentially able to run on a variety of eye trackers, and it is compatible with a wide set of smart home technologies, handled by the Domotic OSGi Gateway. A first interface evaluation, with user testing sessions, has been carried and results show that the interface is quite effective and usable without discomfort by people with almost regular eye movement control",
+      "abstract": "Nowadays home automation, with its increased availability, reliability and with its ever reducing costs is gaining momentum and is starting to become a viable solution for enabling people with disabilities to autonomously interact with their homes and to better communicate with other people. However, especially for people with severe mobility impairments, there is still a lack of tools and interfaces for effective control and interaction with home automation systems, and general-purpose solutions are seldom applicable due to the complexity, asynchronicity, time dependent behavior, and safety concerns typical of the home environment. This paper focuses on user-environment interfaces based on the eye tracking technology, which often is the only viable interaction modality for users as such. We propose an eye-based interface tackling the specific requirements of smart environments, already outlined in a public Recommendation issued by the COGAIN European Network of Excellence. The proposed interface has been implemented as a software prototype based on the ETU universal driver, thus being potentially able to run on a variety of eye trackers, and it is compatible with a wide set of smart home technologies, handled by the Domotic OSGi Gateway. A first interface evaluation, with user testing sessions, has been carried and results show that the interface is quite effective and usable without discomfort by people with almost regular eye movement control.",
       "type": "article",
       "title": "DOGeye: Controlling your Home with Eye Interaction",
       "scopus": {
         "cluster": "2-s2.0-80255126828",
-        "datestamp": "2016-10-21 04:15:47",
-        "impact": 7
+        "datestamp": "2018-03-19 05:07:16",
+        "impact": 8
       },
       "pages": 15,
       "types": "TYPES2",
@@ -4900,7 +6807,7 @@
         "USER_D1010"
       ],
       "issn": "0953-5438",
-      "rev_number": 30,
+      "rev_number": 40,
       "dir": "disk0\/02\/42\/59\/75",
       "creators": [
         {
@@ -4940,8 +6847,9 @@
           "id": 12325
         }
       ],
-      "lastmod": "2015-01-16 04:01:16",
+      "lastmod": "2018-01-19 16:47:28",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.intcom.2011.06.002",
@@ -4955,7 +6863,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2011-09-07 10:09:28",
+      "status_changed": "2015-06-30 17:48:04",
       "language": [
         "en"
       ],
@@ -4975,8 +6883,8 @@
       "eprintid": 2380472,
       "wos": {
         "cluster": 291365300002,
-        "datestamp": "2016-10-20 04:01:28",
-        "impact": 5
+        "datestamp": "2018-03-18 05:03:48",
+        "impact": 7
       },
       "date": 2011,
       "documents": [
@@ -5063,8 +6971,8 @@
       "title": "Design time Methodology for the Formal Verification of Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-80053003414",
-        "datestamp": "2016-10-20 04:29:52",
-        "impact": 4
+        "datestamp": "2018-03-18 05:25:15",
+        "impact": 5
       },
       "pages": 8,
       "place_of_pub": "Heidelberg",
@@ -5097,6 +7005,7 @@
       ],
       "lastmod": "2016-04-20 07:00:22",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -5134,8 +7043,8 @@
       "eprintid": 2381047,
       "wos": {
         "cluster": 290978900027,
-        "datestamp": "2016-10-21 03:16:09",
-        "impact": 12
+        "datestamp": "2018-03-18 05:06:39",
+        "impact": 13
       },
       "date": 2011,
       "documents": [
@@ -5228,7 +7137,7 @@
       "title": "Enabling Machine Understandable Exchange of Energy Consumption Information in Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-79953745282",
-        "datestamp": "2016-10-21 03:16:57",
+        "datestamp": "2018-03-18 05:30:26",
         "impact": 16
       },
       "pages": 11,
@@ -5272,6 +7181,7 @@
       ],
       "lastmod": "2016-04-23 10:21:22",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.enbuild.2011.01.013",
@@ -5402,8 +7312,8 @@
       "title": "Formal Verification of Device State Chart Models",
       "scopus": {
         "cluster": "2-s2.0-81255169269",
-        "datestamp": "2016-10-21 03:35:49",
-        "impact": 2
+        "datestamp": "2018-03-19 04:30:14",
+        "impact": 7
       },
       "pages": 8,
       "place_of_pub": "Los Alamitos, California",
@@ -5437,6 +7347,7 @@
       ],
       "lastmod": "2016-09-27 12:27:35",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -5564,6 +7475,7 @@
       ],
       "lastmod": "2016-02-28 04:31:55",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.4018\/978-1-61350-098-9",
       "proprietary": {
@@ -5648,7 +7560,7 @@
                 }
             ],
             "content": "published",
-            "rev_number": 24,
+            "rev_number": 26,
             "copyright_date": "2011-06-06",
             "pos": 2,
             "language": "it",
@@ -5662,7 +7574,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/1023504"
+                "uri": "\/id\/document\/1095735"
               }
             ],
             "copyright_operator": "MVS",
@@ -5687,7 +7599,7 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 63,
+      "rev_number": 65,
       "dir": "disk0\/02\/41\/55\/19",
       "creators": [
         {
@@ -5745,9 +7657,10 @@
           "id": 2626
         }
       ],
-      "lastmod": "2016-10-24 14:22:21",
+      "lastmod": "2017-03-01 23:18:22",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 1,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -5777,7 +7690,7 @@
       "eprintid": 2399669,
       "wos": {
         "cluster": 295994400021,
-        "datestamp": "2016-10-21 03:26:50",
+        "datestamp": "2018-03-19 04:21:51",
         "impact": 3
       },
       "date": 2011,
@@ -5842,8 +7755,8 @@
       "title": "Modeling, Simulation and Emulation of Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-80052840584",
-        "datestamp": "2016-10-21 03:35:14",
-        "impact": 4
+        "datestamp": "2018-03-19 04:29:40",
+        "impact": 5
       },
       "pages": 15,
       "types": "TYPES2",
@@ -5877,6 +7790,7 @@
       ],
       "lastmod": "2016-05-06 15:02:50",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.autcon.2011.03.014",
@@ -6001,8 +7915,8 @@
       "types": "TYPES8",
       "userid": 2,
       "userdep": [
-        "USER_D1060",
-        "USER_D1010"
+        "USER_D1010",
+        "USER_D1060"
       ],
       "twitted": 1,
       "rev_number": 44,
@@ -6030,6 +7944,7 @@
       "lastmod": "2015-01-14 18:48:05",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 1,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -6148,7 +8063,7 @@
       "title": "A User-Friendly Interface for Rules Composition in Intelligent Environments",
       "scopus": {
         "cluster": "2-s2.0-80053006718",
-        "datestamp": "2016-10-20 04:30:41",
+        "datestamp": "2018-03-18 05:26:12",
         "impact": 5
       },
       "pages": 5,
@@ -6192,6 +8107,7 @@
       ],
       "lastmod": "2016-04-09 11:21:51",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/978-3-642-19937-0_27",
@@ -6229,8 +8145,8 @@
       "eprintid": 2380988,
       "wos": {
         "cluster": 291688100003,
-        "datestamp": "2016-10-21 03:15:54",
-        "impact": 11
+        "datestamp": "2018-03-18 05:06:28",
+        "impact": 17
       },
       "date": 2011,
       "documents": [
@@ -6296,8 +8212,8 @@
       "title": "What Would You Ask to Your Home if It Were Intelligent? Exploring User Expectations about Next-Generation Homes",
       "scopus": {
         "cluster": "2-s2.0-79956129896",
-        "datestamp": "2016-10-21 03:16:23",
-        "impact": 14
+        "datestamp": "2018-03-18 05:30:06",
+        "impact": 21
       },
       "pages": 16,
       "types": "TYPES2",
@@ -6332,6 +8248,7 @@
       ],
       "lastmod": "2016-05-23 06:55:36",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.3233\/AIS-2011-0099",
@@ -6366,15 +8283,15 @@
       ]
     },
     {
-      "authors_string": "Giacone S. , Ilardi A. , Pasian V. , Moglia C. , Balma M. , Montuschi A. , Corno F. , Calvo A. , Gallo S. , Canosa A. , Chio A.",
+      "authors_string": "Giacone S. ; Ilardi A. ; Pasian V. ; Moglia C. ; Balma M. ; Montuschi A. ; Corno F. ; Calvo A. ; Gallo S. ; Canosa A. ; Chio A.",
       "eprintid": 2502310,
       "wos": {
         "cluster": 277955200331,
-        "datestamp": "2016-10-24 03:58:51",
+        "datestamp": "2018-02-20 04:55:59",
         "impact": 0
       },
       "date": 2010,
-      "upddate": "2013-10-15 13:39:04",
+      "upddate": "2018-01-16 02:46:56",
       "pagerange": "S113-S113",
       "publisher": "Springer Berlin \/ Heidelberg",
       "irisid": 77430,
@@ -6392,7 +8309,7 @@
         "USER_D1010"
       ],
       "issn": "0340-5354",
-      "rev_number": 6,
+      "rev_number": 8,
       "dir": "disk0\/02\/50\/23\/10",
       "creators": [
         {
@@ -6405,8 +8322,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2014-10-29 16:59:24",
+      "lastmod": "2018-01-18 03:43:03",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s00415-010-5575-7",
       "proprietary": {
@@ -6419,7 +8337,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2012-09-14 11:09:07",
+      "status_changed": "2015-06-30 18:54:02",
       "language": [
         "en"
       ],
@@ -6443,7 +8361,7 @@
       "authors_string": "Bonino D; Corno F.",
       "eprintid": 2304174,
       "date": 2010,
-      "upddate": "2012-07-07 05:58:53",
+      "upddate": "2017-05-19 15:18:41",
       "isbn": 9781424453283,
       "pagerange": "61-66",
       "publisher": "IEEE",
@@ -6456,8 +8374,8 @@
       "title": "DogSim: A State Chart Simulator for Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-77954026175",
-        "datestamp": "2016-10-19 03:18:52",
-        "impact": 6
+        "datestamp": "2018-03-17 04:30:17",
+        "impact": 10
       },
       "types": "TYPES8",
       "userid": 2,
@@ -6465,7 +8383,7 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 3,
+      "rev_number": 5,
       "dir": "disk0\/02\/30\/41\/74",
       "creators": [
         {
@@ -6487,8 +8405,9 @@
           "id": 12325
         }
       ],
-      "lastmod": "2014-10-28 08:53:24",
+      "lastmod": "2017-05-21 02:55:23",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -6616,6 +8535,7 @@
       "lastmod": "2014-10-27 17:28:50",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/978-0-387-93808-0_41",
       "proprietary": {
@@ -6645,7 +8565,7 @@
       "eprintid": 2366483,
       "wos": {
         "cluster": 295015302078,
-        "datestamp": "2016-10-19 03:48:22",
+        "datestamp": "2018-03-17 04:56:26",
         "impact": 0
       },
       "date": 2010,
@@ -6664,8 +8584,8 @@
       "title": "Mobile Interaction with Smart Environments through Linked Data",
       "scopus": {
         "cluster": "2-s2.0-78751530656",
-        "datestamp": "2016-10-19 04:11:16",
-        "impact": 5
+        "datestamp": "2018-03-17 05:15:02",
+        "impact": 7
       },
       "pages": 8,
       "place_of_pub": "NEW YORK",
@@ -6708,6 +8628,7 @@
       ],
       "lastmod": "2016-10-12 04:45:18",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ICSMC.2010.5641951",
       "proprietary": {
@@ -6788,8 +8709,8 @@
       "title": "Review of the state-of-the-art in patent information and forthcoming evolutions in intelligent patent informatics",
       "scopus": {
         "cluster": "2-s2.0-72449204627",
-        "datestamp": "2016-10-17 03:44:13",
-        "impact": 41
+        "datestamp": "2018-03-15 06:22:11",
+        "impact": 59
       },
       "pages": 9,
       "types": "TYPES2",
@@ -6823,6 +8744,7 @@
       ],
       "lastmod": "2014-10-27 17:00:20",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.wpi.2009.05.008",
@@ -6856,7 +8778,7 @@
       "eprintid": 2502250,
       "wos": {
         "cluster": 293331100572,
-        "datestamp": "2016-10-24 03:57:56",
+        "datestamp": "2018-02-20 04:54:53",
         "impact": 0
       },
       "date": 2010,
@@ -6893,6 +8815,7 @@
       ],
       "lastmod": "2016-10-22 04:43:04",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1111\/j.1468-1331.2010.03232.x",
       "proprietary": {
@@ -6930,8 +8853,8 @@
       "eprintid": 1996942,
       "wos": {
         "cluster": 267941600029,
-        "datestamp": "2016-10-17 03:58:23",
-        "impact": 2
+        "datestamp": "2018-03-16 04:24:36",
+        "impact": 5
       },
       "date": 2009,
       "documents": [
@@ -6980,7 +8903,7 @@
       "title": "Automatic Domotic Device Interoperation",
       "scopus": {
         "cluster": "2-s2.0-68949170973",
-        "datestamp": "2016-09-14 05:58:42",
+        "datestamp": "2018-03-16 04:28:54",
         "impact": 5
       },
       "pages": 8,
@@ -7024,6 +8947,7 @@
       ],
       "lastmod": "2016-09-14 04:52:23",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TCE.2009.5174413",
@@ -7102,6 +9026,7 @@
       ],
       "lastmod": "2014-10-29 16:21:19",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -7138,16 +9063,26 @@
     },
     {
       "authors_string": "Razzak F.; Castellina E; F. Corno",
-      "types": "TYPES8",
       "eprintid": 2282219,
-      "twitted": 1,
       "date": 2009,
+      "upddate": "2012-07-06 23:13:57",
+      "event_title": "COGAIN 2009: Gaze Interaction For Those Who Want It Most, COGAIN 2009",
+      "irisid": 59766,
+      "event_dates": "26\/05\/2009",
+      "book_title": "COGAIN 2009: Gaze Interaction For Those Who Want It Most, COGAIN 2009",
+      "datestamp": "2009-10-16 16:33:00",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2282219",
+      "event_location": "Copenaghen, Denmark",
+      "type": "conference_item",
+      "title": "Environmental Control Application compliant with Cogain Guidelines",
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2012-07-06 23:13:57",
+      "twitted": 1,
       "rev_number": 3,
+      "dir": "disk0\/02\/28\/22\/19",
       "creators": [
         {
           "name": {
@@ -7177,9 +9112,10 @@
           "id": 2154
         }
       ],
-      "dir": "disk0\/02\/28\/22\/19",
       "lastmod": "2014-10-27 19:03:37",
       "ispublished": "pub",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 23127,
@@ -7189,26 +9125,16 @@
         },
         "id": 23127
       },
-      "event_title": "COGAIN 2009: Gaze Interaction For Those Who Want It Most, COGAIN 2009",
-      "metadata_visibility": "show",
-      "irisid": 59766,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:06:47",
       "language": [
         "en"
       ],
-      "event_dates": "26\/05\/2009",
       "event_relevance": "I",
-      "book_title": "COGAIN 2009: Gaze Interaction For Those Who Want It Most, COGAIN 2009",
-      "datestamp": "2009-10-16 16:33:00",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2282219",
-      "event_location": "Copenaghen, Denmark",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "conference_item",
-      "title": "Environmental Control Application compliant with Cogain Guidelines",
       "ssd": [
         "ING-INF\/05"
       ]
@@ -7218,8 +9144,8 @@
       "eprintid": 2263141,
       "wos": {
         "cluster": 279800000074,
-        "datestamp": "2016-10-17 04:02:50",
-        "impact": 2
+        "datestamp": "2018-03-16 04:30:06",
+        "impact": 5
       },
       "date": 2009,
       "documents": [
@@ -7271,8 +9197,8 @@
       "title": "FaSet: A Set Theory Model for Faceted Search",
       "scopus": {
         "cluster": "2-s2.0-79955077023",
-        "datestamp": "2016-09-21 05:24:28",
-        "impact": 7
+        "datestamp": "2018-03-16 04:37:53",
+        "impact": 9
       },
       "pages": 8,
       "place_of_pub": "PISCATAWAY, NJ",
@@ -7314,6 +9240,7 @@
       ],
       "lastmod": "2016-09-21 04:45:01",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -7346,7 +9273,7 @@
       "eprintid": 2280747,
       "wos": {
         "cluster": 277842800018,
-        "datestamp": "2016-10-18 03:27:45",
+        "datestamp": "2018-03-16 04:43:05",
         "impact": 1
       },
       "date": 2009,
@@ -7400,8 +9327,8 @@
       "title": "Interoperation Modeling for Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-78650621929",
-        "datestamp": "2016-10-18 03:36:48",
-        "impact": 2
+        "datestamp": "2018-03-16 04:57:54",
+        "impact": 3
       },
       "pages": 10,
       "types": "TYPES8",
@@ -7435,6 +9362,7 @@
       ],
       "lastmod": "2016-09-23 04:33:30",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -7515,8 +9443,8 @@
       "title": "An Ontology-Based Context Management and Reasoning on the DOG Gateway",
       "scopus": {
         "cluster": "2-s2.0-77949692387",
-        "datestamp": "2016-09-18 03:55:01",
-        "impact": 0
+        "datestamp": "2018-03-16 05:48:54",
+        "impact": 1
       },
       "types": "TYPES8",
       "userid": 2,
@@ -7566,6 +9494,7 @@
       ],
       "lastmod": "2014-10-28 08:02:12",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/CISE.2009.5364136",
@@ -7597,8 +9526,8 @@
       "eprintid": 2284515,
       "wos": {
         "cluster": 278077800011,
-        "datestamp": "2016-10-19 05:06:04",
-        "impact": 7
+        "datestamp": "2018-03-16 04:52:47",
+        "impact": 10
       },
       "date": 2009,
       "documents": [
@@ -7647,8 +9576,8 @@
       "title": "Rule-based Intelligence for Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-76549110725",
-        "datestamp": "2016-10-19 05:19:27",
-        "impact": 12
+        "datestamp": "2018-03-16 05:13:18",
+        "impact": 14
       },
       "pages": 14,
       "types": "TYPES2",
@@ -7682,6 +9611,7 @@
       ],
       "lastmod": "2016-10-19 04:45:53",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.autcon.2009.10.008",
@@ -7737,6 +9667,7 @@
       "patent_applicant": "Politecnico di Torino, Intellisemantic",
       "lastmod": "2014-10-27 18:54:29",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -7768,15 +9699,32 @@
     },
     {
       "authors_string": "Castellina E; Corno F.; Pellegrino P",
-      "types": "TYPES4",
       "eprintid": 1939132,
       "date": 2009,
+      "upddate": "2016-02-09 11:44:02",
+      "isbn": 9781605663869,
+      "pagerange": "188-203",
+      "publisher": "Information Science Reference",
+      "irisid": 57006,
+      "book_title": "Multimodal Human Computer Interaction and Pervasive Services \/ GRIFONI P. EDITOR",
+      "datestamp": "2009-07-01 09:49:48",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1939132",
+      "type": "book_section",
+      "title": "Speech and Gaze Control for Desktop Environments",
+      "scopus": {
+        "cluster": "2-s2.0-84898129655",
+        "datestamp": "2016-02-10 04:41:23",
+        "impact": 0
+      },
+      "pages": 16,
+      "place_of_pub": "HERSHEY, PA",
+      "types": "TYPES4",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2016-02-09 11:44:02",
       "rev_number": 5,
+      "dir": "disk0\/01\/93\/91\/32",
       "creators": [
         {
           "name": {
@@ -7806,12 +9754,10 @@
           "id": 14800
         }
       ],
-      "dir": "disk0\/01\/93\/91\/32",
       "lastmod": "2016-02-11 03:40:31",
       "ispublished": "pub",
-      "isbn": 9781605663869,
-      "pagerange": "188-203",
-      "publisher": "Information Science Reference",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 14800,
@@ -7821,39 +9767,25 @@
         },
         "id": 14800
       },
-      "metadata_visibility": "show",
-      "irisid": 57006,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:10:47",
       "language": [
         "en"
       ],
-      "book_title": "Multimodal Human Computer Interaction and Pervasive Services \/ GRIFONI P. EDITOR",
-      "datestamp": "2009-07-01 09:49:48",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1939132",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "book_section",
-      "title": "Speech and Gaze Control for Desktop Environments",
       "ssd": [
         "ING-INF\/05"
-      ],
-      "scopus": {
-        "cluster": "2-s2.0-84898129655",
-        "datestamp": "2016-02-10 04:41:23",
-        "impact": 0
-      },
-      "pages": 16,
-      "place_of_pub": "HERSHEY, PA"
+      ]
     },
     {
       "authors_string": "Bonino D; Castellina E; Corno F.; Liu M",
       "eprintid": 1938181,
       "wos": {
         "cluster": 273282100223,
-        "datestamp": "2016-10-21 05:03:27",
+        "datestamp": "2018-03-15 04:53:20",
         "impact": 0
       },
       "date": 2009,
@@ -7905,8 +9837,8 @@
       "title": "Technology Independent Interoperation of Domotic Devices through Rules",
       "scopus": {
         "cluster": "2-s2.0-70350246244",
-        "datestamp": "2016-10-21 05:14:24",
-        "impact": 1
+        "datestamp": "2018-03-15 06:18:57",
+        "impact": 3
       },
       "types": "TYPES8",
       "userid": 2,
@@ -7955,6 +9887,7 @@
       ],
       "lastmod": "2016-10-21 04:42:27",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ISCE.2009.5157026",
@@ -7986,8 +9919,8 @@
       "eprintid": 1801714,
       "wos": {
         "cluster": 207889500003,
-        "datestamp": "2016-10-22 05:04:27",
-        "impact": 8
+        "datestamp": "2018-02-12 04:26:28",
+        "impact": 14
       },
       "date": 2009,
       "documents": [
@@ -8034,8 +9967,8 @@
       "title": "Understanding users and their needs",
       "scopus": {
         "cluster": "2-s2.0-70350736192",
-        "datestamp": "2016-10-22 05:15:49",
-        "impact": 15
+        "datestamp": "2018-03-13 04:42:06",
+        "impact": 20
       },
       "pages": 17,
       "types": "TYPES2",
@@ -8069,6 +10002,7 @@
       ],
       "lastmod": "2016-10-22 04:45:43",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s10209-009-0148-1",
@@ -8102,8 +10036,8 @@
       "eprintid": 1648150,
       "wos": {
         "cluster": 207889500006,
-        "datestamp": "2016-10-11 03:34:54",
-        "impact": 3
+        "datestamp": "2018-03-10 04:26:08",
+        "impact": 4
       },
       "date": 2009,
       "documents": [
@@ -8156,8 +10090,8 @@
       "title": "A blueprint for integrated eye-controlled environments",
       "scopus": {
         "cluster": "2-s2.0-70350706059",
-        "datestamp": "2016-10-11 03:37:46",
-        "impact": 8
+        "datestamp": "2018-03-10 04:41:03",
+        "impact": 9
       },
       "pages": 11,
       "types": "TYPES2",
@@ -8209,6 +10143,7 @@
       ],
       "lastmod": "2016-09-09 04:35:17",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s10209-009-0145-4",
@@ -8239,16 +10174,27 @@
     },
     {
       "authors_string": "Corno F.; Pellegrino P",
-      "types": "TYPES4",
       "eprintid": 1849824,
-      "twitted": 1,
       "date": 2008,
+      "upddate": "2012-07-07 11:05:09",
+      "isbn": 9788863810066,
+      "pagerange": "75-88",
+      "publisher": "ScriptaWeb",
+      "irisid": 51864,
+      "book_title": "Interfacce della memoria - Social media e patrimoni documentali online \/ M. RICCIARDI A CURA DI",
+      "datestamp": "2008-10-16 10:23:16",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1849824",
+      "type": "book_section",
+      "title": "Ancore e TAG, la logica dell'interoperabilità tra archivi eterogenei di materiale multimediale",
+      "place_of_pub": "NAPOLI",
+      "types": "TYPES4",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2012-07-07 11:05:09",
+      "twitted": 1,
       "rev_number": 3,
+      "dir": "disk0\/01\/84\/98\/24",
       "creators": [
         {
           "name": {
@@ -8269,13 +10215,11 @@
           "id": 16160
         }
       ],
-      "dir": "disk0\/01\/84\/98\/24",
       "lastmod": "2014-10-27 12:46:39",
       "ispublished": "pub",
       "item_issues_count": 0,
-      "isbn": 9788863810066,
-      "pagerange": "75-88",
-      "publisher": "ScriptaWeb",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -8285,34 +10229,26 @@
         },
         "id": 2154
       },
-      "metadata_visibility": "show",
-      "irisid": 51864,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:06:47",
       "language": [
         "it"
       ],
-      "book_title": "Interfacce della memoria - Social media e patrimoni documentali online \/ M. RICCIARDI A CURA DI",
-      "datestamp": "2008-10-16 10:23:16",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1849824",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "book_section",
-      "title": "Ancore e TAG, la logica dell'interoperabilità tra archivi eterogenei di materiale multimediale",
       "ssd": [
         "ING-INF\/05"
-      ],
-      "place_of_pub": "NAPOLI"
+      ]
     },
     {
       "authors_string": "Bonino D; Castellina E; Corno F.",
       "eprintid": 1853049,
       "wos": {
         "cluster": 261700400028,
-        "datestamp": "2016-10-21 05:02:56",
-        "impact": 28
+        "datestamp": "2018-03-14 04:30:49",
+        "impact": 38
       },
       "date": 2008,
       "documents": [
@@ -8361,8 +10297,8 @@
       "title": "The DOG gateway: enabling ontology-based intelligent domotic environments",
       "scopus": {
         "cluster": "2-s2.0-58149145420",
-        "datestamp": "2016-10-21 05:11:03",
-        "impact": 50
+        "datestamp": "2018-03-14 04:39:56",
+        "impact": 61
       },
       "pages": 9,
       "types": "TYPES2",
@@ -8405,6 +10341,7 @@
       ],
       "lastmod": "2016-10-21 04:39:34",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TCE.2008.4711217",
@@ -8438,8 +10375,8 @@
       "eprintid": 1845489,
       "wos": {
         "cluster": 262214700020,
-        "datestamp": "2016-10-15 03:34:50",
-        "impact": 4
+        "datestamp": "2018-02-12 04:59:33",
+        "impact": 5
       },
       "date": 2008,
       "upddate": "2016-09-13 14:02:56",
@@ -8455,8 +10392,8 @@
       "title": "DOG: an Ontology-Powered OSGi Domotic Gateway",
       "scopus": {
         "cluster": "2-s2.0-57649155544",
-        "datestamp": "2016-10-15 03:48:19",
-        "impact": 14
+        "datestamp": "2018-03-13 05:39:35",
+        "impact": 20
       },
       "types": "TYPES8",
       "userid": 2,
@@ -8497,6 +10434,7 @@
       "lastmod": "2016-09-15 04:41:51",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ICTAI.2008.115",
       "proprietary": {
@@ -8527,8 +10465,8 @@
       "eprintid": 1838746,
       "wos": {
         "cluster": 263688400051,
-        "datestamp": "2016-10-15 03:25:41",
-        "impact": 39
+        "datestamp": "2018-02-12 04:49:48",
+        "impact": 56
       },
       "date": 2008,
       "documents": [
@@ -8541,9 +10479,9 @@
                   "hash_type": "MD5",
                   "mtime": "2015-10-29 11:57:33",
                   "datasetid": "document",
-                  "fileid": 2014481,
-                  "objectid": 988417,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/2014481",
+                  "fileid": 2247603,
+                  "objectid": 1128101,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2247603",
                   "mime_type": "application\/pdf",
                   "hash": "fb7c57f6570dbd86289a6927dea93dc6",
                   "filesize": 164606,
@@ -8551,32 +10489,32 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 2,
+            "rev_number": 8,
             "copyright_date": "2014-12-23",
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/988417",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1128101",
             "original_docid": 50046,
             "main": "paper31_camera_ready.pdf",
             "format": "application\/pdf",
-            "docid": 988417,
+            "docid": 1128101,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/990524"
+                "uri": "\/id\/document\/1337729"
               }
             ],
             "copyright_operator": "MN",
             "formatdesc": "paper31_camera_ready.pdf"
           }
       ],
-      "upddate": "2016-09-14 15:55:23",
+      "upddate": "2017-05-19 15:18:41",
       "isbn": 9783540885634,
       "pagerange": "790-803",
       "irisid": 50489,
-      "publisher_review": "Springer Verlag Germany:Tiergartenstrasse 17, D 69121 Heidelberg Germany:011 49 6221 3450, EMAIL: g.braun@springer.de, INTERNET: http:\/\/www.springer.de, Fax: 011 49 6221 345229",
+      "publisher_review": "Springer",
       "datestamp": "2008-10-22 09:52:57",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1838746",
       "publication": "LECTURE NOTES IN COMPUTER SCIENCE",
@@ -8584,8 +10522,8 @@
       "title": "DogOnt - Ontology Modeling for Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-57349200560",
-        "datestamp": "2016-10-15 03:33:11",
-        "impact": 28
+        "datestamp": "2018-03-13 05:24:06",
+        "impact": 66
       },
       "pages": 14,
       "types": "TYPES2",
@@ -8595,18 +10533,9 @@
       ],
       "twitted": 1,
       "issn": "0302-9743",
-      "rev_number": 47,
+      "rev_number": 72,
       "dir": "disk0\/01\/83\/87\/46",
       "creators": [
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        },
         {
           "name": {
             "lineage": 12325,
@@ -8615,10 +10544,20 @@
             "family": "Bonino"
           },
           "id": 12325
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
         }
       ],
-      "lastmod": "2016-09-16 14:41:38",
+      "lastmod": "2018-03-22 19:41:05",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1007\/978-3-540-88564-1_51",
       "proprietary": {
@@ -8632,9 +10571,6 @@
       },
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:10:47",
-      "language": [
-        "en"
-      ],
       "volume": "5318\/2008",
       "full_text_status": "public",
       "referee": "REF_4",
@@ -8651,8 +10587,8 @@
       "eprintid": 1806506,
       "wos": {
         "cluster": 258398900009,
-        "datestamp": "2016-09-21 05:10:34",
-        "impact": 8
+        "datestamp": "2018-02-12 04:29:40",
+        "impact": 15
       },
       "date": 2008,
       "documents": [
@@ -8746,8 +10682,8 @@
       "title": "Eye Tracking Impact on Quality-of-Life of ALS Patients",
       "scopus": {
         "cluster": "2-s2.0-50249107796",
-        "datestamp": "2016-10-14 04:18:22",
-        "impact": 5
+        "datestamp": "2018-03-13 04:47:22",
+        "impact": 20
       },
       "pages": 8,
       "types": "TYPES8",
@@ -8790,6 +10726,7 @@
       ],
       "lastmod": "2016-09-22 03:44:37",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -8833,8 +10770,8 @@
       "title": "Integrated Speech and GazeControl for Realistic Desktop Environments",
       "scopus": {
         "cluster": "2-s2.0-77950334341",
-        "datestamp": "2016-10-13 03:36:03",
-        "impact": 8
+        "datestamp": "2018-03-12 04:16:08",
+        "impact": 10
       },
       "place_of_pub": "NEW YORK, NY",
       "types": "TYPES8",
@@ -8877,6 +10814,7 @@
       "lastmod": "2014-10-24 21:34:06",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -8946,6 +10884,7 @@
       ],
       "lastmod": "2014-10-27 12:14:39",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -8975,7 +10914,7 @@
       "eprintid": 1797803,
       "wos": {
         "cluster": 259487400038,
-        "datestamp": "2016-10-20 05:01:28",
+        "datestamp": "2018-02-12 04:23:35",
         "impact": 1
       },
       "date": 2008,
@@ -8994,7 +10933,7 @@
       "title": "Self-Similarity metric for Index Pruning in Conceptual Vector Space Models",
       "scopus": {
         "cluster": "2-s2.0-57849096225",
-        "datestamp": "2016-10-20 05:07:50",
+        "datestamp": "2018-03-13 04:36:07",
         "impact": 0
       },
       "place_of_pub": "PISCATAWAY",
@@ -9028,6 +10967,7 @@
       ],
       "lastmod": "2016-10-20 04:38:40",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/DEXA.2008.27",
       "proprietary": {
@@ -9055,15 +10995,30 @@
     },
     {
       "authors_string": "Bonino D.; Castellina E; Corno F",
-      "types": "TYPES8",
       "eprintid": 1855858,
       "date": 2008,
+      "upddate": "2017-05-19 15:18:41",
+      "event_title": "Fifth Workshop on Semantic Web Applications and Perspectives",
+      "irisid": 52513,
+      "event_dates": "15-17 Dicembre 2008",
+      "book_title": "Fifth Workshop on Semantic Web Applications and Perspectives",
+      "datestamp": "2008-11-26 10:41:08",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1855858",
+      "event_location": "Roma",
+      "type": "conference_item",
+      "title": "Uniform Access to Domotic Environments through Semantics",
+      "scopus": {
+        "cluster": "2-s2.0-84874252678",
+        "datestamp": "2018-03-14 04:48:43",
+        "impact": 0
+      },
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2012-08-17 01:57:15",
-      "rev_number": 3,
+      "rev_number": 5,
+      "dir": "disk0\/01\/85\/58\/58",
       "creators": [
         {
           "name": {
@@ -9093,9 +11048,10 @@
           "id": 2154
         }
       ],
-      "dir": "disk0\/01\/85\/58\/58",
-      "lastmod": "2014-10-27 13:19:47",
+      "lastmod": "2017-05-21 02:55:22",
       "ispublished": "pub",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -9105,34 +11061,19 @@
         },
         "id": 12325
       },
-      "event_title": "Fifth Workshop on Semantic Web Applications and Perspectives",
-      "metadata_visibility": "show",
-      "irisid": 52513,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:06:47",
       "language": [
         "en"
       ],
-      "event_dates": "15-17 Dicembre 2008",
       "event_relevance": "I",
-      "book_title": "Fifth Workshop on Semantic Web Applications and Perspectives",
-      "datestamp": "2008-11-26 10:41:08",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1855858",
-      "event_location": "Roma",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "conference_item",
-      "title": "Uniform Access to Domotic Environments through Semantics",
       "ssd": [
         "ING-INF\/05"
-      ],
-      "scopus": {
-        "cluster": "2-s2.0-84874252678",
-        "datestamp": "2015-10-17 03:17:19",
-        "impact": 0
-      }
+      ]
     },
     {
       "authors_string": "Castellina E.; Corno F",
@@ -9179,6 +11120,7 @@
       ],
       "lastmod": "2014-10-24 16:52:54",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -9208,8 +11150,8 @@
       "eprintid": 1513189,
       "wos": {
         "cluster": 265665300011,
-        "datestamp": "2016-10-09 03:24:50",
-        "impact": 0
+        "datestamp": "2018-03-08 04:35:08",
+        "impact": 1
       },
       "date": 2007,
       "upddate": "2016-09-07 14:07:34",
@@ -9225,8 +11167,8 @@
       "title": "A Reusable 3D Visualization Component for the Semantic Web",
       "scopus": {
         "cluster": "2-s2.0-34248362362",
-        "datestamp": "2016-10-09 03:31:01",
-        "impact": 7
+        "datestamp": "2018-03-08 04:46:41",
+        "impact": 8
       },
       "place_of_pub": "NEW YORK",
       "types": "TYPES8",
@@ -9268,6 +11210,7 @@
       ],
       "lastmod": "2016-09-09 04:33:54",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -9294,8 +11237,8 @@
       "eprintid": 1639529,
       "wos": {
         "cluster": 253293000005,
-        "datestamp": "2016-10-10 03:52:32",
-        "impact": 0
+        "datestamp": "2018-03-09 05:07:18",
+        "impact": 1
       },
       "date": 2007,
       "upddate": "2016-02-10 14:05:27",
@@ -9311,8 +11254,8 @@
       "title": "Versatile RDF Representation for Multimedia Semantic Search",
       "scopus": {
         "cluster": "2-s2.0-48649087243",
-        "datestamp": "2016-10-10 04:10:57",
-        "impact": 0
+        "datestamp": "2018-03-09 05:41:34",
+        "impact": 1
       },
       "types": "TYPES8",
       "userid": 2,
@@ -9354,6 +11297,7 @@
       "lastmod": "2016-02-12 03:38:45",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -9382,7 +11326,7 @@
       "authors_string": "Borello F; Bonino D; Corno F.",
       "eprintid": 1464553,
       "date": 2006,
-      "upddate": "2015-01-15 16:03:16",
+      "upddate": "2017-05-19 15:18:41",
       "isbn": 9782287474699,
       "pagerange": "93-107",
       "publisher": "Springer-Verrlag",
@@ -9397,7 +11341,7 @@
       "title": "Accessing Ambient Intelligence through Devices with Low Computational and Communication Power",
       "scopus": {
         "cluster": "2-s2.0-84901343860",
-        "datestamp": "2016-10-08 03:41:21",
+        "datestamp": "2018-03-07 04:57:10",
         "impact": 0
       },
       "pages": 15,
@@ -9407,7 +11351,7 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 4,
+      "rev_number": 6,
       "dir": "disk0\/01\/46\/45\/53",
       "creators": [
         {
@@ -9429,8 +11373,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2015-01-16 01:02:23",
+      "lastmod": "2017-05-21 02:55:22",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -9445,6 +11390,8 @@
       "status_changed": "2010-06-23 17:06:47",
       "event_relevance": "I",
       "full_text_status": "none",
+      "referee": "REF_0",
+      "refereed": 1,
       "divisions": [
         "DAUIN"
       ],
@@ -9505,6 +11452,7 @@
       "dir": "disk0\/01\/49\/78\/28",
       "lastmod": "2016-01-08 03:47:46",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -9554,8 +11502,8 @@
       "title": "Domotic House Gateway",
       "scopus": {
         "cluster": "2-s2.0-33751023311",
-        "datestamp": "2016-10-08 03:41:19",
-        "impact": 12
+        "datestamp": "2018-03-07 04:57:08",
+        "impact": 17
       },
       "place_of_pub": "NEW YORK",
       "types": "TYPES8",
@@ -9597,6 +11545,7 @@
       ],
       "lastmod": "2014-10-24 10:35:01",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "proprietary": {
@@ -9634,7 +11583,7 @@
       "title": "On-the-fly Construction of Web Services Compositions from Natural Language Requests",
       "scopus": {
         "cluster": "2-s2.0-74049119683",
-        "datestamp": "2016-10-15 03:43:24",
+        "datestamp": "2018-03-13 05:34:23",
         "impact": 9
       },
       "types": "TYPES2",
@@ -9658,6 +11607,7 @@
       ],
       "lastmod": "2014-10-27 12:00:11",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -9688,7 +11638,7 @@
       "authors_string": "Pellegrino P; Corno F.",
       "eprintid": 1649388,
       "date": 2006,
-      "upddate": "2012-07-07 01:35:44",
+      "upddate": "2017-05-19 15:18:41",
       "publisher": "CEUR",
       "event_title": "Semantic Web Applications and Perspectives 3rd Italian Semantic Web Workshop",
       "irisid": 40055,
@@ -9701,7 +11651,7 @@
       "title": "An extensible platform for semantic classification and retrieval of multimedia resources",
       "scopus": {
         "cluster": "2-s2.0-84874235764",
-        "datestamp": "2016-10-11 03:48:16",
+        "datestamp": "2018-03-10 04:49:57",
         "impact": 0
       },
       "types": "TYPES8",
@@ -9710,7 +11660,7 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 3,
+      "rev_number": 5,
       "dir": "disk0\/01\/64\/93\/88",
       "creators": [
         {
@@ -9732,9 +11682,10 @@
           "id": 2154
         }
       ],
-      "lastmod": "2014-10-24 17:42:35",
+      "lastmod": "2017-05-21 02:20:15",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -9807,8 +11758,8 @@
       "title": "Automatic Test Generation for Verifying Microprocessors",
       "scopus": {
         "cluster": "2-s2.0-27844528023",
-        "datestamp": "2016-10-09 03:58:57",
-        "impact": 5
+        "datestamp": "2018-03-08 05:16:37",
+        "impact": 6
       },
       "types": "TYPES2",
       "userid": 2,
@@ -9859,6 +11810,7 @@
       "lastmod": "2014-10-24 13:40:01",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/MP.2005.1405800",
       "proprietary": {
@@ -9902,8 +11854,8 @@
       "title": "Automatic learning of text-to-concept mappings exploiting WordNet-like lexical networks",
       "scopus": {
         "cluster": "2-s2.0-33644536074",
-        "datestamp": "2016-10-08 03:58:45",
-        "impact": 3
+        "datestamp": "2018-03-07 05:13:44",
+        "impact": 5
       },
       "place_of_pub": "NEW YORK, NY",
       "types": "TYPES8",
@@ -9936,6 +11888,7 @@
       ],
       "lastmod": "2014-10-24 11:00:27",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -9962,11 +11915,11 @@
       "eprintid": 1498045,
       "wos": {
         "cluster": 231306500103,
-        "datestamp": "2016-10-08 03:42:36",
-        "impact": 2
+        "datestamp": "2018-02-07 04:27:55",
+        "impact": 9
       },
       "date": 2005,
-      "upddate": "2016-02-03 09:36:48",
+      "upddate": "2016-12-05 15:15:28",
       "isbn": 9780769524092,
       "event_title": "IEEE International Conference on Web Services (ICWS'05",
       "irisid": 32417,
@@ -9979,8 +11932,8 @@
       "title": "Composing Web Services on the Basis of Natural Language Requests",
       "scopus": {
         "cluster": "2-s2.0-33746371857",
-        "datestamp": "2016-10-08 04:02:25",
-        "impact": 7
+        "datestamp": "2018-03-07 05:16:45",
+        "impact": 8
       },
       "types": "TYPES8",
       "userid": 2,
@@ -9988,7 +11941,7 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 6,
+      "rev_number": 8,
       "dir": "disk0\/01\/49\/80\/45",
       "creators": [
         {
@@ -10010,8 +11963,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2016-02-05 04:06:00",
+      "lastmod": "2016-12-07 05:31:55",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ICWS.2005.35",
       "proprietary": {
@@ -10039,8 +11993,8 @@
       "eprintid": 1406116,
       "wos": {
         "cluster": 233972800013,
-        "datestamp": "2016-11-03 04:49:29",
-        "impact": 14
+        "datestamp": "2018-03-03 04:44:59",
+        "impact": 17
       },
       "date": 2005,
       "documents": [
@@ -10051,11 +12005,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2012-05-10 22:03:45",
+                  "mtime": "2015-10-29 11:53:36",
                   "datasetid": "document",
-                  "fileid": 1000518,
-                  "objectid": 430963,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1000518",
+                  "fileid": 2522299,
+                  "objectid": 1289553,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2522299",
                   "mime_type": "application\/pdf",
                   "hash": "6bffffc27982d61dbbd55d00d7cfa07e",
                   "filesize": 797735,
@@ -10069,14 +12023,14 @@
             "license": "not_public",
             "main": "tec2005.pdf",
             "original_docid": 45826,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/430963",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1289553",
             "format": "application\/pdf",
-            "docid": 430963,
+            "docid": 1289553,
             "security": "staffonly",
-            "formatdesc": "rivista"
+            "formatdesc": "tec2005.pdf"
           }
       ],
-      "upddate": "2013-10-15 11:53:01",
+      "upddate": "2018-01-16 02:20:32",
       "pagerange": "695-706",
       "publisher": "IEEE",
       "irisid": 22889,
@@ -10089,13 +12043,13 @@
       "datestamp": "2007-01-25 17:52:10",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1406116",
       "publication": "IEEE TRANSACTIONS ON EVOLUTIONARY COMPUTATION",
-      "abstract": "Core War is a game where two or more programs, called warriors, are executed in the same memory area by a time-sharing processor. The final goal of each warrior is to crash the others by overwriting them with illegal instructions. The game was popularized by A. K. Dewdney in his Scientific American column in the mid-1980s. In order to automatically devise strong warriors, MicroGP, a test program generation algorithm, was extended with the ability to assimilate existing code and to detect clones; furthermore, a new selection mechanism for promoting diversity independent from fitness calculations was added. The evolved warriors are the first machine-written programs ever able to become King of the Hill (champion) in all four main international Tiny Hills. This paper shows how playing Core War may help generate effective test programs for validation and test of microprocessors. Tackling a more mundane problem, the described techniques are currently being exploited for the automatic completion and refinement of existing test programs. Preliminary experimental results are reported",
+      "abstract": "Core War is a game where two or more programs, called warriors, are executed in the same memory area by a time-sharing processor. The final goal of each warrior is to crash the others by overwriting them with illegal instructions. The game was popularized by A. K. Dewdney in his Scientific American column in the mid-1980s. In order to automatically devise strong warriors, MicroGP, a test program generation algorithm, was extended with the ability to assimilate existing code and to detect clones; furthermore, a new selection mechanism for promoting diversity independent from fitness calculations was added. The evolved warriors are the first machine-written programs ever able to become King of the Hill (champion) in all four main international Tiny Hills. This paper shows how playing Core War may help generate effective test programs for validation and test of microprocessors. Tackling a more mundane problem, the described techniques are currently being exploited for the automatic completion and refinement of existing test programs. Preliminary experimental results are reported.",
       "type": "article",
       "title": "Evolving assembly programs: how games help microprocessor validation",
       "scopus": {
         "cluster": "2-s2.0-29244453993",
-        "datestamp": "2016-10-04 03:23:01",
-        "impact": 29
+        "datestamp": "2018-03-03 05:20:25",
+        "impact": 30
       },
       "pages": 12,
       "types": "TYPES2",
@@ -10104,7 +12058,7 @@
         "USER_D1010"
       ],
       "issn": "1089-778X",
-      "rev_number": 13,
+      "rev_number": 18,
       "dir": "disk0\/01\/40\/61\/16",
       "creators": [
         {
@@ -10135,8 +12089,9 @@
           "id": 3584
         }
       ],
-      "lastmod": "2014-10-23 12:14:01",
+      "lastmod": "2018-01-18 03:58:33",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TEVC.2005.856207",
@@ -10150,7 +12105,7 @@
         "id": 3584
       },
       "eprint_status": "archive",
-      "status_changed": "2012-05-10 22:05:44",
+      "status_changed": "2015-06-30 14:43:51",
       "language": [
         "en"
       ],
@@ -10200,6 +12155,7 @@
       "dir": "disk0\/01\/40\/97\/89",
       "lastmod": "2016-01-08 03:57:02",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -10234,8 +12190,8 @@
       "eprintid": 1605986,
       "date": 2005,
       "userdep": [
-        "USER_D1010",
-        "USER_D1080"
+        "USER_D1080",
+        "USER_D1010"
       ],
       "userid": 2,
       "upddate": "2015-10-23 16:48:49",
@@ -10272,6 +12228,7 @@
       "dir": "disk0\/01\/60\/59\/86",
       "lastmod": "2015-11-05 15:14:26",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "1-190",
       "proprietary": {
         "name": {
@@ -10307,11 +12264,11 @@
       "eprintid": 1498083,
       "wos": {
         "cluster": 234716300054,
-        "datestamp": "2016-10-08 03:42:36",
+        "datestamp": "2018-02-07 04:27:56",
         "impact": 0
       },
       "date": 2005,
-      "upddate": "2014-07-09 09:17:43",
+      "upddate": "2016-12-05 15:16:09",
       "isbn": 9783540308171,
       "pagerange": "588-593",
       "event_title": "3rd International Conference on Service-Oriented Computing, ICSOC 2005",
@@ -10328,8 +12285,8 @@
       "title": "Specifying Web Service Compositions on the Basis of Natural Language Requests",
       "scopus": {
         "cluster": "2-s2.0-33744964581",
-        "datestamp": "2016-10-08 04:02:27",
-        "impact": 0
+        "datestamp": "2018-03-07 05:16:48",
+        "impact": 3
       },
       "pages": 6,
       "types": "TYPES8",
@@ -10339,18 +12296,9 @@
         "USER_D1010"
       ],
       "issn": "0302-9743",
-      "rev_number": 5,
+      "rev_number": 7,
       "dir": "disk0\/01\/49\/80\/83",
       "creators": [
-        {
-          "name": {
-            "lineage": 12324,
-            "given": "Alessio",
-            "honourific": null,
-            "family": "Bosca"
-          },
-          "id": 12324
-        },
         {
           "name": {
             "lineage": 2154,
@@ -10359,10 +12307,20 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 12324,
+            "given": "Alessio",
+            "honourific": null,
+            "family": "Bosca"
+          },
+          "id": 12324
         }
       ],
-      "lastmod": "2014-10-24 11:00:52",
+      "lastmod": "2016-12-07 05:31:56",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -10376,7 +12334,7 @@
       "metadata_visibility": "show",
       "id_number": "10.1007\/11596141_54",
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "volume": 3826,
       "full_text_status": "none",
       "referee": "REF_4",
@@ -10395,16 +12353,16 @@
       "twitted": 1,
       "wos": {
         "cluster": 222084900023,
-        "datestamp": "2016-09-05 03:25:08",
-        "impact": 0
+        "datestamp": "2018-03-04 05:00:02",
+        "impact": 4
       },
       "date": 2004,
       "userdep": [
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-01-29 12:01:49",
-      "rev_number": 6,
+      "upddate": "2018-01-16 02:26:29",
+      "rev_number": 8,
       "creators": [
         {
           "name": {
@@ -10435,8 +12393,9 @@
         }
       ],
       "dir": "disk0\/01\/40\/98\/02",
-      "lastmod": "2016-02-02 03:42:31",
+      "lastmod": "2018-01-18 04:29:00",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -10450,7 +12409,7 @@
       "metadata_visibility": "show",
       "irisid": 25204,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 14:50:22",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2006-10-05 14:30:43",
@@ -10466,8 +12425,8 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-4544279435",
-        "datestamp": "2016-10-05 03:32:01",
-        "impact": 8
+        "datestamp": "2018-03-04 05:13:23",
+        "impact": 13
       }
     },
     {
@@ -10475,8 +12434,8 @@
       "eprintid": 1406112,
       "wos": {
         "cluster": 220349200006,
-        "datestamp": "2016-11-03 04:49:29",
-        "impact": 66
+        "datestamp": "2018-03-03 04:44:59",
+        "impact": 73
       },
       "date": 2004,
       "documents": [
@@ -10487,11 +12446,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2012-05-10 21:51:52",
+                  "mtime": "2015-10-29 11:53:36",
                   "datasetid": "document",
-                  "fileid": 1000485,
-                  "objectid": 430947,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1000485",
+                  "fileid": 2150931,
+                  "objectid": 1072991,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2150931",
                   "mime_type": "application\/pdf",
                   "hash": "5dc04760d602b5af7ddffd08566fa109",
                   "filesize": 295657,
@@ -10505,14 +12464,14 @@
             "license": "not_public",
             "main": "d_t2004.pdf",
             "original_docid": 45827,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/430947",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1072991",
             "format": "application\/pdf",
-            "docid": 430947,
+            "docid": 1072991,
             "security": "staffonly",
-            "formatdesc": "rivista"
+            "formatdesc": "d_t2004.pdf"
           }
       ],
-      "upddate": "2013-10-15 11:53:00",
+      "upddate": "2016-12-05 15:14:19",
       "pagerange": "102-109",
       "publisher": "IEEE",
       "irisid": 22888,
@@ -10530,8 +12489,8 @@
       "title": "Automatic Test Program Generation: a Case Study",
       "scopus": {
         "cluster": "2-s2.0-1942532276",
-        "datestamp": "2016-10-04 03:22:59",
-        "impact": 79
+        "datestamp": "2018-03-03 05:20:23",
+        "impact": 87
       },
       "pages": 8,
       "types": "TYPES2",
@@ -10540,17 +12499,17 @@
         "USER_D1010"
       ],
       "issn": "0740-7475",
-      "rev_number": 13,
+      "rev_number": 19,
       "dir": "disk0\/01\/40\/61\/12",
       "creators": [
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 1894,
+            "given": "Matteo",
             "honourific": null,
-            "family": "Corno"
+            "family": "Sonza Reorda"
           },
-          "id": 2154
+          "id": 1894
         },
         {
           "name": {
@@ -10563,25 +12522,26 @@
         },
         {
           "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
-        {
-          "name": {
             "lineage": 3584,
             "given": "Giovanni",
             "honourific": null,
             "family": "Squillero"
           },
           "id": 3584
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
         }
       ],
-      "lastmod": "2014-10-23 12:13:42",
+      "lastmod": "2016-12-07 05:31:52",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/MDT.2004.1277902",
@@ -10595,7 +12555,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "language": [
         "en"
       ],
@@ -10615,11 +12575,11 @@
       "eprintid": 1509272,
       "wos": {
         "cluster": 187354300007,
-        "datestamp": "2016-10-09 03:17:07",
+        "datestamp": "2018-03-08 04:27:13",
         "impact": 1
       },
       "date": 2004,
-      "upddate": "2013-10-15 12:51:58",
+      "upddate": "2018-01-16 02:27:05",
       "pagerange": "79-87",
       "irisid": 33481,
       "publisher_review": "Kluwer Academic Publishers \/ Massachusetts:PO Box 358, Accord Station:Hingham, MA 02018:(617)871-6600",
@@ -10630,7 +12590,7 @@
       "title": "A BIST-based Solution for the Diagnosis of Embedded Memories Adopting Image Processing Techniques",
       "scopus": {
         "cluster": "2-s2.0-1242352973",
-        "datestamp": "2016-10-09 03:18:09",
+        "datestamp": "2018-03-08 04:34:00",
         "impact": 1
       },
       "types": "TYPES2",
@@ -10640,7 +12600,7 @@
       ],
       "twitted": 1,
       "issn": "0923-8174",
-      "rev_number": 4,
+      "rev_number": 6,
       "dir": "disk0\/01\/50\/92\/72",
       "creators": [
         {
@@ -10680,9 +12640,10 @@
           "id": 1894
         }
       ],
-      "lastmod": "2014-10-24 12:14:24",
+      "lastmod": "2018-01-18 04:11:46",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1023\/B:JETT.0000009315.57771.94",
       "proprietary": {
@@ -10695,7 +12656,7 @@
         "id": 12326
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 15:15:49",
       "volume": 20,
       "full_text_status": "none",
       "referee": "REF_4",
@@ -10712,7 +12673,7 @@
       "eprintid": 1405878,
       "wos": {
         "cluster": 222309800005,
-        "datestamp": "2016-11-03 04:48:04",
+        "datestamp": "2018-03-03 04:43:28",
         "impact": 6
       },
       "date": 2004,
@@ -10724,11 +12685,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2010-07-29 10:12:14",
+                  "mtime": "2015-10-29 11:53:31",
                   "datasetid": "document",
-                  "fileid": 999684,
-                  "objectid": 430540,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/999684",
+                  "fileid": 2150928,
+                  "objectid": 1072990,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2150928",
                   "mime_type": "application\/pdf",
                   "hash": "c7007a18e9483c4a581ffce2f93bceb7",
                   "filesize": 180140,
@@ -10742,14 +12703,14 @@
             "license": "not_public",
             "main": "71570_UPLOAD.pdf",
             "original_docid": 45757,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/430540",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1072990",
             "format": "application\/pdf",
-            "docid": 430540,
+            "docid": 1072990,
             "security": "staffonly",
-            "formatdesc": "71570_UPLOAD"
+            "formatdesc": "71570_UPLOAD.pdf"
           }
       ],
-      "upddate": "2013-10-15 11:53:42",
+      "upddate": "2016-12-05 15:14:41",
       "pagerange": "269-278",
       "irisid": 22784,
       "publisher_review": "Kluwer Academic Publishers \/ Massachusetts:PO Box 358, Accord Station:Hingham, MA 02018:(617)871-6600",
@@ -10760,7 +12721,7 @@
       "title": "Code Generation for Functional Validation of Pipelined Microprocessors",
       "scopus": {
         "cluster": "2-s2.0-3042842163",
-        "datestamp": "2016-10-04 03:18:34",
+        "datestamp": "2018-03-03 05:16:23",
         "impact": 6
       },
       "types": "TYPES2",
@@ -10770,26 +12731,17 @@
       ],
       "twitted": 1,
       "issn": "0923-8174",
-      "rev_number": 18,
+      "rev_number": 23,
       "dir": "disk0\/01\/40\/58\/78",
       "creators": [
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 3584,
+            "given": "Giovanni",
             "honourific": null,
-            "family": "Corno"
+            "family": "Squillero"
           },
-          "id": 2154
-        },
-        {
-          "name": {
-            "lineage": 12684,
-            "given": "Edgar Ernesto",
-            "honourific": null,
-            "family": "Sanchez Sanchez"
-          },
-          "id": 12684
+          "id": 3584
         },
         {
           "name": {
@@ -10802,17 +12754,27 @@
         },
         {
           "name": {
-            "lineage": 3584,
-            "given": "Giovanni",
+            "lineage": 12684,
+            "given": "Edgar Ernesto",
             "honourific": null,
-            "family": "Squillero"
+            "family": "Sanchez Sanchez"
           },
-          "id": 3584
+          "id": 12684
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
         }
       ],
-      "lastmod": "2014-10-23 11:48:49",
+      "lastmod": "2016-12-07 05:31:49",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -10824,7 +12786,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "volume": 20,
       "full_text_status": "restricted",
       "referee": "REF_4",
@@ -10848,11 +12810,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2012-05-11 14:55:11",
+                  "mtime": "2015-10-29 11:54:51",
                   "datasetid": "document",
-                  "fileid": 1019196,
-                  "objectid": 437903,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1019196",
+                  "fileid": 2572321,
+                  "objectid": 1322161,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2572321",
                   "mime_type": "application\/pdf",
                   "hash": "10c60b9556c9fe009554e61307d7b10a",
                   "filesize": 294525,
@@ -10866,14 +12828,14 @@
             "license": "not_public",
             "main": "ICTAI2004.pdf",
             "original_docid": 47025,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/437903",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1322161",
             "format": "application\/pdf",
-            "docid": 437903,
+            "docid": 1322161,
             "security": "staffonly",
-            "formatdesc": "Final_paper"
+            "formatdesc": "ICTAI2004.pdf"
           }
       ],
-      "upddate": "2013-10-15 12:54:37",
+      "upddate": "2018-02-23 14:09:25",
       "isbn": "076952236X",
       "pagerange": "680-687",
       "publisher": "IEEE press",
@@ -10884,13 +12846,13 @@
       "datestamp": "2007-01-18 10:29:55",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1497288",
       "event_location": "Boca Raton, Florida",
-      "abstract": "Searching the Web proved to be a critical task in which both user satisfaction and speed requirements must be satisfied. Nowadays search engines provide amazing capabilities of searching resources on the Web though they are still based on text indexing and seldom exploit semantics of resource content. Therefore they sometimes fail on the identification of query context, providing results that are not relevant with respect to user needs; this is especially true for nontrained users. The semantic Web specifically addresses such an issue by providing means to define resources and query semantics using ontologies and semantic annotations. We propose a concept-based search paradigm for document retrieval. We define a new representation of the involved information space, introducing the notion of conceptual spectrum to identify the global topic landscape of Web resources and queries. We exploit such a representation to design and implement a prototypical version of a concept-based search engine. We compare the proposed approach to a traditional keyword-based engine, on a specific domain. Results are promising and show the approach feasibility",
+      "abstract": "Searching the Web proved to be a critical task in which both user satisfaction and speed requirements must be satisfied. Nowadays search engines provide amazing capabilities of searching resources on the Web though they are still based on text indexing and seldom exploit semantics of resource content. Therefore they sometimes fail on the identification of query context, providing results that are not relevant with respect to user needs; this is especially true for nontrained users. The semantic Web specifically addresses such an issue by providing means to define resources and query semantics using ontologies and semantic annotations. We propose a concept-based search paradigm for document retrieval. We define a new representation of the involved information space, introducing the notion of conceptual spectrum to identify the global topic landscape of Web resources and queries. We exploit such a representation to design and implement a prototypical version of a concept-based search engine. We compare the proposed approach to a traditional keyword-based engine, on a specific domain. Results are promising and show the approach feasibility.",
       "type": "conference_item",
       "title": "Domain Specific Searches using Conceptual Spectra",
       "scopus": {
         "cluster": "2-s2.0-16244390830",
-        "datestamp": "2016-10-08 03:58:41",
-        "impact": 3
+        "datestamp": "2018-03-07 05:13:40",
+        "impact": 5
       },
       "pages": 8,
       "types": "TYPES8",
@@ -10898,18 +12860,9 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 13,
+      "rev_number": 18,
       "dir": "disk0\/01\/49\/72\/88",
       "creators": [
-        {
-          "name": {
-            "lineage": 12325,
-            "given": "Dario",
-            "honourific": null,
-            "family": "Bonino"
-          },
-          "id": 12325
-        },
         {
           "name": {
             "lineage": 2154,
@@ -10927,10 +12880,20 @@
             "family": "Farinetti"
           },
           "id": 2236
+        },
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
         }
       ],
-      "lastmod": "2014-10-24 11:01:27",
+      "lastmod": "2018-02-25 03:00:29",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ICTAI.2004.53",
@@ -10944,7 +12907,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2012-05-11 15:05:12",
+      "status_changed": "2015-06-30 15:12:01",
       "language": [
         "en"
       ],
@@ -10962,11 +12925,11 @@
       "eprintid": 1497271,
       "wos": {
         "cluster": 222818400182,
-        "datestamp": "2016-10-08 03:40:17",
+        "datestamp": "2018-02-07 04:25:39",
         "impact": 0
       },
       "date": 2004,
-      "upddate": "2016-02-03 11:22:27",
+      "upddate": "2018-01-16 02:29:20",
       "isbn": 9780780385153,
       "pagerange": "1301-1308",
       "publisher": "IEEE press",
@@ -10981,7 +12944,7 @@
       "title": "Dynamic Optimization of Semantic Annotation Relevance",
       "scopus": {
         "cluster": "2-s2.0-4344612468",
-        "datestamp": "2016-10-08 03:58:38",
+        "datestamp": "2018-03-07 05:13:38",
         "impact": 0
       },
       "types": "TYPES8",
@@ -10990,18 +12953,9 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 6,
+      "rev_number": 8,
       "dir": "disk0\/01\/49\/72\/71",
       "creators": [
-        {
-          "name": {
-            "lineage": 3584,
-            "given": "Giovanni",
-            "honourific": null,
-            "family": "Squillero"
-          },
-          "id": 3584
-        },
         {
           "name": {
             "lineage": 12325,
@@ -11019,10 +12973,20 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 3584,
+            "given": "Giovanni",
+            "honourific": null,
+            "family": "Squillero"
+          },
+          "id": 3584
         }
       ],
-      "lastmod": "2016-02-05 03:51:30",
+      "lastmod": "2018-01-18 04:29:00",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -11034,7 +12998,7 @@
         "id": 12325
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:12:01",
       "volume": 2,
       "event_relevance": "I",
       "full_text_status": "none",
@@ -11052,7 +13016,7 @@
       "twitted": 1,
       "wos": {
         "cluster": 227020800022,
-        "datestamp": "2016-09-05 03:25:06",
+        "datestamp": "2018-03-04 05:00:00",
         "impact": 1
       },
       "date": 2004,
@@ -11060,8 +13024,8 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2013-11-25 10:21:17",
-      "rev_number": 3,
+      "upddate": "2016-12-05 15:15:33",
+      "rev_number": 5,
       "creators": [
         {
           "name": {
@@ -11074,8 +13038,9 @@
         }
       ],
       "dir": "disk0\/01\/40\/97\/97",
-      "lastmod": "2014-10-23 16:30:56",
+      "lastmod": "2016-12-07 05:31:52",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -11089,7 +13054,7 @@
       "metadata_visibility": "show",
       "irisid": 25201,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2006-10-05 14:30:42",
@@ -11105,7 +13070,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-84902441543",
-        "datestamp": "2016-10-05 03:31:54",
+        "datestamp": "2018-03-04 05:13:16",
         "impact": 0
       }
     },
@@ -11116,7 +13081,7 @@
       "twitted": 1,
       "wos": {
         "cluster": 225277600145,
-        "datestamp": "2016-10-07 03:43:11",
+        "datestamp": "2018-03-06 05:16:12",
         "impact": 5
       },
       "date": 2004,
@@ -11124,8 +13089,8 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2013-11-25 10:46:42",
-      "rev_number": 3,
+      "upddate": "2018-01-16 02:26:31",
+      "rev_number": 7,
       "creators": [
         {
           "name": {
@@ -11147,8 +13112,9 @@
         }
       ],
       "dir": "disk0\/01\/41\/77\/80",
-      "lastmod": "2014-10-24 09:13:19",
+      "lastmod": "2018-01-18 03:43:09",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "1332-1339",
       "proprietary": {
         "name": {
@@ -11163,7 +13129,7 @@
       "metadata_visibility": "show",
       "irisid": 29952,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 15:05:01",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2006-10-05 14:38:26",
@@ -11179,8 +13145,8 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-18144406573",
-        "datestamp": "2016-10-07 03:56:27",
-        "impact": 7
+        "datestamp": "2018-03-06 05:31:13",
+        "impact": 11
       }
     },
     {
@@ -11269,6 +13235,7 @@
       "lastmod": "2015-11-16 11:05:23",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -11345,6 +13312,7 @@
       "dir": "disk0\/01\/49\/80\/38",
       "lastmod": "2014-10-24 11:00:52",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -11382,7 +13350,7 @@
       "twitted": 1,
       "wos": {
         "cluster": 227020800021,
-        "datestamp": "2016-09-05 03:25:07",
+        "datestamp": "2018-03-04 05:00:01",
         "impact": 0
       },
       "date": 2004,
@@ -11390,8 +13358,8 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2013-11-25 10:21:18",
-      "rev_number": 3,
+      "upddate": "2016-12-05 15:15:52",
+      "rev_number": 5,
       "creators": [
         {
           "name": {
@@ -11404,8 +13372,9 @@
         }
       ],
       "dir": "disk0\/01\/40\/97\/98",
-      "lastmod": "2014-10-23 16:30:56",
+      "lastmod": "2016-12-07 05:31:52",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -11419,7 +13388,7 @@
       "metadata_visibility": "show",
       "irisid": 25202,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2006-10-05 14:30:42",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1409798",
@@ -11434,7 +13403,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-84902466210",
-        "datestamp": "2016-10-05 03:31:56",
+        "datestamp": "2018-03-04 05:13:19",
         "impact": 0
       }
     },
@@ -11455,7 +13424,7 @@
       "title": "Multilingual Semantic Elaboration in the DOSE platform",
       "scopus": {
         "cluster": "2-s2.0-2442602536",
-        "datestamp": "2016-10-08 03:58:24",
+        "datestamp": "2018-03-07 05:13:25",
         "impact": 2
       },
       "place_of_pub": "NEW YORK, NY",
@@ -11498,6 +13467,7 @@
       ],
       "lastmod": "2014-10-24 11:00:22",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -11521,21 +13491,45 @@
     },
     {
       "authors_string": "F. Corno; E. Sanchez; Squillero G.",
-      "types": "TYPES8",
       "eprintid": 1417961,
       "wos": {
         "cluster": 222818400019,
-        "datestamp": "2016-10-07 03:45:41",
-        "impact": 0
+        "datestamp": "2018-03-06 05:18:57",
+        "impact": 4
       },
       "date": 2004,
+      "upddate": "2017-05-19 15:18:41",
+      "pagerange": "2365-2371",
+      "event_title": "Congress on Evolutionary Computation",
+      "irisid": 30044,
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2006-10-05 14:38:37",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1417961",
+      "type": "conference_item",
+      "title": "On the evolution of corewar warriors",
+      "scopus": {
+        "cluster": "2-s2.0-4344576293",
+        "datestamp": "2018-03-06 05:34:07",
+        "impact": 7
+      },
+      "pages": 7,
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2013-11-25 11:44:35",
-      "rev_number": 3,
+      "rev_number": 7,
+      "dir": "disk0\/01\/41\/79\/61",
       "creators": [
+        {
+          "name": {
+            "lineage": 3584,
+            "given": "Giovanni",
+            "honourific": null,
+            "family": "Squillero"
+          },
+          "id": 3584
+        },
         {
           "name": {
             "lineage": 2154,
@@ -11553,21 +13547,13 @@
             "family": "Sanchez Sanchez"
           },
           "id": 12684
-        },
-        {
-          "name": {
-            "lineage": 3584,
-            "given": "Giovanni",
-            "honourific": null,
-            "family": "Squillero"
-          },
-          "id": 3584
         }
       ],
-      "dir": "disk0\/01\/41\/79\/61",
-      "lastmod": "2014-10-24 09:19:03",
+      "lastmod": "2017-05-21 02:20:14",
       "ispublished": "pub",
-      "pagerange": "2365-2371",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/CEC.2004.1330848",
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -11577,31 +13563,16 @@
         },
         "id": 2154
       },
-      "id_number": "10.1109\/CEC.2004.1330848",
-      "event_title": "Congress on Evolutionary Computation",
-      "metadata_visibility": "show",
-      "irisid": 30044,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "event_relevance": "I",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2006-10-05 14:38:37",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1417961",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "conference_item",
-      "title": "On the evolution of corewar warriors",
       "ssd": [
         "ING-INF\/05"
-      ],
-      "scopus": {
-        "cluster": "2-s2.0-4344576293",
-        "datestamp": "2016-10-07 03:59:35",
-        "impact": 6
-      },
-      "pages": 7
+      ]
     },
     {
       "authors_string": "Bonino D.; Corno F; Farinetti L; Bosca A",
@@ -11666,6 +13637,7 @@
       ],
       "lastmod": "2014-10-24 11:00:26",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -11690,31 +13662,36 @@
     },
     {
       "authors_string": "F. Corno; J. Perez; M. Ramasso; M. Sonza Reorda; Violante M.",
-      "types": "TYPES8",
       "eprintid": 1419002,
-      "twitted": 1,
       "wos": {
         "cluster": 225923500026,
-        "datestamp": "2016-10-07 04:00:42",
-        "impact": 2
+        "datestamp": "2018-03-07 04:26:45",
+        "impact": 6
       },
       "date": 2004,
+      "upddate": "2016-12-05 15:16:15",
+      "pagerange": "161-164",
+      "event_title": "IEEE High-level Design Validation and Test Workshop",
+      "irisid": 30627,
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2006-10-05 14:39:34",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1419002",
+      "type": "conference_item",
+      "title": "Validation of the dependability of CAN-based networked systems",
+      "scopus": {
+        "cluster": "2-s2.0-19944422766",
+        "datestamp": "2018-03-07 04:28:52",
+        "impact": 6
+      },
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2016-02-10 13:56:10",
-      "rev_number": 7,
+      "twitted": 1,
+      "rev_number": 9,
+      "dir": "disk0\/01\/41\/90\/02",
       "creators": [
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
         {
           "name": {
             "lineage": 3605,
@@ -11732,12 +13709,22 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         }
       ],
-      "dir": "disk0\/01\/41\/90\/02",
-      "lastmod": "2016-02-12 03:43:38",
+      "lastmod": "2016-12-07 05:31:55",
       "ispublished": "pub",
-      "pagerange": "161-164",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/HLDVT.2004.1431262",
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -11747,30 +13734,16 @@
         },
         "id": 2154
       },
-      "id_number": "10.1109\/HLDVT.2004.1431262",
-      "event_title": "IEEE High-level Design Validation and Test Workshop",
-      "metadata_visibility": "show",
-      "irisid": 30627,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:10:47",
       "event_relevance": "I",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2006-10-05 14:39:34",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1419002",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "conference_item",
-      "title": "Validation of the dependability of CAN-based networked systems",
       "ssd": [
         "ING-INF\/05"
-      ],
-      "scopus": {
-        "cluster": "2-s2.0-19944422766",
-        "datestamp": "2016-10-07 04:20:09",
-        "impact": 4
-      }
+      ]
     },
     {
       "authors_string": "Corno F.; J. Perez; M. Ramasso; M. Sonza Reorda; M. Violante",
@@ -11816,6 +13789,7 @@
       "dir": "disk0\/01\/40\/97\/91",
       "lastmod": "2015-11-28 03:33:19",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -11851,16 +13825,16 @@
       "twitted": 1,
       "wos": {
         "cluster": 224381100012,
-        "datestamp": "2016-09-05 03:25:08",
-        "impact": 0
+        "datestamp": "2018-03-04 05:00:02",
+        "impact": 4
       },
       "date": 2004,
       "userdep": [
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-01-28 15:26:34",
-      "rev_number": 8,
+      "upddate": "2016-12-05 15:15:17",
+      "rev_number": 10,
       "creators": [
         {
           "name": {
@@ -11873,26 +13847,27 @@
         },
         {
           "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
-        {
-          "name": {
             "lineage": 2154,
             "given": "Fulvio",
             "honourific": null,
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         }
       ],
       "dir": "disk0\/01\/40\/97\/99",
-      "lastmod": "2016-02-02 03:51:52",
+      "lastmod": "2016-12-07 05:31:53",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -11922,7 +13897,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-14244261894",
-        "datestamp": "2016-10-05 03:31:58",
+        "datestamp": "2018-03-04 05:13:21",
         "impact": 8
       }
     },
@@ -11930,7 +13905,7 @@
       "authors_string": "F. Corno; M. Sonza Reorda; Squillero G.",
       "eprintid": 1417975,
       "date": 2003,
-      "upddate": "2015-09-14 11:32:47",
+      "upddate": "2017-05-19 15:18:41",
       "isbn": 9781581136241,
       "pagerange": "736-740",
       "publisher": "ACM Press",
@@ -11944,8 +13919,8 @@
       "title": "Automatic Test Program Generation for Pipelined Processors",
       "scopus": {
         "cluster": "2-s2.0-0038675297",
-        "datestamp": "2016-10-07 03:59:59",
-        "impact": 8
+        "datestamp": "2018-03-06 05:34:35",
+        "impact": 12
       },
       "place_of_pub": "NEW YORK, NY",
       "types": "TYPES8",
@@ -11954,18 +13929,9 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 5,
+      "rev_number": 7,
       "dir": "disk0\/01\/41\/79\/75",
       "creators": [
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
         {
           "name": {
             "lineage": 2154,
@@ -11983,10 +13949,20 @@
             "family": "Squillero"
           },
           "id": 3584
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         }
       ],
-      "lastmod": "2015-10-08 03:32:16",
+      "lastmod": "2017-05-21 02:20:14",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/952532.952676",
       "proprietary": {
@@ -12014,11 +13990,11 @@
       "eprintid": 1417968,
       "wos": {
         "cluster": 185894400017,
-        "datestamp": "2016-10-07 03:45:48",
-        "impact": 0
+        "datestamp": "2018-03-06 05:19:05",
+        "impact": 4
       },
       "date": 2003,
-      "upddate": "2016-04-28 10:23:59",
+      "upddate": "2016-12-05 15:15:26",
       "isbn": 9780769519081,
       "pagerange": "113-118",
       "publisher": "IEEE Computer Society",
@@ -12031,7 +14007,7 @@
       "title": "Code generation for functional validation of pipelined microprocessors",
       "scopus": {
         "cluster": "2-s2.0-84942905068",
-        "datestamp": "2016-10-07 03:59:46",
+        "datestamp": "2018-03-06 05:34:18",
         "impact": 5
       },
       "place_of_pub": "WASHINGTON, DC",
@@ -12041,18 +14017,9 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 10,
+      "rev_number": 12,
       "dir": "disk0\/01\/41\/79\/68",
       "creators": [
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        },
         {
           "name": {
             "lineage": 1894,
@@ -12070,10 +14037,20 @@
             "family": "Squillero"
           },
           "id": 3584
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
         }
       ],
-      "lastmod": "2016-04-30 03:31:30",
+      "lastmod": "2016-12-07 05:31:54",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -12100,11 +14077,11 @@
       "eprintid": 1497200,
       "wos": {
         "cluster": 189005700081,
-        "datestamp": "2016-10-08 03:39:56",
-        "impact": 1
+        "datestamp": "2018-02-07 04:25:17",
+        "impact": 2
       },
       "date": 2003,
-      "upddate": "2016-02-01 16:38:20",
+      "upddate": "2018-01-16 02:37:40",
       "publisher": "IEEE press",
       "event_title": "ICTAI 2003, The 15th IEEE International Conference on Tools with Artificial Intelligence",
       "irisid": 32267,
@@ -12117,8 +14094,8 @@
       "title": "DOSE: a Distributed Open Semantic Elaboration Platform",
       "scopus": {
         "cluster": "2-s2.0-0344666726",
-        "datestamp": "2016-10-08 03:58:08",
-        "impact": 5
+        "datestamp": "2018-03-07 05:13:07",
+        "impact": 21
       },
       "types": "TYPES8",
       "userid": 2,
@@ -12126,9 +14103,18 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 8,
+      "rev_number": 10,
       "dir": "disk0\/01\/49\/72\/00",
       "creators": [
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
+        },
         {
           "name": {
             "lineage": 2154,
@@ -12146,20 +14132,12 @@
             "family": "Farinetti"
           },
           "id": 2236
-        },
-        {
-          "name": {
-            "lineage": 12325,
-            "given": "Dario",
-            "honourific": null,
-            "family": "Bonino"
-          },
-          "id": 12325
         }
       ],
-      "lastmod": "2016-02-05 03:51:31",
+      "lastmod": "2018-01-18 04:29:00",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -12171,7 +14149,7 @@
         "id": 12325
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:11:59",
       "event_relevance": "I",
       "full_text_status": "none",
       "divisions": [
@@ -12186,11 +14164,11 @@
       "eprintid": 1497213,
       "wos": {
         "cluster": 221532900274,
-        "datestamp": "2016-10-08 03:40:00",
-        "impact": 3
+        "datestamp": "2018-02-07 04:25:21",
+        "impact": 4
       },
       "date": 2003,
-      "upddate": "2012-07-07 05:02:23",
+      "upddate": "2016-12-05 15:15:31",
       "pagerange": "2034-2041",
       "publisher": "IEEE press",
       "event_title": "CEC03: 2003 IEEE Congress on Evolutionary Computation",
@@ -12204,8 +14182,8 @@
       "title": "Dynamic Prediction of Web Requests",
       "scopus": {
         "cluster": "2-s2.0-4344707044",
-        "datestamp": "2016-10-08 03:58:15",
-        "impact": 6
+        "datestamp": "2018-03-07 05:13:15",
+        "impact": 10
       },
       "types": "TYPES8",
       "userid": 2,
@@ -12213,17 +14191,17 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 3,
+      "rev_number": 5,
       "dir": "disk0\/01\/49\/72\/13",
       "creators": [
         {
           "name": {
-            "lineage": 12325,
-            "given": "Dario",
+            "lineage": 2154,
+            "given": "Fulvio",
             "honourific": null,
-            "family": "Bonino"
+            "family": "Corno"
           },
-          "id": 12325
+          "id": 2154
         },
         {
           "name": {
@@ -12236,16 +14214,17 @@
         },
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 12325,
+            "given": "Dario",
             "honourific": null,
-            "family": "Corno"
+            "family": "Bonino"
           },
-          "id": 2154
+          "id": 12325
         }
       ],
-      "lastmod": "2014-10-24 11:00:17",
+      "lastmod": "2016-12-07 05:31:55",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -12257,7 +14236,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
@@ -12271,11 +14250,11 @@
       "eprintid": 1417973,
       "wos": {
         "cluster": 184814100028,
-        "datestamp": "2016-10-07 03:45:49",
+        "datestamp": "2018-03-06 05:19:09",
         "impact": 1
       },
       "date": 2003,
-      "upddate": "2014-07-09 09:21:25",
+      "upddate": "2016-12-05 15:15:19",
       "pagerange": "307-315",
       "event_title": "6th European Conference, EuroGP 2003",
       "irisid": 30052,
@@ -12291,7 +14270,7 @@
       "title": "An Enhanced Framework for Microprocessor Test-Program Generation",
       "scopus": {
         "cluster": "2-s2.0-35248894293",
-        "datestamp": "2016-10-07 03:59:53",
+        "datestamp": "2018-03-06 05:34:28",
         "impact": 1
       },
       "pages": 9,
@@ -12302,7 +14281,7 @@
         "USER_D1010"
       ],
       "issn": "0302-9743",
-      "rev_number": 5,
+      "rev_number": 7,
       "dir": "disk0\/01\/41\/79\/73",
       "creators": [
         {
@@ -12324,8 +14303,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2014-10-24 09:19:01",
+      "lastmod": "2016-12-07 05:31:55",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/3-540-36599-0_28",
@@ -12339,7 +14319,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "volume": 2610,
       "full_text_status": "none",
       "referee": "REF_4",
@@ -12395,6 +14375,7 @@
       "dir": "disk0\/01\/40\/97\/85",
       "lastmod": "2015-11-17 03:34:05",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -12470,6 +14451,7 @@
       ],
       "lastmod": "2014-10-24 09:19:01",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/3-540-36553-2_24",
       "proprietary": {
@@ -12496,20 +14478,35 @@
     },
     {
       "authors_string": "F. Corno; E. Sanchez; Squillero G.",
-      "types": "TYPES8",
       "eprintid": 1417970,
       "wos": {
         "cluster": 221532900298,
-        "datestamp": "2016-10-07 03:45:48",
+        "datestamp": "2018-03-06 05:19:07",
         "impact": 0
       },
       "date": 2003,
+      "upddate": "2017-05-19 15:18:41",
+      "pagerange": "2217-2221",
+      "event_title": "Congress on Evolutionary Computation",
+      "irisid": 30051,
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2006-10-05 14:38:37",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1417970",
+      "type": "conference_item",
+      "title": "Exploiting co-evolution and a modified island model to climb the Core War hill",
+      "scopus": {
+        "cluster": "2-s2.0-84901456165",
+        "datestamp": "2018-03-06 05:34:24",
+        "impact": 4
+      },
+      "pages": 5,
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2013-11-25 11:44:39",
-      "rev_number": 3,
+      "rev_number": 7,
+      "dir": "disk0\/01\/41\/79\/70",
       "creators": [
         {
           "name": {
@@ -12539,10 +14536,11 @@
           "id": 12684
         }
       ],
-      "dir": "disk0\/01\/41\/79\/70",
-      "lastmod": "2014-10-24 09:19:04",
+      "lastmod": "2017-05-21 02:20:14",
       "ispublished": "pub",
-      "pagerange": "2217-2221",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/CEC.2003.1299947",
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -12552,42 +14550,27 @@
         },
         "id": 2154
       },
-      "id_number": "10.1109\/CEC.2003.1299947",
-      "event_title": "Congress on Evolutionary Computation",
-      "metadata_visibility": "show",
-      "irisid": 30051,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "event_relevance": "I",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2006-10-05 14:38:37",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1417970",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "conference_item",
-      "title": "Exploiting co-evolution and a modified island model to climb the Core War hill",
       "ssd": [
         "ING-INF\/05"
-      ],
-      "scopus": {
-        "cluster": "2-s2.0-84901456165",
-        "datestamp": "2016-10-07 03:59:50",
-        "impact": 0
-      },
-      "pages": 5
+      ]
     },
     {
       "authors_string": "F. Corno; G. Cumani; M. Sonza Reorda; Squillero G.",
       "eprintid": 1417967,
       "wos": {
         "cluster": 182683800159,
-        "datestamp": "2016-10-07 03:45:47",
-        "impact": 16
+        "datestamp": "2018-03-06 05:19:04",
+        "impact": 34
       },
       "date": 2003,
-      "upddate": "2015-09-14 11:32:06",
+      "upddate": "2016-12-05 15:15:50",
       "isbn": 9780769518701,
       "pagerange": "1006-1011",
       "publisher": "IEEE Computer Society",
@@ -12600,8 +14583,8 @@
       "title": "Fully automatic test program generation for microprocessor cores",
       "scopus": {
         "cluster": "2-s2.0-1642612182",
-        "datestamp": "2016-10-07 03:59:44",
-        "impact": 60
+        "datestamp": "2018-03-06 05:34:16",
+        "impact": 65
       },
       "place_of_pub": "WASHINGTON, DC",
       "types": "TYPES8",
@@ -12610,17 +14593,17 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 5,
+      "rev_number": 7,
       "dir": "disk0\/01\/41\/79\/67",
       "creators": [
         {
           "name": {
-            "lineage": 3584,
-            "given": "Giovanni",
+            "lineage": 1894,
+            "given": "Matteo",
             "honourific": null,
-            "family": "Squillero"
+            "family": "Sonza Reorda"
           },
-          "id": 3584
+          "id": 1894
         },
         {
           "name": {
@@ -12633,16 +14616,17 @@
         },
         {
           "name": {
-            "lineage": 1894,
-            "given": "Matteo",
+            "lineage": 3584,
+            "given": "Giovanni",
             "honourific": null,
-            "family": "Sonza Reorda"
+            "family": "Squillero"
           },
-          "id": 1894
+          "id": 3584
         }
       ],
-      "lastmod": "2015-10-08 03:32:16",
+      "lastmod": "2016-12-07 05:31:54",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -12654,7 +14638,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "volume": 1,
       "event_relevance": "I",
       "full_text_status": "none",
@@ -12708,6 +14692,7 @@
       "dir": "disk0\/01\/39\/63\/79",
       "lastmod": "2014-10-22 12:05:13",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9781402075896,
       "pagerange": "217-230",
       "publisher": "Kluwer",
@@ -12791,6 +14776,7 @@
       ],
       "lastmod": "2014-10-28 12:59:06",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/0-306-48711-X_13",
       "proprietary": {
@@ -12828,7 +14814,7 @@
       "twitted": 1,
       "wos": {
         "cluster": 189155600011,
-        "datestamp": "2016-09-05 03:25:09",
+        "datestamp": "2018-03-04 05:00:03",
         "impact": 0
       },
       "date": 2003,
@@ -12836,8 +14822,8 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-02-08 15:35:17",
-      "rev_number": 5,
+      "upddate": "2016-12-05 15:16:06",
+      "rev_number": 7,
       "creators": [
         {
           "name": {
@@ -12850,8 +14836,9 @@
         }
       ],
       "dir": "disk0\/01\/40\/98\/04",
-      "lastmod": "2016-02-10 03:55:00",
+      "lastmod": "2016-12-07 05:31:53",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -12881,7 +14868,7 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-18144426312",
-        "datestamp": "2016-10-05 03:32:03",
+        "datestamp": "2018-03-04 05:13:24",
         "impact": 2
       }
     },
@@ -12939,6 +14926,7 @@
       ],
       "lastmod": "2015-11-24 03:34:32",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -12970,16 +14958,16 @@
       "twitted": 1,
       "wos": {
         "cluster": 186907000063,
-        "datestamp": "2016-09-05 03:25:09",
-        "impact": 4
+        "datestamp": "2018-03-04 05:00:04",
+        "impact": 5
       },
       "date": 2003,
       "userdep": [
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2013-11-25 10:21:20",
-      "rev_number": 3,
+      "upddate": "2018-02-23 14:09:29",
+      "rev_number": 7,
       "creators": [
         {
           "name": {
@@ -12992,8 +14980,9 @@
         }
       ],
       "dir": "disk0\/01\/40\/98\/08",
-      "lastmod": "2014-10-23 16:30:57",
+      "lastmod": "2018-02-25 03:00:26",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -13007,7 +14996,7 @@
       "metadata_visibility": "show",
       "irisid": 25206,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 14:50:22",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2006-10-05 14:30:43",
@@ -13023,8 +15012,8 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-84964944673",
-        "datestamp": "2016-10-05 03:32:06",
-        "impact": 0
+        "datestamp": "2018-03-04 05:13:27",
+        "impact": 12
       }
     },
     {
@@ -13098,6 +15087,7 @@
       "dir": "disk0\/01\/40\/98\/11",
       "lastmod": "2014-10-23 16:30:57",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 1955,
@@ -13136,11 +15126,11 @@
       "eprintid": 1417969,
       "wos": {
         "cluster": 186520200020,
-        "datestamp": "2016-10-07 03:45:48",
-        "impact": 0
+        "datestamp": "2018-03-06 05:19:05",
+        "impact": 6
       },
       "date": 2003,
-      "upddate": "2016-02-01 09:56:26",
+      "upddate": "2018-01-16 02:23:24",
       "isbn": 9780769519326,
       "pagerange": "139-145",
       "publisher": "IEEE Computer Society",
@@ -13153,8 +15143,8 @@
       "title": "A real-time evolutionary algorithm for Web prediction",
       "scopus": {
         "cluster": "2-s2.0-84945181539",
-        "datestamp": "2016-10-07 03:59:48",
-        "impact": 13
+        "datestamp": "2018-03-06 05:34:22",
+        "impact": 18
       },
       "pages": 7,
       "place_of_pub": "WASHINGTON, DC",
@@ -13163,18 +15153,9 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 7,
+      "rev_number": 9,
       "dir": "disk0\/01\/41\/79\/69",
       "creators": [
-        {
-          "name": {
-            "lineage": 3584,
-            "given": "Giovanni",
-            "honourific": null,
-            "family": "Squillero"
-          },
-          "id": 3584
-        },
         {
           "name": {
             "lineage": 12325,
@@ -13186,6 +15167,15 @@
         },
         {
           "name": {
+            "lineage": 3584,
+            "given": "Giovanni",
+            "honourific": null,
+            "family": "Squillero"
+          },
+          "id": 3584
+        },
+        {
+          "name": {
             "lineage": 2154,
             "given": "Fulvio",
             "honourific": null,
@@ -13194,8 +15184,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2016-02-05 03:51:31",
+      "lastmod": "2018-01-18 04:29:00",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -13207,7 +15198,7 @@
         "id": 12325
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:05:18",
       "event_relevance": "I",
       "full_text_status": "none",
       "divisions": [
@@ -13260,6 +15251,7 @@
       "dir": "disk0\/01\/50\/16\/75",
       "lastmod": "2015-10-08 03:28:27",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9780769516417,
       "pagerange": "193-",
       "publisher": "IEEE Computer Society",
@@ -13298,7 +15290,7 @@
       "eprintid": 1409822,
       "wos": {
         "cluster": 175849200015,
-        "datestamp": "2016-09-05 03:25:14",
+        "datestamp": "2018-03-04 05:00:09",
         "impact": 1
       },
       "date": 2002,
@@ -13306,8 +15298,8 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2013-11-25 11:29:00",
-      "rev_number": 3,
+      "upddate": "2017-05-19 15:18:41",
+      "rev_number": 5,
       "creators": [
         {
           "name": {
@@ -13338,8 +15330,9 @@
         }
       ],
       "dir": "disk0\/01\/40\/98\/22",
-      "lastmod": "2014-10-23 16:31:13",
+      "lastmod": "2017-05-21 02:20:14",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -13370,15 +15363,31 @@
     },
     {
       "authors_string": "D. Appello; A. Fudoli; V. Tancorre; F. Corno; Rebaudengo M.; M. Sonza Reorda",
-      "types": "TYPES8",
       "eprintid": 1498955,
       "date": 2002,
+      "upddate": "2015-10-19 12:29:56",
+      "pagerange": "112-116",
+      "event_title": "IOLTW2002: IEEE International On-line Testing Workshop",
+      "irisid": 32484,
+      "event_dates": "8-10 luglio 2002",
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2007-01-19 15:43:59",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1498955",
+      "event_location": "Isola di Bendor, Francia",
+      "type": "conference_item",
+      "title": "A BIST-based Solution for the Diagnosis of Embedded Memories Adopting Image Processing Techniques",
+      "scopus": {
+        "cluster": "2-s2.0-84948649997",
+        "datestamp": "2018-03-07 05:18:58",
+        "impact": 2
+      },
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2015-10-19 12:29:56",
       "rev_number": 4,
+      "dir": "disk0\/01\/49\/89\/55",
       "creators": [
         {
           "name": {
@@ -13408,10 +15417,10 @@
           "id": 1894
         }
       ],
-      "dir": "disk0\/01\/49\/89\/55",
       "lastmod": "2015-11-05 15:04:54",
       "ispublished": "pub",
-      "pagerange": "112-116",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 2477,
@@ -13421,31 +15430,16 @@
         },
         "id": 2477
       },
-      "event_title": "IOLTW2002: IEEE International On-line Testing Workshop",
-      "metadata_visibility": "show",
-      "irisid": 32484,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:06:47",
-      "event_dates": "8-10 luglio 2002",
       "event_relevance": "I",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2007-01-19 15:43:59",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1498955",
-      "event_location": "Isola di Bendor, Francia",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "conference_item",
-      "title": "A BIST-based Solution for the Diagnosis of Embedded Memories Adopting Image Processing Techniques",
       "ssd": [
         "ING-INF\/05"
-      ],
-      "scopus": {
-        "cluster": "2-s2.0-84948649997",
-        "datestamp": "2016-10-08 04:05:00",
-        "impact": 0
-      }
+      ]
     },
     {
       "authors_string": "Corno F.; Sonza Reorda M.; Squillero G.",
@@ -13490,6 +15484,7 @@
       "dir": "disk0\/01\/39\/64\/45",
       "lastmod": "2015-10-08 03:28:28",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9781402072765,
       "pagerange": "143-173",
       "publisher": "Kluwer Academic Publishers",
@@ -13527,7 +15522,7 @@
       "twitted": 1,
       "wos": {
         "cluster": 178771600340,
-        "datestamp": "2016-09-05 03:25:01",
+        "datestamp": "2018-03-04 04:59:54",
         "impact": 0
       },
       "date": 2002,
@@ -13535,18 +15530,9 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2013-11-25 10:25:04",
-      "rev_number": 3,
+      "upddate": "2016-12-05 15:12:16",
+      "rev_number": 5,
       "creators": [
-        {
-          "name": {
-            "lineage": 2236,
-            "given": "Laura",
-            "honourific": null,
-            "family": "Farinetti"
-          },
-          "id": 2236
-        },
         {
           "name": {
             "lineage": 2154,
@@ -13555,11 +15541,21 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 2236,
+            "given": "Laura",
+            "honourific": null,
+            "family": "Farinetti"
+          },
+          "id": 2236
         }
       ],
       "dir": "disk0\/01\/40\/97\/82",
-      "lastmod": "2014-10-23 16:30:48",
+      "lastmod": "2016-12-07 05:31:52",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -13573,7 +15569,7 @@
       "metadata_visibility": "show",
       "irisid": 25197,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "event_dates": "August 2002",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
@@ -13590,8 +15586,8 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-84908203961",
-        "datestamp": "2016-10-05 03:31:45",
-        "impact": 23
+        "datestamp": "2018-03-04 05:13:09",
+        "impact": 34
       }
     },
     {
@@ -13638,6 +15634,7 @@
       "dir": "disk0\/01\/50\/16\/71",
       "lastmod": "2015-11-05 15:05:24",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "1486-1491",
       "proprietary": {
         "name": {
@@ -13668,8 +15665,8 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-0038588235",
-        "datestamp": "2016-10-08 04:17:10",
-        "impact": 15
+        "datestamp": "2018-03-07 05:29:35",
+        "impact": 17
       }
     },
     {
@@ -13689,8 +15686,8 @@
       "title": "An Evolutionary Algorithm for Reducing Integrated-Circuit Test Application Time",
       "scopus": {
         "cluster": "2-s2.0-0036040350",
-        "datestamp": "2016-10-08 04:17:02",
-        "impact": 0
+        "datestamp": "2018-03-07 05:29:29",
+        "impact": 1
       },
       "place_of_pub": "NEW YORK, NY",
       "types": "TYPES8",
@@ -13732,6 +15729,7 @@
       ],
       "lastmod": "2016-04-30 03:31:31",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/508791.508908",
       "proprietary": {
@@ -13759,11 +15757,11 @@
       "eprintid": 1501667,
       "wos": {
         "cluster": 181139600019,
-        "datestamp": "2016-10-08 03:50:30",
+        "datestamp": "2018-02-07 04:35:41",
         "impact": 0
       },
       "date": 2002,
-      "upddate": "2015-09-14 11:34:41",
+      "upddate": "2018-01-16 02:38:34",
       "isbn": 9783540434320,
       "pagerange": "183-189",
       "publisher": "Springer",
@@ -13776,12 +15774,12 @@
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1501667",
       "event_location": "Kinsale (IRL)",
       "publication": "LECTURE NOTES IN COMPUTER SCIENCE",
-      "abstract": "Reducing production-test application time is a key problem for modern industries. Several different hardware solutions have been proposed in the literature to ease such process. However, each hardware architecture must be coupled with an effective test signals generation algorithm. This paper propose an evolutionary approach for minimizing the application time of a test set by opportunely extending it and exploiting a new hardware architecture, named interleaved scan. The peculiarities of the problem suggest the use of a slightly modified genetic algorithm with concurrent populations. Experimental results show the effectiveness of the approach against the traditional ones",
+      "abstract": "Reducing production-test application time is a key problem for modern industries. Several different hardware solutions have been proposed in the literature to ease such process. However, each hardware architecture must be coupled with an effective test signals generation algorithm. This paper propose an evolutionary approach for minimizing the application time of a test set by opportunely extending it and exploiting a new hardware architecture, named interleaved scan. The peculiarities of the problem suggest the use of a slightly modified genetic algorithm with concurrent populations. Experimental results show the effectiveness of the approach against the traditional ones.",
       "type": "conference_item",
       "title": "Evolutionary Techniques for Minimizing Test Signals Application Time",
       "scopus": {
         "cluster": "2-s2.0-84878644969",
-        "datestamp": "2016-10-08 04:17:05",
+        "datestamp": "2018-03-07 05:29:31",
         "impact": 0
       },
       "pages": 7,
@@ -13791,18 +15789,9 @@
         "USER_D1010"
       ],
       "issn": "0302-9743",
-      "rev_number": 8,
+      "rev_number": 16,
       "dir": "disk0\/01\/50\/16\/67",
       "creators": [
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
         {
           "name": {
             "lineage": 3584,
@@ -13820,10 +15809,20 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         }
       ],
-      "lastmod": "2015-10-09 10:06:05",
+      "lastmod": "2018-01-18 03:58:24",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -13837,7 +15836,7 @@
       "metadata_visibility": "show",
       "id_number": "10.1007\/3-540-46004-7_19",
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 15:13:45",
       "volume": 2279,
       "full_text_status": "none",
       "referee": "REF_4",
@@ -13854,11 +15853,11 @@
       "eprintid": 1501682,
       "wos": {
         "cluster": 179973300062,
-        "datestamp": "2016-10-08 03:50:36",
+        "datestamp": "2018-02-07 04:35:47",
         "impact": 6
       },
       "date": 2002,
-      "upddate": "2016-04-28 10:22:50",
+      "upddate": "2016-12-05 15:15:40",
       "isbn": 9780769518251,
       "pagerange": "368-373",
       "publisher": "IEEE Computer Society",
@@ -13871,8 +15870,8 @@
       "title": "Evolutionary Test Program Induction for Microprocessor Design Verification",
       "scopus": {
         "cluster": "2-s2.0-84949798789",
-        "datestamp": "2016-10-08 04:17:14",
-        "impact": 16
+        "datestamp": "2018-03-07 05:29:38",
+        "impact": 20
       },
       "place_of_pub": "WASHINGTON, DC",
       "types": "TYPES8",
@@ -13881,18 +15880,9 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 7,
+      "rev_number": 9,
       "dir": "disk0\/01\/50\/16\/82",
       "creators": [
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
         {
           "name": {
             "lineage": 2154,
@@ -13910,10 +15900,20 @@
             "family": "Squillero"
           },
           "id": 3584
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         }
       ],
-      "lastmod": "2016-04-30 03:31:32",
+      "lastmod": "2016-12-07 05:31:57",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -13970,6 +15970,7 @@
       "dir": "disk0\/01\/40\/98\/18",
       "lastmod": "2015-11-05 15:10:22",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -14005,26 +16006,17 @@
       "twitted": 1,
       "wos": {
         "cluster": 176201400038,
-        "datestamp": "2016-09-05 03:25:13",
-        "impact": 4
+        "datestamp": "2018-03-04 05:00:08",
+        "impact": 8
       },
       "date": 2002,
       "userdep": [
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-04-28 10:23:31",
-      "rev_number": 7,
+      "upddate": "2016-12-05 15:15:23",
+      "rev_number": 9,
       "creators": [
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
         {
           "name": {
             "lineage": 2154,
@@ -14033,6 +16025,15 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         },
         {
           "name": {
@@ -14045,8 +16046,9 @@
         }
       ],
       "dir": "disk0\/01\/40\/98\/21",
-      "lastmod": "2016-04-30 03:31:30",
+      "lastmod": "2016-12-07 05:31:53",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -14076,8 +16078,8 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-84948404797",
-        "datestamp": "2016-10-05 03:32:12",
-        "impact": 11
+        "datestamp": "2018-03-04 05:13:32",
+        "impact": 19
       }
     },
     {
@@ -14085,8 +16087,8 @@
       "eprintid": 1840756,
       "wos": {
         "cluster": 176819900002,
-        "datestamp": "2016-10-15 03:28:45",
-        "impact": 8
+        "datestamp": "2018-02-12 04:53:50",
+        "impact": 10
       },
       "date": 2002,
       "documents": [
@@ -14099,9 +16101,9 @@
                   "hash_type": "MD5",
                   "mtime": "2015-10-29 11:57:36",
                   "datasetid": "document",
-                  "fileid": 1659566,
-                  "objectid": 789974,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1659566",
+                  "fileid": 2150973,
+                  "objectid": 1072994,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2150973",
                   "mime_type": "application\/pdf",
                   "hash": "866e740f63d70b85e091d6a635a4946d",
                   "filesize": 225595,
@@ -14115,14 +16117,14 @@
             "license": "not_public",
             "main": "71571_UPLOAD.pdf",
             "original_docid": 50085,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/789974",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1072994",
             "format": "application\/pdf",
-            "docid": 789974,
+            "docid": 1072994,
             "security": "staffonly",
             "formatdesc": "71571_UPLOAD.pdf"
           }
       ],
-      "upddate": "2016-02-04 09:02:41",
+      "upddate": "2016-12-05 15:14:49",
       "pagerange": "249-264",
       "irisid": 50670,
       "publisher_review": "New York, NY : Association for Computing Machinery, c1996-",
@@ -14133,7 +16135,7 @@
       "title": "Initializability Analysis of Synchronous Sequential Circuits",
       "scopus": {
         "cluster": "2-s2.0-0036016193",
-        "datestamp": "2016-10-15 03:37:55",
+        "datestamp": "2018-03-13 05:28:28",
         "impact": 9
       },
       "pages": 16,
@@ -14144,36 +16146,9 @@
         "USER_D1010"
       ],
       "issn": "1084-4309",
-      "rev_number": 18,
+      "rev_number": 23,
       "dir": "disk0\/01\/84\/07\/56",
       "creators": [
-        {
-          "name": {
-            "lineage": 2477,
-            "given": "Maurizio",
-            "honourific": null,
-            "family": "Rebaudengo"
-          },
-          "id": 2477
-        },
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        },
         {
           "name": {
             "lineage": 1200,
@@ -14191,10 +16166,38 @@
             "family": "Squillero"
           },
           "id": 3584
+        },
+        {
+          "name": {
+            "lineage": 2477,
+            "given": "Maurizio",
+            "honourific": null,
+            "family": "Rebaudengo"
+          },
+          "id": 2477
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         }
       ],
-      "lastmod": "2016-02-06 03:53:17",
+      "lastmod": "2016-12-07 05:32:08",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/544536.544538",
@@ -14266,6 +16269,7 @@
       "dir": "disk0\/01\/39\/47\/19",
       "lastmod": "2014-10-22 09:15:03",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9781402072765,
       "publisher": "Kluwer Academic Publishers",
       "proprietary": {
@@ -14300,11 +16304,11 @@
       "eprintid": 1501388,
       "wos": {
         "cluster": 176953300132,
-        "datestamp": "2016-10-08 03:50:05",
-        "impact": 15
+        "datestamp": "2018-02-07 04:35:15",
+        "impact": 34
       },
       "date": 2002,
-      "upddate": "2016-04-28 10:23:35",
+      "upddate": "2016-12-05 15:15:55",
       "pagerange": "847-852",
       "publisher": "IEEE Computer Society",
       "event_title": "DATE: Automation and Test in Europe, Conference and Exhibition",
@@ -14318,8 +16322,8 @@
       "title": "New Techniques for Speeding-up Fault-injection Campaigns",
       "scopus": {
         "cluster": "2-s2.0-84893748923",
-        "datestamp": "2016-10-08 04:16:06",
-        "impact": 36
+        "datestamp": "2018-03-07 05:28:38",
+        "impact": 51
       },
       "place_of_pub": "WASHINGTON, DC",
       "types": "TYPES8",
@@ -14328,18 +16332,9 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 7,
+      "rev_number": 9,
       "dir": "disk0\/01\/50\/13\/88",
       "creators": [
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        },
         {
           "name": {
             "lineage": 3584,
@@ -14357,10 +16352,20 @@
             "family": "Sonza Reorda"
           },
           "id": 1894
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
         }
       ],
-      "lastmod": "2016-04-30 03:31:31",
+      "lastmod": "2016-12-07 05:31:56",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -14387,11 +16392,11 @@
       "eprintid": 1501690,
       "wos": {
         "cluster": 178109200014,
-        "datestamp": "2016-10-08 03:50:36",
-        "impact": 0
+        "datestamp": "2018-02-25 03:07:32",
+        "impact": 1
       },
       "date": 2002,
-      "upddate": "2012-07-12 23:37:11",
+      "upddate": "2018-02-23 14:09:27",
       "isbn": 9780769518077,
       "pagerange": "89-94",
       "publisher": "IEEE Computer Society",
@@ -14404,8 +16409,8 @@
       "title": "Reducing Test Application Time through Interleaved Scan",
       "scopus": {
         "cluster": "2-s2.0-84965145185",
-        "datestamp": "2016-10-08 04:17:16",
-        "impact": 0
+        "datestamp": "2018-03-07 05:29:40",
+        "impact": 2
       },
       "place_of_pub": "WASHINGTON, DC",
       "types": "TYPES8",
@@ -14413,17 +16418,17 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 3,
+      "rev_number": 7,
       "dir": "disk0\/01\/50\/16\/90",
       "creators": [
         {
           "name": {
-            "lineage": 3584,
-            "given": "Giovanni",
+            "lineage": 1894,
+            "given": "Matteo",
             "honourific": null,
-            "family": "Squillero"
+            "family": "Sonza Reorda"
           },
-          "id": 3584
+          "id": 1894
         },
         {
           "name": {
@@ -14436,16 +16441,17 @@
         },
         {
           "name": {
-            "lineage": 1894,
-            "given": "Matteo",
+            "lineage": 3584,
+            "given": "Giovanni",
             "honourific": null,
-            "family": "Sonza Reorda"
+            "family": "Squillero"
           },
-          "id": 1894
+          "id": 3584
         }
       ],
-      "lastmod": "2014-10-24 11:41:44",
+      "lastmod": "2018-02-25 03:00:29",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -14457,7 +16463,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 15:13:46",
       "event_relevance": "I",
       "full_text_status": "none",
       "divisions": [
@@ -14511,6 +16517,7 @@
       "dir": "disk0\/01\/50\/13\/87",
       "lastmod": "2014-10-24 11:28:39",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -14575,6 +16582,7 @@
       "dir": "disk0\/01\/40\/97\/80",
       "lastmod": "2014-10-23 16:30:48",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -14639,6 +16647,7 @@
       "dir": "disk0\/01\/40\/97\/81",
       "lastmod": "2014-10-23 16:30:48",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -14672,7 +16681,7 @@
       "eprintid": 1501661,
       "wos": {
         "cluster": 174203500031,
-        "datestamp": "2016-10-08 03:50:23",
+        "datestamp": "2018-02-07 04:35:33",
         "impact": 0
       },
       "date": 2001,
@@ -14684,11 +16693,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2013-01-23 14:22:43",
+                  "mtime": "2015-10-29 11:54:57",
                   "datasetid": "document",
-                  "fileid": 1020229,
-                  "objectid": 438457,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1020229",
+                  "fileid": 2522268,
+                  "objectid": 1289541,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2522268",
                   "mime_type": "application\/pdf",
                   "hash": "0e93a284fea41321b0483754372b6091",
                   "filesize": 225906,
@@ -14702,14 +16711,14 @@
             "license": "not_public",
             "main": "1501661.pdf",
             "original_docid": 47127,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/438457",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1289541",
             "format": "application\/pdf",
-            "docid": 438457,
+            "docid": 1289541,
             "security": "staffonly",
-            "formatdesc": 1501661
+            "formatdesc": "1501661.pdf"
           }
       ],
-      "upddate": "2013-10-15 12:54:40",
+      "upddate": "2018-01-16 02:38:34",
       "isbn": 3540419209,
       "pagerange": "298-306",
       "publisher": "Springer",
@@ -14722,13 +16731,13 @@
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1501661",
       "event_location": "Como (ITA)",
       "publication": "LECTURE NOTES IN COMPUTER SCIENCE",
-      "abstract": "The integrated circuits design flow is rapidly moving towards higher description levels. However, test-related activities are lacking behind this trend, mainly since effective fault models and test signals generators are still missing. This paper proposes ARPIA, a new simulation-based evolutionary test generator. ARPIA adopts an innovative high-level fault model that enables efficient fault simulation and guarantees good correlation with gate-level results. The approach exploits an evolutionary algorithm to drive the search of effective patterns within the gigantic space of all possible signal sequences. ARPIA operates on register-transfer level VHDL descriptions and generates effective test patterns. Experimental results show that the achieved results are comparable or better than those obtained by high-level similar approaches or even by gate-level ones",
+      "abstract": "The integrated circuits design flow is rapidly moving towards higher description levels. However, test-related activities are lacking behind this trend, mainly since effective fault models and test signals generators are still missing. This paper proposes ARPIA, a new simulation-based evolutionary test generator. ARPIA adopts an innovative high-level fault model that enables efficient fault simulation and guarantees good correlation with gate-level results. The approach exploits an evolutionary algorithm to drive the search of effective patterns within the gigantic space of all possible signal sequences. ARPIA operates on register-transfer level VHDL descriptions and generates effective test patterns. Experimental results show that the achieved results are comparable or better than those obtained by high-level similar approaches or even by gate-level ones.",
       "type": "conference_item",
       "title": "ARPIA: a High-Level Evolutionary Test Signal Generator",
       "scopus": {
         "cluster": "2-s2.0-84958042182",
-        "datestamp": "2016-10-08 04:16:53",
-        "impact": 0
+        "datestamp": "2018-03-07 05:29:21",
+        "impact": 1
       },
       "pages": 9,
       "types": "TYPES8",
@@ -14737,17 +16746,17 @@
         "USER_D1010"
       ],
       "issn": "0302-9743",
-      "rev_number": 9,
+      "rev_number": 20,
       "dir": "disk0\/01\/50\/16\/61",
       "creators": [
         {
           "name": {
-            "lineage": 3584,
-            "given": "Giovanni",
+            "lineage": 1894,
+            "given": "Matteo",
             "honourific": null,
-            "family": "Squillero"
+            "family": "Sonza Reorda"
           },
-          "id": 3584
+          "id": 1894
         },
         {
           "name": {
@@ -14760,16 +16769,17 @@
         },
         {
           "name": {
-            "lineage": 1894,
-            "given": "Matteo",
+            "lineage": 3584,
+            "given": "Giovanni",
             "honourific": null,
-            "family": "Sonza Reorda"
+            "family": "Squillero"
           },
-          "id": 1894
+          "id": 3584
         }
       ],
-      "lastmod": "2014-10-24 11:28:43",
+      "lastmod": "2018-01-18 03:58:23",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 3584,
@@ -14782,7 +16792,7 @@
       "metadata_visibility": "show",
       "id_number": "10.1007\/3-540-45365-2_31",
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 15:13:44",
       "volume": 2037,
       "full_text_status": "restricted",
       "referee": "REF_4",
@@ -14837,6 +16847,7 @@
       "dir": "disk0\/01\/50\/16\/58",
       "lastmod": "2016-04-30 03:32:23",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 3584,
@@ -14871,11 +16882,11 @@
       "eprintid": 1501659,
       "wos": {
         "cluster": 173697300034,
-        "datestamp": "2016-10-08 03:50:20",
-        "impact": 11
+        "datestamp": "2018-02-07 04:35:31",
+        "impact": 13
       },
       "date": 2001,
-      "upddate": "2016-02-03 11:44:20",
+      "upddate": "2016-12-05 15:15:35",
       "pagerange": "225-230",
       "publisher": "IEEE Computer Society",
       "event_title": "ATS2001: IEEE Asian Test Symposium",
@@ -14887,8 +16898,8 @@
       "title": "Effective Techniques for High-Level ATPG",
       "scopus": {
         "cluster": "2-s2.0-0035699320",
-        "datestamp": "2016-10-08 04:16:49",
-        "impact": 15
+        "datestamp": "2018-03-07 05:29:17",
+        "impact": 19
       },
       "place_of_pub": "WASHINGTON, DC",
       "types": "TYPES8",
@@ -14897,17 +16908,17 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 6,
+      "rev_number": 8,
       "dir": "disk0\/01\/50\/16\/59",
       "creators": [
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 1894,
+            "given": "Matteo",
             "honourific": null,
-            "family": "Corno"
+            "family": "Sonza Reorda"
           },
-          "id": 2154
+          "id": 1894
         },
         {
           "name": {
@@ -14920,16 +16931,17 @@
         },
         {
           "name": {
-            "lineage": 1894,
-            "given": "Matteo",
+            "lineage": 2154,
+            "given": "Fulvio",
             "honourific": null,
-            "family": "Sonza Reorda"
+            "family": "Corno"
           },
-          "id": 1894
+          "id": 2154
         }
       ],
-      "lastmod": "2016-02-05 04:06:00",
+      "lastmod": "2016-12-07 05:31:56",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -15006,6 +17018,7 @@
       ],
       "lastmod": "2016-04-30 03:31:31",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/372202.372361",
       "proprietary": {
@@ -15063,6 +17076,7 @@
       "dir": "disk0\/01\/41\/16\/79",
       "lastmod": "2014-10-24 06:46:15",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -15135,6 +17149,7 @@
       "dir": "disk0\/01\/50\/16\/60",
       "lastmod": "2015-11-05 15:05:24",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "273-278",
       "proprietary": {
         "name": {
@@ -15169,11 +17184,11 @@
       "eprintid": 1501662,
       "wos": {
         "cluster": 168322500035,
-        "datestamp": "2016-10-08 03:50:23",
+        "datestamp": "2018-02-07 04:35:34",
         "impact": 29
       },
       "date": 2001,
-      "upddate": "2016-04-28 10:23:55",
+      "upddate": "2016-12-05 15:15:58",
       "isbn": 9780769509938,
       "pagerange": "209-213",
       "publisher": "IEEE Press",
@@ -15187,8 +17202,8 @@
       "title": "On the Test of Microprocessor IP Cores",
       "scopus": {
         "cluster": "2-s2.0-84893681164",
-        "datestamp": "2016-10-08 04:16:56",
-        "impact": 43
+        "datestamp": "2018-03-07 05:29:23",
+        "impact": 56
       },
       "place_of_pub": "PISCATAWAY, NJ",
       "types": "TYPES8",
@@ -15197,17 +17212,17 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 9,
+      "rev_number": 11,
       "dir": "disk0\/01\/50\/16\/62",
       "creators": [
         {
           "name": {
-            "lineage": 3605,
-            "given": "Massimo",
+            "lineage": 1894,
+            "given": "Matteo",
             "honourific": null,
-            "family": "Violante"
+            "family": "Sonza Reorda"
           },
-          "id": 3605
+          "id": 1894
         },
         {
           "name": {
@@ -15220,25 +17235,26 @@
         },
         {
           "name": {
+            "lineage": 3605,
+            "given": "Massimo",
+            "honourific": null,
+            "family": "Violante"
+          },
+          "id": 3605
+        },
+        {
+          "name": {
             "lineage": 2154,
             "given": "Fulvio",
             "honourific": null,
             "family": "Corno"
           },
           "id": 2154
-        },
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
         }
       ],
-      "lastmod": "2016-04-30 03:31:31",
+      "lastmod": "2016-12-07 05:31:57",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -15265,11 +17281,11 @@
       "eprintid": 1498976,
       "wos": {
         "cluster": 173697300015,
-        "datestamp": "2016-10-08 03:44:18",
-        "impact": 0
+        "datestamp": "2018-02-07 04:29:26",
+        "impact": 4
       },
       "date": 2001,
-      "upddate": "2016-01-29 10:01:04",
+      "upddate": "2018-01-16 02:29:41",
       "pagerange": "97-102",
       "event_title": "ATS, IEEE Asian Test Symposium",
       "irisid": 32495,
@@ -15282,15 +17298,15 @@
       "title": "A P1500 compliant BIST-based approach to embedded RAM diagnosis",
       "scopus": {
         "cluster": "2-s2.0-0035701292",
-        "datestamp": "2016-10-08 04:05:27",
-        "impact": 11
+        "datestamp": "2018-03-07 05:19:21",
+        "impact": 12
       },
       "types": "TYPES8",
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 8,
+      "rev_number": 10,
       "dir": "disk0\/01\/49\/89\/76",
       "creators": [
         {
@@ -15321,9 +17337,10 @@
           "id": 1894
         }
       ],
-      "lastmod": "2016-02-02 03:48:11",
+      "lastmod": "2018-01-18 04:11:29",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -15335,7 +17352,7 @@
         "id": 2477
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:12:40",
       "event_relevance": "I",
       "full_text_status": "none",
       "divisions": [
@@ -15388,6 +17405,7 @@
       "dir": "disk0\/02\/28\/09\/86",
       "lastmod": "2015-11-05 14:54:47",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2893,
@@ -15451,6 +17469,7 @@
       "dir": "disk0\/01\/40\/97\/76",
       "lastmod": "2014-10-23 16:30:47",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -15515,6 +17534,7 @@
       "dir": "disk0\/01\/40\/97\/77",
       "lastmod": "2014-10-23 16:30:48",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -15619,6 +17639,7 @@
       ],
       "lastmod": "2014-10-24 14:43:15",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ATS.2001.10066",
       "proprietary": {
@@ -15676,6 +17697,7 @@
       "dir": "disk0\/01\/54\/52\/84",
       "lastmod": "2014-10-24 14:43:04",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "181-187",
       "proprietary": {
         "name": {
@@ -15707,7 +17729,7 @@
       "eprintid": 1545254,
       "wos": {
         "cluster": 88652200020,
-        "datestamp": "2016-10-09 04:16:24",
+        "datestamp": "2018-03-09 04:21:58",
         "impact": 0
       },
       "date": 2000,
@@ -15719,11 +17741,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2013-01-22 15:46:36",
+                  "mtime": "2015-10-29 11:55:27",
                   "datasetid": "document",
-                  "fileid": 1028260,
-                  "objectid": 441740,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1028260",
+                  "fileid": 2522295,
+                  "objectid": 1289552,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2522295",
                   "mime_type": "application\/pdf",
                   "hash": "1c7eada86eebc58e7f528d3e9b8680e4",
                   "filesize": 1174777,
@@ -15737,14 +17759,14 @@
             "license": "not_public",
             "main": "1545254.pdf",
             "original_docid": 47659,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/441740",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1289552",
             "format": "application\/pdf",
-            "docid": 441740,
+            "docid": 1289552,
             "security": "staffonly",
-            "formatdesc": 1545254
+            "formatdesc": "1545254.pdf"
           }
       ],
-      "upddate": "2013-10-15 12:55:43",
+      "upddate": "2018-01-16 02:31:40",
       "isbn": 3540673539,
       "pagerange": "205-213",
       "publisher": "Springer",
@@ -15757,13 +17779,13 @@
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1545254",
       "event_location": "Edinburgh (GBR)",
       "publication": "LECTURE NOTES IN COMPUTER SCIENCE",
-      "abstract": "In present days, most of the design activity is performed at a high level of abstraction, thus designers need to be sure that their designs are syntactically and semantically correct before starting the automatic synthesis process. The goal of this paper is to propose an automatic input pattern generation tool able to assist designers in the generation of a test bench for difficult parts of small- or medium- sized digital protocol interfaces. The proposed approach exploit a Genetic Algorithm connected to a commercial simulator for cultivating a set of input sequence able to execute given statements in the interface description. The proposed approach has been evaluated on the new ITC'99 benchmark set, a collection of circuits offering a wide spectrum of complexity. Experimental results show that some portions of the circuits remained uncovered, and the subsequent manual analysis allowed identifying design redundancies",
+      "abstract": "In present days, most of the design activity is performed at a high level of abstraction, thus designers need to be sure that their designs are syntactically and semantically correct before starting the automatic synthesis process. The goal of this paper is to propose an automatic input pattern generation tool able to assist designers in the generation of a test bench for difficult parts of small- or medium- sized digital protocol interfaces. The proposed approach exploit a Genetic Algorithm connected to a commercial simulator for cultivating a set of input sequence able to execute given statements in the interface description. The proposed approach has been evaluated on the new ITC'99 benchmark set, a collection of circuits offering a wide spectrum of complexity. Experimental results show that some portions of the circuits remained uncovered, and the subsequent manual analysis allowed identifying design redundancies.",
       "type": "conference_item",
       "title": "Automatic Validation of Protocol Interfaces Described in VHDL",
       "scopus": {
         "cluster": "2-s2.0-84958611845",
-        "datestamp": "2016-10-09 04:29:34",
-        "impact": 0
+        "datestamp": "2018-03-09 04:28:28",
+        "impact": 1
       },
       "pages": 9,
       "types": "TYPES8",
@@ -15772,7 +17794,7 @@
         "USER_D1010"
       ],
       "issn": "0302-9743",
-      "rev_number": 9,
+      "rev_number": 20,
       "dir": "disk0\/01\/54\/52\/54",
       "creators": [
         {
@@ -15803,8 +17825,9 @@
           "id": 1894
         }
       ],
-      "lastmod": "2014-10-24 14:43:36",
+      "lastmod": "2018-01-18 03:58:31",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 3584,
@@ -15817,13 +17840,16 @@
       "metadata_visibility": "show",
       "id_number": "10.1007\/3-540-45561-2_20",
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 15:25:03",
       "volume": 1803,
       "full_text_status": "restricted",
       "referee": "REF_4",
       "refereed": 1,
       "divisions": [
         "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
       ]
     },
     {
@@ -15838,11 +17864,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2013-01-22 16:10:27",
+                  "mtime": "2015-10-29 11:54:33",
                   "datasetid": "document",
-                  "fileid": 1014608,
-                  "objectid": 436179,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1014608",
+                  "fileid": 2248282,
+                  "objectid": 1128325,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2248282",
                   "mime_type": "application\/pdf",
                   "hash": "f0d8cfcb22ca1ef4b09110c976d839a7",
                   "filesize": 200606,
@@ -15856,14 +17882,14 @@
             "license": "not_public",
             "main": "1545257.pdf",
             "original_docid": 46673,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/436179",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1128325",
             "format": "application\/pdf",
-            "docid": 436179,
+            "docid": 1128325,
             "security": "staffonly",
-            "formatdesc": 1417779
+            "formatdesc": "1545257.pdf"
           }
       ],
-      "upddate": "2014-05-09 01:54:46",
+      "upddate": "2017-05-19 15:18:41",
       "isbn": 1581132441,
       "pagerange": "385-389",
       "publisher": "ACM",
@@ -15874,13 +17900,13 @@
       "datestamp": "2006-10-05 14:38:26",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1417779",
       "event_location": "Paris (FRA)",
-      "abstract": "In current microprocessors and systems, an increasingly high silicon portion is derived through automatic synthesis with designers working exclusively at the RT-level, and design productivity is greatly enhanced. However, in the new design flow, validation still remains a challenge: while new technologies based on formal verification are only marginally accepted, standard techniques based on simulation are beginning to fall behind the increased circuit complexity. This paper proposes a new approach to simulation-based validation, in which a genetic algorithm helps the designer in generating useful input sequences to be included in the test bench. The technique has been applied to an industrial circuit, showing that the quality of the validation process is increased",
+      "abstract": "In current microprocessors and systems, an increasingly high silicon portion is derived through automatic synthesis with designers working exclusively at the RT-level, and design productivity is greatly enhanced. However, in the new design flow, validation still remains a challenge: while new technologies based on formal verification are only marginally accepted, standard techniques based on simulation are beginning to fall behind the increased circuit complexity. This paper proposes a new approach to simulation-based validation, in which a genetic algorithm helps the designer in generating useful input sequences to be included in the test bench. The technique has been applied to an industrial circuit, showing that the quality of the validation process is increased.",
       "type": "conference_item",
       "title": "Automatic test bench generation for validation of RT-level descriptions: an industrial experience",
       "scopus": {
         "cluster": "2-s2.0-0001956779",
-        "datestamp": "2016-10-07 03:56:24",
-        "impact": 22
+        "datestamp": "2018-03-06 05:31:09",
+        "impact": 33
       },
       "pages": 5,
       "types": "TYPES8",
@@ -15888,18 +17914,9 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 11,
+      "rev_number": 16,
       "dir": "disk0\/01\/41\/77\/79",
       "creators": [
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
         {
           "name": {
             "lineage": 2154,
@@ -15917,10 +17934,20 @@
             "family": "Squillero"
           },
           "id": 3584
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         }
       ],
-      "lastmod": "2014-10-24 09:13:18",
+      "lastmod": "2017-05-21 03:02:46",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/343647.343802",
       "proprietary": {
@@ -15936,8 +17963,13 @@
       "status_changed": "2010-06-23 17:06:47",
       "event_relevance": "I",
       "full_text_status": "restricted",
+      "referee": "REF_0",
+      "refereed": 1,
       "divisions": [
         "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
       ]
     },
     {
@@ -15946,7 +17978,7 @@
       "eprintid": 1545264,
       "wos": {
         "cluster": 89739600024,
-        "datestamp": "2016-10-10 03:15:18",
+        "datestamp": "2018-03-09 04:22:11",
         "impact": 1
       },
       "date": 2000,
@@ -15997,6 +18029,7 @@
       "dir": "disk0\/01\/54\/52\/64",
       "lastmod": "2016-04-30 03:32:25",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9780769507019,
       "pagerange": "167-172",
       "proprietary": {
@@ -16059,6 +18092,7 @@
       "dir": "disk0\/01\/40\/97\/74",
       "lastmod": "2014-10-23 16:30:47",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -16085,12 +18119,12 @@
       "title": "Enhancing Interactivity for Self-Evaluation in XML-Based Coureware"
     },
     {
-      "authors_string": "Fulvio Corno, Matteo Sonza Reorda, Giovanni Squillero",
+      "authors_string": "Fulvio Corno; Matteo Sonza Reorda; Giovanni Squillero",
       "eprintid": 2374677,
       "wos": {
         "cluster": 171691900004,
-        "datestamp": "2016-10-20 03:44:06",
-        "impact": 8
+        "datestamp": "2018-03-18 04:45:51",
+        "impact": 9
       },
       "date": 2000,
       "documents": [
@@ -16101,11 +18135,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2012-04-20 13:39:45",
+                  "mtime": "2015-10-29 12:01:02",
                   "datasetid": "document",
-                  "fileid": 1103357,
-                  "objectid": 475369,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1103357",
+                  "fileid": 2529064,
+                  "objectid": 1291693,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2529064",
                   "mime_type": "application\/pdf",
                   "hash": "f45efb1fa3266b11408abbf12c8705cd",
                   "filesize": 66551,
@@ -16119,14 +18153,14 @@
             "license": "not_public",
             "main": "ices2000.pdf",
             "original_docid": 53444,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/475369",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1291693",
             "format": "application\/pdf",
-            "docid": 475369,
+            "docid": 1291693,
             "security": "staffonly",
-            "formatdesc": "Full_text"
+            "formatdesc": "ices2000.pdf"
           }
       ],
-      "upddate": "2013-10-15 13:01:36",
+      "upddate": "2018-01-16 02:40:11",
       "isbn": 3540673385,
       "pagerange": "31-40",
       "publisher": "Springer",
@@ -16144,13 +18178,13 @@
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2374677",
       "event_location": "Edinburgh (GBR)",
       "publication": "LECTURE NOTES IN COMPUTER SCIENCE",
-      "abstract": "Testing is a key issue in the design and production of digital circuits: the adoption of BIST (Built-In Self-Test) techniques is increasingly popular, but requires efficient algorithms for the generation of the logic which generates the test vectors applied to the Unit Under Test. This paper addresses the issue of identifying a Cellular Automaton able to generate input patterns to detect stuckat faults inside a Finite State Machine (FSM) circuit. Previous results already proposed a solution based on a Genetic Algorithm which directly identifies a Cellular Automaton able to reach good Fault Coverage of the stuck-at faults. However, such method requires 2-bit cells in the Cellular Automaton, thus resulting in a high area overhead. This paper presents a new solution, with an area occupation limited to 1 bit per cell; the improved results are possible due to the adoption of a new optimization algorithm, the Selfish Gene algorithm. Experimental results are provided, which show that in most of the standard benchmark circuits the Cellular Automaton selected by the Selfish Gene algorithm is able to reach a Fault Coverage higher that what can be obtained with current engineering practice with comparable area occupation",
+      "abstract": "Testing is a key issue in the design and production of digital circuits: the adoption of BIST (Built-In Self-Test) techniques is increasingly popular, but requires efficient algorithms for the generation of the logic which generates the test vectors applied to the Unit Under Test. This paper addresses the issue of identifying a Cellular Automaton able to generate input patterns to detect stuckat faults inside a Finite State Machine (FSM) circuit. Previous results already proposed a solution based on a Genetic Algorithm which directly identifies a Cellular Automaton able to reach good Fault Coverage of the stuck-at faults. However, such method requires 2-bit cells in the Cellular Automaton, thus resulting in a high area overhead. This paper presents a new solution, with an area occupation limited to 1 bit per cell; the improved results are possible due to the adoption of a new optimization algorithm, the Selfish Gene algorithm. Experimental results are provided, which show that in most of the standard benchmark circuits the Cellular Automaton selected by the Selfish Gene algorithm is able to reach a Fault Coverage higher that what can be obtained with current engineering practice with comparable area occupation.",
       "type": "conference_item",
       "title": "Evolving Cellular Automata for Self-Testing Hardware",
       "scopus": {
         "cluster": "2-s2.0-84864389328",
-        "datestamp": "2016-10-20 03:59:42",
-        "impact": 7
+        "datestamp": "2018-03-18 04:57:41",
+        "impact": 9
       },
       "pages": 10,
       "types": "TYPES8",
@@ -16159,7 +18193,7 @@
         "USER_D1010"
       ],
       "issn": "0302-9743",
-      "rev_number": 16,
+      "rev_number": 28,
       "dir": "disk0\/02\/37\/46\/77",
       "creators": [
         {
@@ -16190,8 +18224,9 @@
           "id": 1894
         }
       ],
-      "lastmod": "2014-10-28 12:59:19",
+      "lastmod": "2018-01-18 04:38:01",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -16205,7 +18240,7 @@
       "metadata_visibility": "show",
       "id_number": "10.1007\/3-540-46406-9_4",
       "eprint_status": "archive",
-      "status_changed": "2010-10-13 18:10:36",
+      "status_changed": "2015-06-30 17:29:56",
       "language": [
         "en"
       ],
@@ -16215,6 +18250,9 @@
       "refereed": 1,
       "divisions": [
         "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
       ]
     },
     {
@@ -16222,8 +18260,8 @@
       "eprintid": 1661412,
       "wos": {
         "cluster": 89240600094,
-        "datestamp": "2016-09-12 03:28:41",
-        "impact": 3
+        "datestamp": "2018-03-11 04:31:54",
+        "impact": 4
       },
       "date": 2000,
       "documents": [
@@ -16236,9 +18274,9 @@
                   "hash_type": "MD5",
                   "mtime": "2015-10-29 11:56:27",
                   "datasetid": "document",
-                  "fileid": 1659569,
-                  "objectid": 789975,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1659569",
+                  "fileid": 2150961,
+                  "objectid": 1072993,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2150961",
                   "mime_type": "application\/pdf",
                   "hash": "7641de38134e6b0f5015dc9cbe16be83",
                   "filesize": 393110,
@@ -16252,14 +18290,14 @@
             "license": "not_public",
             "main": "1661412.pdf",
             "original_docid": 48785,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/789975",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1072993",
             "format": "application\/pdf",
-            "docid": 789975,
+            "docid": 1072993,
             "security": "staffonly",
             "formatdesc": "1661412.pdf"
           }
       ],
-      "upddate": "2016-02-04 14:39:39",
+      "upddate": "2016-12-05 15:15:48",
       "isbn": 769506194,
       "pagerange": "577-581",
       "publisher": "IEEE",
@@ -16275,8 +18313,8 @@
       "title": "Exploiting the selfish gene algorithm for evolving cellular automata",
       "scopus": {
         "cluster": "2-s2.0-0033713939",
-        "datestamp": "2016-09-12 03:42:02",
-        "impact": 7
+        "datestamp": "2018-03-11 04:42:35",
+        "impact": 11
       },
       "pages": 5,
       "types": "TYPES8",
@@ -16285,7 +18323,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 13,
+      "rev_number": 19,
       "dir": "disk0\/01\/66\/14\/12",
       "creators": [
         {
@@ -16316,8 +18354,9 @@
           "id": 1894
         }
       ],
-      "lastmod": "2016-02-06 03:53:19",
+      "lastmod": "2016-12-07 05:32:03",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/IJCNN.2000.859457",
       "proprietary": {
@@ -16402,6 +18441,7 @@
       "dir": "disk0\/01\/39\/47\/17",
       "lastmod": "2014-10-22 09:15:03",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9780471988557,
       "pagerange": "185-198",
       "publisher": "Wiley and Sons",
@@ -16434,11 +18474,11 @@
       "eprintid": 1661409,
       "wos": {
         "cluster": 165966400031,
-        "datestamp": "2016-09-12 03:28:39",
-        "impact": 2
+        "datestamp": "2018-03-11 04:31:52",
+        "impact": 3
       },
       "date": 2000,
-      "upddate": "2012-07-31 12:18:10",
+      "upddate": "2018-02-23 14:09:23",
       "pagerange": "195-198",
       "publisher": "IEEE",
       "event_title": "International Conference on Tools with Artificial Intelligence",
@@ -16452,8 +18492,8 @@
       "title": "A Genetic Algorithm-based System for Generating Test Programs for Microprocessor IP Cores",
       "scopus": {
         "cluster": "2-s2.0-67651033273",
-        "datestamp": "2016-09-12 03:41:57",
-        "impact": 3
+        "datestamp": "2018-03-11 04:42:32",
+        "impact": 8
       },
       "pages": 4,
       "types": "TYPES8",
@@ -16461,9 +18501,18 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 3,
+      "rev_number": 7,
       "dir": "disk0\/01\/66\/14\/09",
       "creators": [
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
+        },
         {
           "name": {
             "lineage": 2154,
@@ -16472,15 +18521,6 @@
             "family": "Corno"
           },
           "id": 2154
-        },
-        {
-          "name": {
-            "lineage": 3605,
-            "given": "Massimo",
-            "honourific": null,
-            "family": "Violante"
-          },
-          "id": 3605
         },
         {
           "name": {
@@ -16493,16 +18533,17 @@
         },
         {
           "name": {
-            "lineage": 1894,
-            "given": "Matteo",
+            "lineage": 3605,
+            "given": "Massimo",
             "honourific": null,
-            "family": "Sonza Reorda"
+            "family": "Violante"
           },
-          "id": 1894
+          "id": 3605
         }
       ],
-      "lastmod": "2014-10-24 20:04:51",
+      "lastmod": "2018-02-25 03:00:30",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -16514,7 +18555,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 15:49:48",
       "language": [
         "en"
       ],
@@ -16522,6 +18563,9 @@
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
       ]
     },
     {
@@ -16542,8 +18586,8 @@
       "title": "High-Level Observability for Effective High-Level ATPG",
       "scopus": {
         "cluster": "2-s2.0-0033733909",
-        "datestamp": "2016-09-12 03:42:09",
-        "impact": 14
+        "datestamp": "2018-03-11 04:42:42",
+        "impact": 23
       },
       "types": "TYPES8",
       "userid": 2,
@@ -16584,6 +18628,7 @@
       "lastmod": "2014-10-24 20:05:00",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -16649,6 +18694,7 @@
       "dir": "disk0\/01\/54\/52\/77",
       "lastmod": "2014-10-24 14:43:03",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "675-676",
       "proprietary": {
         "name": {
@@ -16692,8 +18738,8 @@
       "title": "Low Power BIST via Hybrid Cellular Automata",
       "scopus": {
         "cluster": "2-s2.0-0033751555",
-        "datestamp": "2016-09-12 03:42:06",
-        "impact": 58
+        "datestamp": "2018-03-11 04:42:39",
+        "impact": 65
       },
       "types": "TYPES8",
       "userid": 2,
@@ -16752,6 +18798,7 @@
       ],
       "lastmod": "2016-01-08 03:57:02",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -16775,15 +18822,32 @@
     },
     {
       "authors_string": "Corno F; Rebaudengo M; Sonza Reorda M; Squillero G.; Violante M",
-      "types": "TYPES8",
       "eprintid": 1545268,
       "date": 2000,
+      "upddate": "2016-04-28 10:23:46",
+      "isbn": 9780769506135,
+      "pagerange": "29-34",
+      "publisher": "IEEE Computer Society",
+      "event_title": "VTS",
+      "irisid": 36282,
+      "book_title": "Proceedings of the 18th IEEE VLSI Test Symposium (VTS'00)",
+      "datestamp": "2007-03-27 14:26:59",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1545268",
+      "type": "conference_item",
+      "title": "Low Power BIST via Non-Linear Hybrid Cellular Automata",
+      "scopus": {
+        "cluster": "2-s2.0-0033751555",
+        "datestamp": "2018-03-09 04:28:36",
+        "impact": 65
+      },
+      "place_of_pub": "WASHINGTON, DC",
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2016-04-28 10:23:46",
       "rev_number": 10,
+      "dir": "disk0\/01\/54\/52\/68",
       "creators": [
         {
           "name": {
@@ -16831,13 +18895,11 @@
           "id": 3584
         }
       ],
-      "dir": "disk0\/01\/54\/52\/68",
       "lastmod": "2016-04-30 03:32:25",
       "ispublished": "pub",
       "item_issues_count": 0,
-      "isbn": 9780769506135,
-      "pagerange": "29-34",
-      "publisher": "IEEE Computer Society",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 3584,
@@ -16847,34 +18909,20 @@
         },
         "id": 3584
       },
-      "event_title": "VTS",
-      "metadata_visibility": "show",
-      "irisid": 36282,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:10:47",
       "event_relevance": "I",
-      "book_title": "Proceedings of the 18th IEEE VLSI Test Symposium (VTS'00)",
-      "datestamp": "2007-03-27 14:26:59",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1545268",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
-      ],
-      "type": "conference_item",
-      "title": "Low Power BIST via Non-Linear Hybrid Cellular Automata",
-      "scopus": {
-        "cluster": "2-s2.0-0033751555",
-        "datestamp": "2016-10-10 03:15:24",
-        "impact": 58
-      },
-      "place_of_pub": "WASHINGTON, DC"
+      ]
     },
     {
-      "authors_string": "F. Corno, M. Rebaudengo, M. Sonza Reorda, M. Violante",
+      "authors_string": "F. Corno; M. Rebaudengo; M. Sonza Reorda; M. Violante",
       "eprintid": 2374684,
       "wos": {
         "cluster": 88652200024,
-        "datestamp": "2016-10-20 03:44:15",
+        "datestamp": "2018-03-18 04:46:00",
         "impact": 0
       },
       "date": 2000,
@@ -16886,11 +18934,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2013-01-23 13:06:29",
+                  "mtime": "2015-10-29 12:01:02",
                   "datasetid": "document",
-                  "fileid": 1103265,
-                  "objectid": 475336,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1103265",
+                  "fileid": 2529103,
+                  "objectid": 1291713,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2529103",
                   "mime_type": "application\/pdf",
                   "hash": "c5cc39efabc8ca7bd58b33838250fa12",
                   "filesize": 247044,
@@ -16904,14 +18952,14 @@
             "license": "not_public",
             "main": "2374684.pdf",
             "original_docid": 53448,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/475336",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1291713",
             "format": "application\/pdf",
-            "docid": 475336,
+            "docid": 1291713,
             "security": "staffonly",
-            "formatdesc": 2374684
+            "formatdesc": "2374684.pdf"
           }
       ],
-      "upddate": "2013-10-15 13:01:32",
+      "upddate": "2018-01-16 02:40:11",
       "isbn": 3540673539,
       "pagerange": "247-254",
       "publisher": "Springer",
@@ -16924,12 +18972,12 @@
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2374684",
       "event_location": "Edinburgh (GBR)",
       "publication": "LECTURE NOTES IN COMPUTER SCIENCE",
-      "abstract": "Modern VLSI design methodologies and manufacturing technologies are making circuits increasingly fast. The quest for higher circuit performance and integration density stems from fields such as the telecommunication one where high speed and capability of dealing with large data sets is mandatory. The design of high-speed circuits is a challenging task, and can be carried out only if designers can exploit suitable CAD tools. Among the several aspects of high-speed circuit design, controlling power consumption is today a major issue for ensuring that circuits can operate at full speed without damages. In particular, tools for fast and accurate estimation of power consumption of highspeed circuits are required. In this paper we focus on the problem of predicting the maximum power consumption of sequential circuits. We formulate the problem as a constrained optimization problem, and solve it resorting to an evolutionary algorithm. Moreover, we empirically assess the effectiveness of our problem formulation with respect to the classical unconstrained formulation. Finally, we report experimental results assessing the effectiveness of the prototypical tool we implemented",
+      "abstract": "Modern VLSI design methodologies and manufacturing technologies are making circuits increasingly fast. The quest for higher circuit performance and integration density stems from fields such as the telecommunication one where high speed and capability of dealing with large data sets is mandatory. The design of high-speed circuits is a challenging task, and can be carried out only if designers can exploit suitable CAD tools. Among the several aspects of high-speed circuit design, controlling power consumption is today a major issue for ensuring that circuits can operate at full speed without damages. In particular, tools for fast and accurate estimation of power consumption of highspeed circuits are required. In this paper we focus on the problem of predicting the maximum power consumption of sequential circuits. We formulate the problem as a constrained optimization problem, and solve it resorting to an evolutionary algorithm. Moreover, we empirically assess the effectiveness of our problem formulation with respect to the classical unconstrained formulation. Finally, we report experimental results assessing the effectiveness of the prototypical tool we implemented.",
       "type": "conference_item",
       "title": "Prediction of Power Requirements for High-Speed Circuits",
       "scopus": {
         "cluster": "2-s2.0-84958631190",
-        "datestamp": "2016-10-20 03:59:56",
+        "datestamp": "2018-03-18 04:58:00",
         "impact": 0
       },
       "pages": 8,
@@ -16940,7 +18988,7 @@
         "USER_D1010"
       ],
       "issn": "0302-9743",
-      "rev_number": 11,
+      "rev_number": 23,
       "dir": "disk0\/02\/37\/46\/84",
       "creators": [
         {
@@ -16980,8 +19028,9 @@
           "id": 1894
         }
       ],
-      "lastmod": "2014-10-28 12:58:42",
+      "lastmod": "2018-01-18 04:38:12",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -16995,7 +19044,7 @@
       "metadata_visibility": "show",
       "id_number": "10.1007\/3-540-45561-2_24",
       "eprint_status": "archive",
-      "status_changed": "2010-10-13 18:10:18",
+      "status_changed": "2015-06-30 17:29:57",
       "language": [
         "en"
       ],
@@ -17005,24 +19054,43 @@
       "refereed": 1,
       "divisions": [
         "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
       ]
     },
     {
       "authors_string": "Corno F; Cumani G; Sonza Reorda M; Squillero G.",
-      "types": "TYPES8",
       "eprintid": 1545300,
       "wos": {
         "cluster": 166048700001,
-        "datestamp": "2016-10-10 03:15:26",
-        "impact": 6
+        "datestamp": "2018-03-09 04:22:20",
+        "impact": 7
       },
       "date": 2000,
+      "upddate": "2018-01-16 02:29:47",
+      "isbn": 9780769507866,
+      "pagerange": "3-3",
+      "publisher": "IEEE Computer Society",
+      "irisid": 36285,
+      "book_title": "Proceedings of the IEEE International High-Level Validation and Test Workshop (HLDVT'00)",
+      "datestamp": "2007-03-27 14:22:25",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1545300",
+      "type": "conference_item",
+      "title": "An RT-level Fault Model with High Gate Level Correlation",
+      "scopus": {
+        "cluster": "2-s2.0-84949658137",
+        "datestamp": "2018-03-09 04:28:47",
+        "impact": 20
+      },
+      "place_of_pub": "WASHINGTON, DC",
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2016-04-28 10:23:02",
-      "rev_number": 7,
+      "rev_number": 9,
+      "dir": "disk0\/01\/54\/53\/00",
       "creators": [
         {
           "name": {
@@ -17052,12 +19120,10 @@
           "id": 1894
         }
       ],
-      "dir": "disk0\/01\/54\/53\/00",
-      "lastmod": "2016-04-30 03:32:25",
+      "lastmod": "2018-01-18 03:58:32",
       "ispublished": "pub",
-      "isbn": 9780769507866,
-      "pagerange": "3-3",
-      "publisher": "IEEE Computer Society",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 3584,
@@ -17067,39 +19133,40 @@
         },
         "id": 3584
       },
-      "metadata_visibility": "show",
-      "irisid": 36285,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:25:05",
       "event_relevance": "I",
-      "book_title": "Proceedings of the IEEE International High-Level Validation and Test Workshop (HLDVT'00)",
-      "datestamp": "2007-03-27 14:22:25",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1545300",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "conference_item",
-      "title": "An RT-level Fault Model with High Gate Level Correlation",
-      "scopus": {
-        "cluster": "2-s2.0-84949658137",
-        "datestamp": "2016-10-10 03:15:30",
-        "impact": 9
-      },
-      "place_of_pub": "WASHINGTON, DC"
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F.; G. Cumani; M. Sonza Reorda; G. Squillero",
-      "types": "TYPES8",
       "eprintid": 1661410,
-      "twitted": 1,
       "date": 2000,
+      "upddate": "2016-04-28 10:23:39",
+      "pagerange": "825-830",
+      "event_title": "XV Conference on Design of Circuits and Integrated Systems",
+      "irisid": 42872,
+      "event_dates": "November 21-24, 2000",
+      "book_title": "DCIS2000: XV Conference on Design of Circuits and Integrated Systems, Le Corum, Montpellier, November 21-24, 2000, pp. 825-830",
+      "datestamp": "2007-12-10 09:47:46",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1661410",
+      "event_location": "Montpellier (F)",
+      "type": "conference_item",
+      "title": "RT-level Fault Simulation Techniques based on Simulation Command Scripts",
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2016-04-28 10:23:39",
+      "twitted": 1,
       "rev_number": 7,
+      "dir": "disk0\/01\/66\/14\/10",
       "creators": [
         {
           "name": {
@@ -17129,10 +19196,10 @@
           "id": 1894
         }
       ],
-      "dir": "disk0\/01\/66\/14\/10",
       "lastmod": "2016-04-30 03:31:32",
       "ispublished": "pub",
-      "pagerange": "825-830",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -17142,34 +19209,24 @@
         },
         "id": 2154
       },
-      "event_title": "XV Conference on Design of Circuits and Integrated Systems",
-      "metadata_visibility": "show",
-      "irisid": 42872,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:10:47",
       "language": [
         "en"
       ],
-      "event_dates": "November 21-24, 2000",
       "event_relevance": "I",
-      "book_title": "DCIS2000: XV Conference on Design of Circuits and Integrated Systems, Le Corum, Montpellier, November 21-24, 2000, pp. 825-830",
-      "datestamp": "2007-12-10 09:47:46",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1661410",
-      "event_location": "Montpellier (F)",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
-      ],
-      "type": "conference_item",
-      "title": "RT-level Fault Simulation Techniques based on Simulation Command Scripts"
+      ]
     },
     {
       "authors_string": "Corno F.; M. Sonza Reorda; G. Squillero",
       "eprintid": 1398724,
       "wos": {
         "cluster": 88988700013,
-        "datestamp": "2016-11-01 04:53:07",
-        "impact": 88
+        "datestamp": "2018-03-01 04:45:53",
+        "impact": 118
       },
       "date": 2000,
       "documents": [
@@ -17180,11 +19237,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2012-04-20 13:36:29",
+                  "mtime": "2015-10-29 11:52:13",
                   "datasetid": "document",
-                  "fileid": 985837,
-                  "objectid": 423256,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/985837",
+                  "fileid": 2150919,
+                  "objectid": 1072988,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2150919",
                   "mime_type": "application\/pdf",
                   "hash": "a554bb372798b30d19ecaf75d03510a0",
                   "filesize": 121280,
@@ -17198,14 +19255,14 @@
             "license": "not_public",
             "main": "d_t2000.pdf",
             "original_docid": 44570,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/423256",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1072988",
             "format": "application\/pdf",
-            "docid": 423256,
+            "docid": 1072988,
             "security": "staffonly",
-            "formatdesc": "Full_text"
+            "formatdesc": "d_t2000.pdf"
           }
       ],
-      "upddate": "2013-10-15 11:52:48",
+      "upddate": "2016-12-05 15:14:54",
       "pagerange": "44-53",
       "publisher": "IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC, 445 HOES LANE, PISCATAWAY, NJ 08855 USA",
       "irisid": 18190,
@@ -17223,8 +19280,8 @@
       "title": "RT-level ITC'99 benchmarks and first ATPG results",
       "scopus": {
         "cluster": "2-s2.0-0343826160",
-        "datestamp": "2016-11-01 05:22:36",
-        "impact": 192
+        "datestamp": "2018-03-01 05:16:16",
+        "impact": 246
       },
       "pages": 10,
       "types": "TYPES2",
@@ -17234,9 +19291,18 @@
         "USER_D1010"
       ],
       "issn": "0740-7475",
-      "rev_number": 13,
+      "rev_number": 18,
       "dir": "disk0\/01\/39\/87\/24",
       "creators": [
+        {
+          "name": {
+            "lineage": 3584,
+            "given": "Giovanni",
+            "honourific": null,
+            "family": "Squillero"
+          },
+          "id": 3584
+        },
         {
           "name": {
             "lineage": 2154,
@@ -17254,19 +19320,11 @@
             "family": "Sonza Reorda"
           },
           "id": 1894
-        },
-        {
-          "name": {
-            "lineage": 3584,
-            "given": "Giovanni",
-            "honourific": null,
-            "family": "Squillero"
-          },
-          "id": 3584
         }
       ],
-      "lastmod": "2014-10-22 15:18:16",
+      "lastmod": "2016-12-07 05:31:42",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/54.867894",
@@ -17280,7 +19338,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2012-03-13 08:03:43",
+      "status_changed": "2012-03-13 08:56:43",
       "language": [
         "en"
       ],
@@ -17344,6 +19402,7 @@
       "dir": "disk0\/02\/50\/16\/11",
       "lastmod": "2014-10-29 16:20:27",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 8825615175,
       "publisher": "Jackson Libri",
       "proprietary": {
@@ -17408,6 +19467,7 @@
       "dir": "disk0\/01\/41\/16\/83",
       "lastmod": "2014-10-24 06:45:52",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -17438,7 +19498,7 @@
       "eprintid": 1661414,
       "wos": {
         "cluster": 88841100020,
-        "datestamp": "2016-09-12 03:28:41",
+        "datestamp": "2018-03-11 04:31:54",
         "impact": 0
       },
       "date": 2000,
@@ -17452,9 +19512,9 @@
                   "hash_type": "MD5",
                   "mtime": "2015-10-29 11:56:27",
                   "datasetid": "document",
-                  "fileid": 1628583,
-                  "objectid": 772803,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1628583",
+                  "fileid": 2519730,
+                  "objectid": 1288782,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2519730",
                   "mime_type": "application\/pdf",
                   "hash": "f7d662f9fc56edaf682d5bef8c1642ef",
                   "filesize": 446825,
@@ -17468,14 +19528,14 @@
             "license": "not_public",
             "main": "1661414.pdf",
             "original_docid": 48786,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/772803",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1288782",
             "format": "application\/pdf",
-            "docid": 772803,
+            "docid": 1288782,
             "security": "staffonly",
             "formatdesc": "1661414.pdf"
           }
       ],
-      "upddate": "2016-01-29 12:36:52",
+      "upddate": "2018-01-16 02:31:09",
       "isbn": 780354826,
       "pagerange": "76-79",
       "publisher": "IEEE",
@@ -17486,12 +19546,12 @@
       "datestamp": "2007-12-10 09:50:47",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1661414",
       "event_location": "Geneva (CHE)",
-      "abstract": "C2BIST (Circular CA BlST) is a Built-In Self Test (BIST) architecture for sequential circuits based on Cellular Automata (CA). When CA cells implement suitable rules, this structure shows good test generation capabilities, reaching high fault coverage. The main characteristic of this approach is that the same CA is used for both generation and compaction, leading to a trade-off between attained fault coverage and area overhead more favorable than other BIST approaches. On the other hand, the main problem is that the circuit, during the test phase, may enter a loop early, reducing the attained fault coverage. The paper analyzes this problem and proposes a solution based on the partial reset technique, that is able to break cycles by exploiting the circuit flip-flops synchronous reset signal with a small area overhead with respect to the basic C2BIST architecture. Experimental results allow a quantitative evaluation of the effectiveness of this approach",
+      "abstract": "C2BIST (Circular CA BlST) is a Built-In Self Test (BIST) architecture for sequential circuits based on Cellular Automata (CA). When CA cells implement suitable rules, this structure shows good test generation capabilities, reaching high fault coverage. The main characteristic of this approach is that the same CA is used for both generation and compaction, leading to a trade-off between attained fault coverage and area overhead more favorable than other BIST approaches. On the other hand, the main problem is that the circuit, during the test phase, may enter a loop early, reducing the attained fault coverage. The paper analyzes this problem and proposes a solution based on the partial reset technique, that is able to break cycles by exploiting the circuit flip-flops synchronous reset signal with a small area overhead with respect to the basic C2BIST architecture. Experimental results allow a quantitative evaluation of the effectiveness of this approach.",
       "type": "conference_item",
       "title": "An improved cellular automata-based BIST architecture for sequential circuits",
       "scopus": {
         "cluster": "2-s2.0-0033697584",
-        "datestamp": "2016-09-12 03:42:04",
+        "datestamp": "2018-03-11 04:42:38",
         "impact": 1
       },
       "pages": 4,
@@ -17500,18 +19560,9 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 15,
+      "rev_number": 20,
       "dir": "disk0\/01\/66\/14\/14",
       "creators": [
-        {
-          "name": {
-            "lineage": 3584,
-            "given": "Giovanni",
-            "honourific": null,
-            "family": "Squillero"
-          },
-          "id": 3584
-        },
         {
           "name": {
             "lineage": 2154,
@@ -17523,6 +19574,15 @@
         },
         {
           "name": {
+            "lineage": 3584,
+            "given": "Giovanni",
+            "honourific": null,
+            "family": "Squillero"
+          },
+          "id": 3584
+        },
+        {
+          "name": {
             "lineage": 1894,
             "given": "Matteo",
             "honourific": null,
@@ -17531,10 +19591,9 @@
           "id": 1894
         }
       ],
-      "lastmod": "2016-02-02 03:51:52",
+      "lastmod": "2018-01-18 03:43:05",
       "ispublished": "pub",
-      "metadata_visibility": "show",
-      "id_number": "10.1109\/ISCAS.2000.857030",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -17544,34 +19603,41 @@
         },
         "id": 2154
       },
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/ISCAS.2000.857030",
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:49:49",
       "language": [
         "en"
       ],
       "volume": 1,
       "event_relevance": "I",
       "full_text_status": "restricted",
+      "referee": "REF_0",
+      "refereed": 1,
       "divisions": [
         "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
       ]
     },
     {
-      "authors_string": "F. Corno, M. Rebaudengo, M. Sonza Reorda, M. Violante",
+      "authors_string": "F. Corno; M. Rebaudengo; M. Sonza Reorda; M. Violante",
       "types": "TYPES8",
       "eprintid": 2501196,
       "wos": {
         "cluster": 79621600091,
-        "datestamp": "2016-10-24 03:40:00",
-        "impact": 0
+        "datestamp": "2018-02-20 04:32:07",
+        "impact": 1
       },
       "date": 1999,
       "userdep": [
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2013-11-25 11:36:05",
-      "rev_number": 3,
+      "upddate": "2018-01-16 02:26:16",
+      "rev_number": 5,
       "creators": [
         {
           "name": {
@@ -17611,8 +19677,9 @@
         }
       ],
       "dir": "disk0\/02\/50\/11\/96",
-      "lastmod": "2014-10-29 16:01:28",
+      "lastmod": "2018-01-18 04:11:20",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 769501044,
       "pagerange": "350-353",
       "proprietary": {
@@ -17629,16 +19696,19 @@
       "metadata_visibility": "show",
       "irisid": 76439,
       "eprint_status": "archive",
-      "status_changed": "2012-07-14 14:07:40",
+      "status_changed": "2015-06-30 18:47:34",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2012-07-14 14:31:42",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2501196",
       "full_text_status": "none",
       "type": "conference_item",
       "title": "ALPS: a peak power estimation tool for sequential circuits",
+      "ssd": [
+        "ING-INF\/05"
+      ],
       "scopus": {
         "cluster": "2-s2.0-0033335786",
-        "datestamp": "2016-10-24 03:55:13",
+        "datestamp": "2018-02-20 04:37:45",
         "impact": 3
       },
       "pages": 4
@@ -17698,8 +19768,8 @@
       "title": "Approximate Equivalence Verification for Protocol Interface Implementation via Genetic Algorithms",
       "scopus": {
         "cluster": "2-s2.0-84958985027",
-        "datestamp": "2016-10-09 04:29:21",
-        "impact": 0
+        "datestamp": "2018-03-09 04:27:57",
+        "impact": 1
       },
       "pages": 11,
       "types": "TYPES8",
@@ -17741,6 +19811,7 @@
       ],
       "lastmod": "2014-10-24 14:43:43",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 3584,
@@ -17764,7 +19835,7 @@
       "eprintid": 1545118,
       "wos": {
         "cluster": 79489400126,
-        "datestamp": "2016-10-09 04:16:12",
+        "datestamp": "2018-03-09 04:21:44",
         "impact": 0
       },
       "date": 1999,
@@ -17776,11 +19847,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2013-01-21 15:57:24",
+                  "mtime": "2015-10-29 11:55:27",
                   "datasetid": "document",
-                  "fileid": 1028284,
-                  "objectid": 441741,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1028284",
+                  "fileid": 2522284,
+                  "objectid": 1289546,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2522284",
                   "mime_type": "application\/pdf",
                   "hash": "0f4f82835f0b571119bcf5458e0c57bb",
                   "filesize": 24432,
@@ -17794,14 +19865,14 @@
             "license": "not_public",
             "main": "1545118.pdf",
             "original_docid": 47657,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/441741",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1289546",
             "format": "application\/pdf",
-            "docid": 441741,
+            "docid": 1289546,
             "security": "staffonly",
-            "formatdesc": 1545118
+            "formatdesc": "1545118.pdf"
           }
       ],
-      "upddate": "2013-11-25 11:55:26",
+      "upddate": "2018-01-16 02:31:40",
       "isbn": 1581131216,
       "pagerange": "754-755",
       "publisher": "ACM",
@@ -17816,8 +19887,8 @@
       "title": "Approximate equivalence verification of sequential circuits via genetic algorithms",
       "scopus": {
         "cluster": "2-s2.0-84893626679",
-        "datestamp": "2016-10-09 04:29:19",
-        "impact": 0
+        "datestamp": "2018-03-09 04:27:52",
+        "impact": 2
       },
       "pages": 2,
       "place_of_pub": "NEW YORK, NY",
@@ -17826,18 +19897,9 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 7,
+      "rev_number": 12,
       "dir": "disk0\/01\/54\/51\/18",
       "creators": [
-        {
-          "name": {
-            "lineage": 3584,
-            "given": "Giovanni",
-            "honourific": null,
-            "family": "Squillero"
-          },
-          "id": 3584
-        },
         {
           "name": {
             "lineage": 2154,
@@ -17855,10 +19917,20 @@
             "family": "Sonza Reorda"
           },
           "id": 1894
+        },
+        {
+          "name": {
+            "lineage": 3584,
+            "given": "Giovanni",
+            "honourific": null,
+            "family": "Squillero"
+          },
+          "id": 3584
         }
       ],
-      "lastmod": "2014-10-24 14:43:41",
+      "lastmod": "2018-01-18 03:58:27",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/307418.307431",
       "proprietary": {
@@ -17871,20 +19943,25 @@
         "id": 3584
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 15:25:01",
       "event_relevance": "I",
-      "full_text_status": "restricted"
+      "full_text_status": "restricted",
+      "referee": "REF_0",
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Chiusano S; Corno F.; Prinetto P",
       "eprintid": 1398714,
       "wos": {
         "cluster": 80732400017,
-        "datestamp": "2016-11-01 04:53:05",
+        "datestamp": "2018-03-01 04:45:51",
         "impact": 0
       },
       "date": 1999,
-      "upddate": "2013-10-15 11:38:03",
+      "upddate": "2018-01-16 02:22:27",
       "pagerange": "141-148",
       "irisid": 18187,
       "publisher_review": "Kluwer Academic Publishers \/ Massachusetts:PO Box 358, Accord Station:Hingham, MA 02018:(617)871-6600",
@@ -17896,18 +19973,28 @@
       "title": "Exploiting Behavioral Information in Gate-Level ATPG",
       "scopus": {
         "cluster": "2-s2.0-0032657453",
-        "datestamp": "2016-11-01 05:22:29",
+        "datestamp": "2018-03-01 05:16:09",
         "impact": 5
       },
       "types": "TYPES2",
       "userid": 2,
       "userdep": [
+        "USER_D1110",
         "USER_D1010"
       ],
       "issn": "0923-8174",
-      "rev_number": 4,
+      "rev_number": 6,
       "dir": "disk0\/01\/39\/87\/14",
       "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
         {
           "name": {
             "lineage": 1200,
@@ -17925,20 +20012,12 @@
             "family": "Chiusano"
           },
           "id": 3201
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
         }
       ],
-      "lastmod": "2014-10-22 15:17:09",
+      "lastmod": "2018-01-18 03:31:43",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1023\/A:1008322011010",
       "proprietary": {
@@ -17951,14 +20030,17 @@
         "id": 3201
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
-      "volume": "14(1-2)",
+      "status_changed": "2015-06-30 14:32:55",
       "language": [
         "en"
       ],
+      "volume": "14(1-2)",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F; Sonza Reorda M; Squillero G.",
@@ -18003,6 +20085,7 @@
       "dir": "disk0\/01\/54\/51\/27",
       "lastmod": "2016-04-30 03:32:24",
       "ispublished": "pub",
+      "openaire": 0,
       "publisher": "IEEE",
       "proprietary": {
         "name": {
@@ -18031,26 +20114,18 @@
       "eprintid": 1408859,
       "wos": {
         "cluster": 79489400085,
-        "datestamp": "2016-11-04 04:57:05",
+        "datestamp": "2018-03-04 04:42:22",
         "impact": 0
       },
       "date": 1999,
       "userdep": [
+        "USER_D1110",
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2013-11-25 11:39:55",
-      "rev_number": 3,
+      "upddate": "2018-01-16 02:25:41",
+      "rev_number": 5,
       "creators": [
-        {
-          "name": {
-            "lineage": 3201,
-            "given": "Silvia Anna",
-            "honourific": null,
-            "family": "Chiusano"
-          },
-          "id": 3201
-        },
         {
           "name": {
             "lineage": 2154,
@@ -18059,11 +20134,21 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 3201,
+            "given": "Silvia Anna",
+            "honourific": null,
+            "family": "Chiusano"
+          },
+          "id": 3201
         }
       ],
       "dir": "disk0\/01\/40\/88\/59",
-      "lastmod": "2014-10-23 15:28:51",
+      "lastmod": "2018-01-18 03:31:48",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9780769500782,
       "pagerange": "516-520",
       "proprietary": {
@@ -18079,7 +20164,7 @@
       "metadata_visibility": "show",
       "irisid": 24584,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 14:48:31",
       "event_dates": "9-12 March 1999",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
@@ -18088,102 +20173,129 @@
       "full_text_status": "none",
       "type": "conference_item",
       "title": "Integrating Symbolic Techniques in ATPG-Based Sequential Logic Optimization",
+      "ssd": [
+        "ING-INF\/05"
+      ],
       "scopus": {
         "cluster": "2-s2.0-0006962126",
-        "datestamp": "2016-11-04 05:24:03",
-        "impact": 4
+        "datestamp": "2018-03-04 04:52:50",
+        "impact": 5
       }
     },
     {
       "authors_string": "F. Corno, M. Rebaudengo, M. Sonza Reorda, M. Violante",
-      "types": "TYPES8",
       "eprintid": 2500630,
       "date": 1999,
-      "userdep": [
-        "USER_D1010"
-      ],
-      "userid": 2,
       "upddate": "2013-11-25 11:31:17",
-      "rev_number": 3,
-      "creators": [
-        {
-          "name": {
-            "lineage": 2477,
-            "given": "Maurizio",
-            "honourific": null,
-            "family": "Rebaudengo"
-          },
-          "id": 2477
-        },
-        {
-          "name": {
-            "lineage": 3605,
-            "given": "Massimo",
-            "honourific": null,
-            "family": "Violante"
-          },
-          "id": 3605
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        },
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        }
-      ],
-      "dir": "disk0\/02\/50\/06\/30",
-      "lastmod": "2014-10-29 15:40:41",
-      "ispublished": "pub",
       "isbn": "076950390X",
       "pagerange": "160-164",
-      "proprietary": {
-        "name": {
-          "lineage": 2477,
-          "given": "Maurizio",
-          "honourific": null,
-          "family": "Rebaudengo"
-        },
-        "id": 2477
-      },
-      "id_number": "10.1109\/ETW.1999.804523",
       "event_title": "European Test Workshop 1999. Proceedings",
-      "metadata_visibility": "show",
       "irisid": 76003,
-      "eprint_status": "archive",
-      "status_changed": "2012-07-13 15:07:42",
       "event_dates": "25-28 May 1999",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2012-07-13 11:15:18",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2500630",
       "event_location": "Constance, Germany",
-      "full_text_status": "none",
       "type": "conference_item",
       "title": "A New BIST Architecture for Low Power Circuits",
-      "pages": 5
-    },
-    {
-      "authors_string": "F. Corno, M. Rebaudengo, M. Sonza Reorda, M. Violante",
+      "scopus": {
+        "cluster": "2-s2.0-85026988186",
+        "datestamp": "2018-02-20 04:23:39",
+        "impact": 27
+      },
+      "pages": 5,
       "types": "TYPES8",
-      "eprintid": 2500625,
-      "date": 1999,
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
+      "rev_number": 3,
+      "dir": "disk0\/02\/50\/06\/30",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2477,
+            "given": "Maurizio",
+            "honourific": null,
+            "family": "Rebaudengo"
+          },
+          "id": 2477
+        },
+        {
+          "name": {
+            "lineage": 3605,
+            "given": "Massimo",
+            "honourific": null,
+            "family": "Violante"
+          },
+          "id": 3605
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
+        }
+      ],
+      "lastmod": "2014-10-29 15:40:41",
+      "ispublished": "pub",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/ETW.1999.804523",
+      "proprietary": {
+        "name": {
+          "lineage": 2477,
+          "given": "Maurizio",
+          "honourific": null,
+          "family": "Rebaudengo"
+        },
+        "id": 2477
+      },
+      "eprint_status": "archive",
+      "status_changed": "2012-07-13 15:07:42",
+      "full_text_status": "none"
+    },
+    {
+      "authors_string": "F. Corno, M. Rebaudengo, M. Sonza Reorda, M. Violante",
+      "eprintid": 2500625,
+      "date": 1999,
       "upddate": "2013-11-25 11:30:55",
+      "isbn": "076950325X",
+      "pagerange": "219-226",
+      "event_title": "Defect and Fault Tolerance in VLSI Systems, 1999. DFT '99. International Symposium on",
+      "irisid": 75998,
+      "event_dates": "Nov 1999",
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2012-07-13 11:08:19",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2500625",
+      "event_location": "Albuquerque, NM, USA",
+      "type": "conference_item",
+      "title": "Optimal vector selection for low power BIST",
+      "scopus": {
+        "cluster": "2-s2.0-0033337081",
+        "datestamp": "2018-02-20 04:23:26",
+        "impact": 15
+      },
+      "pages": 8,
+      "types": "TYPES8",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
       "rev_number": 5,
+      "dir": "disk0\/02\/50\/06\/25",
       "creators": [
         {
           "name": {
@@ -18222,11 +20334,11 @@
           "id": 2477
         }
       ],
-      "dir": "disk0\/02\/50\/06\/25",
       "lastmod": "2014-10-29 15:40:04",
       "ispublished": "pub",
-      "isbn": "076950325X",
-      "pagerange": "219-226",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/DFTVS.1999.802888",
       "proprietary": {
         "name": {
           "lineage": 2477,
@@ -18236,26 +20348,9 @@
         },
         "id": 2477
       },
-      "id_number": "10.1109\/DFTVS.1999.802888",
-      "event_title": "Defect and Fault Tolerance in VLSI Systems, 1999. DFT '99. International Symposium on",
-      "metadata_visibility": "show",
-      "irisid": 75998,
       "eprint_status": "archive",
       "status_changed": "2012-07-13 11:07:53",
-      "event_dates": "Nov 1999",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2012-07-13 11:08:19",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2500625",
-      "event_location": "Albuquerque, NM, USA",
-      "full_text_status": "none",
-      "type": "conference_item",
-      "title": "Optimal vector selection for low power BIST",
-      "scopus": {
-        "cluster": "2-s2.0-0033337081",
-        "datestamp": "2016-10-24 03:41:27",
-        "impact": 15
-      },
-      "pages": 8
+      "full_text_status": "none"
     },
     {
       "authors_string": "Corno F; Sonza Reorda M; Squillero G.",
@@ -18300,6 +20395,7 @@
       "dir": "disk0\/01\/54\/51\/21",
       "lastmod": "2016-04-30 03:32:24",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "2190-2195",
       "publisher": "IEEE",
       "proprietary": {
@@ -18325,26 +20421,43 @@
       "title": "Optimizing Deceptive Functions with the SG-Clans Algorithm",
       "scopus": {
         "cluster": "2-s2.0-0004042634",
-        "datestamp": "2016-10-09 04:29:24",
-        "impact": 3
+        "datestamp": "2018-03-09 04:28:03",
+        "impact": 6
       }
     },
     {
       "authors_string": "Chiusano S.; Corno F.; Prinetto P.",
-      "types": "TYPES8",
       "eprintid": 1408863,
       "wos": {
         "cluster": 81779300046,
-        "datestamp": "2016-11-04 04:57:09",
-        "impact": 5
+        "datestamp": "2018-03-04 04:42:26",
+        "impact": 6
       },
       "date": 1999,
+      "upddate": "2018-01-16 02:25:41",
+      "isbn": 9780769501468,
+      "pagerange": "341-353",
+      "event_title": "IEEE VLSI Test Symposium",
+      "irisid": 24587,
+      "event_dates": "25-30 April 1999",
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2006-10-05 14:29:49",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1408863",
+      "type": "conference_item",
+      "title": "RT-level TPG Exploiting High-Level Synthesis Information",
+      "scopus": {
+        "cluster": "2-s2.0-0032691809",
+        "datestamp": "2018-03-04 04:52:56",
+        "impact": 11
+      },
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
+        "USER_D1110",
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2016-02-08 14:22:07",
-      "rev_number": 6,
+      "rev_number": 8,
+      "dir": "disk0\/01\/40\/88\/63",
       "creators": [
         {
           "name": {
@@ -18357,29 +20470,28 @@
         },
         {
           "name": {
-            "lineage": 1200,
-            "given": "Paolo Ernesto",
-            "honourific": null,
-            "family": "Prinetto"
-          },
-          "id": 1200
-        },
-        {
-          "name": {
             "lineage": 3201,
             "given": "Silvia Anna",
             "honourific": null,
             "family": "Chiusano"
           },
           "id": 3201
+        },
+        {
+          "name": {
+            "lineage": 1200,
+            "given": "Paolo Ernesto",
+            "honourific": null,
+            "family": "Prinetto"
+          },
+          "id": 1200
         }
       ],
-      "dir": "disk0\/01\/40\/88\/63",
-      "lastmod": "2016-02-10 03:57:38",
+      "lastmod": "2018-01-18 03:31:49",
       "ispublished": "pub",
       "item_issues_count": 0,
-      "isbn": 9780769501468,
-      "pagerange": "341-353",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 3201,
@@ -18389,24 +20501,13 @@
         },
         "id": 3201
       },
-      "event_title": "IEEE VLSI Test Symposium",
-      "metadata_visibility": "show",
-      "irisid": 24587,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
-      "event_dates": "25-30 April 1999",
+      "status_changed": "2015-06-30 14:48:32",
       "event_relevance": "I",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2006-10-05 14:29:49",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1408863",
       "full_text_status": "none",
-      "type": "conference_item",
-      "title": "RT-level TPG Exploiting High-Level Synthesis Information",
-      "scopus": {
-        "cluster": "2-s2.0-0032691809",
-        "datestamp": "2016-11-04 05:24:10",
-        "impact": 7
-      }
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F; Sonza Reorda M; Squillero G.",
@@ -18451,6 +20552,7 @@
       "dir": "disk0\/01\/54\/51\/24",
       "lastmod": "2016-04-30 03:32:24",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "351-354",
       "publisher": "IEEE",
       "proprietary": {
@@ -18479,11 +20581,11 @@
       "eprintid": 1404470,
       "wos": {
         "cluster": 78407000009,
-        "datestamp": "2016-11-03 04:32:51",
-        "impact": 3
+        "datestamp": "2018-03-03 04:27:56",
+        "impact": 4
       },
       "date": 1999,
-      "upddate": "2015-11-27 10:35:22",
+      "upddate": "2016-12-05 15:13:48",
       "pagerange": "191-202",
       "irisid": 21899,
       "publisher_review": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
@@ -18494,7 +20596,7 @@
       "title": "SymFony: a hybrid topological-symbolic ATPG exploiting RT-level information",
       "scopus": {
         "cluster": "2-s2.0-0033078138",
-        "datestamp": "2016-11-03 04:56:57",
+        "datestamp": "2018-03-03 04:42:59",
         "impact": 4
       },
       "pages": 12,
@@ -18505,26 +20607,17 @@
         "USER_D1010"
       ],
       "issn": "0278-0070",
-      "rev_number": 6,
+      "rev_number": 8,
       "dir": "disk0\/01\/40\/44\/70",
       "creators": [
         {
           "name": {
-            "lineage": 1200,
-            "given": "Paolo Ernesto",
+            "lineage": 3605,
+            "given": "Massimo",
             "honourific": null,
-            "family": "Prinetto"
+            "family": "Violante"
           },
-          "id": 1200
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
+          "id": 3605
         },
         {
           "name": {
@@ -18537,17 +20630,27 @@
         },
         {
           "name": {
-            "lineage": 3605,
-            "given": "Massimo",
+            "lineage": 2154,
+            "given": "Fulvio",
             "honourific": null,
-            "family": "Violante"
+            "family": "Corno"
           },
-          "id": 3605
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 1200,
+            "given": "Paolo Ernesto",
+            "honourific": null,
+            "family": "Prinetto"
+          },
+          "id": 1200
         }
       ],
-      "lastmod": "2015-11-28 03:33:19",
+      "lastmod": "2016-12-07 05:31:43",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/43.743731",
       "proprietary": {
@@ -18624,7 +20727,7 @@
       "title": "Test Pattern Generation under Low Power Constraints",
       "scopus": {
         "cluster": "2-s2.0-84958950236",
-        "datestamp": "2016-10-20 04:00:13",
+        "datestamp": "2018-03-18 04:58:14",
         "impact": 0
       },
       "pages": 9,
@@ -18677,6 +20780,7 @@
       ],
       "lastmod": "2014-10-28 12:57:28",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -18699,21 +20803,39 @@
       "refereed": 1
     },
     {
-      "authors_string": "F. Corno, M. Rebaudengo, M. Sonza Reorda, M. Violante",
-      "types": "TYPES8",
+      "authors_string": "F. Corno; M. Rebaudengo; M. Sonza Reorda; M. Violante",
       "eprintid": 2501198,
       "wos": {
         "cluster": 79267700011,
-        "datestamp": "2016-10-24 03:40:00",
+        "datestamp": "2018-02-20 04:32:08",
         "impact": 0
       },
       "date": 1999,
+      "upddate": "2018-01-16 02:41:11",
+      "isbn": 769500196,
+      "pagerange": "78-83",
+      "event_title": "Low-Power Design, 1999. Proceedings. IEEE Alessandro Volta Memorial Workshop on",
+      "irisid": 76441,
+      "event_dates": "4-5 Mar 1999",
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2012-07-14 14:36:12",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2501198",
+      "event_location": "Como, I",
+      "type": "conference_item",
+      "title": "Transformation-based peak power reduction for test sequences",
+      "scopus": {
+        "cluster": "2-s2.0-84969396652",
+        "datestamp": "2018-02-20 04:37:48",
+        "impact": 2
+      },
+      "pages": 6,
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2013-11-25 11:36:06",
-      "rev_number": 3,
+      "rev_number": 5,
+      "dir": "disk0\/02\/50\/11\/98",
       "creators": [
         {
           "name": {
@@ -18752,11 +20874,11 @@
           "id": 2477
         }
       ],
-      "dir": "disk0\/02\/50\/11\/98",
-      "lastmod": "2014-10-29 16:02:04",
+      "lastmod": "2018-01-18 04:11:20",
       "ispublished": "pub",
-      "isbn": 769500196,
-      "pagerange": "78-83",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/LPD.1999.750406",
       "proprietary": {
         "name": {
           "lineage": 2477,
@@ -18766,21 +20888,12 @@
         },
         "id": 2477
       },
-      "id_number": "10.1109\/LPD.1999.750406",
-      "event_title": "Low-Power Design, 1999. Proceedings. IEEE Alessandro Volta Memorial Workshop on",
-      "metadata_visibility": "show",
-      "irisid": 76441,
       "eprint_status": "archive",
-      "status_changed": "2012-07-14 14:07:56",
-      "event_dates": "4-5 Mar 1999",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2012-07-14 14:36:12",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2501198",
-      "event_location": "Como, I",
+      "status_changed": "2015-06-30 18:47:35",
       "full_text_status": "none",
-      "type": "conference_item",
-      "title": "Transformation-based peak power reduction for test sequences",
-      "pages": 6
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F; Sonza Reorda M; Squillero G.",
@@ -18825,6 +20938,7 @@
       "dir": "disk0\/01\/54\/51\/23",
       "lastmod": "2016-04-30 03:32:24",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "1293-1297",
       "publisher": "IEEE",
       "proprietary": {
@@ -18849,7 +20963,7 @@
       "title": "Verifying the Equivalence of Sequential Circuits with Genetic Algorithms",
       "scopus": {
         "cluster": "2-s2.0-84901465721",
-        "datestamp": "2016-10-09 04:29:28",
+        "datestamp": "2018-03-09 04:28:11",
         "impact": 0
       }
     },
@@ -18859,7 +20973,7 @@
       "eprintid": 2500920,
       "wos": {
         "cluster": 78024800013,
-        "datestamp": "2016-10-24 03:36:05",
+        "datestamp": "2018-02-20 04:26:43",
         "impact": 0
       },
       "date": 1998,
@@ -18867,17 +20981,17 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-02-03 13:33:56",
-      "rev_number": 8,
+      "upddate": "2018-01-16 02:40:25",
+      "rev_number": 10,
       "creators": [
         {
           "name": {
-            "lineage": 2477,
-            "given": "Maurizio",
+            "lineage": 1894,
+            "given": "Matteo",
             "honourific": null,
-            "family": "Rebaudengo"
+            "family": "Sonza Reorda"
           },
-          "id": 2477
+          "id": 1894
         },
         {
           "name": {
@@ -18890,17 +21004,18 @@
         },
         {
           "name": {
-            "lineage": 1894,
-            "given": "Matteo",
+            "lineage": 2477,
+            "given": "Maurizio",
             "honourific": null,
-            "family": "Sonza Reorda"
+            "family": "Rebaudengo"
           },
-          "id": 1894
+          "id": 2477
         }
       ],
       "dir": "disk0\/02\/50\/09\/20",
-      "lastmod": "2016-02-05 04:00:31",
+      "lastmod": "2018-01-18 04:11:20",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "isbn": 9780819429100,
       "proprietary": {
@@ -18917,16 +21032,19 @@
       "metadata_visibility": "show",
       "irisid": 76225,
       "eprint_status": "archive",
-      "status_changed": "2012-07-13 17:24:04",
+      "status_changed": "2015-06-30 18:46:13",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2012-07-13 17:21:29",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2500920",
       "full_text_status": "none",
       "type": "conference_item",
       "title": "Experiences in the use of evolutionary techniques for testing digital circuits",
+      "ssd": [
+        "ING-INF\/05"
+      ],
       "scopus": {
         "cluster": "2-s2.0-58149265148",
-        "datestamp": "2016-10-24 03:48:09",
+        "datestamp": "2018-02-20 04:30:22",
         "impact": 4
       }
     },
@@ -18935,11 +21053,11 @@
       "eprintid": 2501317,
       "wos": {
         "cluster": 72439300101,
-        "datestamp": "2016-10-24 03:41:26",
+        "datestamp": "2018-02-20 04:33:53",
         "impact": 4
       },
       "date": 1998,
-      "upddate": "2012-10-23 11:53:05",
+      "upddate": "2018-01-16 02:41:04",
       "isbn": 818683597,
       "pagerange": "670-679",
       "publisher": "IEEE Computer Society",
@@ -18954,8 +21072,8 @@
       "title": "Exploiting symbolic techniques for partial scan flip flop selection",
       "scopus": {
         "cluster": "2-s2.0-0343323491",
-        "datestamp": "2016-10-24 03:57:52",
-        "impact": 2
+        "datestamp": "2018-02-20 04:40:16",
+        "impact": 5
       },
       "pages": 10,
       "types": "TYPES8",
@@ -18963,7 +21081,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 2,
+      "rev_number": 4,
       "dir": "disk0\/02\/50\/13\/17",
       "creators": [
         {
@@ -19003,8 +21121,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2014-10-29 16:01:56",
+      "lastmod": "2018-01-18 04:51:00",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/DATE.1998.655930",
       "proprietary": {
@@ -19017,14 +21136,17 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-15 09:07:48",
+      "status_changed": "2015-06-30 18:48:13",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Rudnick E.M.; Vietti R.; Ellis A.; Corno F.; Prinetto P.; Sonza Reorda M.",
@@ -19032,7 +21154,7 @@
       "eprintid": 2500508,
       "wos": {
         "cluster": 72439300086,
-        "datestamp": "2016-10-24 03:31:10",
+        "datestamp": "2018-02-20 04:20:12",
         "impact": 21
       },
       "date": 1998,
@@ -19074,6 +21196,7 @@
       "dir": "disk0\/02\/50\/05\/08",
       "lastmod": "2014-10-29 15:26:34",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 818683597,
       "proprietary": {
         "name": {
@@ -19098,8 +21221,8 @@
       "title": "Fast sequential circuit test generation using high-level and gate-level techniques",
       "scopus": {
         "cluster": "2-s2.0-84893789574",
-        "datestamp": "2016-10-24 03:39:20",
-        "impact": 12
+        "datestamp": "2018-02-20 04:21:22",
+        "impact": 31
       }
     },
     {
@@ -19107,11 +21230,11 @@
       "eprintid": 1398715,
       "wos": {
         "cluster": 73481500003,
-        "datestamp": "2016-11-01 04:53:05",
+        "datestamp": "2018-03-01 04:45:51",
         "impact": 3
       },
       "date": 1998,
-      "upddate": "2013-10-15 11:38:04",
+      "upddate": "2018-01-16 02:35:14",
       "pagerange": "267-289",
       "irisid": 18188,
       "publisher_review": "Kluwer Academic Publishers \/ Massachusetts:PO Box 358, Accord Station:Hingham, MA 02018:(617)871-6600",
@@ -19123,7 +21246,7 @@
       "title": "The General Product Machine: a New Model for Symbolic FSM Traversal",
       "scopus": {
         "cluster": "2-s2.0-0032050649",
-        "datestamp": "2016-11-01 05:22:31",
+        "datestamp": "2018-03-01 05:16:12",
         "impact": 2
       },
       "types": "TYPES2",
@@ -19132,9 +21255,27 @@
         "USER_D1010"
       ],
       "issn": "0925-9856",
-      "rev_number": 4,
+      "rev_number": 6,
       "dir": "disk0\/01\/39\/87\/15",
       "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
+        },
         {
           "name": {
             "lineage": 1200,
@@ -19161,29 +21302,12 @@
             "family": "Cabodi"
           },
           "id": 1764
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        },
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
         }
       ],
-      "lastmod": "2014-10-22 15:17:09",
+      "lastmod": "2018-01-18 03:19:31",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -19195,11 +21319,14 @@
         "id": 1764
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 14:32:55",
       "volume": 12,
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "S. Barbagallo; F. Corno; D. Medina; P. Prinetto; Sonza Reorda M.",
@@ -19245,6 +21372,7 @@
       "dir": "disk0\/01\/40\/58\/63",
       "lastmod": "2015-11-24 03:34:21",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 1894,
@@ -19274,11 +21402,11 @@
       "eprintid": 1404458,
       "wos": {
         "cluster": 72123900017,
-        "datestamp": "2016-11-03 04:32:34",
+        "datestamp": "2018-03-03 04:27:49",
         "impact": 7
       },
       "date": 1998,
-      "upddate": "2015-09-14 11:33:58",
+      "upddate": "2016-12-05 15:14:51",
       "pagerange": "63-70",
       "irisid": 21891,
       "publisher_review": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
@@ -19289,7 +21417,7 @@
       "title": "Integrating Online and Offline Testing of a Switching Memory",
       "scopus": {
         "cluster": "2-s2.0-0031655150",
-        "datestamp": "2016-11-03 04:56:39",
+        "datestamp": "2018-03-03 04:42:38",
         "impact": 6
       },
       "types": "TYPES2",
@@ -19299,9 +21427,18 @@
       ],
       "twitted": 1,
       "issn": "0740-7475",
-      "rev_number": 6,
+      "rev_number": 8,
       "dir": "disk0\/01\/40\/44\/58",
       "creators": [
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
+        },
         {
           "name": {
             "lineage": 1200,
@@ -19319,20 +21456,12 @@
             "family": "Corno"
           },
           "id": 2154
-        },
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
         }
       ],
-      "lastmod": "2015-10-08 03:32:17",
+      "lastmod": "2016-12-07 05:31:43",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/54.655184",
       "proprietary": {
@@ -19345,11 +21474,11 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
-      "volume": "15 , Issue: 1 , Jan-March 1998",
+      "status_changed": "2010-06-23 17:10:47",
       "language": [
         "en"
       ],
+      "volume": "15 , Issue: 1 , Jan-March 1998",
       "full_text_status": "none",
       "referee": "REF_4",
       "refereed": 1
@@ -19360,16 +21489,16 @@
       "eprintid": 1545113,
       "wos": {
         "cluster": 75926200099,
-        "datestamp": "2016-10-09 04:16:08",
-        "impact": 11
+        "datestamp": "2018-03-09 04:21:40",
+        "impact": 12
       },
       "date": 1998,
       "userdep": [
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-01-28 12:59:14",
-      "rev_number": 8,
+      "upddate": "2018-01-16 02:31:38",
+      "rev_number": 10,
       "creators": [
         {
           "name": {
@@ -19382,26 +21511,27 @@
         },
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        },
-        {
-          "name": {
             "lineage": 3584,
             "given": "Giovanni",
             "honourific": null,
             "family": "Squillero"
           },
           "id": 3584
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
         }
       ],
       "dir": "disk0\/01\/54\/51\/13",
-      "lastmod": "2016-02-02 03:49:25",
+      "lastmod": "2018-01-18 03:58:26",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "575-580",
       "publisher": "IEEE",
       "proprietary": {
@@ -19417,7 +21547,7 @@
       "metadata_visibility": "show",
       "irisid": 36268,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:25:00",
       "event_relevance": "I",
       "book_title": "IEEE International Conference on Evolutionary Computation",
       "datestamp": "2007-03-27 08:57:10",
@@ -19425,10 +21555,13 @@
       "full_text_status": "none",
       "type": "conference_item",
       "title": "A New Evolutionary Algorithm Inspired by the Selfish Gene Theory",
+      "ssd": [
+        "ING-INF\/05"
+      ],
       "scopus": {
         "cluster": "2-s2.0-0031648131",
-        "datestamp": "2016-10-09 04:29:13",
-        "impact": 17
+        "datestamp": "2018-03-09 04:27:40",
+        "impact": 24
       }
     },
     {
@@ -19436,11 +21569,11 @@
       "eprintid": 1416268,
       "wos": {
         "cluster": 74079600059,
-        "datestamp": "2016-10-07 03:20:56",
-        "impact": 2
+        "datestamp": "2018-03-06 04:48:10",
+        "impact": 3
       },
       "date": 1998,
-      "upddate": "2014-07-10 16:31:54",
+      "upddate": "2018-01-16 02:25:53",
       "isbn": 818684364,
       "pagerange": "424-429",
       "event_title": "VTS'98 : 16th IEEE VLSI Test Symposium",
@@ -19454,8 +21587,8 @@
       "title": "On the Identification of Optimal Cellular Automata for Built-In Self-Test of Sequential Circuits",
       "scopus": {
         "cluster": "2-s2.0-0032316914",
-        "datestamp": "2016-10-07 03:23:58",
-        "impact": 2
+        "datestamp": "2018-03-06 04:58:40",
+        "impact": 5
       },
       "pages": 6,
       "types": "TYPES8",
@@ -19463,7 +21596,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 3,
+      "rev_number": 5,
       "dir": "disk0\/01\/41\/62\/68",
       "creators": [
         {
@@ -19494,8 +21627,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2014-10-24 08:38:54",
+      "lastmod": "2018-01-18 04:51:06",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/VTEST.1998.670902",
       "proprietary": {
@@ -19508,14 +21642,17 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-13 17:07:01",
+      "status_changed": "2015-06-30 15:02:20",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F; Sonza Reorda M; Squillero G.",
@@ -19560,6 +21697,7 @@
       "dir": "disk0\/01\/54\/51\/14",
       "lastmod": "2016-04-30 03:32:23",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9780897919692,
       "pagerange": "349-355",
       "publisher": "ACM Press",
@@ -19585,6 +21723,11 @@
       "full_text_status": "none",
       "type": "conference_item",
       "title": "The Selfish Gene Algorithm: a New Evolutionary Optimization Strategy",
+      "scopus": {
+        "cluster": "2-s2.0-85002194577",
+        "datestamp": "2018-03-09 04:27:45",
+        "impact": 28
+      },
       "place_of_pub": "NEW YORK, NY"
     },
     {
@@ -19593,11 +21736,12 @@
       "eprintid": 1408865,
       "wos": {
         "cluster": 78324900033,
-        "datestamp": "2016-11-04 04:57:09",
+        "datestamp": "2018-03-04 04:42:27",
         "impact": 0
       },
       "date": 1998,
       "userdep": [
+        "USER_D1110",
         "USER_D1010"
       ],
       "userid": 2,
@@ -19635,6 +21779,7 @@
       "dir": "disk0\/01\/40\/88\/65",
       "lastmod": "2016-09-07 04:44:54",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9780818688324,
       "pagerange": "284-291",
       "proprietary": {
@@ -19666,26 +21811,18 @@
       "eprintid": 1408864,
       "wos": {
         "cluster": 78276400079,
-        "datestamp": "2016-11-04 04:57:09",
-        "impact": 1
+        "datestamp": "2018-03-04 04:42:26",
+        "impact": 6
       },
       "date": 1998,
       "userdep": [
+        "USER_D1110",
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-01-28 14:03:18",
-      "rev_number": 6,
+      "upddate": "2018-01-16 02:25:42",
+      "rev_number": 8,
       "creators": [
-        {
-          "name": {
-            "lineage": 3201,
-            "given": "Silvia Anna",
-            "honourific": null,
-            "family": "Chiusano"
-          },
-          "id": 3201
-        },
         {
           "name": {
             "lineage": 2154,
@@ -19694,6 +21831,15 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 3201,
+            "given": "Silvia Anna",
+            "honourific": null,
+            "family": "Chiusano"
+          },
+          "id": 3201
         },
         {
           "name": {
@@ -19706,8 +21852,9 @@
         }
       ],
       "dir": "disk0\/01\/40\/88\/64",
-      "lastmod": "2016-02-02 03:54:35",
+      "lastmod": "2018-01-18 03:31:49",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9780818682773,
       "pagerange": "480-485",
       "proprietary": {
@@ -19723,7 +21870,7 @@
       "metadata_visibility": "show",
       "irisid": 24588,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 14:48:32",
       "event_dates": "2-4 December 1998",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
@@ -19732,9 +21879,12 @@
       "full_text_status": "none",
       "type": "conference_item",
       "title": "A Test Pattern Generation Algorithm Exploiting Behavioral Information",
+      "ssd": [
+        "ING-INF\/05"
+      ],
       "scopus": {
         "cluster": "2-s2.0-0032298416",
-        "datestamp": "2016-11-04 05:24:12",
+        "datestamp": "2018-03-04 04:52:58",
         "impact": 3
       }
     },
@@ -19744,16 +21894,16 @@
       "eprintid": 1545109,
       "wos": {
         "cluster": 76796900053,
-        "datestamp": "2016-10-09 04:16:08",
-        "impact": 1
+        "datestamp": "2018-03-09 04:21:37",
+        "impact": 3
       },
       "date": 1998,
       "userdep": [
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-04-28 10:24:03",
-      "rev_number": 10,
+      "upddate": "2018-01-16 02:31:38",
+      "rev_number": 12,
       "creators": [
         {
           "name": {
@@ -19784,8 +21934,9 @@
         }
       ],
       "dir": "disk0\/01\/54\/51\/09",
-      "lastmod": "2016-04-30 03:32:23",
+      "lastmod": "2018-01-18 03:58:26",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "pagerange": "321-326",
       "proprietary": {
@@ -19801,7 +21952,7 @@
       "metadata_visibility": "show",
       "irisid": 36267,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:25:00",
       "event_relevance": "I",
       "book_title": "Proceedings the International Conference on Circuit Design",
       "datestamp": "2007-03-27 08:55:46",
@@ -19809,10 +21960,13 @@
       "full_text_status": "none",
       "type": "conference_item",
       "title": "VEGA: A Verification Tool Based on Genetic Algorithms",
+      "ssd": [
+        "ING-INF\/05"
+      ],
       "scopus": {
         "cluster": "2-s2.0-0032295065",
-        "datestamp": "2016-10-09 04:29:10",
-        "impact": 4
+        "datestamp": "2018-03-09 04:27:36",
+        "impact": 6
       }
     },
     {
@@ -19834,8 +21988,8 @@
       "title": "A test pattern generation methodology for low power consumption",
       "scopus": {
         "cluster": "2-s2.0-0032317778",
-        "datestamp": "2016-10-24 03:47:04",
-        "impact": 60
+        "datestamp": "2018-02-20 04:29:11",
+        "impact": 68
       },
       "pages": 5,
       "types": "TYPES8",
@@ -19885,6 +22039,7 @@
       ],
       "lastmod": "2016-02-02 03:35:52",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/VTEST.1998.670912",
       "proprietary": {
@@ -19903,12 +22058,12 @@
       "refereed": 1
     },
     {
-      "authors_string": "F. Bianchi, F. Corno, M. Rebaudengo, M. Sonza Reorda, R. Ansaloni",
+      "authors_string": "F. Bianchi; F. Corno; M. Rebaudengo; M. Sonza Reorda; R. Ansaloni",
       "eprintid": 2374682,
       "wos": {
         "cluster": 74015300090,
-        "datestamp": "2016-10-20 03:44:11",
-        "impact": 1
+        "datestamp": "2018-03-18 04:45:56",
+        "impact": 3
       },
       "date": 1997,
       "documents": [
@@ -19919,11 +22074,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2013-01-21 13:11:34",
+                  "mtime": "2015-10-29 12:01:02",
                   "datasetid": "document",
-                  "fileid": 1103060,
-                  "objectid": 475282,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1103060",
+                  "fileid": 2529091,
+                  "objectid": 1291706,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2529091",
                   "mime_type": "application\/pdf",
                   "hash": "d865a6769c74166f89aa2ebdf8d14596",
                   "filesize": 697091,
@@ -19937,14 +22092,14 @@
             "license": "not_public",
             "main": "2374682.pdf",
             "original_docid": 53446,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/475282",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1291706",
             "format": "application\/pdf",
-            "docid": 475282,
+            "docid": 1291706,
             "security": "staffonly",
-            "formatdesc": 2374682
+            "formatdesc": "2374682.pdf"
           }
       ],
-      "upddate": "2013-11-25 11:01:11",
+      "upddate": "2018-01-16 02:40:11",
       "isbn": 3540628983,
       "pagerange": "916-928",
       "publisher": "Springer",
@@ -19957,13 +22112,13 @@
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2374682",
       "event_location": "Vienna (AUT)",
       "publication": "LECTURE NOTES IN COMPUTER SCIENCE",
-      "abstract": "This paper describes a distributed algorithm for Boolean function manipulation. The algorithm is based on Binary Decision Diagrams (BDDs), which are one of the most commonly used data structures for representing and manipulating Boolean functions. A new distributed version of a BDD data structure and a distributed implementation of the basic operator for its manipulation are presented. The algorithm is suitable to work on a MIMD architecture and is based on a message passing master-slave paradigm. A package has been written, which uses the PVM library and is portable on different architectures. Two applications have been developed using the parallel BDD package. In both cases the results show that the new distributed version of the algorithm is able to manage BDDs much larger than the ones managed by mono-processor tools",
+      "abstract": "This paper describes a distributed algorithm for Boolean function manipulation. The algorithm is based on Binary Decision Diagrams (BDDs), which are one of the most commonly used data structures for representing and manipulating Boolean functions. A new distributed version of a BDD data structure and a distributed implementation of the basic operator for its manipulation are presented. The algorithm is suitable to work on a MIMD architecture and is based on a message passing master-slave paradigm. A package has been written, which uses the PVM library and is portable on different architectures. Two applications have been developed using the parallel BDD package. In both cases the results show that the new distributed version of the algorithm is able to manage BDDs much larger than the ones managed by mono-processor tools.",
       "type": "conference_item",
       "title": "Boolean function manipulation on a parallel system using BDDs",
       "scopus": {
         "cluster": "2-s2.0-84883398094",
-        "datestamp": "2016-10-20 03:59:52",
-        "impact": 3
+        "datestamp": "2018-03-18 04:57:49",
+        "impact": 5
       },
       "pages": 13,
       "types": "TYPES8",
@@ -19973,7 +22128,7 @@
         "USER_D1010"
       ],
       "issn": "0302-9743",
-      "rev_number": 9,
+      "rev_number": 21,
       "dir": "disk0\/02\/37\/46\/82",
       "creators": [
         {
@@ -20004,8 +22159,9 @@
           "id": 2477
         }
       ],
-      "lastmod": "2014-10-28 12:57:30",
+      "lastmod": "2018-01-18 04:38:09",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 1894,
@@ -20018,40 +22174,60 @@
       "metadata_visibility": "show",
       "id_number": "10.1007\/BFb0031663",
       "eprint_status": "archive",
-      "status_changed": "2010-10-13 18:10:51",
+      "status_changed": "2015-06-30 17:29:57",
       "language": [
         "en"
       ],
       "volume": 1225,
       "full_text_status": "restricted",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Chiusano S.; Corno F.; Prinetto P.; Sonza Reorda M.",
-      "types": "TYPES8",
       "eprintid": 1408867,
       "wos": {
         "cluster": "A1997BH73L00009",
-        "datestamp": "2016-11-04 04:57:10",
+        "datestamp": "2018-03-04 04:42:27",
         "impact": 9
       },
       "date": 1997,
-      "userdep": [
-        "USER_D1010"
-      ],
+      "upddate": "2018-01-16 02:25:42",
+      "isbn": 9780818678103,
+      "pagerange": "60-67",
+      "event_title": "IEEE VLSI Test Symposium",
+      "irisid": 24591,
+      "event_dates": "April 27-May 1, 1997",
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2006-10-05 14:29:49",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1408867",
+      "type": "conference_item",
+      "title": "Cellular automata for deterministic sequential test pattern generation",
+      "scopus": {
+        "cluster": "2-s2.0-0030674214",
+        "datestamp": "2018-03-04 04:53:03",
+        "impact": 13
+      },
+      "types": "TYPES8",
       "userid": 2,
-      "upddate": "2016-01-29 16:27:52",
-      "rev_number": 6,
+      "userdep": [
+        "USER_D1010",
+        "USER_D1110"
+      ],
+      "rev_number": 8,
+      "dir": "disk0\/01\/40\/88\/67",
       "creators": [
         {
           "name": {
-            "lineage": 1200,
-            "given": "Paolo Ernesto",
+            "lineage": 2154,
+            "given": "Fulvio",
             "honourific": null,
-            "family": "Prinetto"
+            "family": "Corno"
           },
-          "id": 1200
+          "id": 2154
         },
         {
           "name": {
@@ -20073,20 +22249,19 @@
         },
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 1200,
+            "given": "Paolo Ernesto",
             "honourific": null,
-            "family": "Corno"
+            "family": "Prinetto"
           },
-          "id": 2154
+          "id": 1200
         }
       ],
-      "dir": "disk0\/01\/40\/88\/67",
-      "lastmod": "2016-02-02 03:54:35",
+      "lastmod": "2018-01-18 03:31:49",
       "ispublished": "pub",
       "item_issues_count": 0,
-      "isbn": 9780818678103,
-      "pagerange": "60-67",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 3201,
@@ -20096,35 +22271,24 @@
         },
         "id": 3201
       },
-      "event_title": "IEEE VLSI Test Symposium",
-      "metadata_visibility": "show",
-      "irisid": 24591,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
-      "event_dates": "April 27-May 1, 1997",
+      "status_changed": "2015-06-30 14:48:33",
       "event_relevance": "I",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2006-10-05 14:29:49",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1408867",
       "full_text_status": "none",
-      "type": "conference_item",
-      "title": "Cellular automata for deterministic sequential test pattern generation",
-      "scopus": {
-        "cluster": "2-s2.0-0030674214",
-        "datestamp": "2016-11-04 05:24:19",
-        "impact": 9
-      }
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
-      "authors_string": "F. Corno, P. Prinetto, M. Rebaudengo, M. Sonza Reorda, M. Violante",
+      "authors_string": "F. Corno; P. Prinetto; M. Rebaudengo; M. Sonza Reorda; M. Violante",
       "eprintid": 2500897,
       "wos": {
         "cluster": "A1997BJ93X00012",
-        "datestamp": "2016-10-24 03:35:48",
+        "datestamp": "2018-02-20 04:26:20",
         "impact": 0
       },
       "date": 1997,
-      "upddate": "2013-11-25 11:32:16",
+      "upddate": "2018-01-16 02:23:53",
       "isbn": 818682094,
       "pagerange": "68-73",
       "event_title": "Test Symposium, 1997. (ATS '97) Proceedings., Sixth Asian",
@@ -20138,7 +22302,7 @@
       "title": "Exploiting Logic Simulation to Improve Simulation-based Sequential ATPG",
       "scopus": {
         "cluster": "2-s2.0-0031332506",
-        "datestamp": "2016-10-24 03:47:37",
+        "datestamp": "2018-02-20 04:29:46",
         "impact": 1
       },
       "pages": 6,
@@ -20147,7 +22311,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 5,
+      "rev_number": 7,
       "dir": "disk0\/02\/50\/08\/97",
       "creators": [
         {
@@ -20196,8 +22360,9 @@
           "id": 2477
         }
       ],
-      "lastmod": "2014-10-29 15:48:22",
+      "lastmod": "2018-01-18 04:11:20",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ATS.1997.643922",
       "proprietary": {
@@ -20210,44 +22375,46 @@
         "id": 2477
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-13 17:07:05",
-      "full_text_status": "none"
+      "status_changed": "2015-06-30 18:46:06",
+      "full_text_status": "none",
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Chiusano S.; Corno F.; Prinetto P.; Rebaudengo M.; Sonza Reorda M.",
-      "types": "TYPES8",
       "eprintid": 1408868,
       "wos": {
         "cluster": "A1997BJ93L00019",
-        "datestamp": "2016-11-04 04:57:10",
+        "datestamp": "2018-03-04 04:42:28",
         "impact": 0
       },
       "date": 1997,
-      "userdep": [
-        "USER_D1010"
-      ],
+      "upddate": "2018-01-16 02:25:42",
+      "isbn": 9780818682032,
+      "pagerange": "133-140",
+      "event_title": "IEEE International Conference on Tools with Artificial Intelligence",
+      "irisid": 24592,
+      "event_dates": "3-8 Nov 1997",
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2006-10-05 14:29:49",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1408868",
+      "type": "conference_item",
+      "title": "Exploiting Symbolic Techniques within Genetic Algorithms for Power Optimization",
+      "scopus": {
+        "cluster": "2-s2.0-0031365957",
+        "datestamp": "2018-03-04 04:53:05",
+        "impact": 1
+      },
+      "types": "TYPES8",
       "userid": 2,
-      "upddate": "2016-02-04 14:37:13",
-      "rev_number": 6,
+      "userdep": [
+        "USER_D1010",
+        "USER_D1110"
+      ],
+      "rev_number": 8,
+      "dir": "disk0\/01\/40\/88\/68",
       "creators": [
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
-        {
-          "name": {
-            "lineage": 2477,
-            "given": "Maurizio",
-            "honourific": null,
-            "family": "Rebaudengo"
-          },
-          "id": 2477
-        },
         {
           "name": {
             "lineage": 2154,
@@ -20268,20 +22435,37 @@
         },
         {
           "name": {
+            "lineage": 2477,
+            "given": "Maurizio",
+            "honourific": null,
+            "family": "Rebaudengo"
+          },
+          "id": 2477
+        },
+        {
+          "name": {
             "lineage": 1200,
             "given": "Paolo Ernesto",
             "honourific": null,
             "family": "Prinetto"
           },
           "id": 1200
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         }
       ],
-      "dir": "disk0\/01\/40\/88\/68",
-      "lastmod": "2016-02-06 03:56:46",
+      "lastmod": "2018-01-18 03:31:49",
       "ispublished": "pub",
       "item_issues_count": 0,
-      "isbn": 9780818682032,
-      "pagerange": "133-140",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 3201,
@@ -20291,35 +22475,24 @@
         },
         "id": 3201
       },
-      "event_title": "IEEE International Conference on Tools with Artificial Intelligence",
-      "metadata_visibility": "show",
-      "irisid": 24592,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
-      "event_dates": "3-8 Nov 1997",
+      "status_changed": "2015-06-30 14:48:33",
       "event_relevance": "I",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2006-10-05 14:29:49",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1408868",
       "full_text_status": "none",
-      "type": "conference_item",
-      "title": "Exploiting Symbolic Techniques within Genetic Algorithms for Power Optimization",
-      "scopus": {
-        "cluster": "2-s2.0-0031365957",
-        "datestamp": "2016-11-04 05:24:21",
-        "impact": 1
-      }
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Baldi M; Corno F; Rebaudengo M; Sonza Reorda M; Squillero G.",
       "eprintid": 1545105,
       "wos": {
         "cluster": "A1997BJ93L00017",
-        "datestamp": "2016-10-09 04:16:07",
+        "datestamp": "2018-03-09 04:21:36",
         "impact": 5
       },
       "date": 1997,
-      "upddate": "2012-07-12 22:23:08",
+      "upddate": "2018-01-16 02:31:12",
       "isbn": 818682035,
       "pagerange": "118-124",
       "publisher": "IEEE",
@@ -20334,7 +22507,7 @@
       "abstract": "This paper tackles the problem of analyzing the correctness and performance of a computer network protocol. Given the complexity of the problem, no currently used technique is able to achieve good results: formal techniques can discover some bugs but can be applied to over-simplified models, only; on the other hand, statistical techniques relying on simulation often fail to find some critical cases for the protocol. Our proposed approach relies on coupling a genetic algorithm with a simulator of the system under verification. Genetic algorithms recently proved themselves excellent tools for giving good, yet approximate, solution to hard-to-solve problems. To prove the effectiveness of our approach, we applied it to the quantitative verification of a network protocol: the complexity of this problem prevents the application of exact techniques, while experimental results show that the verification results we obtained are better than one can achieve with traditional statistical methods. As an example, the approach is applied to the verification of the TCP protocol operating on a given network. A genetic algorithm is able to find a configuration of the traffic over the network that sensitizes a critical problem in the TCP protocol",
       "scopus": {
         "cluster": "2-s2.0-0031359349",
-        "datestamp": "2016-10-09 04:29:08",
+        "datestamp": "2018-03-09 04:27:25",
         "impact": 6
       },
       "pages": 7,
@@ -20343,7 +22516,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 3,
+      "rev_number": 5,
       "dir": "disk0\/01\/54\/51\/05",
       "creators": [
         {
@@ -20357,15 +22530,6 @@
         },
         {
           "name": {
-            "lineage": 2520,
-            "given": "Mario",
-            "honourific": null,
-            "family": "Baldi"
-          },
-          "id": 2520
-        },
-        {
-          "name": {
             "lineage": 2477,
             "given": "Maurizio",
             "honourific": null,
@@ -20390,10 +22554,20 @@
             "family": "Sonza Reorda"
           },
           "id": 1894
+        },
+        {
+          "name": {
+            "lineage": 2520,
+            "given": "Mario",
+            "honourific": null,
+            "family": "Baldi"
+          },
+          "id": 2520
         }
       ],
-      "lastmod": "2014-10-24 14:43:46",
+      "lastmod": "2018-01-18 04:12:00",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TAI.1997.632245",
       "proprietary": {
@@ -20406,41 +22580,52 @@
         "id": 2520
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 15:25:00",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Chiusano S.; Corno F.; Prinetto P.; Rebaudengo M.; Sonza Reorda M.",
-      "types": "TYPES8",
       "eprintid": 1408866,
       "wos": {
         "cluster": "A1997BJ93X00006",
-        "datestamp": "2016-11-04 04:57:10",
-        "impact": 1
+        "datestamp": "2018-03-04 04:42:27",
+        "impact": 2
       },
       "date": 1997,
-      "userdep": [
-        "USER_D1010"
-      ],
+      "upddate": "2018-01-16 02:25:42",
+      "isbn": 9780818682094,
+      "pagerange": "30-35",
+      "event_title": "IEEE Asian Test Symposium",
+      "irisid": 24590,
+      "event_dates": "17-18 November 1997",
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2006-10-05 14:29:49",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1408866",
+      "type": "conference_item",
+      "title": "Guaranteeing Testability in Re-encoding for Low Power",
+      "scopus": {
+        "cluster": "2-s2.0-0031362439",
+        "datestamp": "2018-03-04 04:53:01",
+        "impact": 4
+      },
+      "types": "TYPES8",
       "userid": 2,
-      "upddate": "2016-02-04 16:16:16",
-      "rev_number": 6,
+      "userdep": [
+        "USER_D1010",
+        "USER_D1110"
+      ],
+      "rev_number": 8,
+      "dir": "disk0\/01\/40\/88\/66",
       "creators": [
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
         {
           "name": {
             "lineage": 2154,
@@ -20449,15 +22634,6 @@
             "family": "Corno"
           },
           "id": 2154
-        },
-        {
-          "name": {
-            "lineage": 2477,
-            "given": "Maurizio",
-            "honourific": null,
-            "family": "Rebaudengo"
-          },
-          "id": 2477
         },
         {
           "name": {
@@ -20470,20 +22646,37 @@
         },
         {
           "name": {
+            "lineage": 2477,
+            "given": "Maurizio",
+            "honourific": null,
+            "family": "Rebaudengo"
+          },
+          "id": 2477
+        },
+        {
+          "name": {
             "lineage": 1200,
             "given": "Paolo Ernesto",
             "honourific": null,
             "family": "Prinetto"
           },
           "id": 1200
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         }
       ],
-      "dir": "disk0\/01\/40\/88\/66",
-      "lastmod": "2016-02-06 03:56:46",
+      "lastmod": "2018-01-18 03:31:49",
       "ispublished": "pub",
       "item_issues_count": 0,
-      "isbn": 9780818682094,
-      "pagerange": "30-35",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 3201,
@@ -20493,35 +22686,24 @@
         },
         "id": 3201
       },
-      "event_title": "IEEE Asian Test Symposium",
-      "metadata_visibility": "show",
-      "irisid": 24590,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
-      "event_dates": "17-18 November 1997",
+      "status_changed": "2015-06-30 14:48:32",
       "event_relevance": "I",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2006-10-05 14:29:49",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1408866",
       "full_text_status": "none",
-      "type": "conference_item",
-      "title": "Guaranteeing Testability in Re-encoding for Low Power",
-      "scopus": {
-        "cluster": "2-s2.0-0031362439",
-        "datestamp": "2016-11-04 05:24:16",
-        "impact": 3
-      }
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Chiusano S.; Corno F.; Prinetto P.; Sonza Reorda M.",
       "eprintid": 1408869,
       "wos": {
         "cluster": "A1997BH54U00067",
-        "datestamp": "2016-11-04 04:57:11",
+        "datestamp": "2018-03-04 04:42:28",
         "impact": 2
       },
       "date": 1997,
-      "upddate": "2016-02-03 15:56:20",
+      "upddate": "2018-01-16 02:25:42",
       "isbn": 818677864,
       "pagerange": "422-426",
       "event_title": "IEEE European Design and Test Conference",
@@ -20535,26 +22717,27 @@
       "title": "Hybrid Symbolic-Explicit Techniques for the Graph Coloring Problem",
       "scopus": {
         "cluster": "2-s2.0-0030677632",
-        "datestamp": "2016-11-04 05:24:23",
-        "impact": 1
+        "datestamp": "2018-03-04 04:53:07",
+        "impact": 2
       },
       "pages": 5,
       "types": "TYPES8",
       "userid": 2,
       "userdep": [
-        "USER_D1010"
+        "USER_D1010",
+        "USER_D1110"
       ],
-      "rev_number": 6,
+      "rev_number": 8,
       "dir": "disk0\/01\/40\/88\/69",
       "creators": [
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 3201,
+            "given": "Silvia Anna",
             "honourific": null,
-            "family": "Corno"
+            "family": "Chiusano"
           },
-          "id": 2154
+          "id": 3201
         },
         {
           "name": {
@@ -20567,25 +22750,26 @@
         },
         {
           "name": {
-            "lineage": 3201,
-            "given": "Silvia Anna",
-            "honourific": null,
-            "family": "Chiusano"
-          },
-          "id": 3201
-        },
-        {
-          "name": {
             "lineage": 1894,
             "given": "Matteo",
             "honourific": null,
             "family": "Sonza Reorda"
           },
           "id": 1894
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
         }
       ],
-      "lastmod": "2016-02-05 04:10:40",
+      "lastmod": "2018-01-18 03:31:50",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "proprietary": {
@@ -20598,14 +22782,17 @@
         "id": 3201
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-12 16:26:50",
+      "status_changed": "2015-06-30 14:48:33",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "F. Corno; L. Farinetti; Innocenti M.; F. Maino; M. Sonza Reorda",
@@ -20659,6 +22846,7 @@
       "dir": "disk0\/01\/95\/88\/53",
       "lastmod": "2016-04-30 03:31:46",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2288,
@@ -20689,7 +22877,7 @@
       "eprintid": 1545097,
       "wos": {
         "cluster": "A1997BJ80H00054",
-        "datestamp": "2016-10-09 04:16:01",
+        "datestamp": "2018-03-09 04:21:20",
         "impact": 5
       },
       "date": 1997,
@@ -20697,8 +22885,8 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-01-28 12:53:22",
-      "rev_number": 6,
+      "upddate": "2018-01-16 02:38:14",
+      "rev_number": 8,
       "creators": [
         {
           "name": {
@@ -20711,21 +22899,21 @@
         },
         {
           "name": {
-            "lineage": 1200,
-            "given": "Paolo Ernesto",
-            "honourific": null,
-            "family": "Prinetto"
-          },
-          "id": 1200
-        },
-        {
-          "name": {
             "lineage": 2154,
             "given": "Fulvio",
             "honourific": null,
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 1200,
+            "given": "Paolo Ernesto",
+            "honourific": null,
+            "family": "Prinetto"
+          },
+          "id": 1200
         },
         {
           "name": {
@@ -20747,8 +22935,9 @@
         }
       ],
       "dir": "disk0\/01\/54\/50\/97",
-      "lastmod": "2016-02-02 03:49:27",
+      "lastmod": "2018-01-18 03:58:24",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "381-386",
       "publisher": "IEEE",
       "proprietary": {
@@ -20764,7 +22953,7 @@
       "metadata_visibility": "show",
       "irisid": 36261,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:24:59",
       "event_relevance": "I",
       "book_title": "1997 IEEE Proceedings of the International Conference on Computer Design",
       "datestamp": "2007-03-27 08:43:00",
@@ -20772,10 +22961,13 @@
       "full_text_status": "none",
       "type": "conference_item",
       "title": "A New Approach for Initialization Sequences Computation for Synchronous Sequential Circuits",
+      "ssd": [
+        "ING-INF\/05"
+      ],
       "scopus": {
         "cluster": "2-s2.0-0031355564",
-        "datestamp": "2016-10-09 04:28:58",
-        "impact": 7
+        "datestamp": "2018-03-09 04:27:11",
+        "impact": 8
       }
     },
     {
@@ -20784,25 +22976,25 @@
       "eprintid": 2500008,
       "wos": {
         "cluster": "A1997BH54U00006",
-        "datestamp": "2016-10-24 03:25:32",
-        "impact": 26
+        "datestamp": "2018-02-19 05:07:23",
+        "impact": 27
       },
       "date": 1997,
       "userdep": [
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-02-05 14:18:27",
-      "rev_number": 6,
+      "upddate": "2018-01-16 02:39:38",
+      "rev_number": 8,
       "creators": [
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 2477,
+            "given": "Maurizio",
             "honourific": null,
-            "family": "Corno"
+            "family": "Rebaudengo"
           },
-          "id": 2154
+          "id": 2477
         },
         {
           "name": {
@@ -20815,26 +23007,27 @@
         },
         {
           "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
             "lineage": 1894,
             "given": "Matteo",
             "honourific": null,
             "family": "Sonza Reorda"
           },
           "id": 1894
-        },
-        {
-          "name": {
-            "lineage": 2477,
-            "given": "Maurizio",
-            "honourific": null,
-            "family": "Rebaudengo"
-          },
-          "id": 2477
         }
       ],
       "dir": "disk0\/02\/50\/00\/08",
-      "lastmod": "2016-02-07 03:40:26",
+      "lastmod": "2018-01-18 04:11:19",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "isbn": 818677864,
       "pagerange": "37-43",
@@ -20851,17 +23044,20 @@
       "metadata_visibility": "show",
       "irisid": 75687,
       "eprint_status": "archive",
-      "status_changed": "2012-07-11 16:17:02",
+      "status_changed": "2015-06-30 18:42:49",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2012-07-11 16:14:57",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2500008",
       "full_text_status": "none",
       "type": "conference_item",
       "title": "New Static Compaction Techniques of Test Sequences for Sequential Circuits",
+      "ssd": [
+        "ING-INF\/05"
+      ],
       "scopus": {
         "cluster": "2-s2.0-0030646024",
-        "datestamp": "2016-10-24 03:31:27",
-        "impact": 35
+        "datestamp": "2018-02-19 05:37:07",
+        "impact": 36
       },
       "pages": 7
     },
@@ -20917,6 +23113,7 @@
       "dir": "disk0\/02\/50\/09\/10",
       "lastmod": "2014-10-29 15:48:19",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 852966938,
       "pagerange": "450-455",
       "proprietary": {
@@ -20990,6 +23187,7 @@
       ],
       "lastmod": "2014-10-24 21:54:58",
       "ispublished": "pub",
+      "openaire": 0,
       "publisher": "Ed. Esculapio",
       "proprietary": {
         "name": {
@@ -21072,6 +23270,7 @@
       "dir": "disk0\/02\/49\/99\/31",
       "lastmod": "2014-10-28 21:42:41",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 897918509,
       "pagerange": "228-232",
       "proprietary": {
@@ -21097,22 +23296,36 @@
       "title": "SAARA: a simulated annealing algorithm for test pattern generation for digital circuits",
       "scopus": {
         "cluster": "2-s2.0-52149104062",
-        "datestamp": "2016-10-24 03:28:59",
+        "datestamp": "2018-02-19 05:34:58",
         "impact": 1
       },
       "pages": 5
     },
     {
       "authors_string": "Baldi M; Corno F; Prinetto P; Rebaudengo M; Sonza Reorda M; Squillero G.",
-      "types": "TYPES8",
       "eprintid": 1545104,
       "date": 1997,
+      "upddate": "2012-07-12 22:27:09",
+      "isbn": 9780412813306,
+      "pagerange": "236-251",
+      "publisher": "Chapman & Hall, Ltd",
+      "event_title": "CHARME",
+      "irisid": 36265,
+      "book_title": "Proceedings of the IFIP WG 10.5 International Conference on Correct Hardware Design and Verification Methods: Advances in Hardware Design and Verification",
+      "datestamp": "2007-03-27 14:01:25",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1545104",
+      "type": "conference_item",
+      "title": "Simulation-Based Verification of Network Protocols Performance",
+      "abstract": "Formal verification techniques need to deal with the complexity of the systems being verified. Most often, this problem is solved by taking an abstract model of the system and aiming at a complete verification of an approximation of the system. This paper proposes a complementary verification approach, in which the approximation is introduced into the verification algorithm, instead of the system model: we achieve an approximate verification of a fairly complete and detailed system model. The proposed technique relies on coupling a Genetic Algorithm with a simulator of the system under verification, and is especially suited for verifying performance-related aspects. To prove the effectiveness of our approach, we applied it to the quantitative verification of a network protocol: the TCP protocol operating on a given network. A Genetic Algorithm is able to find a configuration of the traffic over the network that sensitizes a critical problem in the TCP protocol that would be difficult to find both with exact techniques and stochastic ones",
+      "pages": 16,
+      "place_of_pub": "LONDON",
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2012-07-12 22:27:09",
       "rev_number": 3,
+      "dir": "disk0\/01\/54\/51\/04",
       "creators": [
         {
           "name": {
@@ -21169,12 +23382,10 @@
           "id": 1894
         }
       ],
-      "dir": "disk0\/01\/54\/51\/04",
       "lastmod": "2014-10-24 14:43:46",
       "ispublished": "pub",
-      "isbn": 9780412813306,
-      "pagerange": "236-251",
-      "publisher": "Chapman & Hall, Ltd",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 2520,
@@ -21184,35 +23395,24 @@
         },
         "id": 2520
       },
-      "event_title": "CHARME",
-      "metadata_visibility": "show",
-      "irisid": 36265,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:06:47",
       "language": [
         "en"
       ],
       "event_relevance": "I",
-      "book_title": "Proceedings of the IFIP WG 10.5 International Conference on Correct Hardware Design and Verification Methods: Advances in Hardware Design and Verification",
-      "datestamp": "2007-03-27 14:01:25",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1545104",
-      "full_text_status": "none",
-      "type": "conference_item",
-      "title": "Simulation-Based Verification of Network Protocols Performance",
-      "abstract": "Formal verification techniques need to deal with the complexity of the systems being verified. Most often, this problem is solved by taking an abstract model of the system and aiming at a complete verification of an approximation of the system. This paper proposes a complementary verification approach, in which the approximation is introduced into the verification algorithm, instead of the system model: we achieve an approximate verification of a fairly complete and detailed system model. The proposed technique relies on coupling a Genetic Algorithm with a simulator of the system under verification, and is especially suited for verifying performance-related aspects. To prove the effectiveness of our approach, we applied it to the quantitative verification of a network protocol: the TCP protocol operating on a given network. A Genetic Algorithm is able to find a configuration of the traffic over the network that sensitizes a critical problem in the TCP protocol that would be difficult to find both with exact techniques and stochastic ones",
-      "pages": 16,
-      "place_of_pub": "LONDON"
+      "full_text_status": "none"
     },
     {
       "authors_string": "Corno F.; Prinetto P.; Sonza Reorda M.",
       "eprintid": 1416266,
       "wos": {
         "cluster": 71293600094,
-        "datestamp": "2016-10-07 03:20:52",
+        "datestamp": "2018-03-06 04:48:08",
         "impact": 38
       },
       "date": 1997,
-      "upddate": "2016-02-09 16:02:21",
+      "upddate": "2018-01-16 02:27:47",
       "isbn": 780342097,
       "pagerange": "753-759",
       "publisher": "IEEE Computer Society",
@@ -21227,8 +23427,8 @@
       "title": "Testability analysis and ATPG on behavioral RT-level VHDL",
       "scopus": {
         "cluster": "2-s2.0-0031386288",
-        "datestamp": "2016-10-07 03:23:55",
-        "impact": 30
+        "datestamp": "2018-03-06 04:58:30",
+        "impact": 46
       },
       "pages": 7,
       "types": "TYPES8",
@@ -21236,9 +23436,18 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 7,
+      "rev_number": 9,
       "dir": "disk0\/01\/41\/62\/66",
       "creators": [
+        {
+          "name": {
+            "lineage": 1200,
+            "given": "Paolo Ernesto",
+            "honourific": null,
+            "family": "Prinetto"
+          },
+          "id": 1200
+        },
         {
           "name": {
             "lineage": 1894,
@@ -21256,19 +23465,11 @@
             "family": "Corno"
           },
           "id": 2154
-        },
-        {
-          "name": {
-            "lineage": 1200,
-            "given": "Paolo Ernesto",
-            "honourific": null,
-            "family": "Prinetto"
-          },
-          "id": 1200
         }
       ],
-      "lastmod": "2016-02-11 03:37:33",
+      "lastmod": "2018-01-18 04:51:05",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TEST.1997.639688",
@@ -21282,22 +23483,25 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-13 18:49:31",
+      "status_changed": "2015-06-30 15:02:20",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "F. Corno; P. Prinetto; M. Rebaudengo; M. Sonza Reorda; G. Squillero",
       "eprintid": 1545099,
       "wos": {
         "cluster": "A1997BJ93X00010",
-        "datestamp": "2016-10-09 04:16:02",
-        "impact": 0
+        "datestamp": "2018-03-09 04:21:28",
+        "impact": 1
       },
       "date": 1997,
       "documents": [
@@ -21310,9 +23514,9 @@
                   "hash_type": "MD5",
                   "mtime": "2015-10-29 11:55:27",
                   "datasetid": "document",
-                  "fileid": 1628282,
-                  "objectid": 772693,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1628282",
+                  "fileid": 2522278,
+                  "objectid": 1289544,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2522278",
                   "mime_type": "application\/pdf",
                   "hash": "96d1968bccfcee830abb77186474a213",
                   "filesize": 596182,
@@ -21326,14 +23530,14 @@
             "license": "not_public",
             "main": "1545099.pdf",
             "original_docid": 47654,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/772693",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1289544",
             "format": "application\/pdf",
-            "docid": 772693,
+            "docid": 1289544,
             "security": "staffonly",
             "formatdesc": "1545099.pdf"
           }
       ],
-      "upddate": "2016-01-29 10:34:00",
+      "upddate": "2018-01-16 02:31:40",
       "isbn": 818682094,
       "pagerange": "56-61",
       "publisher": "IEEE",
@@ -21344,12 +23548,12 @@
       "datestamp": "2007-03-27 14:02:46",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1545099",
       "event_location": "Akita (JPN)",
-      "abstract": "Testing circuits which do not include a global reset signal requires either complex ATPG algorithms based on 9- or even 256-valued algebras, or some suitable method to generate initialization sequences. This paper follows the latter approach, and presents a new method to the automated generation of an initialization sequence for synchronous sequential circuits. We propose a Genetic Algorithm providing a sequence that aims at initializing the highest number of flip flops with the lowest number of vectors. The experimental results show that the approach is feasible to be applied even to the largest benchmark circuits and that it compares well to other known approaches in terms of initialized flip flops and sequence length. Finally, this paper shows how the initialization sequences can be fruitfully exploited by simplifying the ATPG process",
+      "abstract": "Testing circuits which do not include a global reset signal requires either complex ATPG algorithms based on 9- or even 256-valued algebras, or some suitable method to generate initialization sequences. This paper follows the latter approach, and presents a new method to the automated generation of an initialization sequence for synchronous sequential circuits. We propose a Genetic Algorithm providing a sequence that aims at initializing the highest number of flip flops with the lowest number of vectors. The experimental results show that the approach is feasible to be applied even to the largest benchmark circuits and that it compares well to other known approaches in terms of initialized flip flops and sequence length. Finally, this paper shows how the initialization sequences can be fruitfully exploited by simplifying the ATPG process.",
       "type": "conference_item",
       "title": "A genetic algorithm for the computation of initialization sequences for synchronous sequential circuits",
       "scopus": {
         "cluster": "2-s2.0-0031383799",
-        "datestamp": "2016-10-09 04:29:00",
+        "datestamp": "2018-03-09 04:27:16",
         "impact": 3
       },
       "pages": 6,
@@ -21358,26 +23562,17 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 11,
+      "rev_number": 16,
       "dir": "disk0\/01\/54\/50\/99",
       "creators": [
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 1200,
+            "given": "Paolo Ernesto",
             "honourific": null,
-            "family": "Corno"
+            "family": "Prinetto"
           },
-          "id": 2154
-        },
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
+          "id": 1200
         },
         {
           "name": {
@@ -21390,12 +23585,12 @@
         },
         {
           "name": {
-            "lineage": 1200,
-            "given": "Paolo Ernesto",
+            "lineage": 1894,
+            "given": "Matteo",
             "honourific": null,
-            "family": "Prinetto"
+            "family": "Sonza Reorda"
           },
-          "id": 1200
+          "id": 1894
         },
         {
           "name": {
@@ -21405,10 +23600,20 @@
             "family": "Squillero"
           },
           "id": 3584
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
         }
       ],
-      "lastmod": "2016-02-02 03:49:26",
+      "lastmod": "2018-01-18 03:58:25",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ATS.1997.643917",
       "proprietary": {
@@ -21421,20 +23626,25 @@
         "id": 3584
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:24:59",
       "event_relevance": "I",
-      "full_text_status": "restricted"
+      "full_text_status": "restricted",
+      "referee": "REF_0",
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
-      "authors_string": "Corno F., Prinetto P., Rebaudengo M., Sonza Reorda M., Mosca R.",
+      "authors_string": "Corno F.; Prinetto P.; Rebaudengo M.; Sonza Reorda M.; Mosca R.",
       "eprintid": 2499919,
       "wos": {
         "cluster": "A1996BF10G00060",
-        "datestamp": "2016-10-24 03:23:45",
-        "impact": 19
+        "datestamp": "2018-02-19 05:05:33",
+        "impact": 20
       },
       "date": 1996,
-      "upddate": "2013-11-25 11:25:18",
+      "upddate": "2018-01-16 02:39:26",
       "isbn": 818674245,
       "pagerange": "375-379",
       "event_title": "European Design and Test Conference, 1996. ED&TC 96. Proceedings",
@@ -21448,8 +23658,8 @@
       "title": "Advanced Techniques for GA-based sequential ATPGs",
       "scopus": {
         "cluster": "2-s2.0-0029779486",
-        "datestamp": "2016-10-24 03:28:35",
-        "impact": 31
+        "datestamp": "2018-02-19 05:34:37",
+        "impact": 39
       },
       "pages": 5,
       "types": "TYPES8",
@@ -21457,7 +23667,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 5,
+      "rev_number": 7,
       "dir": "disk0\/02\/49\/99\/19",
       "creators": [
         {
@@ -21497,8 +23707,9 @@
           "id": 1894
         }
       ],
-      "lastmod": "2014-10-28 21:41:30",
+      "lastmod": "2018-01-18 04:11:19",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/EDTC.1996.494328",
       "proprietary": {
@@ -21511,19 +23722,22 @@
         "id": 2477
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-11 10:07:10",
-      "full_text_status": "none"
+      "status_changed": "2015-06-30 18:42:15",
+      "full_text_status": "none",
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F; Prinetto P.; Sonza Reorda M",
       "eprintid": 1404471,
       "wos": {
         "cluster": "A1996WD25800013",
-        "datestamp": "2016-11-03 04:32:53",
+        "datestamp": "2018-03-03 04:27:56",
         "impact": 1
       },
       "date": 1996,
-      "upddate": "2015-09-14 11:34:03",
+      "upddate": "2016-12-05 15:14:26",
       "pagerange": "50-60",
       "irisid": 21900,
       "publisher_review": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
@@ -21534,8 +23748,8 @@
       "title": "Circular self-test path for FSMs",
       "scopus": {
         "cluster": "2-s2.0-0030388604",
-        "datestamp": "2016-11-03 04:57:00",
-        "impact": 7
+        "datestamp": "2018-03-03 04:43:01",
+        "impact": 9
       },
       "types": "TYPES2",
       "userid": 2,
@@ -21544,7 +23758,7 @@
       ],
       "twitted": 1,
       "issn": "0740-7475",
-      "rev_number": 6,
+      "rev_number": 8,
       "dir": "disk0\/01\/40\/44\/71",
       "creators": [
         {
@@ -21575,9 +23789,10 @@
           "id": 1894
         }
       ],
-      "lastmod": "2015-10-08 03:32:17",
+      "lastmod": "2016-12-07 05:31:43",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/54.544536",
       "proprietary": {
@@ -21590,25 +23805,25 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
-      "volume": "13 , Issue: 4 , Winter 1996",
+      "status_changed": "2010-06-23 17:10:47",
       "language": [
         "en"
       ],
+      "volume": "13 , Issue: 4 , Winter 1996",
       "full_text_status": "none",
       "referee": "REF_4",
       "refereed": 1
     },
     {
-      "authors_string": "F. Corno, P. Prinetto, M. Rebaudengo, M. Sonza Reorda",
+      "authors_string": "F. Corno; P. Prinetto; M. Rebaudengo; M. Sonza Reorda",
       "eprintid": 2499927,
       "wos": {
         "cluster": "A1996BG68G00006",
-        "datestamp": "2016-10-24 03:23:54",
+        "datestamp": "2018-02-19 05:05:42",
         "impact": 5
       },
       "date": 1996,
-      "upddate": "2013-11-25 11:25:22",
+      "upddate": "2018-01-16 02:39:55",
       "isbn": 780335414,
       "pagerange": "39-47",
       "event_title": "Test Conference, 1996. Proceedings., International",
@@ -21622,8 +23837,8 @@
       "title": "Comparing topological, symbolic and GA-based ATPGs: an experimental approach",
       "scopus": {
         "cluster": "2-s2.0-0030416908",
-        "datestamp": "2016-10-24 03:28:50",
-        "impact": 9
+        "datestamp": "2018-02-19 05:34:50",
+        "impact": 11
       },
       "pages": 9,
       "types": "TYPES8",
@@ -21631,7 +23846,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 5,
+      "rev_number": 7,
       "dir": "disk0\/02\/49\/99\/27",
       "creators": [
         {
@@ -21671,8 +23886,9 @@
           "id": 2477
         }
       ],
-      "lastmod": "2014-10-28 21:41:30",
+      "lastmod": "2018-01-18 04:11:19",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TEST.1996.556941",
       "proprietary": {
@@ -21685,8 +23901,11 @@
         "id": 2477
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-11 11:07:18",
-      "full_text_status": "none"
+      "status_changed": "2015-06-30 18:42:17",
+      "full_text_status": "none",
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F., Prinetto P., Rebaudengo M., Sonza Reorda M.",
@@ -21710,8 +23929,8 @@
       "abstract": "The paper describes the application of a Parallel Genetic Algorithm to Automatic Test Pattern Generation (ATPG) for digital circuits. Genetic Algorithms have been already proposed to solve this industrially critical problem, both on mono- and multi-processor architectures. Although preliminary results are very encouraging, there are some obstacles which limit their use: in particular, GAs are often unable to detect some hard to test faults, and require a careful tuning of the algorithm parameters. In this paper, we describe a new parallel version of an existing GA-based ATPG, which exploits competing sub-populations to overcome these problems. The new approach has been implemented in the PVM environment and has been evaluated on a workstation network using standard benchmark circuits. Preliminary results show that it is able to improve the results quality (by testing additional critical faults) at the expense of increased CPU time requirements",
       "scopus": {
         "cluster": "2-s2.0-84889305100",
-        "datestamp": "2016-10-20 04:00:22",
-        "impact": 1
+        "datestamp": "2018-03-18 04:58:20",
+        "impact": 2
       },
       "pages": 10,
       "types": "TYPES8",
@@ -21763,6 +23982,7 @@
       ],
       "lastmod": "2014-10-28 12:57:34",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/3-540-61723-X_1042",
       "proprietary": {
@@ -21785,15 +24005,15 @@
       "refereed": 1
     },
     {
-      "authors_string": "Amendola A., Benso A., Corno F., Impagliazzo L., Prinetto P., Rebaudengo M., Sonza Reorda M.",
+      "authors_string": "Amendola A.; Benso A.; Corno F.; Impagliazzo L.; Prinetto P.; Rebaudengo M.; Sonza Reorda M.",
       "eprintid": 2499924,
       "wos": {
         "cluster": "A1996BG47Z00081",
-        "datestamp": "2016-10-24 03:23:50",
+        "datestamp": "2018-02-19 05:05:38",
         "impact": 12
       },
       "date": 1996,
-      "upddate": "2013-11-25 11:25:21",
+      "upddate": "2018-01-16 02:39:55",
       "isbn": "081867573X",
       "pagerange": "536-541",
       "event_title": "Design Automation Conference, 1996, with EURO-VHDL '96 and Exhibition, Proceedings EURO-DAC '96, European",
@@ -21807,8 +24027,8 @@
       "title": "Fault Behavior Observation of a Microprocessor System through a VHDL Simulation-Based Fault Injection Experiment",
       "scopus": {
         "cluster": "2-s2.0-0029728343",
-        "datestamp": "2016-10-24 03:28:43",
-        "impact": 18
+        "datestamp": "2018-02-19 05:34:44",
+        "impact": 20
       },
       "pages": 6,
       "types": "TYPES8",
@@ -21816,7 +24036,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 5,
+      "rev_number": 7,
       "dir": "disk0\/02\/49\/99\/24",
       "creators": [
         {
@@ -21865,8 +24085,9 @@
           "id": 2904
         }
       ],
-      "lastmod": "2014-10-28 21:41:30",
+      "lastmod": "2018-01-18 04:11:19",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/EURDAC.1996.558255",
       "proprietary": {
@@ -21879,19 +24100,22 @@
         "id": 2477
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-11 10:07:51",
-      "full_text_status": "none"
+      "status_changed": "2015-06-30 18:42:17",
+      "full_text_status": "none",
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F.; Prinetto P.; Sonza Reorda M.",
       "eprintid": 2501132,
       "wos": {
         "cluster": "A1996BG47Z00036",
-        "datestamp": "2016-10-24 03:39:19",
+        "datestamp": "2018-02-20 04:31:03",
         "impact": 0
       },
       "date": 1996,
-      "upddate": "2012-10-23 12:02:22",
+      "upddate": "2018-01-16 02:41:04",
       "isbn": "081867573X",
       "pagerange": "233-238",
       "publisher": "IEEE Computer Society",
@@ -21906,7 +24130,7 @@
       "title": "Fault Tolerant and BIST design of a FIFO cell",
       "scopus": {
         "cluster": "2-s2.0-0029767753",
-        "datestamp": "2016-10-24 03:53:49",
+        "datestamp": "2018-02-20 04:36:14",
         "impact": 0
       },
       "pages": 6,
@@ -21915,7 +24139,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 2,
+      "rev_number": 4,
       "dir": "disk0\/02\/50\/11\/32",
       "creators": [
         {
@@ -21946,8 +24170,9 @@
           "id": 1200
         }
       ],
-      "lastmod": "2014-10-29 16:01:57",
+      "lastmod": "2018-01-18 04:51:02",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/EURDAC.1996.558210",
       "proprietary": {
@@ -21960,25 +24185,28 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-14 12:07:31",
+      "status_changed": "2015-06-30 18:47:15",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F.; Prinetto P; Rebaudengo M; Sonza Reorda M",
       "eprintid": 1398711,
       "wos": {
         "cluster": "A1996UY95500013",
-        "datestamp": "2016-11-01 04:53:04",
-        "impact": 51
+        "datestamp": "2018-03-01 04:45:50",
+        "impact": 60
       },
       "date": 1996,
-      "upddate": "2013-10-15 11:38:01",
+      "upddate": "2016-12-05 15:14:45",
       "pagerange": "991-1000",
       "irisid": 18186,
       "publisher_review": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
@@ -21990,8 +24218,8 @@
       "title": "GATTO: A Genetic Algorithm for Automatic Test Pattern Generation for Large Synchronous Sequential Circuits",
       "scopus": {
         "cluster": "2-s2.0-0030215849",
-        "datestamp": "2016-11-01 05:22:26",
-        "impact": 64
+        "datestamp": "2018-03-01 05:16:07",
+        "impact": 67
       },
       "types": "TYPES2",
       "userid": 2,
@@ -21999,17 +24227,17 @@
         "USER_D1010"
       ],
       "issn": "0278-0070",
-      "rev_number": 4,
+      "rev_number": 6,
       "dir": "disk0\/01\/39\/87\/11",
       "creators": [
         {
           "name": {
-            "lineage": 2477,
-            "given": "Maurizio",
+            "lineage": 1200,
+            "given": "Paolo Ernesto",
             "honourific": null,
-            "family": "Rebaudengo"
+            "family": "Prinetto"
           },
-          "id": 2477
+          "id": 1200
         },
         {
           "name": {
@@ -22022,12 +24250,12 @@
         },
         {
           "name": {
-            "lineage": 1200,
-            "given": "Paolo Ernesto",
+            "lineage": 2477,
+            "given": "Maurizio",
             "honourific": null,
-            "family": "Prinetto"
+            "family": "Rebaudengo"
           },
-          "id": 1200
+          "id": 2477
         },
         {
           "name": {
@@ -22039,9 +24267,10 @@
           "id": 2154
         }
       ],
-      "lastmod": "2014-10-22 15:17:08",
+      "lastmod": "2016-12-07 05:31:39",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/43.511578",
       "proprietary": {
@@ -22054,11 +24283,11 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
-      "volume": "15(8)",
+      "status_changed": "2010-06-23 17:10:47",
       "language": [
         "en"
       ],
+      "volume": "15(8)",
       "full_text_status": "none",
       "referee": "REF_4",
       "refereed": 1
@@ -22142,6 +24371,7 @@
       ],
       "lastmod": "2014-10-28 07:25:21",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -22154,10 +24384,10 @@
       },
       "eprint_status": "archive",
       "status_changed": "2012-10-19 11:10:02",
-      "volume": 83,
       "language": [
         "it"
       ],
+      "volume": 83,
       "full_text_status": "none",
       "referee": "REF_4",
       "refereed": 1
@@ -22184,7 +24414,7 @@
       "abstract": "The paper describes the strategy adopted to implement on-line test procedures for a commercial microprocessor board used in an automated light-metro control system. Special care has been devoted to chose the most effective test strategy for memory elements, processors, and caches, while guaranteeing a minimum impact on the normal behavior of the whole system. Implementation of the described techniques will significantly improve the system ability to safely react to possible faults. This will be quantitatively determined in the subsequent dependability evaluation phase",
       "scopus": {
         "cluster": "2-s2.0-84958986325",
-        "datestamp": "2016-10-20 03:59:50",
+        "datestamp": "2018-03-18 04:57:47",
         "impact": 0
       },
       "pages": 12,
@@ -22237,6 +24467,7 @@
       ],
       "lastmod": "2014-10-28 12:57:57",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/3-540-61772-8_38",
       "proprietary": {
@@ -22259,15 +24490,15 @@
       "refereed": 1
     },
     {
-      "authors_string": "F. Corno, P. Prinetto, M. Rebaudengo, M. Sonza Reorda",
+      "authors_string": "F. Corno; P. Prinetto; M. Rebaudengo; M. Sonza Reorda",
       "eprintid": 2499930,
       "wos": {
         "cluster": "A1996BG68G00066",
-        "datestamp": "2016-10-24 03:23:57",
+        "datestamp": "2018-02-19 05:05:45",
         "impact": 3
       },
       "date": 1996,
-      "upddate": "2013-11-25 11:25:24",
+      "upddate": "2018-01-16 02:39:55",
       "isbn": 780335414,
       "pagerange": "558-564",
       "event_title": "Test Conference, 1996. Proceedings., International",
@@ -22281,7 +24512,7 @@
       "title": "Partial scan flip flop selection for simulation-based sequential ATPGs",
       "scopus": {
         "cluster": "2-s2.0-0030389113",
-        "datestamp": "2016-10-24 03:28:57",
+        "datestamp": "2018-02-19 05:34:56",
         "impact": 4
       },
       "pages": 7,
@@ -22290,7 +24521,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 5,
+      "rev_number": 7,
       "dir": "disk0\/02\/49\/99\/30",
       "creators": [
         {
@@ -22330,8 +24561,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2014-10-28 21:41:36",
+      "lastmod": "2018-01-18 04:11:19",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TEST.1996.557088",
       "proprietary": {
@@ -22344,26 +24576,38 @@
         "id": 2477
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-11 11:07:01",
-      "full_text_status": "none"
+      "status_changed": "2015-06-30 18:42:19",
+      "full_text_status": "none",
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Benso A; Corno F; Prinetto P; Rebaudengo M.; Sonza Reorda M",
-      "types": "TYPES2",
       "eprintid": 1751203,
       "wos": {
         "cluster": "A1996VN33500006",
-        "datestamp": "2016-10-14 03:41:02",
+        "datestamp": "2018-02-12 04:17:22",
         "impact": 0
       },
       "date": 1996,
+      "upddate": "2018-01-16 02:34:08",
+      "pagerange": "63-69",
+      "irisid": 48375,
+      "publisher_review": "Association Elettrotecnica Elettronic:AEI Uffic Center, Piaz Morandi 2, 20121 Milan Italy:011 39 02 77790223, EMAIL: soci@aei.it, Fax: 011 39 02 798817",
+      "datestamp": "2008-04-04 16:36:14",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1751203",
+      "publication": "AEI AUTOMAZIONE ENERGIA INFORMAZIONE",
+      "type": "article",
+      "title": "Role of fault injection techniques in system dependability analysis",
+      "types": "TYPES2",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
       "issn": "1122-2824",
-      "upddate": "2015-11-23 23:16:38",
-      "rev_number": 8,
+      "rev_number": 10,
+      "dir": "disk0\/01\/75\/12\/03",
       "creators": [
         {
           "name": {
@@ -22373,6 +24617,15 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 2477,
+            "given": "Maurizio",
+            "honourific": null,
+            "family": "Rebaudengo"
+          },
+          "id": 2477
         },
         {
           "name": {
@@ -22400,21 +24653,12 @@
             "family": "Prinetto"
           },
           "id": 1200
-        },
-        {
-          "name": {
-            "lineage": 2477,
-            "given": "Maurizio",
-            "honourific": null,
-            "family": "Rebaudengo"
-          },
-          "id": 2477
         }
       ],
-      "dir": "disk0\/01\/75\/12\/03",
-      "lastmod": "2015-11-24 03:34:06",
+      "lastmod": "2018-01-18 04:11:25",
       "ispublished": "pub",
-      "pagerange": "63-69",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 2477,
@@ -22424,34 +24668,29 @@
         },
         "id": 2477
       },
-      "metadata_visibility": "show",
-      "irisid": 48375,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 16:12:43",
+      "volume": 83,
       "language": [
         "it"
       ],
-      "volume": 83,
-      "publisher_review": "Association Elettrotecnica Elettronic:AEI Uffic Center, Piaz Morandi 2, 20121 Milan Italy:011 39 02 77790223, EMAIL: soci@aei.it, Fax: 011 39 02 798817",
-      "datestamp": "2008-04-04 16:36:14",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1751203",
-      "referee": "REF_4",
       "full_text_status": "none",
+      "referee": "REF_4",
       "refereed": 1,
-      "publication": "AEI AUTOMAZIONE ENERGIA INFORMAZIONE",
-      "type": "article",
-      "title": "Role of fault injection techniques in system dependability analysis"
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Barbagallo S.; Lobetti Bodoni M.; Medina D.; Corno F.; Prinetto P.; Sonza Reorda M.",
       "eprintid": 2501227,
       "wos": {
         "cluster": "A1996BF75X00004",
-        "datestamp": "2016-10-24 03:40:26",
-        "impact": 0
+        "datestamp": "2018-02-20 04:32:43",
+        "impact": 7
       },
       "date": 1996,
-      "upddate": "2012-10-23 11:57:13",
+      "upddate": "2018-01-16 02:26:38",
       "isbn": 818673044,
       "pagerange": "26-31",
       "publisher": "IEEE Computer Society",
@@ -22466,8 +24705,8 @@
       "title": "Scan insertion criteria for low design impact",
       "scopus": {
         "cluster": "2-s2.0-0029700924",
-        "datestamp": "2016-10-24 03:56:19",
-        "impact": 13
+        "datestamp": "2018-02-20 04:38:32",
+        "impact": 15
       },
       "pages": 6,
       "types": "TYPES8",
@@ -22475,7 +24714,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 2,
+      "rev_number": 4,
       "dir": "disk0\/02\/50\/12\/27",
       "creators": [
         {
@@ -22506,8 +24745,9 @@
           "id": 1894
         }
       ],
-      "lastmod": "2014-10-29 16:01:57",
+      "lastmod": "2018-01-18 04:51:01",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/VTEST.1996.510831",
       "proprietary": {
@@ -22520,26 +24760,29 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-14 16:07:42",
+      "status_changed": "2015-06-30 18:47:44",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F.; Prinetto P.; Sonza Reorda M",
       "eprintid": 2501142,
       "wos": {
         "cluster": "A1996BF10G00106",
-        "datestamp": "2016-10-24 03:39:28",
+        "datestamp": "2018-02-20 04:31:17",
         "impact": 1
       },
       "date": 1996,
-      "upddate": "2012-10-23 11:58:06",
-      "isbn": 818674245,
+      "upddate": "2018-01-16 02:41:04",
+      "isbn": 818674237,
       "pagerange": "610-610",
       "publisher": "IEEE Computer Society",
       "event_title": "ED&TC 96: IEEE European Conference on Design and Test 1996",
@@ -22553,7 +24796,7 @@
       "title": "Self-checking and Fault Tolerant approaches can help BIST fault coverage: a case study",
       "scopus": {
         "cluster": "2-s2.0-0029779490",
-        "datestamp": "2016-10-24 03:54:07",
+        "datestamp": "2018-02-20 04:36:33",
         "impact": 1
       },
       "pages": 1,
@@ -22562,18 +24805,9 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 2,
+      "rev_number": 4,
       "dir": "disk0\/02\/50\/11\/42",
       "creators": [
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
         {
           "name": {
             "lineage": 1200,
@@ -22591,10 +24825,20 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         }
       ],
-      "lastmod": "2014-10-29 16:01:57",
+      "lastmod": "2018-01-18 04:51:03",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/EDTC.1996.494374",
       "proprietary": {
@@ -22607,14 +24851,17 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-14 12:07:30",
+      "status_changed": "2015-06-30 18:47:18",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "F. Corno; P. Prinetto; Sonza Reorda M.",
@@ -22660,6 +24907,7 @@
       "dir": "disk0\/01\/40\/58\/61",
       "lastmod": "2015-11-24 03:34:22",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "50-60",
       "proprietary": {
         "name": {
@@ -22689,11 +24937,11 @@
       "eprintid": 2501271,
       "wos": {
         "cluster": "A1996BG68F00002",
-        "datestamp": "2016-10-24 03:40:59",
+        "datestamp": "2018-02-20 04:33:22",
         "impact": 4
       },
       "date": 1996,
-      "upddate": "2016-01-29 10:33:28",
+      "upddate": "2018-01-16 02:40:37",
       "isbn": 818676868,
       "pagerange": "10-16",
       "publisher": "IEEE Computer Society",
@@ -22706,11 +24954,11 @@
       "event_location": "Toulouse (France)",
       "type": "conference_item",
       "title": "A genetic algorithm for automatic generation of test logic for digital circuits",
-      "abstract": "Testing is a key issue in the design and production of digital circuits: the adoption of BIST (Built-in Self-Test) techniques is increasingly popular, but sometimes requires efficient algorithms for the automatic generation of the logic which generates the test vectors applied to the unit under test. This paper addresses the issue of identifying a cellular automaton able to generate input patterns to detect stuck-at faults inside a finite state machine (FSM). A suitable hardware structure is first identified. A genetic algorithm is then proposed, which directly identifies a cellular automaton able to reach a very good fault coverage of the stuck-at faults. The novelty of the method consists in combining the generation of test patterns with the synthesis of a cellular automaton able to reproduce them. Experimental results are provided, which show that in most of the standard benchmark circuits the cellular automaton selected by the genetic algorithm is able to reach a fault coverage close to the maximum one. Our approach is the first attempt of exploiting evolutionary techniques for identifying the hardware for input pattern generation in BIST structures",
+      "abstract": "Testing is a key issue in the design and production of digital circuits: the adoption of BIST (Built-in Self-Test) techniques is increasingly popular, but sometimes requires efficient algorithms for the automatic generation of the logic which generates the test vectors applied to the unit under test. This paper addresses the issue of identifying a cellular automaton able to generate input patterns to detect stuck-at faults inside a finite state machine (FSM). A suitable hardware structure is first identified. A genetic algorithm is then proposed, which directly identifies a cellular automaton able to reach a very good fault coverage of the stuck-at faults. The novelty of the method consists in combining the generation of test patterns with the synthesis of a cellular automaton able to reproduce them. Experimental results are provided, which show that in most of the standard benchmark circuits the cellular automaton selected by the genetic algorithm is able to reach a fault coverage close to the maximum one. Our approach is the first attempt of exploiting evolutionary techniques for identifying the hardware for input pattern generation in BIST structures.",
       "scopus": {
         "cluster": "2-s2.0-0030422275",
-        "datestamp": "2016-10-24 03:57:03",
-        "impact": 3
+        "datestamp": "2018-02-20 04:39:18",
+        "impact": 11
       },
       "pages": 7,
       "types": "TYPES8",
@@ -22718,7 +24966,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 4,
+      "rev_number": 6,
       "dir": "disk0\/02\/50\/12\/71",
       "creators": [
         {
@@ -22749,8 +24997,9 @@
           "id": 1200
         }
       ],
-      "lastmod": "2016-02-02 03:35:52",
+      "lastmod": "2018-01-18 04:51:02",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TAI.1996.560394",
       "proprietary": {
@@ -22763,14 +25012,17 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-14 20:36:03",
+      "status_changed": "2015-06-30 18:47:57",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F., Prinetto P., Rebaudengo M., Sonza Reorda M.",
@@ -22794,7 +25046,7 @@
       "abstract": "The paper deals with the problem of Automatic Generation of Test Sequences for digital circuits. Genetic Algorithms have been successfully proposed to solve this industrially critical problem; however, they have some drawbacks, e.g., they are often unable to detect some hard to test faults, and require a careful tuning of the algorithm parameters. In this paper, we describe a new parallel version of an existing GA-based ATPG, which exploits competing sub-populations to overcome these problems. The new approach has been implemented in the PVM environment and has been evaluated on a workstation network using some of the standard benchmark circuits. The results show that it is able to significantly improve the results quality (by testing some critical faults) at the expense of increased CPU time requirements",
       "scopus": {
         "cluster": "2-s2.0-21344474535",
-        "datestamp": "2016-10-20 04:00:24",
+        "datestamp": "2018-03-18 04:58:22",
         "impact": 2
       },
       "pages": 6,
@@ -22847,6 +25099,7 @@
       ],
       "lastmod": "2014-10-28 12:57:34",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/3-540-61142-8_583",
       "proprietary": {
@@ -22869,40 +25122,35 @@
       "refereed": 1
     },
     {
-      "authors_string": "Corno F., Prinetto P., Rebaudengo M., Sonza Reorda M.",
-      "types": "TYPES8",
+      "authors_string": "Corno F.; Prinetto P.; Rebaudengo M.; Sonza Reorda M.",
       "eprintid": 2499908,
       "wos": {
         "cluster": "A1995BC60C00043",
-        "datestamp": "2016-10-24 03:23:33",
-        "impact": 17
+        "datestamp": "2018-02-19 05:05:20",
+        "impact": 23
       },
       "date": 1995,
+      "upddate": "2018-01-16 02:39:26",
+      "isbn": 818670398,
+      "pagerange": "267-271",
+      "event_title": "European Design and Test Conference, 1995. ED&TC 1995, Proceedings.",
+      "irisid": 75593,
+      "event_dates": "6-9 Mar 1995",
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2012-07-11 10:23:43",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2499908",
+      "event_location": "Paris, F",
+      "type": "conference_item",
+      "title": "GARDA: a Diagnostic ATPG for Large Synchronous Sequential Circuits",
+      "pages": 5,
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2013-11-25 11:25:14",
-      "rev_number": 5,
+      "rev_number": 7,
+      "dir": "disk0\/02\/49\/99\/08",
       "creators": [
-        {
-          "name": {
-            "lineage": 1200,
-            "given": "Paolo Ernesto",
-            "honourific": null,
-            "family": "Prinetto"
-          },
-          "id": 1200
-        },
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
         {
           "name": {
             "lineage": 2477,
@@ -22920,13 +25168,31 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 1200,
+            "given": "Paolo Ernesto",
+            "honourific": null,
+            "family": "Prinetto"
+          },
+          "id": 1200
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         }
       ],
-      "dir": "disk0\/02\/49\/99\/08",
-      "lastmod": "2014-10-28 21:41:23",
+      "lastmod": "2018-01-18 04:11:19",
       "ispublished": "pub",
-      "isbn": 818670398,
-      "pagerange": "267-271",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/EDTC.1995.470385",
       "proprietary": {
         "name": {
           "lineage": 2477,
@@ -22936,33 +25202,41 @@
         },
         "id": 2477
       },
-      "id_number": "10.1109\/EDTC.1995.470385",
-      "event_title": "European Design and Test Conference, 1995. ED&TC 1995, Proceedings",
-      "metadata_visibility": "show",
-      "irisid": 75593,
       "eprint_status": "archive",
-      "status_changed": "2012-07-11 10:07:35",
-      "event_dates": "6-9 Mar 1995",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2012-07-11 10:23:43",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2499908",
-      "event_location": "Paris, F",
+      "status_changed": "2015-06-30 18:42:12",
       "full_text_status": "none",
-      "type": "conference_item",
-      "title": "GARDA: a Diagnostic ATPG for Large Synchronous Sequential Circuits",
-      "pages": 5
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "F. Corno, U. Gläser, P. Prinetto, M. Rebaudengo, M. Sonza Reorda, T. Vierhaus",
-      "types": "TYPES8",
       "eprintid": 2499445,
       "date": 1995,
+      "upddate": "2013-11-25 11:25:38",
+      "isbn": 818670002,
+      "pagerange": "338-343",
+      "publisher": "IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC",
+      "event_title": "IEEE VLSI Test Symposium",
+      "irisid": 75300,
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2012-07-09 23:07:13",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2499445",
+      "type": "conference_item",
+      "title": "Improving topological ATPG with symbolic techniques",
+      "scopus": {
+        "cluster": "2-s2.0-0029237368",
+        "datestamp": "2018-02-19 05:26:24",
+        "impact": 6
+      },
+      "pages": 6,
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2013-11-25 11:25:38",
       "rev_number": 5,
+      "dir": "disk0\/02\/49\/94\/45",
       "creators": [
         {
           "name": {
@@ -23001,12 +25275,11 @@
           "id": 2154
         }
       ],
-      "dir": "disk0\/02\/49\/94\/45",
       "lastmod": "2014-10-28 21:22:01",
       "ispublished": "pub",
-      "isbn": 818670002,
-      "pagerange": "338-343",
-      "publisher": "IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/VTEST.1995.512658",
       "proprietary": {
         "name": {
           "lineage": 1894,
@@ -23016,39 +25289,24 @@
         },
         "id": 1894
       },
-      "id_number": "10.1109\/VTEST.1995.512658",
-      "event_title": "IEEE VLSI Test Symposium",
-      "metadata_visibility": "show",
-      "irisid": 75300,
       "eprint_status": "archive",
       "status_changed": "2012-07-09 23:07:13",
       "language": [
         "en"
       ],
       "event_relevance": "I",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2012-07-09 23:07:13",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2499445",
-      "full_text_status": "none",
-      "type": "conference_item",
-      "title": "Improving topological ATPG with symbolic techniques",
-      "scopus": {
-        "cluster": "2-s2.0-0029237368",
-        "datestamp": "2016-10-24 03:18:57",
-        "impact": 6
-      },
-      "pages": 6
+      "full_text_status": "none"
     },
     {
-      "authors_string": "Fulvio Corno, Paolo Prinetto, Maurizio Rebaudengo, Matteo Sonza Reorda, Enzo Veiluva",
+      "authors_string": "Fulvio Corno; Paolo Prinetto; Maurizio Rebaudengo; Matteo Sonza Reorda; Enzo Veiluva",
       "eprintid": 2374678,
       "wos": {
         "cluster": "A1995BE66H00007",
-        "datestamp": "2016-10-20 03:44:06",
+        "datestamp": "2018-03-18 04:45:52",
         "impact": 0
       },
       "date": 1995,
-      "upddate": "2013-11-25 12:18:36",
+      "upddate": "2018-01-16 02:40:11",
       "isbn": 3540593934,
       "pagerange": "39-44",
       "publisher": "Springer",
@@ -23061,13 +25319,13 @@
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2374678",
       "event_location": "Milan (ITA)",
       "publication": "LECTURE NOTES IN COMPUTER SCIENCE",
-      "abstract": "The use of parallel architectures for the solution of CPU and memory critical problems in the Electronic CAD area has been limited up to now by several factors, like the lack of efficient algorithms, the reduced portability of the code, and the cost of hardware. However, portable message-passing libraries are now available, and the same code runs on high-cost supercomputers, as well as on common workstation networks. The paper presents an effective ATPG system for large sequential circuits developed using the PVM library and based on a Genetic Algorithm. The tool, named GATTO *, runs on a DEC Alpha AXP farm and a CM-5. Experimental results are provided",
+      "abstract": "The use of parallel architectures for the solution of CPU and memory critical problems in the Electronic CAD area has been limited up to now by several factors, like the lack of efficient algorithms, the reduced portability of the code, and the cost of hardware. However, portable message-passing libraries are now available, and the same code runs on high-cost supercomputers, as well as on common workstation networks. The paper presents an effective ATPG system for large sequential circuits developed using the PVM library and based on a Genetic Algorithm. The tool, named GATTO *, runs on a DEC Alpha AXP farm and a CM-5. Experimental results are provided.",
       "type": "conference_item",
       "title": "A PVM tool for automatic test generation on parallel and distributed systems",
       "scopus": {
         "cluster": "2-s2.0-84957680344",
-        "datestamp": "2016-10-20 03:59:45",
-        "impact": 0
+        "datestamp": "2018-03-18 04:57:43",
+        "impact": 2
       },
       "pages": 6,
       "types": "TYPES8",
@@ -23077,7 +25335,7 @@
         "USER_D1010"
       ],
       "issn": "0302-9743",
-      "rev_number": 5,
+      "rev_number": 13,
       "dir": "disk0\/02\/37\/46\/78",
       "creators": [
         {
@@ -23117,8 +25375,9 @@
           "id": 1200
         }
       ],
-      "lastmod": "2014-10-28 12:58:41",
+      "lastmod": "2018-01-18 04:38:02",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -23132,25 +25391,28 @@
       "metadata_visibility": "show",
       "id_number": "10.1007\/BFb0046607",
       "eprint_status": "archive",
-      "status_changed": "2010-10-13 18:10:04",
+      "status_changed": "2015-06-30 17:29:56",
       "language": [
         "en"
       ],
       "volume": 919,
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F.; Cusinato M.; Ferrero M.; Prinetto P.",
       "eprintid": 2501177,
       "wos": {
         "cluster": "A1995BC60C00053",
-        "datestamp": "2016-10-24 03:39:49",
+        "datestamp": "2018-02-20 04:31:51",
         "impact": 0
       },
       "date": 1995,
-      "upddate": "2013-03-06 14:46:00",
+      "upddate": "2018-01-16 02:41:04",
       "isbn": 818670398,
       "pagerange": "333-337",
       "publisher": "IEEE Computer Society Press",
@@ -23169,7 +25431,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 4,
+      "rev_number": 6,
       "dir": "disk0\/02\/50\/11\/77",
       "creators": [
         {
@@ -23200,8 +25462,9 @@
           "id": 1200
         }
       ],
-      "lastmod": "2014-10-29 16:02:30",
+      "lastmod": "2018-01-18 04:51:01",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/EDTC.1995.470375",
       "proprietary": {
@@ -23214,14 +25477,17 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-14 14:07:36",
+      "status_changed": "2015-06-30 18:47:28",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F.; P. Prinetto",
@@ -23258,6 +25524,7 @@
       "dir": "disk0\/01\/67\/22\/06",
       "lastmod": "2015-11-24 03:34:32",
       "ispublished": "pub",
+      "openaire": 0,
       "publisher": "Libreria Editrice Universitaria Levrotto & Bella",
       "proprietary": {
         "name": {
@@ -23283,15 +25550,15 @@
       "place_of_pub": "TORINO"
     },
     {
-      "authors_string": "Barbagallo S.;Corno F.;Prinetto P.;Sonza Reorda M.;",
+      "authors_string": "Barbagallo S.;Corno F.;Prinetto P.;Sonza Reorda M.",
       "eprintid": 2501237,
       "wos": {
         "cluster": "A1995BE60N00131",
-        "datestamp": "2016-10-24 03:40:42",
+        "datestamp": "2018-02-20 04:33:01",
         "impact": 4
       },
       "date": 1995,
-      "upddate": "2012-10-23 11:57:10",
+      "upddate": "2018-01-16 02:40:37",
       "isbn": 780329929,
       "pagerange": "947-956",
       "publisher": "IEEE Computer Society",
@@ -23306,8 +25573,8 @@
       "title": "Testing a Switching Memory in a Telecommunication System",
       "scopus": {
         "cluster": "2-s2.0-0029547755",
-        "datestamp": "2016-10-24 03:56:36",
-        "impact": 3
+        "datestamp": "2018-02-20 04:38:51",
+        "impact": 4
       },
       "pages": 10,
       "types": "TYPES8",
@@ -23315,7 +25582,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 2,
+      "rev_number": 4,
       "dir": "disk0\/02\/50\/12\/37",
       "creators": [
         {
@@ -23346,8 +25613,9 @@
           "id": 1200
         }
       ],
-      "lastmod": "2014-10-29 16:01:57",
+      "lastmod": "2018-01-18 04:51:01",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TEST.1995.529941",
       "proprietary": {
@@ -23360,14 +25628,17 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-14 17:07:30",
+      "status_changed": "2015-06-30 18:47:47",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F.; Prinetto P.; Sonza Reorda M.",
@@ -23375,16 +25646,16 @@
       "eprintid": 2500506,
       "wos": {
         "cluster": "A1995BC60C00051",
-        "datestamp": "2016-10-24 03:31:07",
-        "impact": 4
+        "datestamp": "2018-02-20 04:20:10",
+        "impact": 5
       },
       "date": 1995,
       "userdep": [
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2013-11-25 11:28:48",
-      "rev_number": 3,
+      "upddate": "2018-01-16 02:39:57",
+      "rev_number": 5,
       "creators": [
         {
           "name": {
@@ -23415,8 +25686,9 @@
         }
       ],
       "dir": "disk0\/02\/50\/05\/06",
-      "lastmod": "2014-10-29 15:26:34",
+      "lastmod": "2018-01-18 04:38:14",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 818670398,
       "publisher": "IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC",
       "proprietary": {
@@ -23433,13 +25705,21 @@
       "metadata_visibility": "show",
       "irisid": 75930,
       "eprint_status": "archive",
-      "status_changed": "2012-07-12 23:07:25",
+      "status_changed": "2015-06-30 18:44:22",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2012-07-12 23:49:25",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2500506",
       "full_text_status": "none",
       "type": "conference_item",
-      "title": "Using symbolic techniques to find the maximum clique in very large sparse graphs"
+      "title": "Using symbolic techniques to find the maximum clique in very large sparse graphs",
+      "ssd": [
+        "ING-INF\/05"
+      ],
+      "scopus": {
+        "cluster": "2-s2.0-84885918064",
+        "datestamp": "2018-02-20 04:21:17",
+        "impact": 7
+      }
     },
     {
       "authors_string": "Corno F.; Prinetto P.; Rebaudengo M.; Sonza Reorda M.",
@@ -23493,6 +25773,7 @@
       "dir": "disk0\/02\/50\/13\/91",
       "lastmod": "2014-10-29 16:10:03",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9788820494834,
       "pagerange": "39-43",
       "publisher": "Franco Angeli",
@@ -23528,15 +25809,33 @@
     },
     {
       "authors_string": "Corno F.; Prinetto P.; Rebaudengo M.; Sonza Reorda M.; Veiluva E.",
-      "types": "TYPES8",
       "eprintid": 2499912,
       "date": 1995,
+      "upddate": "2016-01-28 16:19:38",
+      "isbn": 818670002,
+      "pagerange": "29-34",
+      "event_title": "13th IEEE VLSI Test Symposium (VTS'95)",
+      "irisid": 75595,
+      "event_dates": "April 30 - May 03 1995",
+      "book_title": "Titolo volume non avvalorato",
+      "datestamp": "2012-07-11 10:30:43",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2499912",
+      "event_location": "Princeton, NJ, USA",
+      "type": "conference_item",
+      "title": "A portable ATPG tool for parallel and distributed systems",
+      "scopus": {
+        "cluster": "2-s2.0-0029223563",
+        "datestamp": "2018-02-19 05:34:27",
+        "impact": 10
+      },
+      "pages": 6,
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2016-01-28 16:19:38",
       "rev_number": 8,
+      "dir": "disk0\/02\/49\/99\/12",
       "creators": [
         {
           "name": {
@@ -23575,11 +25874,11 @@
           "id": 2154
         }
       ],
-      "dir": "disk0\/02\/49\/99\/12",
       "lastmod": "2016-02-02 03:48:10",
       "ispublished": "pub",
-      "isbn": 818670002,
-      "pagerange": "29-34",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/VTEST.1995.512613",
       "proprietary": {
         "name": {
           "lineage": 2477,
@@ -23589,37 +25888,20 @@
         },
         "id": 2477
       },
-      "id_number": "10.1109\/VTEST.1995.512613",
-      "event_title": "13th IEEE VLSI Test Symposium (VTS'95)",
-      "metadata_visibility": "show",
-      "irisid": 75595,
       "eprint_status": "archive",
       "status_changed": "2012-07-11 10:34:20",
-      "event_dates": "April 30 - May 03 1995",
-      "book_title": "Titolo volume non avvalorato",
-      "datestamp": "2012-07-11 10:30:43",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2499912",
-      "event_location": "Princeton, NJ, USA",
-      "full_text_status": "none",
-      "type": "conference_item",
-      "title": "A portable ATPG tool for parallel and distributed systems",
-      "scopus": {
-        "cluster": "2-s2.0-0029223563",
-        "datestamp": "2016-10-24 03:28:24",
-        "impact": 10
-      },
-      "pages": 6
+      "full_text_status": "none"
     },
     {
       "authors_string": "Corno F.; Prinetto P.; Sonza Reorda M.",
       "eprintid": 2501266,
       "wos": {
         "cluster": "A1994BC12N00118",
-        "datestamp": "2016-10-24 03:40:57",
-        "impact": 0
+        "datestamp": "2018-02-20 04:33:20",
+        "impact": 5
       },
       "date": 1994,
-      "upddate": "2012-10-23 11:57:14",
+      "upddate": "2018-01-16 02:41:04",
       "isbn": 780321030,
       "pagerange": "949-957",
       "publisher": "IEEE Computer Society",
@@ -23638,7 +25920,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 2,
+      "rev_number": 4,
       "dir": "disk0\/02\/50\/12\/66",
       "creators": [
         {
@@ -23669,8 +25951,9 @@
           "id": 1200
         }
       ],
-      "lastmod": "2014-10-29 16:01:56",
+      "lastmod": "2018-01-18 04:51:02",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TEST.1994.528044",
       "proprietary": {
@@ -23683,14 +25966,17 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-14 20:07:57",
+      "status_changed": "2015-06-30 18:47:55",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "P. Camurati; F. Corno; Meo M.; P. Prinetto",
@@ -23736,6 +26022,7 @@
       "dir": "disk0\/01\/66\/22\/14",
       "lastmod": "2016-02-02 03:33:44",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 818654406,
       "proprietary": {
         "name": {
@@ -23763,8 +26050,8 @@
       "title": "A New Functional Fault Model for System-Level Descriptions",
       "scopus": {
         "cluster": "2-s2.0-0028756092",
-        "datestamp": "2016-09-12 03:50:35",
-        "impact": 2
+        "datestamp": "2018-03-11 04:49:42",
+        "impact": 3
       }
     },
     {
@@ -23786,8 +26073,8 @@
       "title": "System-Level Modeling and Verification: a Comprehensive Design Methodology",
       "scopus": {
         "cluster": "2-s2.0-0028062442",
-        "datestamp": "2016-10-24 03:56:02",
-        "impact": 0
+        "datestamp": "2018-02-20 04:38:14",
+        "impact": 3
       },
       "pages": 5,
       "types": "TYPES8",
@@ -23828,6 +26115,7 @@
       ],
       "lastmod": "2014-10-29 16:02:31",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/EDTC.1994.326811",
       "proprietary": {
@@ -23854,11 +26142,11 @@
       "eprintid": 2501139,
       "wos": {
         "cluster": "A1994BB71Y00039",
-        "datestamp": "2016-10-24 03:39:25",
+        "datestamp": "2018-02-20 04:31:11",
         "impact": 0
       },
       "date": 1994,
-      "upddate": "2012-10-23 11:58:08",
+      "upddate": "2018-01-16 02:41:11",
       "isbn": 897916859,
       "pagerange": "246-251",
       "publisher": "IEEE Computer Society Press",
@@ -23873,8 +26161,8 @@
       "title": "An experimental analysis of the effectiveness of the circular self-test path technique",
       "scopus": {
         "cluster": "2-s2.0-0028715022",
-        "datestamp": "2016-10-24 03:54:00",
-        "impact": 0
+        "datestamp": "2018-02-20 04:36:24",
+        "impact": 2
       },
       "pages": 6,
       "types": "TYPES8",
@@ -23882,7 +26170,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 2,
+      "rev_number": 4,
       "dir": "disk0\/02\/50\/11\/39",
       "creators": [
         {
@@ -23913,8 +26201,9 @@
           "id": 1894
         }
       ],
-      "lastmod": "2014-10-29 16:01:57",
+      "lastmod": "2018-01-18 04:51:03",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/198174.198254",
       "proprietary": {
@@ -23927,14 +26216,17 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-14 12:07:48",
+      "status_changed": "2015-06-30 18:47:17",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Bayol C.; Soulas B.; Borrione D.; Corno F.; Prinetto P.",
@@ -23955,8 +26247,8 @@
       "title": "A process algebra interpretation of a verification oriented overlanguage of VHDL",
       "scopus": {
         "cluster": "2-s2.0-0028723019",
-        "datestamp": "2016-10-24 03:56:55",
-        "impact": 1
+        "datestamp": "2018-02-20 04:39:09",
+        "impact": 3
       },
       "pages": 6,
       "types": "TYPES8",
@@ -23988,6 +26280,7 @@
       ],
       "lastmod": "2014-10-29 16:02:31",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/198174.198314",
       "proprietary": {
@@ -24071,6 +26364,7 @@
       "dir": "disk0\/01\/65\/66\/08",
       "lastmod": "2014-10-24 18:43:25",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "11-17",
       "proprietary": {
         "name": {
@@ -24098,7 +26392,7 @@
       "title": "An Approach to Sequential Circuit Diagnosis Based on Formal Verification Techniques",
       "scopus": {
         "cluster": "2-s2.0-0027542373",
-        "datestamp": "2016-10-12 03:17:11",
+        "datestamp": "2018-03-10 05:30:51",
         "impact": 2
       },
       "pages": 7
@@ -24108,14 +26402,14 @@
       "eprintid": 2501273,
       "wos": {
         "cluster": "A1993BZ97A00004",
-        "datestamp": "2016-10-24 03:41:00",
+        "datestamp": "2018-02-20 04:33:24",
         "impact": 0
       },
       "date": 1993,
-      "upddate": "2013-10-15 13:36:51",
-      "isbn": 9780444816412,
+      "upddate": "2018-01-16 02:39:23",
+      "isbn": 444816410,
       "pagerange": "31-44",
-      "publisher": "North-Holland Publishing Co",
+      "publisher": "North-Holland Publishing Co.",
       "event_title": "CHDL'93: 11th IFIP WG10.2 International Conference on Computer Hardware Description Languages and their Applications",
       "irisid": 76498,
       "event_dates": "Apr 26-28, 1993",
@@ -24127,8 +26421,8 @@
       "title": "Exploiting symbolic traversal techniques for efficient Process Algebra Manipulation",
       "scopus": {
         "cluster": "2-s2.0-0027747607",
-        "datestamp": "2016-10-24 03:57:08",
-        "impact": 0
+        "datestamp": "2018-02-20 04:39:22",
+        "impact": 3
       },
       "pages": 14,
       "types": "TYPES8",
@@ -24136,7 +26430,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 5,
+      "rev_number": 7,
       "dir": "disk0\/02\/50\/12\/73",
       "creators": [
         {
@@ -24167,8 +26461,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2014-10-29 16:02:30",
+      "lastmod": "2018-01-18 04:51:02",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -24180,12 +26475,15 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-14 20:07:03",
+      "status_changed": "2015-06-30 18:47:57",
       "language": [
         "en"
       ],
       "event_relevance": "I",
-      "full_text_status": "none"
+      "full_text_status": "none",
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Corno F.; Prinetto P.; Sonza Reorda M.",
@@ -24230,6 +26528,7 @@
       "dir": "disk0\/02\/50\/14\/43",
       "lastmod": "2014-10-29 16:10:02",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "269-272",
       "proprietary": {
         "name": {
@@ -24315,6 +26614,7 @@
       ],
       "lastmod": "2014-10-29 16:02:30",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ETC.1993.246534",
       "proprietary": {
@@ -24391,6 +26691,7 @@
       ],
       "lastmod": "2014-10-29 16:02:30",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -24416,11 +26717,11 @@
       "eprintid": 2501272,
       "wos": {
         "cluster": "A1993BZ20T00020",
-        "datestamp": "2016-10-24 03:40:59",
+        "datestamp": "2018-02-20 04:33:24",
         "impact": 0
       },
       "date": 1993,
-      "upddate": "2013-03-06 14:46:00",
+      "upddate": "2018-01-16 02:41:12",
       "isbn": 818643501,
       "pagerange": "124-129",
       "publisher": "IEEE Computer Society",
@@ -24435,8 +26736,8 @@
       "title": "An efficient tool for system-level verification of behaviors and temporal properties",
       "scopus": {
         "cluster": "2-s2.0-0027847614",
-        "datestamp": "2016-10-24 03:57:06",
-        "impact": 0
+        "datestamp": "2018-02-20 04:39:20",
+        "impact": 1
       },
       "pages": 6,
       "types": "TYPES8",
@@ -24444,18 +26745,9 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 4,
+      "rev_number": 6,
       "dir": "disk0\/02\/50\/12\/72",
       "creators": [
-        {
-          "name": {
-            "lineage": 1895,
-            "given": "Paolo Enrico",
-            "honourific": null,
-            "family": "Camurati"
-          },
-          "id": 1895
-        },
         {
           "name": {
             "lineage": 1200,
@@ -24473,10 +26765,20 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 1895,
+            "given": "Paolo Enrico",
+            "honourific": null,
+            "family": "Camurati"
+          },
+          "id": 1895
         }
       ],
-      "lastmod": "2014-10-29 16:02:30",
+      "lastmod": "2018-01-18 04:51:02",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/EURDAC.1993.410626",
       "proprietary": {
@@ -24489,14 +26791,17 @@
         "id": 1200
       },
       "eprint_status": "archive",
-      "status_changed": "2012-07-14 20:07:42",
+      "status_changed": "2015-06-30 18:47:57",
       "language": [
         "en"
       ],
       "event_relevance": "I",
       "full_text_status": "none",
       "referee": "REF_4",
-      "refereed": 1
+      "refereed": 1,
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Camurati P., Corno F., Prinetto P.",
@@ -24518,6 +26823,11 @@
       "type": "conference_item",
       "title": "A methodology for system-level design for verifiability",
       "abstract": "Working at system level is attracting increasing interest. New issues must be taken into account, such as validation and verification at all steps. This paper presents a system-level design methodology that supports verification. Starting from a description in a proper subset of VHDL, a Petri Net description is obtained and used for validation purposes and for building the corresponding automaton. An efficient BDD-based tool for Process Algebra manipulation supports formal equivalence proofs. Experimental results show that the approach is feasible also for real-size industrial cases",
+      "scopus": {
+        "cluster": "2-s2.0-85028868835",
+        "datestamp": "2018-03-18 04:58:18",
+        "impact": 1
+      },
       "pages": 12,
       "types": "TYPES8",
       "twitted": 1,
@@ -24559,6 +26869,7 @@
       ],
       "lastmod": "2014-10-28 12:57:34",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/BFb0021716",
       "proprietary": {
@@ -24634,6 +26945,7 @@
       ],
       "lastmod": "2014-10-29 16:11:12",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -24659,11 +26971,11 @@
       "eprintid": 1680214,
       "wos": {
         "cluster": "A1992BW69U00047",
-        "datestamp": "2016-10-13 04:02:58",
+        "datestamp": "2018-03-12 04:49:51",
         "impact": 0
       },
       "date": 1992,
-      "upddate": "2016-02-03 09:53:03",
+      "upddate": "2018-01-16 02:33:45",
       "pagerange": "306-311",
       "event_title": "IEEE EURO-DAC'92",
       "irisid": 46808,
@@ -24676,7 +26988,7 @@
       "title": "Cross-fertilizing FSM Verification Techniques and Sequential Diagnosis",
       "scopus": {
         "cluster": "2-s2.0-0026960635",
-        "datestamp": "2016-10-13 04:34:41",
+        "datestamp": "2018-03-12 05:01:19",
         "impact": 0
       },
       "types": "TYPES8",
@@ -24684,18 +26996,9 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 6,
+      "rev_number": 8,
       "dir": "disk0\/01\/68\/02\/14",
       "creators": [
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
         {
           "name": {
             "lineage": 2154,
@@ -24704,15 +27007,6 @@
             "family": "Corno"
           },
           "id": 2154
-        },
-        {
-          "name": {
-            "lineage": 1764,
-            "given": "Gianpiero",
-            "honourific": null,
-            "family": "Cabodi"
-          },
-          "id": 1764
         },
         {
           "name": {
@@ -24725,17 +27019,36 @@
         },
         {
           "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
+        },
+        {
+          "name": {
             "lineage": 1200,
             "given": "Paolo Ernesto",
             "honourific": null,
             "family": "Prinetto"
           },
           "id": 1200
+        },
+        {
+          "name": {
+            "lineage": 1764,
+            "given": "Gianpiero",
+            "honourific": null,
+            "family": "Cabodi"
+          },
+          "id": 1764
         }
       ],
-      "lastmod": "2016-02-05 04:10:17",
+      "lastmod": "2018-01-18 03:19:25",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -24747,23 +27060,26 @@
         "id": 1764
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 16:06:35",
       "language": [
         "en"
       ],
       "event_relevance": "I",
-      "full_text_status": "none"
+      "full_text_status": "none",
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Cabodi G; Camurati P; Corno F; Prinetto P.; Sonza Reorda M",
       "eprintid": 2297068,
       "wos": {
         "cluster": "A1992BX97X00020",
-        "datestamp": "2016-10-18 04:10:18",
+        "datestamp": "2018-03-16 05:15:15",
         "impact": 1
       },
       "date": 1992,
-      "upddate": "2016-04-28 10:22:56",
+      "upddate": "2018-01-16 02:37:57",
       "pagerange": "187-196",
       "publisher": "IEEE Computer Society",
       "event_title": "ITC 1992: IEEE International Test Conference 1992",
@@ -24777,35 +27093,17 @@
       "title": "Sequential circuit diagnosis based on formal verification techniques",
       "scopus": {
         "cluster": "2-s2.0-84914614079",
-        "datestamp": "2016-09-18 03:51:30",
-        "impact": 1
+        "datestamp": "2018-03-16 05:45:17",
+        "impact": 3
       },
       "types": "TYPES8",
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 7,
+      "rev_number": 9,
       "dir": "disk0\/02\/29\/70\/68",
       "creators": [
-        {
-          "name": {
-            "lineage": 1894,
-            "given": "Matteo",
-            "honourific": null,
-            "family": "Sonza Reorda"
-          },
-          "id": 1894
-        },
-        {
-          "name": {
-            "lineage": 1764,
-            "given": "Gianpiero",
-            "honourific": null,
-            "family": "Cabodi"
-          },
-          "id": 1764
-        },
         {
           "name": {
             "lineage": 1200,
@@ -24832,10 +27130,29 @@
             "family": "Camurati"
           },
           "id": 1895
+        },
+        {
+          "name": {
+            "lineage": 1764,
+            "given": "Gianpiero",
+            "honourific": null,
+            "family": "Cabodi"
+          },
+          "id": 1764
+        },
+        {
+          "name": {
+            "lineage": 1894,
+            "given": "Matteo",
+            "honourific": null,
+            "family": "Sonza Reorda"
+          },
+          "id": 1894
         }
       ],
-      "lastmod": "2016-04-30 03:31:30",
+      "lastmod": "2018-01-18 03:19:22",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -24847,23 +27164,26 @@
         "id": 1764
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 17:04:52",
       "language": [
         "en"
       ],
       "event_relevance": "I",
-      "full_text_status": "none"
+      "full_text_status": "none",
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Cabodi G; Camurati P.; F. Corno; S. Gai; P. Prinetto; M. Sonza Reorda",
       "eprintid": 1848210,
       "wos": {
         "cluster": "A1992BW39C00112",
-        "datestamp": "2016-10-15 03:41:26",
+        "datestamp": "2018-03-14 04:20:37",
         "impact": 1
       },
       "date": 1992,
-      "upddate": "2016-01-29 10:46:40",
+      "upddate": "2018-01-16 02:37:28",
       "pagerange": "614-619",
       "event_title": "DAC-29: 29th ACM\/IEEE Design Automation Conference",
       "irisid": 51640,
@@ -24876,8 +27196,8 @@
       "title": "A new model for improving symbolic Product Machine traversal",
       "scopus": {
         "cluster": "2-s2.0-0027004889",
-        "datestamp": "2016-10-15 04:02:57",
-        "impact": 4
+        "datestamp": "2018-03-14 04:24:41",
+        "impact": 7
       },
       "pages": 6,
       "types": "TYPES8",
@@ -24885,26 +27205,17 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 5,
+      "rev_number": 7,
       "dir": "disk0\/01\/84\/82\/10",
       "creators": [
         {
           "name": {
-            "lineage": 1895,
-            "given": "Paolo Enrico",
+            "lineage": 2154,
+            "given": "Fulvio",
             "honourific": null,
-            "family": "Camurati"
+            "family": "Corno"
           },
-          "id": 1895
-        },
-        {
-          "name": {
-            "lineage": 1764,
-            "given": "Gianpiero",
-            "honourific": null,
-            "family": "Cabodi"
-          },
-          "id": 1764
+          "id": 2154
         },
         {
           "name": {
@@ -24917,12 +27228,12 @@
         },
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 1895,
+            "given": "Paolo Enrico",
             "honourific": null,
-            "family": "Corno"
+            "family": "Camurati"
           },
-          "id": 2154
+          "id": 1895
         },
         {
           "name": {
@@ -24932,10 +27243,20 @@
             "family": "Sonza Reorda"
           },
           "id": 1894
+        },
+        {
+          "name": {
+            "lineage": 1764,
+            "given": "Gianpiero",
+            "honourific": null,
+            "family": "Cabodi"
+          },
+          "id": 1764
         }
       ],
-      "lastmod": "2016-02-02 03:54:18",
+      "lastmod": "2018-01-18 03:19:27",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -24947,12 +27268,15 @@
         "id": 1764
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 16:25:19",
       "language": [
         "de"
       ],
       "event_relevance": "I",
-      "full_text_status": "none"
+      "full_text_status": "none",
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "P. Camurati, F. Corno, P. Prinetto, M. Sonza Reorda",
@@ -25006,6 +27330,7 @@
       "dir": "disk0\/02\/49\/94\/43",
       "lastmod": "2014-10-28 21:20:40",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 780306236,
       "pagerange": "263-267",
       "publisher": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
@@ -25037,356 +27362,67 @@
       "pages": 5
     },
     {
-      "authors_string": "Fulvio Corno, Luigi De Russis, Dario Bonino",
-      "eprintid": 2621928,
-      "documents": [
-          {
-            "disclaimer": "ieee",
-            "placement": 1,
-            "eprintid": 2621928,
-            "insert_date": "2015-11-12 09:25:01",
-            "files": [
-                {
-                  "hash_type": "MD5",
-                  "mtime": "2015-11-12 09:25:01",
-                  "datasetid": "document",
-                  "fileid": 1538059,
-                  "objectid": 725173,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1538059",
-                  "mime_type": "application\/pdf",
-                  "hash": "bafb3b1fba107ec62eb318d416dd7406",
-                  "filesize": 739719,
-                  "filename": "IT_ITPro_2015_04_0032.R2_Corno.pdf"
-                }
-            ],
-            "content": "accepted",
-            "rev_number": 19,
-            "copyright_date": "2015-11-30",
-            "copyright_note": "Non trovo editoriale, messo OA e vers. accettata",
-            "pos": 1,
-            "language": "it",
-            "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/725173",
-            "original_docid": 69701,
-            "main": "IT_ITPro_2015_04_0032.R2_Corno.pdf",
-            "format": "application\/pdf",
-            "docid": 725173,
-            "security": "public",
-            "relation": [
-              {
-                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/995425"
-              }
-            ],
-            "copyright_operator": "MGD",
-            "formatdesc": "IT_ITPro_2015_04_0032.R2_Corno.pdf"
-          }
-      ],
-      "upddate": "2015-11-12 09:25:22",
-      "keywords": [
-        "ambient intelligence, internet of things, computer education, active learning, computer engineering"
-      ],
-      "publisher": "IEEE Computer Society",
-      "irisid": 95646,
-      "publisher_review": "IEEE Computer Society, Los Alamitos, CA",
-      "datestamp": "2015-11-13 03:32:04",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2621928",
-      "publication": "IT PROFESSIONAL",
-      "abstract": "The new breed of Internet of Things (IoT) distributed intelligent systems require a diversity of languages and protocols to be adequately designed and implemented, especially if we also consider At the same time, there is a growing interest in including the human factor in IoT systems design, as the focus on transparently and intelligently supporting people, as advocated by the Ambient Intelligence research field. All these new design methodologies and tools are increasingly needed in the toolbox of new computer engineers, and suitable teaching strategies should be devised to allow them to tackle a system-view design approach. This paper describes an experience, developed across two academic years at Politecnico di Torino, with a course in Ambient Intelligence. In the course, a project-based learning approach was adopted, by letting students choose an AmI system to design and prototype, and following their development along the semester",
-      "type": "article",
-      "title": "Breeding Internet of Things professionals through education: the Ambient Intelligence course",
-      "pages": 9,
-      "types": "TYPES2",
-      "userid": 2,
-      "userdep": [
-        "USER_D1010"
-      ],
-      "twitted": 1,
-      "issn": "1520-9202",
-      "rev_number": 19,
-      "dir": "disk0\/02\/62\/19\/28",
-      "creators": [
-        {
-          "name": {
-            "lineage": 25734,
-            "given": "Luigi",
-            "honourific": null,
-            "family": "De Russis"
-          },
-          "id": 25734
-        },
-        {
-          "name": {
-            "lineage": 12325,
-            "given": "Dario",
-            "honourific": null,
-            "family": "Bonino"
-          },
-          "id": 12325
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        }
-      ],
-      "lastmod": "2016-09-19 14:56:57",
-      "ispublished": "inpress",
-      "metadata_visibility": "show",
-      "proprietary": {
-        "name": {
-          "lineage": 2154,
-          "given": "Fulvio",
-          "honourific": null,
-          "family": "Corno"
-        },
-        "id": 2154
-      },
-      "eprint_status": "archive",
-      "status_changed": "2015-11-13 03:32:04",
-      "language": [
-        "en"
-      ],
-      "full_text_status": "public",
-      "referee": "REF_1",
-      "refereed": 1,
-      "divisions": [
-        "DAUIN"
-      ],
-      "ssd": [
-        "ING-INF\/05"
-      ]
-    },
-    {
-      "authors_string": "Corno, Fulvio; De Russis, Luigi; Montanaro, Teodoro",
-      "eprintid": 2644262,
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Monge Roffarello, Alberto",
+      "eprintid": 2693822,
       "documents": [
           {
             "placement": 1,
-            "eprintid": 2644262,
-            "insert_date": "2016-08-26 09:28:54",
+            "eprintid": 2693822,
+            "insert_date": "2017-11-30 08:35:27",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2016-08-26 09:28:54",
+                  "mtime": "2017-11-30 08:35:27",
                   "datasetid": "document",
-                  "fileid": 1970204,
-                  "objectid": 963067,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1970204",
+                  "fileid": 2457945,
+                  "objectid": 1256132,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2457945",
                   "mime_type": "application\/pdf",
-                  "hash": "a6c44518a182765c09a7c470e07cb4bf",
-                  "filesize": 446389,
-                  "filename": "PID4321083.pdf"
+                  "hash": "9f2834c4037e2545ab25ec0c751867ce",
+                  "filesize": 2148744,
+                  "filename": "awarenotifications.pdf"
                 }
             ],
             "content": "published",
             "rev_number": 1,
-            "copyright_date": "2016-08-24",
-            "copyright_note": "invio mail 25-08-2016 :ctrl preprint, togliere prezzo, copyr e isbn",
-            "pos": 1,
-            "language": "it",
-            "license": "not_public",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/963067",
-            "original_docid": 115381,
-            "main": "PID4321083.pdf",
-            "format": "application\/pdf",
-            "docid": 963067,
-            "security": "staffonly",
-            "copyright_operator": "MGD",
-            "formatdesc": "PID4321083.pdf"
-          },
-          {
-            "disclaimer": "ieee",
-            "placement": 2,
-            "eprintid": 2644262,
-            "insert_date": "2016-08-26 11:05:49",
-            "files": [
-                {
-                  "hash_type": "MD5",
-                  "mtime": "2016-08-26 11:05:49",
-                  "datasetid": "document",
-                  "fileid": 1970206,
-                  "objectid": 963068,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1970206",
-                  "mime_type": "application\/pdf",
-                  "hash": "ec0ae806cc47f4f3a1e35675ddec2af7",
-                  "filesize": 441461,
-                  "filename": "SMC2016_CornoDeRussisMontanaro.pdf"
-                }
-            ],
-            "content": "published",
-            "rev_number": 3,
-            "copyright_date": "2016-08-29",
-            "pos": 2,
-            "language": "it",
-            "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/963068",
-            "original_docid": 118865,
-            "main": "SMC2016_CornoDeRussisMontanaro.pdf",
-            "format": "application\/pdf",
-            "docid": 963068,
-            "security": "public",
-            "relation": [
-              {
-                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/963283"
-              }
-            ],
-            "copyright_operator": "MN",
-            "formatdesc": "SMC2016_CornoDeRussisMontanaro.pdf"
-          }
-      ],
-      "upddate": "2016-08-26 11:06:24",
-      "keywords": [
-        "user meaningful places estimation, low-energy location, machine learning application, decision trees"
-      ],
-      "publisher": "IEEE",
-      "event_title": "SMC 2016: IEEE International Conference on Systems, Man, and Cybernetics",
-      "irisid": 120708,
-      "event_dates": "9-12 October, 2016",
-      "book_title": "IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2016",
-      "datestamp": "2016-08-26 12:19:35",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2644262",
-      "event_location": "Budapest",
-      "abstract": "Due to the increasing spread of location-aware applications, developers interest in user location estimation has grown in recent years. As users spend the majority of their time in few meaningful places (i.e., groups of near locations that can be considered as a unique place, such as home, school or the workplace), this paper presents a new energy efficient method to estimate user presence in a meaningful place. Specifically, instead of using commonly used but energy hungry methods such as GPS and network positioning techniques, the proposed method applies a Machine Learning algorithm based on Decision Trees, to predict the user presence in a meaningful place by collecting and analyzing: a) user activity, b) information from received notifications (receipt time, generating service, sender-receiver relationship), and c) device status (battery level and ringtone mode). The results demonstrate that, using 20 days of training data and testing the system with data coming from 14 persons, the accuracy (percentage of correct predictions) is 89.40% (standard deviation: 8.27%) with a precision of 89.04% and a recall of 89.40%. Furthermore, the paper analyzes the importance of each considered feature, by comparing the prediction accuracy obtained with different combinations of features",
-      "type": "conference_item",
-      "title": "Estimate User Meaningful Places through Low-Energy Mobile Sensing",
-      "pages": 6,
-      "types": "TYPES8",
-      "userid": 2,
-      "userdep": [
-        "USER_D1010"
-      ],
-      "twitted": 1,
-      "rev_number": 16,
-      "dir": "disk0\/02\/64\/42\/62",
-      "creators": [
-        {
-          "name": {
-            "lineage": 36541,
-            "given": "Teodoro",
-            "honourific": null,
-            "family": "Montanaro"
-          },
-          "id": 36541
-        },
-        {
-          "name": {
-            "lineage": 25734,
-            "given": "Luigi",
-            "honourific": null,
-            "family": "De Russis"
-          },
-          "id": 25734
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        }
-      ],
-      "lastmod": "2016-08-29 16:13:48",
-      "ispublished": "inpress",
-      "metadata_visibility": "show",
-      "proprietary": {
-        "name": {
-          "lineage": 36541,
-          "given": "Teodoro",
-          "honourific": null,
-          "family": "Montanaro"
-        },
-        "id": 36541
-      },
-      "eprint_status": "archive",
-      "status_changed": "2016-08-26 12:19:35",
-      "language": [
-        "en"
-      ],
-      "full_text_status": "public",
-      "referee": "REF_1",
-      "refereed": 1,
-      "divisions": [
-        "DAUIN"
-      ],
-      "ssd": [
-        "ING-INF\/05"
-      ]
-    },
-    {
-      "authors_string": "Corno, Fulvio; De Russis, Luigi",
-      "eprintid": 2648065,
-      "documents": [
-          {
-            "placement": 1,
-            "eprintid": 2648065,
-            "insert_date": "2016-09-12 12:39:16",
-            "files": [
-                {
-                  "hash_type": "MD5",
-                  "mtime": "2016-09-12 12:39:16",
-                  "datasetid": "document",
-                  "fileid": 2004399,
-                  "objectid": 981773,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/2004399",
-                  "mime_type": "application\/pdf",
-                  "hash": "219c24432969816e1b3b69d49a232d52",
-                  "filesize": 275988,
-                  "filename": "amicourse_FINAL.pdf"
-                }
-            ],
-            "content": "published",
-            "rev_number": 2,
-            "copyright_date": "2016-09-13",
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/981773",
-            "original_docid": 120876,
-            "main": "amicourse_FINAL.pdf",
+            "main": "awarenotifications.pdf",
+            "original_docid": 179400,
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1256132",
             "format": "application\/pdf",
-            "docid": 981773,
-            "security": "public",
-            "relation": [
-              {
-                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/988074"
-              }
-            ],
-            "copyright_operator": "MGD",
-            "formatdesc": "amicourse_FINAL.pdf"
+            "docid": 1256132,
+            "security": "undercontrol",
+            "formatdesc": "awarenotifications.pdf"
           }
       ],
-      "upddate": "2016-09-12 12:39:16",
+      "upddate": "2017-11-30 08:35:28",
       "keywords": [
-        "ambient intelligence, computer engineering, computing skills, multidisciplinary teams, internet of things, project-based learning"
+        "notification delivery",
+        "semantic web",
+        "reasoning",
+        "internet of things",
+        "notifications"
       ],
-      "publisher": "IEEE",
-      "irisid": 125211,
-      "publisher_review": "IEEE \/ Institute of Electrical and Electronics Engineers Incorporated:445 Hoes Lane:Piscataway, NJ 08854:(800)701-4333, (732)981-0060, EMAIL: subscription-service@ieee.org, INTERNET: http:\/\/www.ieee.org, Fax: (732)981-9667",
-      "datestamp": "2016-09-12 14:39:16",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2648065",
-      "publication": "IEEE TRANSACTIONS ON EDUCATION",
-      "abstract": "The increasing complexity of the new breed of distributed intelligent systems, such as the Internet of Things (IoT), which require a diversity of languages and protocols, can only be tamed with design and programming best practices. Interest is also growing for including the human factor, as advocated by the Ambient Intelligence (AmI) research ﬁeld, whose focus is on transparently and intelligently supporting people. These new design methodologies are increasingly needed in the toolbox of new electronic and computer engineers, and teaching strategies should be devised that allow students to acquire a systems-level view instead of getting lost in technology-oriented approaches. This paper describes a study carried out over two academic years, in a course in ambient intelligence at Politecnico di Torino, Italy. In the course, a project-based learning approach was adopted, in which students design and prototype an AmI system, and their progress is closely monitored throughout the semester. The paper presents the learning goals and teaching strategies, analyzes the learning outcomes from the qualitative and quantitative points of view, and highlights the lessons learned in the process",
+      "publisher": "IOS Press",
+      "irisid": 173883,
+      "publisher_review": "Amsterdam: Ios Press",
+      "datestamp": "2017-11-30 08:19:33",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2693822",
+      "publication": "JOURNAL OF AMBIENT INTELLIGENCE AND SMART ENVIRONMENTS",
+      "abstract": "With the increase of connected devices and online services, the number of notifications received by each person is growing. Although notifications are useful to inform users about important information such as new messages and events, the continuous interruptions, the notification duplication, and the rigid delivery can be sources of discomfort. To overcome these issues, we present AwareNotifications, an intelligent system based on user-defined preferences to manage multi-device notifications. AwareNotifications is powered by Semantic Web technologies. By directly exploiting user preferences in the semantic reasoning process, the system is able to identify suitable device(s), modality, and moment(s) to deliver the incoming user notifications. We evaluated AwareNotifications in a user study with 15 participants, in which we compared our system with the \\\"traditional\\\" notification delivery system. The study confirms the perceived effectiveness of AwareNotifications, and provides insights to further improve the system.",
       "type": "article",
-      "title": "Training Engineers for the Ambient Intelligence Challenge",
-      "pages": 10,
+      "title": "AwareNotifications: Multi-Device Semantic Notification Handling with User-Defined Preferences",
+      "pages": 17,
       "types": "TYPES2",
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "twitted": 1,
-      "issn": "0018-9359",
-      "rev_number": 10,
-      "dir": "disk0\/02\/64\/80\/65",
+      "issn": "1876-1364",
+      "rev_number": 3,
+      "dir": "disk0\/02\/69\/38\/22",
       "creators": [
         {
           "name": {
@@ -25405,55 +27441,6 @@
             "family": "De Russis"
           },
           "id": 25734
-        }
-      ],
-      "lastmod": "2016-09-15 12:57:28",
-      "ispublished": "inpress",
-      "metadata_visibility": "show",
-      "id_number": "10.1109\/TE.2016.2608785",
-      "proprietary": {
-        "name": {
-          "lineage": 2154,
-          "given": "Fulvio",
-          "honourific": null,
-          "family": "Corno"
-        },
-        "id": 2154
-      },
-      "eprint_status": "archive",
-      "status_changed": "2016-09-12 14:39:16",
-      "language": [
-        "en"
-      ],
-      "full_text_status": "public",
-      "referee": "REF_1",
-      "refereed": 1,
-      "divisions": [
-        "DAUIN"
-      ],
-      "ssd": [
-        "ING-INF\/05"
-      ]
-    },
-    {
-      "authors_string": "Fulvio, Corno; Luigi, De Russis; Alberto, Monge Roffarello",
-      "types": "TYPES4",
-      "eprintid": 2644849,
-      "userdep": [
-        "USER_D1010"
-      ],
-      "userid": 2,
-      "upddate": "2016-07-07 17:42:28",
-      "rev_number": 2,
-      "creators": [
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
         },
         {
           "name": {
@@ -25463,24 +27450,12 @@
             "family": "Monge Roffarello"
           },
           "id": 40637
-        },
-        {
-          "name": {
-            "lineage": 25734,
-            "given": "Luigi",
-            "honourific": null,
-            "family": "De Russis"
-          },
-          "id": 25734
         }
       ],
-      "dir": "disk0\/02\/64\/48\/49",
-      "keywords": [
-        "ambient assisted living, wearable devices, disabilities, people with disabilities, assisted living facilities, healthcare assistants, caregivers, assistance requests"
-      ],
-      "lastmod": "2016-07-09 03:32:33",
+      "lastmod": "2017-12-02 03:01:48",
       "ispublished": "inpress",
-      "publisher": "IGI Global",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -25490,27 +27465,17 @@
         },
         "id": 25734
       },
-      "metadata_visibility": "show",
-      "irisid": 121525,
       "eprint_status": "archive",
-      "status_changed": "2016-07-07 19:42:27",
+      "status_changed": "2017-12-01 03:07:22",
       "language": [
         "en"
       ],
-      "book_title": "Handbook of Research on the Internet of Things and Advanced Applications in Healthcare \/ Reis C., Maximiano M.",
-      "datestamp": "2016-07-07 19:42:27",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2644849",
-      "full_text_status": "none",
-      "divisions": [
-        "DAUIN"
-      ],
-      "abstract": "Research activities on healthcare support systems mainly focus on people in their own homes or nurses and doctors in hospitals. A limited amount of research aims at supporting caregivers that work with people with disabilities in assisted living facilities (ALFs). This chapter explores and applies the Internet of Things to the ALF context. In particular, it presents the design, the implementation, and the experimental evaluation of Care4Me, a system supporting the daily activities of assistants. The requirements for designing and implementing Care4Me derive from a literature analysis and from a user study. The solution combines wearable and mobile technologies. With this healthcare support system, caregivers can be automatically alerted of potentially hazardous situations. Furthermore, inhabitants can require assistance instantly and from any point of the facility. The system was evaluated in two ways. The authors performed a functional test with a group of professional caregivers, and deployed the system in an ALF in Italy, collecting the opinions of caregivers and inhabitants",
-      "type": "book_section",
-      "title": "IoT for Ambient Assisted Living: Care4Me - A Healthcare Support System",
+      "full_text_status": "restricted",
+      "referee": "REF_1",
+      "refereed": 1,
       "ssd": [
         "ING-INF\/05"
-      ],
-      "pages": 24
+      ]
     }
 ]
 

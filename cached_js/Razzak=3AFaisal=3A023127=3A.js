@@ -4,8 +4,8 @@
       "eprintid": 2519025,
       "wos": {
         "cluster": 357989200004,
-        "datestamp": "2016-10-26 03:59:36",
-        "impact": 0
+        "datestamp": "2018-02-22 04:28:42",
+        "impact": 1
       },
       "date": 2015,
       "documents": [
@@ -63,8 +63,8 @@
       "title": "Autonomic goal-oriented device management for Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84949546003",
-        "datestamp": "2016-10-26 04:39:14",
-        "impact": 0
+        "datestamp": "2018-02-22 04:35:51",
+        "impact": 1
       },
       "pages": 24,
       "types": "TYPES2",
@@ -107,6 +107,7 @@
       ],
       "lastmod": "2016-05-19 03:32:36",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.3233\/AIS-150329",
       "proprietary": {
@@ -144,7 +145,7 @@
       "eprintid": 2510296,
       "wos": {
         "cluster": 352647600003,
-        "datestamp": "2016-10-26 03:29:31",
+        "datestamp": "2018-02-21 04:54:44",
         "impact": 2
       },
       "date": 2015,
@@ -168,7 +169,7 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 4,
+            "rev_number": 6,
             "copyright_date": "2014-12-23",
             "pos": 1,
             "language": "it",
@@ -182,7 +183,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/997778"
+                "uri": "\/id\/document\/1052808"
               }
             ],
             "copyright_operator": "MN",
@@ -209,8 +210,8 @@
       "title": "Real-Time Monitoring of High-Level States in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84925710465",
-        "datestamp": "2016-10-26 03:42:25",
-        "impact": 2
+        "datestamp": "2018-02-21 05:19:26",
+        "impact": 3
       },
       "pages": 21,
       "types": "TYPES2",
@@ -221,7 +222,7 @@
         "USER_D1010"
       ],
       "issn": "1876-1364",
-      "rev_number": 81,
+      "rev_number": 82,
       "dir": "disk0\/02\/51\/02\/96",
       "creators": [
         {
@@ -243,8 +244,9 @@
           "id": 23127
         }
       ],
-      "lastmod": "2016-10-29 02:36:52",
+      "lastmod": "2016-11-15 15:31:54",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.3233\/AIS-150310",
       "proprietary": {
@@ -277,7 +279,7 @@
       "eprintid": 2507278,
       "wos": {
         "cluster": 351240600009,
-        "datestamp": "2016-10-25 04:10:44",
+        "datestamp": "2018-02-21 04:37:54",
         "impact": 1
       },
       "date": 2014,
@@ -345,7 +347,7 @@
       "title": "SAT based Enforcement of Domotic Effects in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84905088535",
-        "datestamp": "2016-10-25 04:43:56",
+        "datestamp": "2018-02-21 04:54:30",
         "impact": 1
       },
       "pages": 15,
@@ -381,6 +383,7 @@
       ],
       "lastmod": "2016-09-20 02:53:55",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s12652-013-0183-x",
       "proprietary": {
@@ -433,7 +436,7 @@
                 }
             ],
             "content": "thesis",
-            "rev_number": 50,
+            "rev_number": 52,
             "original_note": "This thesis discusses the role of semantic web technologies in smart environments.",
             "pos": 1,
             "language": "it",
@@ -447,7 +450,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/932717"
+                "uri": "\/id\/document\/1087197"
               }
             ],
             "formatdesc": "The_Role_of_Semantic_Web_Technologies_in_Smart_Environments"
@@ -484,7 +487,7 @@
       "types": "TYPES16",
       "userid": 2,
       "twitted": 1,
-      "rev_number": 58,
+      "rev_number": 60,
       "dir": "disk0\/02\/50\/63\/66",
       "creators": [
         {
@@ -497,9 +500,11 @@
           "id": 23127
         }
       ],
-      "lastmod": "2016-06-15 23:26:35",
+      "lastmod": "2017-01-19 21:40:52",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
+      "id_number": "10.6092\/polito\/porto\/2506366",
       "proprietary": {
         "name": {
           "lineage": 23127,
@@ -521,18 +526,18 @@
       "divisions": [
         "DAUIN"
       ],
-      "institution": "Politecnico di Torino",
       "ssd": [
         "INF\/01"
-      ]
+      ],
+      "institution": "Politecnico di Torino"
     },
     {
       "authors_string": "Fulvio Corno; Faisal Razzak",
       "eprintid": 2501975,
       "wos": {
         "cluster": 325485000060,
-        "datestamp": "2016-10-24 03:53:02",
-        "impact": 18
+        "datestamp": "2018-02-20 04:47:18",
+        "impact": 26
       },
       "date": 2012,
       "documents": [
@@ -555,7 +560,7 @@
                 }
             ],
             "content": "published",
-            "rev_number": 2,
+            "rev_number": 4,
             "copyright_date": "2012-09-07",
             "pos": 1,
             "language": "it",
@@ -569,7 +574,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/898169"
+                "uri": "\/id\/document\/1168910"
               }
             ],
             "copyright_operator": "MMO",
@@ -597,8 +602,8 @@
       "title": "Intelligent Energy Optimization for User Intelligible Goals in Smart Home Environments",
       "scopus": {
         "cluster": "2-s2.0-84872060816",
-        "datestamp": "2016-10-24 04:14:45",
-        "impact": 26
+        "datestamp": "2018-02-20 04:57:53",
+        "impact": 35
       },
       "pages": 8,
       "types": "TYPES2",
@@ -609,7 +614,7 @@
         "USER_D1010"
       ],
       "issn": "1949-3053",
-      "rev_number": 60,
+      "rev_number": 62,
       "dir": "disk0\/02\/50\/19\/75",
       "creators": [
         {
@@ -631,8 +636,9 @@
           "id": 23127
         }
       ],
-      "lastmod": "2016-05-07 01:29:17",
+      "lastmod": "2017-09-08 12:23:40",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TSG.2012.2214407",
@@ -666,8 +672,8 @@
       "eprintid": 2496718,
       "wos": {
         "cluster": 314400700046,
-        "datestamp": "2016-10-23 03:23:45",
-        "impact": 2
+        "datestamp": "2018-02-19 04:23:28",
+        "impact": 3
       },
       "date": 2012,
       "documents": [
@@ -729,8 +735,8 @@
       "title": "Publishing LO(D)D: Linked Open (Dynamic) Data for Smart Sensing and Measuring Environments",
       "scopus": {
         "cluster": "2-s2.0-84896939132",
-        "datestamp": "2016-10-23 03:31:26",
-        "impact": 3
+        "datestamp": "2018-02-19 04:28:53",
+        "impact": 4
       },
       "pages": 8,
       "types": "TYPES8",
@@ -764,6 +770,7 @@
       ],
       "lastmod": "2016-05-19 02:51:39",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -809,11 +816,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2013-03-20 13:05:08",
+                  "mtime": "2015-10-29 12:05:43",
                   "datasetid": "document",
-                  "fileid": 1153344,
-                  "objectid": 503371,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1153344",
+                  "fileid": 2242775,
+                  "objectid": 1126264,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2242775",
                   "mime_type": "application\/pdf",
                   "hash": "121540d6be5656bd7779c38e98d4b21f",
                   "filesize": 191636,
@@ -827,45 +834,45 @@
             "license": "not_public",
             "main": "cr.pdf",
             "original_docid": 58136,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/503371",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1126264",
             "format": "application\/pdf",
-            "docid": 503371,
+            "docid": 1126264,
             "security": "staffonly",
-            "formatdesc": "Semantic_Web_Technologies_role_in_Smart_Environments"
+            "formatdesc": "cr.pdf"
           }
       ],
-      "upddate": "2013-04-08 16:05:27",
+      "upddate": "2017-05-19 15:18:41",
       "keywords": [
-        "domotic effects",
-        "seipf",
+        "smart environments",
         "semantic web technologies' role",
-        "lo(d)d",
         "ambient intelligence",
-        "smart environments"
+        "domotic effects",
+        "lo(d)d",
+        "seipf"
       ],
       "isbn": 9783642336171,
       "pagerange": "54-58",
       "publisher": "P. Herrero et al. (Eds.)",
       "event_title": "OTM 2012 Workshops",
       "irisid": 77768,
-      "publisher_review": "Springer Verlag Germany:Tiergartenstrasse 17, D 69121 Heidelberg Germany:011 49 6221 3450, EMAIL: g.braun@springer.de, INTERNET: http:\/\/www.springer.de, Fax: 011 49 6221 345229",
+      "publisher_review": "Springer",
       "book_title": "LNCS",
       "datestamp": "2012-10-04 15:01:04",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2502728",
       "publication": "LECTURE NOTES IN COMPUTER SCIENCE",
-      "abstract": "Today semantic web technologies and Linked Data principles are providing formalism, standards, shared data semantics and data integration for unstructured data over the web. The result is a transformation from theWeb of Interaction to theWeb of Data and actionable information. On the crossroad lies our daily lives, containing plethora of unstructured data which is originating from low cost sensors and appliances to every computational element used in our modern lives, including computers, interactive watches, mobile phones, GPS devices etc. These facts accentuate an opportunity for system designers to combine these islands of data into a large actionable information space which can be utilized by automated and intelligent agents. As a result, this phenomenon is likely to institute a space that is smart enough to provide humans with comfort of living and to build an efficient society. Thus, in this context, the focus of my research has been to propose solutions to the problems in the domains of smart environment and energy management, under the umbrella of ambient intelligence. The potential role of semantic web technologies in these proposed solutions has been analyzed and architectures for these solutions were designed, implemented and tested",
+      "abstract": "Today semantic web technologies and Linked Data principles are providing formalism, standards, shared data semantics and data integration for unstructured data over the web. The result is a transformation from theWeb of Interaction to theWeb of Data and actionable information. On the crossroad lies our daily lives, containing plethora of unstructured data which is originating from low cost sensors and appliances to every computational element used in our modern lives, including computers, interactive watches, mobile phones, GPS devices etc. These facts accentuate an opportunity for system designers to combine these islands of data into a large actionable information space which can be utilized by automated and intelligent agents. As a result, this phenomenon is likely to institute a space that is smart enough to provide humans with comfort of living and to build an efficient society. Thus, in this context, the focus of my research has been to propose solutions to the problems in the domains of smart environment and energy management, under the umbrella of ambient intelligence. The potential role of semantic web technologies in these proposed solutions has been analyzed and architectures for these solutions were designed, implemented and tested.",
       "type": "conference_item",
       "title": "Semantic Web Technologies' Role in Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84873840471",
-        "datestamp": "2016-10-25 03:15:36",
+        "datestamp": "2018-02-20 05:17:02",
         "impact": 0
       },
       "pages": 5,
       "types": "TYPES8",
       "userid": 2,
       "issn": "0302-9743",
-      "rev_number": 6,
+      "rev_number": 17,
       "dir": "disk0\/02\/50\/27\/28",
       "creators": [
         {
@@ -878,8 +885,9 @@
           "id": 23127
         }
       ],
-      "lastmod": "2014-10-29 17:20:01",
+      "lastmod": "2017-05-21 02:06:23",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 23127,
@@ -902,15 +910,18 @@
       "referee": "REF_4",
       "related_url": [
         {
-          "url": "http:\/\/link.springer.com\/chapter\/10.1007%2F978-3-642-33618-8_8"
+          "url": "http:\/\/dx.doi.org\/10.1007\/978-3-642-33618-8_8"
         },
         {
-          "url": "http:\/\/dx.doi.org\/10.1007\/978-3-642-33618-8_8"
+          "url": "http:\/\/link.springer.com\/chapter\/10.1007%2F978-3-642-33618-8_8"
         }
       ],
       "refereed": 1,
       "divisions": [
         "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
       ]
     },
     {
@@ -918,8 +929,8 @@
       "eprintid": 2502682,
       "wos": {
         "cluster": 314400700079,
-        "datestamp": "2016-10-24 04:04:11",
-        "impact": 3
+        "datestamp": "2018-02-20 05:02:48",
+        "impact": 6
       },
       "date": 2012,
       "upddate": "2016-05-10 12:06:12",
@@ -949,8 +960,8 @@
       "title": "Spamming the Internet of Things: A Possibility and its probable Solution",
       "scopus": {
         "cluster": "2-s2.0-84875366170",
-        "datestamp": "2016-10-24 04:33:06",
-        "impact": 6
+        "datestamp": "2018-02-20 05:15:43",
+        "impact": 7
       },
       "pages": 8,
       "types": "TYPES8",
@@ -971,6 +982,7 @@
       ],
       "lastmod": "2016-05-12 03:39:19",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.procs.2012.06.084",
       "proprietary": {
@@ -1005,8 +1017,8 @@
       "eprintid": 2381047,
       "wos": {
         "cluster": 290978900027,
-        "datestamp": "2016-10-21 03:16:09",
-        "impact": 12
+        "datestamp": "2018-03-18 05:06:39",
+        "impact": 13
       },
       "date": 2011,
       "documents": [
@@ -1099,7 +1111,7 @@
       "title": "Enabling Machine Understandable Exchange of Energy Consumption Information in Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-79953745282",
-        "datestamp": "2016-10-21 03:16:57",
+        "datestamp": "2018-03-18 05:30:26",
         "impact": 16
       },
       "pages": 11,
@@ -1143,6 +1155,7 @@
       ],
       "lastmod": "2016-04-23 10:21:22",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.enbuild.2011.01.013",
@@ -1176,7 +1189,7 @@
       "eprintid": 2366483,
       "wos": {
         "cluster": 295015302078,
-        "datestamp": "2016-10-19 03:48:22",
+        "datestamp": "2018-03-17 04:56:26",
         "impact": 0
       },
       "date": 2010,
@@ -1195,8 +1208,8 @@
       "title": "Mobile Interaction with Smart Environments through Linked Data",
       "scopus": {
         "cluster": "2-s2.0-78751530656",
-        "datestamp": "2016-10-19 04:11:16",
-        "impact": 5
+        "datestamp": "2018-03-17 05:15:02",
+        "impact": 7
       },
       "pages": 8,
       "place_of_pub": "NEW YORK",
@@ -1239,6 +1252,7 @@
       ],
       "lastmod": "2016-10-12 04:45:18",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ICSMC.2010.5641951",
       "proprietary": {
@@ -1266,16 +1280,26 @@
     },
     {
       "authors_string": "Razzak F.; Castellina E; F. Corno",
-      "types": "TYPES8",
       "eprintid": 2282219,
-      "twitted": 1,
       "date": 2009,
+      "upddate": "2012-07-06 23:13:57",
+      "event_title": "COGAIN 2009: Gaze Interaction For Those Who Want It Most, COGAIN 2009",
+      "irisid": 59766,
+      "event_dates": "26\/05\/2009",
+      "book_title": "COGAIN 2009: Gaze Interaction For Those Who Want It Most, COGAIN 2009",
+      "datestamp": "2009-10-16 16:33:00",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2282219",
+      "event_location": "Copenaghen, Denmark",
+      "type": "conference_item",
+      "title": "Environmental Control Application compliant with Cogain Guidelines",
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2012-07-06 23:13:57",
+      "twitted": 1,
       "rev_number": 3,
+      "dir": "disk0\/02\/28\/22\/19",
       "creators": [
         {
           "name": {
@@ -1305,9 +1329,10 @@
           "id": 2154
         }
       ],
-      "dir": "disk0\/02\/28\/22\/19",
       "lastmod": "2014-10-27 19:03:37",
       "ispublished": "pub",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 23127,
@@ -1317,26 +1342,16 @@
         },
         "id": 23127
       },
-      "event_title": "COGAIN 2009: Gaze Interaction For Those Who Want It Most, COGAIN 2009",
-      "metadata_visibility": "show",
-      "irisid": 59766,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:06:47",
       "language": [
         "en"
       ],
-      "event_dates": "26\/05\/2009",
       "event_relevance": "I",
-      "book_title": "COGAIN 2009: Gaze Interaction For Those Who Want It Most, COGAIN 2009",
-      "datestamp": "2009-10-16 16:33:00",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2282219",
-      "event_location": "Copenaghen, Denmark",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "conference_item",
-      "title": "Environmental Control Application compliant with Cogain Guidelines",
       "ssd": [
         "ING-INF\/05"
       ]

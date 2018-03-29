@@ -1,5 +1,144 @@
 [
     {
+      "authors_string": "Aced López, Sebastián; Corno, Fulvio; De Russis, Luigi",
+      "eprintid": 2669698,
+      "date": 2017,
+      "documents": [
+          {
+            "disclaimer": "acm_draft",
+            "placement": 1,
+            "eprintid": 2669698,
+            "insert_date": "2017-08-11 10:42:56",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-11 10:42:56",
+                  "datasetid": "document",
+                  "fileid": 2303743,
+                  "objectid": 1163549,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2303743",
+                  "mime_type": "application\/pdf",
+                  "hash": "b0275dde604a48f89739f8db5bf6aa67",
+                  "filesize": 5511893,
+                  "filename": "01_journal_gnomon.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 8,
+            "copyright_date": "2017-08-21",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1163549",
+            "original_docid": 158654,
+            "main": "01_journal_gnomon.pdf",
+            "format": "application\/pdf",
+            "docid": 1163549,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1167059"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "01_journal_gnomon.pdf"
+          }
+      ],
+      "upddate": "2017-08-11 10:42:56",
+      "keywords": [
+        "action-oriented games",
+        "children with disabilities",
+        "one-switch interaction",
+        "single-switch selection",
+        "accessible games"
+      ],
+      "pagerange": "1-42",
+      "publisher": "ACM",
+      "irisid": 148260,
+      "publisher_review": "New York, N.Y. : Association for Computing Machinery, 2008-",
+      "datestamp": "2017-04-23 14:35:56",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2669698",
+      "publication": "ACM TRANSACTIONS ON ACCESSIBLE COMPUTING",
+      "abstract": "Video games are not just played for fun; they have become a handy instrument for the cognitive, emotional, and social development of children. However, several barriers prevent many children with disabilities from playing action-oriented video games, alone or with their peers. In particular, children with severe motor disabilities, who rely on one-switch interaction for accessing electronic devices, find fast-paced games that require rapid decision-making and timely responses, completely unplayable. This article contributes to lowering such barriers by presenting GNomon (Gaming NOMON), a software framework based on the NOMON mode of interaction that allows the creation of action-oriented single-switch video games. The article reports the results of two studies that evaluate the playability and rehabilitation suitability of GNomon-based video games. The playability of GNomon-based games is evaluated by assessing their learnability, effectiveness, errors, satisfaction, memorability, and enjoyability with a group of eight children with severe motor disabilities. The suitability for pediatric rehabilitation is determined by means of a focus group with a team of speech therapists, physiotherapists, and psychologists from a Local Health Agency in Turin, Italy. The results of the playability study are positive: All children had fun playing GNomon-based video games, and seven of eight were able to interact and play autonomously. The results of the rehabilitation-suitability study also entail that GNomon-based games can be exploited in training hand-eye coordination and maintenance of selective attention over time. The article finally offers critical hindsight and reflections and shows possible new future game concepts.",
+      "type": "article",
+      "title": "Design and Development of One-Switch Video Games for Children with Severe Motor Disabilities",
+      "scopus": {
+        "cluster": "2-s2.0-85027516758",
+        "datestamp": "2018-02-27 04:58:45",
+        "impact": 0
+      },
+      "pages": 42,
+      "types": "TYPES2",
+      "number": 4,
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "1936-7228",
+      "rev_number": 10,
+      "dir": "disk0\/02\/66\/96\/98",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        },
+        {
+          "name": {
+            "lineage": 27070,
+            "given": "Sebastian",
+            "honourific": null,
+            "family": "Aced Lopez"
+          },
+          "id": 27070
+        }
+      ],
+      "lastmod": "2017-09-01 17:26:13",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/3085957",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-04-24 02:00:35",
+      "language": [
+        "en"
+      ],
+      "volume": 10,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
       "authors_string": "Aced Lopez, S.",
       "eprintid": 2646739,
       "thesis_type": "phd",
@@ -76,6 +215,7 @@
       ],
       "lastmod": "2016-09-03 00:27:00",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.6092\/polito\/porto\/2646739",
       "proprietary": {
@@ -99,10 +239,10 @@
       "divisions": [
         "DAUIN"
       ],
-      "institution": "Politecnico di Torino",
       "ssd": [
         "ING-INF\/05"
-      ]
+      ],
+      "institution": "Politecnico di Torino"
     },
     {
       "authors_string": "Aced López, Sebastián; Corno, Fulvio; De Russis, Luigi",
@@ -170,6 +310,11 @@
       "abstract": "Children that rely on the use of single switches to access electronic devices, due to physical impairments, can play dynamic video games as their normally developing peers thanks to GNomon: one of the first framework for creating dynamic one-switch video games. However, children with physical impairments that also have cognitive disabilities find additional difficulties in using the current GNomon-based interface. To compensate these difficulties, the \\\"classical\\\" GNomon widget must be rethought and simplified. This paper proposes a parallel between three different widgets specifically designed for GNomon-based interfaces. Each widget employs metaphor in a different way and it has been evaluated with six children with motor and cognitive disabilities. The results are encouraging: a widget, based on the \\\"big and small\\\" concept, is preferred by children and is a candidate to make single-switch games easier to approach",
       "type": "conference_item",
       "title": "Clocks, Bars and Balls: Design and Evaluation of Alternative GNomon Widgets for Children with Disabilities",
+      "scopus": {
+        "cluster": "2-s2.0-85014670176",
+        "datestamp": "2018-02-25 04:50:39",
+        "impact": 1
+      },
       "pages": 7,
       "place_of_pub": "New York, NY, USA",
       "types": "TYPES8",
@@ -211,6 +356,7 @@
       ],
       "lastmod": "2016-05-13 04:15:32",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -242,7 +388,7 @@
       "eprintid": 2620664,
       "wos": {
         "cluster": 380614200093,
-        "datestamp": "2016-10-30 04:18:12",
+        "datestamp": "2018-02-24 04:59:45",
         "impact": 0
       },
       "date": 2015,
@@ -269,7 +415,7 @@
       "title": "Can We Make Dynamic, Accessible and Fun One-Switch Video Games?",
       "scopus": {
         "cluster": "2-s2.0-84962653798",
-        "datestamp": "2016-10-30 04:19:29",
+        "datestamp": "2018-02-24 05:21:54",
         "impact": 0
       },
       "pages": 2,
@@ -312,6 +458,7 @@
       ],
       "lastmod": "2015-11-05 16:54:38",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/2700648.2811333",
       "proprietary": {
@@ -362,7 +509,7 @@
                 }
             ],
             "content": "published",
-            "rev_number": 16,
+            "rev_number": 18,
             "copyright_date": "2015-02-26",
             "copyright_note": "Copyright is held by the owner\/author(s).CHI'15 Extended Abstracts, Apr 18-23, 2015, Seoul, Republic of Korea",
             "pos": 1,
@@ -377,7 +524,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/935518"
+                "uri": "\/id\/document\/1052804"
               }
             ],
             "copyright_operator": "MN",
@@ -407,8 +554,8 @@
       "title": "GNomon: Enabling Dynamic One-Switch Games for Children with Severe Motor Disabilities",
       "scopus": {
         "cluster": "2-s2.0-84954210169",
-        "datestamp": "2016-10-28 04:44:03",
-        "impact": 0
+        "datestamp": "2018-02-23 05:44:47",
+        "impact": 4
       },
       "pages": 6,
       "types": "TYPES8",
@@ -417,7 +564,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 27,
+      "rev_number": 29,
       "dir": "disk0\/02\/58\/82\/19",
       "creators": [
         {
@@ -448,8 +595,9 @@
           "id": 25734
         }
       ],
-      "lastmod": "2016-06-22 05:46:19",
+      "lastmod": "2016-11-15 13:46:23",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -482,7 +630,7 @@
       "eprintid": 2570937,
       "wos": {
         "cluster": 365176500025,
-        "datestamp": "2016-07-29 04:12:38",
+        "datestamp": "2018-02-23 04:50:14",
         "impact": 0
       },
       "date": 2015,
@@ -552,7 +700,7 @@
       "title": "IoT Meets Caregivers: a Healthcare Support System in Assisted Living Facilities",
       "scopus": {
         "cluster": "2-s2.0-84948760964",
-        "datestamp": "2016-10-28 04:02:55",
+        "datestamp": "2018-02-23 05:03:09",
         "impact": 0
       },
       "pages": 6,
@@ -596,6 +744,7 @@
       ],
       "lastmod": "2016-05-07 14:26:11",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -629,7 +778,7 @@
       "eprintid": 2605010,
       "wos": {
         "cluster": 380422800027,
-        "datestamp": "2016-10-29 03:38:04",
+        "datestamp": "2018-02-24 04:32:08",
         "impact": 0
       },
       "date": 2015,
@@ -700,8 +849,8 @@
       "title": "Playable One-Switch Video Games for Children with Severe Motor Disabilities Based on GNomon",
       "scopus": {
         "cluster": "2-s2.0-84959051383",
-        "datestamp": "2016-10-29 03:56:23",
-        "impact": 0
+        "datestamp": "2018-02-24 04:41:57",
+        "impact": 3
       },
       "pages": 10,
       "types": "TYPES8",
@@ -743,6 +892,7 @@
       ],
       "lastmod": "2016-08-31 15:00:58",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -775,51 +925,60 @@
       "eprintid": 2582743,
       "wos": {
         "cluster": 350366500011,
-        "datestamp": "2016-09-28 03:24:59",
-        "impact": 0
+        "datestamp": "2018-02-23 05:08:09",
+        "impact": 3
       },
       "date": 2015,
       "documents": [
           {
             "placement": 1,
             "eprintid": 2582743,
-            "insert_date": "2015-10-29 12:10:58",
+            "insert_date": "2017-10-13 13:57:07",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2015-10-29 12:10:58",
+                  "mtime": "2017-10-13 13:57:07",
                   "datasetid": "document",
-                  "fileid": 1869467,
-                  "objectid": 907744,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1869467",
+                  "fileid": 2357874,
+                  "objectid": 1196194,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2357874",
                   "mime_type": "application\/pdf",
                   "hash": "c7762fba9d79b0259d6b9b9b61b3b102",
                   "filesize": 364701,
                   "filename": "main.pdf"
                 }
             ],
-            "content": "draft",
-            "rev_number": 2,
+            "content": "published",
+            "rev_number": 3,
+            "copyright_date": "2017-10-16",
+            "original_note": "Il Gruppo Copyright ha modificato la licenza da â��Non Pubblicoâ�� a â��Pubblicoâ�� coerentemente alla scelta della policy di accesso: â��Embargo 31\/01\/2015â��, ora â��Visibile a tuttiâ��",
             "pos": 1,
             "language": "it",
-            "license": "not_public",
-            "main": "main.pdf",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1196194",
             "original_docid": 64045,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/907744",
+            "main": "main.pdf",
             "format": "application\/pdf",
-            "docid": 907744,
-            "security": "staffonly",
+            "docid": 1196194,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1197936"
+              }
+            ],
+            "copyright_operator": "MN",
             "formatdesc": "main.pdf"
           }
       ],
-      "upddate": "2016-05-10 15:04:10",
+      "upddate": "2017-10-13 13:57:07",
       "keywords": [
-        "assisted living facilities",
-        "healthcare support system",
-        "design guidelines",
         "focus groups",
         "caregivers",
-        "persons with disabilities"
+        "persons with disabilities",
+        "assisted living facilities",
+        "healthcare support system",
+        "design guidelines"
       ],
       "pagerange": "133-144",
       "publisher": "Springer",
@@ -828,25 +987,35 @@
       "datestamp": "2014-12-19 11:02:58",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2582743",
       "publication": "UNIVERSAL ACCESS IN THE INFORMATION SOCIETY",
-      "abstract": "Research activities on designing healthcare support systems in the field of ambient assisted living are mainly focused on addressing two problems: improving the quality of life for people in their own homes, especially the elderly, and supporting nurses and physicians in hospitals. However, few papers focus on designing specific systems for supporting caregivers that work with persons with disabilities in the context of assisted living facilities (ALFs). This paper intends to contribute to filling this gap and presents a series of guidelines for designing systems that could effectively support caregivers in tasks such as monitoring ALF inhabitants, attending to their assistance requests and managing notes and reminders regarding daily activities. These design guidelines derive from the qualitative analysis of a comprehensive user study, carried out in northern Italy, of three focus groups conducted with a total of 30 caregivers in three different ALFs for persons with physical and cognitive disabilities",
+      "abstract": "Research activities on designing healthcare support systems in the field of ambient assisted living are mainly focused on addressing two problems: improving the quality of life for people in their own homes, especially the elderly, and supporting nurses and physicians in hospitals. However, few papers focus on designing specific systems for supporting caregivers that work with persons with disabilities in the context of assisted living facilities (ALFs). This paper intends to contribute to filling this gap and presents a series of guidelines for designing systems that could effectively support caregivers in tasks such as monitoring ALF inhabitants, attending to their assistance requests and managing notes and reminders regarding daily activities. These design guidelines derive from the qualitative analysis of a comprehensive user study, carried out in northern Italy, of three focus groups conducted with a total of 30 caregivers in three different ALFs for persons with physical and cognitive disabilities.",
       "type": "article",
       "title": "Supporting Caregivers in Assisted Living Facilities for Persons with Disabilities: a User Study",
       "scopus": {
         "cluster": "2-s2.0-84925538136",
-        "datestamp": "2016-10-28 04:25:57",
-        "impact": 1
+        "datestamp": "2018-02-23 05:28:07",
+        "impact": 5
       },
       "pages": 12,
       "types": "TYPES2",
       "number": 1,
+      "twitted": 1,
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
       "issn": "1615-5289",
-      "rev_number": 14,
+      "rev_number": 22,
       "dir": "disk0\/02\/58\/27\/43",
       "creators": [
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
+        },
         {
           "name": {
             "lineage": 25734,
@@ -864,19 +1033,11 @@
             "family": "Aced Lopez"
           },
           "id": 27070
-        },
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
         }
       ],
-      "lastmod": "2016-05-12 03:46:52",
+      "lastmod": "2017-10-19 09:05:47",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s10209-014-0400-1",
       "proprietary": {
@@ -894,7 +1055,7 @@
         "en"
       ],
       "volume": 14,
-      "full_text_status": "restricted",
+      "full_text_status": "public",
       "referee": "REF_1",
       "refereed": 1,
       "divisions": [
@@ -909,7 +1070,7 @@
       "eprintid": 2518929,
       "wos": {
         "cluster": 342901400024,
-        "datestamp": "2016-10-26 03:57:41",
+        "datestamp": "2018-02-22 04:26:47",
         "impact": 0
       },
       "date": 2014,
@@ -979,7 +1140,7 @@
       "title": "Template-based ontology population for Smart Environments configuration",
       "scopus": {
         "cluster": "2-s2.0-84901335491",
-        "datestamp": "2016-10-26 04:34:43",
+        "datestamp": "2018-02-22 04:32:50",
         "impact": 0
       },
       "pages": 8,
@@ -1023,6 +1184,7 @@
       ],
       "lastmod": "2016-05-13 10:19:07",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 2154,

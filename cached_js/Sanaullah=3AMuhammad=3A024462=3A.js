@@ -4,8 +4,8 @@
       "eprintid": 2519025,
       "wos": {
         "cluster": 357989200004,
-        "datestamp": "2016-10-26 03:59:36",
-        "impact": 0
+        "datestamp": "2018-02-22 04:28:42",
+        "impact": 1
       },
       "date": 2015,
       "documents": [
@@ -63,8 +63,8 @@
       "title": "Autonomic goal-oriented device management for Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84949546003",
-        "datestamp": "2016-10-26 04:39:14",
-        "impact": 0
+        "datestamp": "2018-02-22 04:35:51",
+        "impact": 1
       },
       "pages": 24,
       "types": "TYPES2",
@@ -107,6 +107,7 @@
       ],
       "lastmod": "2016-05-19 03:32:36",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.3233\/AIS-150329",
       "proprietary": {
@@ -164,7 +165,7 @@
                 }
             ],
             "content": "thesis",
-            "rev_number": 5,
+            "rev_number": 7,
             "pos": 1,
             "language": "it",
             "license": "cc_by_nc_sa",
@@ -177,7 +178,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/575702"
+                "uri": "\/id\/document\/1089197"
               }
             ],
             "formatdesc": "Sanaullah_Phd_Thesis"
@@ -201,7 +202,7 @@
       "types": "TYPES16",
       "userid": 2,
       "twitted": 1,
-      "rev_number": 11,
+      "rev_number": 13,
       "dir": "disk0\/02\/53\/67\/25",
       "creators": [
         {
@@ -214,9 +215,11 @@
           "id": 24462
         }
       ],
-      "lastmod": "2015-01-12 18:13:21",
+      "lastmod": "2017-01-26 14:02:11",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
+      "id_number": "10.6092\/polito\/porto\/2536725",
       "proprietary": {
         "name": {
           "lineage": 24462,
@@ -238,18 +241,18 @@
       "divisions": [
         "DAUIN"
       ],
-      "institution": "Politecnico di Torino",
       "ssd": [
         "ING-INF\/05"
-      ]
+      ],
+      "institution": "Politecnico di Torino"
     },
     {
       "authors_string": "Fulvio Corno; Muhammad Sanaullah",
       "eprintid": 2518928,
       "wos": {
         "cluster": 351240600010,
-        "datestamp": "2016-10-26 03:57:41",
-        "impact": 1
+        "datestamp": "2018-02-22 04:26:46",
+        "impact": 2
       },
       "date": 2014,
       "documents": [
@@ -313,8 +316,8 @@
       "title": "Design-time formal verification for smart environments: an exploratory perspective",
       "scopus": {
         "cluster": "2-s2.0-84905082972",
-        "datestamp": "2016-10-26 04:34:40",
-        "impact": 1
+        "datestamp": "2018-02-22 04:32:48",
+        "impact": 2
       },
       "pages": 19,
       "types": "TYPES2",
@@ -349,6 +352,7 @@
       ],
       "lastmod": "2016-04-25 17:36:24",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s12652-013-0209-4",
       "proprietary": {
@@ -386,8 +390,8 @@
       "eprintid": 2506415,
       "wos": {
         "cluster": 343009300016,
-        "datestamp": "2016-10-25 04:08:58",
-        "impact": 0
+        "datestamp": "2018-02-21 04:36:42",
+        "impact": 5
       },
       "date": 2014,
       "documents": [
@@ -410,7 +414,7 @@
                 }
             ],
             "content": "published",
-            "rev_number": 6,
+            "rev_number": 8,
             "copyright_date": "2013-04-10",
             "copyright_note": "WILEY-BLACKWELL PUBLISHING",
             "pos": 1,
@@ -425,7 +429,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/1006415"
+                "uri": "\/id\/document\/1166717"
               }
             ],
             "copyright_operator": "EP",
@@ -454,8 +458,8 @@
       "title": "Modeling and Formal Verification of Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84908202723",
-        "datestamp": "2016-10-25 04:40:22",
-        "impact": 3
+        "datestamp": "2018-02-21 04:51:57",
+        "impact": 8
       },
       "pages": 17,
       "types": "TYPES2",
@@ -466,7 +470,7 @@
         "USER_D1010"
       ],
       "issn": "1939-0122",
-      "rev_number": 49,
+      "rev_number": 51,
       "dir": "disk0\/02\/50\/64\/15",
       "creators": [
         {
@@ -488,8 +492,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2016-09-26 20:51:43",
+      "lastmod": "2017-08-31 07:40:32",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1002\/sec.794",
       "proprietary": {
@@ -522,8 +527,8 @@
       "eprintid": 2380472,
       "wos": {
         "cluster": 291365300002,
-        "datestamp": "2016-10-20 04:01:28",
-        "impact": 5
+        "datestamp": "2018-03-18 05:03:48",
+        "impact": 7
       },
       "date": 2011,
       "documents": [
@@ -610,8 +615,8 @@
       "title": "Design time Methodology for the Formal Verification of Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-80053003414",
-        "datestamp": "2016-10-20 04:29:52",
-        "impact": 4
+        "datestamp": "2018-03-18 05:25:15",
+        "impact": 5
       },
       "pages": 8,
       "place_of_pub": "Heidelberg",
@@ -644,6 +649,7 @@
       ],
       "lastmod": "2016-04-20 07:00:22",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -778,8 +784,8 @@
       "title": "Formal Verification of Device State Chart Models",
       "scopus": {
         "cluster": "2-s2.0-81255169269",
-        "datestamp": "2016-10-21 03:35:49",
-        "impact": 2
+        "datestamp": "2018-03-19 04:30:14",
+        "impact": 7
       },
       "pages": 8,
       "place_of_pub": "Los Alamitos, California",
@@ -813,6 +819,7 @@
       ],
       "lastmod": "2016-09-27 12:27:35",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "proprietary": {
         "name": {

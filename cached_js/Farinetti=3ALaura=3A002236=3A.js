@@ -1,7 +1,567 @@
 [
     {
+      "authors_string": "Cagliero, Luca; Farinetti, Laura; Mezzalama, Marco; Venuto, Enrico; Baralis, Elena",
+      "eprintid": 2678756,
+      "date": 2017,
+      "upddate": "2017-12-21 09:29:56",
+      "keywords": [
+        "learning analytics",
+        "educational video",
+        "massive online courses",
+        "blended learning",
+        "learning technologies",
+        "educational video",
+        "massive online courses",
+        "blended learning",
+        "learning technologies",
+        "learning analytics"
+      ],
+      "isbn": "978-1-5090-5920-1",
+      "pagerange": "1-9",
+      "publisher": "IEEE",
+      "event_title": "2017 IEEE Frontiers in Education Conference (FIE 2017)",
+      "irisid": 158264,
+      "event_dates": "October 18 - 21, 2017",
+      "book_title": "2017 IEEE Frontiers in Education Conference (FIE)",
+      "datestamp": "2017-08-31 15:55:14",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2678756",
+      "event_location": "Indianapolis, Indiana (USA)",
+      "abstract": "Our university has offered a massive educational video service since 2010, as part of a blended learning model that allows students to balance active participation in the classroom with remote access to video-recorded lectures. In these years, we have collected a huge amount of very detailed data about the students' access to the service. Together with additional information that characterize a university system (e.g. students' performance or course population), these data represent a precious ground set to assess the educational model. The paper describes an experimental set to profile the use of the educational video service, whose results will contribute to improve the model. Specifically the paper analyzes the students' service use relatively to different transversal course characteristics, such as level, main topic, population, success rate. As a result, it outlines the profile of the \\\"ideal\\\" courses for which students highly appreciate the service. This information will help educational designers to select the future courses to be included in the service, but it will also give directions on the sectors where improvements are necessary. Finally, the paper experimentally demonstrates a positive impact of the educational video service on students' performance, and specifically on the exam success rate.",
+      "type": "conference_item",
+      "title": "Educational video services in universities: a systematic effectiveness analysis",
+      "pages": 9,
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 11,
+      "dir": "disk0\/02\/67\/87\/56",
+      "creators": [
+        {
+          "name": {
+            "lineage": 710,
+            "given": "Marco",
+            "honourific": null,
+            "family": "Mezzalama"
+          },
+          "id": 710
+        },
+        {
+          "name": {
+            "lineage": 2041,
+            "given": "Elena Maria",
+            "honourific": null,
+            "family": "Baralis"
+          },
+          "id": 2041
+        },
+        {
+          "name": {
+            "lineage": 2236,
+            "given": "Laura",
+            "honourific": null,
+            "family": "Farinetti"
+          },
+          "id": 2236
+        },
+        {
+          "name": {
+            "lineage": 2407,
+            "given": "Enrico",
+            "honourific": null,
+            "family": "Venuto"
+          },
+          "id": 2407
+        },
+        {
+          "name": {
+            "lineage": 23058,
+            "given": "Luca",
+            "honourific": null,
+            "family": "Cagliero"
+          },
+          "id": 23058
+        }
+      ],
+      "lastmod": "2017-12-23 03:01:24",
+      "ispublished": "pub",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/FIE.2017.8190709",
+      "proprietary": {
+        "name": {
+          "lineage": 2236,
+          "given": "Laura",
+          "honourific": null,
+          "family": "Farinetti"
+        },
+        "id": 2236
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-09-01 02:07:11",
+      "language": [
+        "en"
+      ],
+      "volume": 1,
+      "full_text_status": "none",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Baralis, Elena; Cagliero, Luca; Farinetti, Laura; Mezzalama, Marco; Venuto, Enrico",
+      "eprintid": 2672452,
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2672452,
+            "insert_date": "2017-09-21 12:58:56",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-21 12:58:56",
+                  "datasetid": "document",
+                  "fileid": 2331030,
+                  "objectid": 1179879,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2331030",
+                  "mime_type": "application\/pdf",
+                  "hash": "e459b5316b267e261b215abd8cb956a1",
+                  "filesize": 797380,
+                  "filename": "275_Camera_ready.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2017-09-22",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1179879",
+            "original_docid": 162458,
+            "main": "275_Camera_ready.pdf",
+            "format": "application\/pdf",
+            "docid": 1179879,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1180503"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "275_Camera_ready.pdf"
+          }
+      ],
+      "upddate": "2017-09-21 12:58:57",
+      "keywords": [
+        "learning methodologies",
+        "learning technologies",
+        "learning analytics",
+        "educational video",
+        "massive online courses",
+        "learning analytics",
+        "educational video",
+        "massive online courses",
+        "learning methodologies",
+        "learning technologies"
+      ],
+      "isbn": "978-1-5386-0367-3",
+      "pagerange": "381-390",
+      "publisher": "IEEE",
+      "event_title": "41st IEEE Computer Society International Conference on Computers, Software & Applications (COMPSAC 2017), Symposium on Computer Education & Learning Technologies (CELT)",
+      "irisid": 151106,
+      "event_dates": "July 4 - 8, 2017",
+      "book_title": "2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC)",
+      "datestamp": "2017-05-24 14:26:34",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2672452",
+      "event_location": "Torino (Italy)",
+      "abstract": "New information and communication technologies offer today many opportunities to improve the quality of educational services in universities and in particular they allow to design and implement innovative learning models. This paper describes and validates our university blended learning model, and specifically the massive educational video service that we offer to our students since 2010. In these years, we have gathered a huge amount of detailed data about the students' access to the service, and the paper describes a number of analyses that we carried out with these data. The common goal was to find out experimentally whether the main objectives of the educational video service we had in our mind when we designed it, namely appreciation, effectiveness and flexibility, were reflected by the users' behavior. We analyzed how many students used the service, for how many courses, and how many videos they accessed within a course (appreciation of the service). We analyzed the correlation between the use of the service and the performance of the students in terms of successful examination rate and average mark (effectiveness of the service). Finally, by using data mining techniques we profiled users according to their behavior while accessing the educational video service. We found out six different patterns that reflect different uses of the services matching different learning goals (flexibility of the service). The results of these analyses show the quality of the proposed blended learning model and the coherency of its implementation with respect to the design goals.",
+      "type": "conference_item",
+      "title": "Experimental validation of a massive educational service in a blended learning environment",
+      "scopus": {
+        "cluster": "2-s2.0-85031904460",
+        "datestamp": "2018-02-27 05:25:20",
+        "impact": 0
+      },
+      "pages": 10,
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 13,
+      "dir": "disk0\/02\/67\/24\/52",
+      "creators": [
+        {
+          "name": {
+            "lineage": 710,
+            "given": "Marco",
+            "honourific": null,
+            "family": "Mezzalama"
+          },
+          "id": 710
+        },
+        {
+          "name": {
+            "lineage": 2041,
+            "given": "Elena Maria",
+            "honourific": null,
+            "family": "Baralis"
+          },
+          "id": 2041
+        },
+        {
+          "name": {
+            "lineage": 2236,
+            "given": "Laura",
+            "honourific": null,
+            "family": "Farinetti"
+          },
+          "id": 2236
+        },
+        {
+          "name": {
+            "lineage": 2407,
+            "given": "Enrico",
+            "honourific": null,
+            "family": "Venuto"
+          },
+          "id": 2407
+        },
+        {
+          "name": {
+            "lineage": 23058,
+            "given": "Luca",
+            "honourific": null,
+            "family": "Cagliero"
+          },
+          "id": 23058
+        }
+      ],
+      "lastmod": "2017-09-23 04:07:32",
+      "ispublished": "pub",
+      "openaire": 1,
+      "proprietary": {
+        "name": {
+          "lineage": 2236,
+          "given": "Laura",
+          "honourific": null,
+          "family": "Farinetti"
+        },
+        "id": 2236
+      },
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/COMPSAC.2017.123",
+      "eprint_status": "archive",
+      "status_changed": "2017-05-25 02:03:38",
+      "language": [
+        "en"
+      ],
+      "volume": 1,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Mezzalama, Marco; Venuto, Enrico; Farinetti, Laura",
+      "eprintid": 2678645,
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2678645,
+            "insert_date": "2017-08-29 18:53:30",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-08-29 18:53:30",
+                  "datasetid": "document",
+                  "fileid": 2307986,
+                  "objectid": 1165997,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2307986",
+                  "mime_type": "application\/pdf",
+                  "hash": "0a7bdeac893a1ba6ca55d55333c61e0b",
+                  "filesize": 1809698,
+                  "filename": "2017814223618577.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2017-08-30",
+            "copyright_note": "Messo OA, no info su copyright ma scaricabile online",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1165997",
+            "original_docid": 159080,
+            "main": "2017814223618577.pdf",
+            "format": "application\/pdf",
+            "docid": 1165997,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1166694"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "2017814223618577.pdf"
+          }
+      ],
+      "upddate": "2017-08-29 18:53:31",
+      "keywords": [
+        "learning technologies",
+        "mobile learning",
+        "blended learning"
+      ],
+      "pagerange": "166-178",
+      "publisher": "Academic Star Publishing Company",
+      "irisid": 158126,
+      "publisher_review": "New York, NY : Academic Star Pub.",
+      "datestamp": "2017-08-29 18:32:46",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2678645",
+      "publication": "JOURNAL OF MODERN EDUCATION REVIEW",
+      "abstract": "Universities today have an incredible variety of opportunities for improving their services, thanks to the new information and communication technologies and opportunities. This paper describes the Politecnico di Torino strategy for online and distance learning, both from the technological and the methodological points of view, focusing on the response to the continuously evolving teaching paradigms: from traditional distance learning models to hybrid and blended models, up to the recent MOOC approaches. The on-line educational environment has been designed for a very large number of users: 33,000 students enrolled in 51 curricula, B.S. and M.S. in different areas of Engineering, and it is suitable both for face-to-face students and remote ones. At present the number of logins per months exceeds 1,000,000 and the system provides access to about half a million of educational documents; in total, the number of downloads per yearis over 10,000,000. The paper specifically describes the video-lecture service, that makes about 3,000 hours of lectures available every year (80 courses are involved) and generates about 1,200,000 video streaming\/downloads per year. Mobile devices are becoming more and more the favorite tool for accessing university services and content, and Politecnico di Torino followed the technological evolution to improve its services from the traditional web approach to the mobile App model, passing through a number of intermediate steps such as the responsive web and the mobile web models. The paper describes the strategies and the technological choices used to design and deliver the Educational Portal of Politecnico di Torino, that includes the new official App (PoliTO App). This App allows students, teachers and university staff to access quickly and easily educational content and to use the main university and territorial services. Finally, the paper includes an analysis that shows a positive correlation between the use of video-lectures and the success in the exams, thus validating the proposed educational model.",
+      "type": "article",
+      "title": "From Web to Apps in Massive University On-line Learning",
+      "pages": 13,
+      "types": "TYPES2",
+      "number": "No. 3",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "2155-7993",
+      "rev_number": 9,
+      "dir": "disk0\/02\/67\/86\/45",
+      "creators": [
+        {
+          "name": {
+            "lineage": 710,
+            "given": "Marco",
+            "honourific": null,
+            "family": "Mezzalama"
+          },
+          "id": 710
+        },
+        {
+          "name": {
+            "lineage": 2236,
+            "given": "Laura",
+            "honourific": null,
+            "family": "Farinetti"
+          },
+          "id": 2236
+        },
+        {
+          "name": {
+            "lineage": 2407,
+            "given": "Enrico",
+            "honourific": null,
+            "family": "Venuto"
+          },
+          "id": 2407
+        }
+      ],
+      "lastmod": "2017-08-31 03:26:24",
+      "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.15341\/jmer(2155-7993)\/03.07.2017\/002",
+      "proprietary": {
+        "name": {
+          "lineage": 2407,
+          "given": "Enrico",
+          "honourific": null,
+          "family": "Venuto"
+        },
+        "id": 2407
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-08-30 02:03:27",
+      "language": [
+        "en"
+      ],
+      "volume": 7,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "related_url": [
+        {
+          "url": "http:\/\/www.academicstar.us\/UploadFile\/Picture\/2017-8\/2017814223618577.pdf"
+        }
+      ],
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Cagliero, Luca; Farinetti, Laura; Baralis, Elena",
+      "eprintid": 2672918,
+      "date": 2017,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2672918,
+            "insert_date": "2017-09-21 13:15:49",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2017-09-21 13:15:49",
+                  "datasetid": "document",
+                  "fileid": 2331034,
+                  "objectid": 1179880,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2331034",
+                  "mime_type": "application\/pdf",
+                  "hash": "e5ca51a3102aa48900f5eae81c9ae2c8",
+                  "filesize": 181373,
+                  "filename": "bare_conf_compsoc.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2017-09-22",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1179880",
+            "original_docid": 162483,
+            "main": "bare_conf_compsoc.pdf",
+            "format": "application\/pdf",
+            "docid": 1179880,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1180502"
+              }
+            ],
+            "copyright_operator": "MN",
+            "formatdesc": "bare_conf_compsoc.pdf"
+          }
+      ],
+      "upddate": "2017-09-21 13:15:50",
+      "keywords": [
+        "formative assessment",
+        "text summarization",
+        "learning technologies",
+        "learning technologies",
+        "formative assessment",
+        "text summarization"
+      ],
+      "isbn": "978-1-5386-0367-3",
+      "pagerange": "401-406",
+      "publisher": "IEEE",
+      "event_title": "41st IEEE Computer Society International Conference on Computers, Software & Applications (COMPSAC 2017), Symposium on Computer Education & Learning Technologies (CELT)",
+      "irisid": 151613,
+      "event_dates": "July 4 - 8, 2017",
+      "book_title": "2017 IEEE 41st Annual Computer Software and Applications Conference (COMPSAC)",
+      "datestamp": "2017-05-25 16:56:30",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2672918",
+      "event_location": "Torino (Italy)",
+      "abstract": "The diffusion of learning technologies has fostered the use of mobile and Web-based applications to assess the knowledge level of learners. In parallel, an increasing research interest has been devoted to studying new learning analytics tools able to summarize the content of large sets of learning documents. To bridge the gap between formative assessment tools and document summarization systems, this paper addresses the problem of recommending short summaries of large sets of learning documents based on the outcomes of multiplechoice tests. Specifically, it presents a new methodology for integrating formative assessment through mobile applications and summarization of learning documents in textual form. The content of the multiple-choice tests is exploited to drive the generation of document summaries tailored to specific topics. Furthermore, the outcomes of the tests are used to automatically recommend the generated summaries to learners based on their actual needs. As a case study, we performed an evaluation experience of students' progresses, which was conducted in the context of a university-level course. The achieved results show the applicability of the proposed methodology.",
+      "type": "conference_item",
+      "title": "Test-driven summarization: combining formative assessment with teaching document summarization",
+      "scopus": {
+        "cluster": "2-s2.0-85031917664",
+        "datestamp": "2018-02-27 05:26:20",
+        "impact": 0
+      },
+      "pages": 6,
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 13,
+      "dir": "disk0\/02\/67\/29\/18",
+      "creators": [
+        {
+          "name": {
+            "lineage": 2041,
+            "given": "Elena Maria",
+            "honourific": null,
+            "family": "Baralis"
+          },
+          "id": 2041
+        },
+        {
+          "name": {
+            "lineage": 2236,
+            "given": "Laura",
+            "honourific": null,
+            "family": "Farinetti"
+          },
+          "id": 2236
+        },
+        {
+          "name": {
+            "lineage": 23058,
+            "given": "Luca",
+            "honourific": null,
+            "family": "Cagliero"
+          },
+          "id": 23058
+        }
+      ],
+      "lastmod": "2017-09-23 04:07:31",
+      "ispublished": "pub",
+      "openaire": 1,
+      "proprietary": {
+        "name": {
+          "lineage": 2236,
+          "given": "Laura",
+          "honourific": null,
+          "family": "Farinetti"
+        },
+        "id": 2236
+      },
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/COMPSAC.2017.231",
+      "eprint_status": "archive",
+      "status_changed": "2017-05-26 02:04:14",
+      "language": [
+        "en"
+      ],
+      "volume": 1,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
       "authors_string": "De Russis, Luigi; Farinetti, Laura; Taddeo, Gabriella",
       "eprintid": 2638970,
+      "wos": {
+        "cluster": 389533300099,
+        "datestamp": "2018-02-25 04:39:17",
+        "impact": 0
+      },
       "date": 2016,
       "upddate": "2016-06-13 11:05:22",
       "keywords": [
@@ -25,7 +585,7 @@
       "title": "Learning the Social Web: a Multidisciplinary Approach",
       "scopus": {
         "cluster": "2-s2.0-84988025751",
-        "datestamp": "2016-09-30 04:34:21",
+        "datestamp": "2018-02-25 04:58:08",
         "impact": 0
       },
       "pages": 6,
@@ -67,6 +627,7 @@
       ],
       "lastmod": "2016-06-15 03:34:37",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/COMPSAC.2016.148",
       "proprietary": {
@@ -96,6 +657,11 @@
     {
       "authors_string": "Baralis, Elena; Cagliero, Luca; Farinetti, Laura",
       "eprintid": 2639275,
+      "wos": {
+        "cluster": 380584300120,
+        "datestamp": "2018-02-25 04:40:04",
+        "impact": 1
+      },
       "date": 2015,
       "documents": [
           {
@@ -149,8 +715,8 @@
       "title": "Generation and evaluation of summaries of academic teaching materials",
       "scopus": {
         "cluster": "2-s2.0-84962159016",
-        "datestamp": "2016-09-30 04:36:02",
-        "impact": 1
+        "datestamp": "2018-02-25 04:59:27",
+        "impact": 3
       },
       "pages": 6,
       "place_of_pub": "Piscataway (NJ)",
@@ -192,6 +758,7 @@
       ],
       "lastmod": "2016-04-16 03:41:24",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 23058,
@@ -360,6 +927,7 @@
       ],
       "lastmod": "2016-02-24 03:33:57",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.4018\/978-1-4666-2122-0.ch060",
       "proprietary": {
@@ -489,6 +1057,7 @@
       ],
       "lastmod": "2016-02-28 04:31:55",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.4018\/978-1-61350-098-9",
       "proprietary": {
@@ -652,6 +1221,7 @@
       ],
       "lastmod": "2016-03-01 14:10:17",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "proprietary": {
@@ -687,8 +1257,8 @@
       "eprintid": 2263141,
       "wos": {
         "cluster": 279800000074,
-        "datestamp": "2016-10-17 04:02:50",
-        "impact": 2
+        "datestamp": "2018-03-16 04:30:06",
+        "impact": 5
       },
       "date": 2009,
       "documents": [
@@ -740,8 +1310,8 @@
       "title": "FaSet: A Set Theory Model for Faceted Search",
       "scopus": {
         "cluster": "2-s2.0-79955077023",
-        "datestamp": "2016-09-21 05:24:28",
-        "impact": 7
+        "datestamp": "2018-03-16 04:37:53",
+        "impact": 9
       },
       "pages": 8,
       "place_of_pub": "PISCATAWAY, NJ",
@@ -783,6 +1353,7 @@
       ],
       "lastmod": "2016-09-21 04:45:01",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -812,16 +1383,26 @@
     },
     {
       "authors_string": "Farinetti L.; A. Rasetti",
-      "types": "TYPES8",
       "eprintid": 2302944,
-      "twitted": 1,
       "date": 2009,
+      "upddate": "2012-07-07 08:25:34",
+      "event_title": "AICA 2009",
+      "irisid": 61242,
+      "event_dates": "4-6 novembre 2009",
+      "book_title": "Congresso nazionale AICA 2009",
+      "datestamp": "2010-01-18 10:30:10",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2302944",
+      "event_location": "Roma",
+      "type": "conference_item",
+      "title": "La telematica nell'automotive: un progetto di formazione e cooperazione",
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2012-07-07 08:25:34",
+      "twitted": 1,
       "rev_number": 3,
+      "dir": "disk0\/02\/30\/29\/44",
       "creators": [
         {
           "name": {
@@ -833,9 +1414,10 @@
           "id": 2236
         }
       ],
-      "dir": "disk0\/02\/30\/29\/44",
       "lastmod": "2014-10-28 08:22:55",
       "ispublished": "pub",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -845,42 +1427,42 @@
         },
         "id": 2236
       },
-      "event_title": "AICA 2009",
-      "metadata_visibility": "show",
-      "irisid": 61242,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:06:47",
       "language": [
         "it"
       ],
-      "event_dates": "4-6 novembre 2009",
       "event_relevance": "N",
-      "book_title": "Congresso nazionale AICA 2009",
-      "datestamp": "2010-01-18 10:30:10",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2302944",
-      "event_location": "Roma",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "conference_item",
-      "title": "La telematica nell'automotive: un progetto di formazione e cooperazione",
       "ssd": [
         "ING-INF\/05"
       ]
     },
     {
       "authors_string": "Farinetti L.; Rasetti A",
-      "types": "TYPES8",
       "eprintid": 2260503,
-      "twitted": 1,
       "date": 2009,
+      "upddate": "2012-07-07 05:18:10",
+      "event_title": "EDULEARN09 - International Conference on Education and New Learning Technologies",
+      "irisid": 58731,
+      "event_dates": "6-8 July, 2009",
+      "book_title": "Proceedings of EDULEARN09 - International Conference on Education and New Learning Technologies",
+      "datestamp": "2009-06-08 15:32:49",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2260503",
+      "event_location": "Barcelon, Spain",
+      "type": "conference_item",
+      "title": "Systems Thinking for Media Navigation: a Support for E-Learning in Complex Systems and Vehicle Telematics",
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2012-07-07 05:18:10",
+      "twitted": 1,
       "rev_number": 3,
+      "dir": "disk0\/02\/26\/05\/03",
       "creators": [
         {
           "name": {
@@ -892,9 +1474,10 @@
           "id": 2236
         }
       ],
-      "dir": "disk0\/02\/26\/05\/03",
       "lastmod": "2014-10-27 18:17:33",
       "ispublished": "pub",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -904,26 +1487,16 @@
         },
         "id": 2236
       },
-      "event_title": "EDULEARN09 - International Conference on Education and New Learning Technologies",
-      "metadata_visibility": "show",
-      "irisid": 58731,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:06:47",
       "language": [
         "en"
       ],
-      "event_dates": "6-8 July, 2009",
       "event_relevance": "I",
-      "book_title": "Proceedings of EDULEARN09 - International Conference on Education and New Learning Technologies",
-      "datestamp": "2009-06-08 15:32:49",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2260503",
-      "event_location": "Barcelon, Spain",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "conference_item",
-      "title": "Systems Thinking for Media Navigation: a Support for E-Learning in Complex Systems and Vehicle Telematics",
       "ssd": [
         "ING-INF\/05"
       ]
@@ -933,8 +1506,8 @@
       "eprintid": 1806506,
       "wos": {
         "cluster": 258398900009,
-        "datestamp": "2016-09-21 05:10:34",
-        "impact": 8
+        "datestamp": "2018-02-12 04:29:40",
+        "impact": 15
       },
       "date": 2008,
       "documents": [
@@ -1028,8 +1601,8 @@
       "title": "Eye Tracking Impact on Quality-of-Life of ALS Patients",
       "scopus": {
         "cluster": "2-s2.0-50249107796",
-        "datestamp": "2016-10-14 04:18:22",
-        "impact": 5
+        "datestamp": "2018-03-13 04:47:22",
+        "impact": 20
       },
       "pages": 8,
       "types": "TYPES8",
@@ -1072,6 +1645,7 @@
       ],
       "lastmod": "2016-09-22 03:44:37",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -1104,8 +1678,8 @@
       "eprintid": 1605986,
       "date": 2005,
       "userdep": [
-        "USER_D1010",
-        "USER_D1080"
+        "USER_D1080",
+        "USER_D1010"
       ],
       "userid": 2,
       "upddate": "2015-10-23 16:48:49",
@@ -1142,6 +1716,7 @@
       "dir": "disk0\/01\/60\/59\/86",
       "lastmod": "2015-11-05 15:14:26",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "1-190",
       "proprietary": {
         "name": {
@@ -1184,11 +1759,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2012-05-11 14:55:11",
+                  "mtime": "2015-10-29 11:54:51",
                   "datasetid": "document",
-                  "fileid": 1019196,
-                  "objectid": 437903,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1019196",
+                  "fileid": 2572321,
+                  "objectid": 1322161,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2572321",
                   "mime_type": "application\/pdf",
                   "hash": "10c60b9556c9fe009554e61307d7b10a",
                   "filesize": 294525,
@@ -1202,14 +1777,14 @@
             "license": "not_public",
             "main": "ICTAI2004.pdf",
             "original_docid": 47025,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/437903",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1322161",
             "format": "application\/pdf",
-            "docid": 437903,
+            "docid": 1322161,
             "security": "staffonly",
-            "formatdesc": "Final_paper"
+            "formatdesc": "ICTAI2004.pdf"
           }
       ],
-      "upddate": "2013-10-15 12:54:37",
+      "upddate": "2018-02-23 14:09:25",
       "isbn": "076952236X",
       "pagerange": "680-687",
       "publisher": "IEEE press",
@@ -1220,13 +1795,13 @@
       "datestamp": "2007-01-18 10:29:55",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1497288",
       "event_location": "Boca Raton, Florida",
-      "abstract": "Searching the Web proved to be a critical task in which both user satisfaction and speed requirements must be satisfied. Nowadays search engines provide amazing capabilities of searching resources on the Web though they are still based on text indexing and seldom exploit semantics of resource content. Therefore they sometimes fail on the identification of query context, providing results that are not relevant with respect to user needs; this is especially true for nontrained users. The semantic Web specifically addresses such an issue by providing means to define resources and query semantics using ontologies and semantic annotations. We propose a concept-based search paradigm for document retrieval. We define a new representation of the involved information space, introducing the notion of conceptual spectrum to identify the global topic landscape of Web resources and queries. We exploit such a representation to design and implement a prototypical version of a concept-based search engine. We compare the proposed approach to a traditional keyword-based engine, on a specific domain. Results are promising and show the approach feasibility",
+      "abstract": "Searching the Web proved to be a critical task in which both user satisfaction and speed requirements must be satisfied. Nowadays search engines provide amazing capabilities of searching resources on the Web though they are still based on text indexing and seldom exploit semantics of resource content. Therefore they sometimes fail on the identification of query context, providing results that are not relevant with respect to user needs; this is especially true for nontrained users. The semantic Web specifically addresses such an issue by providing means to define resources and query semantics using ontologies and semantic annotations. We propose a concept-based search paradigm for document retrieval. We define a new representation of the involved information space, introducing the notion of conceptual spectrum to identify the global topic landscape of Web resources and queries. We exploit such a representation to design and implement a prototypical version of a concept-based search engine. We compare the proposed approach to a traditional keyword-based engine, on a specific domain. Results are promising and show the approach feasibility.",
       "type": "conference_item",
       "title": "Domain Specific Searches using Conceptual Spectra",
       "scopus": {
         "cluster": "2-s2.0-16244390830",
-        "datestamp": "2016-10-08 03:58:41",
-        "impact": 3
+        "datestamp": "2018-03-07 05:13:40",
+        "impact": 5
       },
       "pages": 8,
       "types": "TYPES8",
@@ -1234,18 +1809,9 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 13,
+      "rev_number": 18,
       "dir": "disk0\/01\/49\/72\/88",
       "creators": [
-        {
-          "name": {
-            "lineage": 12325,
-            "given": "Dario",
-            "honourific": null,
-            "family": "Bonino"
-          },
-          "id": 12325
-        },
         {
           "name": {
             "lineage": 2154,
@@ -1263,10 +1829,20 @@
             "family": "Farinetti"
           },
           "id": 2236
+        },
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
         }
       ],
-      "lastmod": "2014-10-24 11:01:27",
+      "lastmod": "2018-02-25 03:00:29",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ICTAI.2004.53",
@@ -1280,7 +1856,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2012-05-11 15:05:12",
+      "status_changed": "2015-06-30 15:12:01",
       "language": [
         "en"
       ],
@@ -1346,6 +1922,7 @@
       "dir": "disk0\/01\/49\/80\/38",
       "lastmod": "2014-10-24 11:00:52",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -1393,7 +1970,7 @@
       "title": "Multilingual Semantic Elaboration in the DOSE platform",
       "scopus": {
         "cluster": "2-s2.0-2442602536",
-        "datestamp": "2016-10-08 03:58:24",
+        "datestamp": "2018-03-07 05:13:25",
         "impact": 2
       },
       "place_of_pub": "NEW YORK, NY",
@@ -1436,6 +2013,7 @@
       ],
       "lastmod": "2014-10-24 11:00:22",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -1520,6 +2098,7 @@
       ],
       "lastmod": "2014-10-24 11:00:26",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -1568,6 +2147,7 @@
       "dir": "disk0\/01\/41\/16\/90",
       "lastmod": "2014-10-24 06:45:52",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -1594,18 +2174,23 @@
       "title": "Can Data Mining Techniques Ease The Semantic Tagging Burden?",
       "ssd": [
         "ING-INF\/05"
-      ]
+      ],
+      "scopus": {
+        "cluster": "2-s2.0-51849090417",
+        "datestamp": "2018-03-05 04:38:30",
+        "impact": 2
+      }
     },
     {
       "authors_string": "Bonino D.; Farinetti L; Corno F",
       "eprintid": 1497200,
       "wos": {
         "cluster": 189005700081,
-        "datestamp": "2016-10-08 03:39:56",
-        "impact": 1
+        "datestamp": "2018-02-07 04:25:17",
+        "impact": 2
       },
       "date": 2003,
-      "upddate": "2016-02-01 16:38:20",
+      "upddate": "2018-01-16 02:37:40",
       "publisher": "IEEE press",
       "event_title": "ICTAI 2003, The 15th IEEE International Conference on Tools with Artificial Intelligence",
       "irisid": 32267,
@@ -1618,8 +2203,8 @@
       "title": "DOSE: a Distributed Open Semantic Elaboration Platform",
       "scopus": {
         "cluster": "2-s2.0-0344666726",
-        "datestamp": "2016-10-08 03:58:08",
-        "impact": 5
+        "datestamp": "2018-03-07 05:13:07",
+        "impact": 21
       },
       "types": "TYPES8",
       "userid": 2,
@@ -1627,9 +2212,18 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 8,
+      "rev_number": 10,
       "dir": "disk0\/01\/49\/72\/00",
       "creators": [
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
+        },
         {
           "name": {
             "lineage": 2154,
@@ -1647,20 +2241,12 @@
             "family": "Farinetti"
           },
           "id": 2236
-        },
-        {
-          "name": {
-            "lineage": 12325,
-            "given": "Dario",
-            "honourific": null,
-            "family": "Bonino"
-          },
-          "id": 12325
         }
       ],
-      "lastmod": "2016-02-05 03:51:31",
+      "lastmod": "2018-01-18 04:29:00",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -1672,7 +2258,7 @@
         "id": 12325
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:11:59",
       "event_relevance": "I",
       "full_text_status": "none",
       "divisions": [
@@ -1736,6 +2322,7 @@
       ],
       "lastmod": "2015-11-24 03:34:32",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -1765,11 +2352,11 @@
       "eprintid": 1410924,
       "wos": {
         "cluster": 183802400110,
-        "datestamp": "2016-09-05 03:46:49",
+        "datestamp": "2018-03-05 04:22:54",
         "impact": 0
       },
       "date": 2003,
-      "upddate": "2016-02-10 15:25:26",
+      "upddate": "2018-01-16 02:24:05",
       "pagerange": "572-576",
       "publisher": "IEEE",
       "event_title": "IEEE Int. Conf. on Communications (ICC)",
@@ -1783,7 +2370,7 @@
       "title": "A Simulative Study of Analysis-By-Synthesis Perceptual Video Classification and Transmission over DiffServ IP Networks",
       "scopus": {
         "cluster": "2-s2.0-0038266279",
-        "datestamp": "2016-10-05 03:58:55",
+        "datestamp": "2018-03-05 04:24:26",
         "impact": 4
       },
       "pages": 5,
@@ -1793,27 +2380,9 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 6,
+      "rev_number": 8,
       "dir": "disk0\/01\/41\/09\/24",
       "creators": [
-        {
-          "name": {
-            "lineage": 4620,
-            "given": "Juan Carlos",
-            "honourific": null,
-            "family": "De Martin"
-          },
-          "id": 4620
-        },
-        {
-          "name": {
-            "lineage": 2236,
-            "given": "Laura",
-            "honourific": null,
-            "family": "Farinetti"
-          },
-          "id": 2236
-        },
         {
           "name": {
             "lineage": 18238,
@@ -1825,16 +2394,35 @@
         },
         {
           "name": {
+            "lineage": 4620,
+            "given": "Juan Carlos",
+            "honourific": null,
+            "family": "De Martin"
+          },
+          "id": 4620
+        },
+        {
+          "name": {
             "lineage": 4111,
             "given": "Enrico",
             "honourific": null,
             "family": "Masala"
           },
           "id": 4111
+        },
+        {
+          "name": {
+            "lineage": 2236,
+            "given": "Laura",
+            "honourific": null,
+            "family": "Farinetti"
+          },
+          "id": 2236
         }
       ],
-      "lastmod": "2016-02-12 03:38:40",
+      "lastmod": "2018-01-18 03:43:53",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "proprietary": {
@@ -1847,7 +2435,7 @@
         "id": 2236
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 14:52:32",
       "volume": 1,
       "event_relevance": "I",
       "full_text_status": "none",
@@ -1868,18 +2456,9 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2015-10-22 11:41:56",
-      "rev_number": 5,
+      "upddate": "2017-09-30 09:17:38",
+      "rev_number": 7,
       "creators": [
-        {
-          "name": {
-            "lineage": 4620,
-            "given": "Juan Carlos",
-            "honourific": null,
-            "family": "De Martin"
-          },
-          "id": 4620
-        },
         {
           "name": {
             "lineage": 2236,
@@ -1888,11 +2467,21 @@
             "family": "Farinetti"
           },
           "id": 2236
+        },
+        {
+          "name": {
+            "lineage": 4620,
+            "given": "Juan Carlos",
+            "honourific": null,
+            "family": "De Martin"
+          },
+          "id": 4620
         }
       ],
       "dir": "disk0\/01\/41\/09\/84",
-      "lastmod": "2015-11-05 15:16:25",
+      "lastmod": "2017-10-02 02:01:03",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "pagerange": "104-108",
       "proprietary": {
@@ -1923,8 +2512,8 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-1542643611",
-        "datestamp": "2016-10-05 04:01:14",
-        "impact": 0
+        "datestamp": "2018-03-05 04:26:03",
+        "impact": 1
       }
     },
     {
@@ -1934,7 +2523,7 @@
       "twitted": 1,
       "wos": {
         "cluster": 178771600340,
-        "datestamp": "2016-09-05 03:25:01",
+        "datestamp": "2018-03-04 04:59:54",
         "impact": 0
       },
       "date": 2002,
@@ -1942,18 +2531,9 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2013-11-25 10:25:04",
-      "rev_number": 3,
+      "upddate": "2016-12-05 15:12:16",
+      "rev_number": 5,
       "creators": [
-        {
-          "name": {
-            "lineage": 2236,
-            "given": "Laura",
-            "honourific": null,
-            "family": "Farinetti"
-          },
-          "id": 2236
-        },
         {
           "name": {
             "lineage": 2154,
@@ -1962,11 +2542,21 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 2236,
+            "given": "Laura",
+            "honourific": null,
+            "family": "Farinetti"
+          },
+          "id": 2236
         }
       ],
       "dir": "disk0\/01\/40\/97\/82",
-      "lastmod": "2014-10-23 16:30:48",
+      "lastmod": "2016-12-07 05:31:52",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -1980,7 +2570,7 @@
       "metadata_visibility": "show",
       "irisid": 25197,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "event_dates": "August 2002",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
@@ -1997,8 +2587,8 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-84908203961",
-        "datestamp": "2016-10-05 03:31:45",
-        "impact": 23
+        "datestamp": "2018-03-04 05:13:09",
+        "impact": 34
       }
     },
     {
@@ -2036,6 +2626,7 @@
       "dir": "disk0\/01\/40\/98\/18",
       "lastmod": "2015-11-05 15:10:22",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -2069,11 +2660,11 @@
       "eprintid": 1527792,
       "wos": {
         "cluster": 178771600036,
-        "datestamp": "2016-10-09 03:35:22",
-        "impact": 0
+        "datestamp": "2018-03-08 04:45:12",
+        "impact": 1
       },
       "date": 2002,
-      "upddate": "2012-07-06 14:03:13",
+      "upddate": "2018-01-16 02:27:31",
       "pagerange": "141-144",
       "event_title": "IEEE Int. Conf. on Multimedia & Expo (ICME)",
       "irisid": 34473,
@@ -2086,7 +2677,7 @@
       "title": "Perceptual Classification of MPEG Video for Differentiated-Services Communications",
       "scopus": {
         "cluster": "2-s2.0-79551650954",
-        "datestamp": "2016-10-09 03:46:28",
+        "datestamp": "2018-03-08 05:03:11",
         "impact": 13
       },
       "types": "TYPES8",
@@ -2094,7 +2685,7 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 3,
+      "rev_number": 7,
       "dir": "disk0\/01\/52\/77\/92",
       "creators": [
         {
@@ -2125,8 +2716,9 @@
           "id": 2236
         }
       ],
-      "lastmod": "2014-10-24 13:08:26",
+      "lastmod": "2018-01-18 04:30:18",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -2138,7 +2730,7 @@
         "id": 12825
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 15:19:02",
       "volume": 1,
       "event_relevance": "I",
       "full_text_status": "none",
@@ -2156,7 +2748,7 @@
       "twitted": 1,
       "wos": {
         "cluster": 177510400956,
-        "datestamp": "2016-09-05 03:57:50",
+        "datestamp": "2018-03-05 04:33:46",
         "impact": 0
       },
       "date": 2002,
@@ -2164,8 +2756,8 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-02-08 10:56:42",
-      "rev_number": 6,
+      "upddate": "2018-01-16 02:24:43",
+      "rev_number": 10,
       "creators": [
         {
           "name": {
@@ -2175,11 +2767,21 @@
             "family": "Farinetti"
           },
           "id": 2236
+        },
+        {
+          "name": {
+            "lineage": 4620,
+            "given": "Juan Carlos",
+            "honourific": null,
+            "family": "De Martin"
+          },
+          "id": 4620
         }
       ],
       "dir": "disk0\/01\/41\/16\/74",
-      "lastmod": "2016-02-10 03:43:29",
+      "lastmod": "2018-01-18 03:43:53",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -2193,7 +2795,7 @@
       "metadata_visibility": "show",
       "irisid": 26351,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 14:53:44",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2006-10-05 14:32:32",
@@ -2209,8 +2811,8 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-0036288103",
-        "datestamp": "2016-10-05 04:15:05",
-        "impact": 6
+        "datestamp": "2018-03-05 04:38:11",
+        "impact": 12
       }
     },
     {
@@ -2239,6 +2841,7 @@
       "dir": "disk0\/01\/41\/16\/76",
       "lastmod": "2014-10-24 06:46:16",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -2311,6 +2914,7 @@
       "dir": "disk0\/01\/50\/13\/87",
       "lastmod": "2014-10-24 11:28:39",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -2375,6 +2979,7 @@
       "dir": "disk0\/01\/40\/97\/80",
       "lastmod": "2014-10-23 16:30:48",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -2439,6 +3044,7 @@
       "dir": "disk0\/01\/40\/97\/81",
       "lastmod": "2014-10-23 16:30:48",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -2493,6 +3099,7 @@
       "dir": "disk0\/01\/41\/16\/68",
       "lastmod": "2014-10-24 06:46:16",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -2556,6 +3163,7 @@
       "dir": "disk0\/01\/41\/16\/79",
       "lastmod": "2014-10-24 06:46:15",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -2619,6 +3227,7 @@
       "dir": "disk0\/01\/40\/97\/76",
       "lastmod": "2014-10-23 16:30:47",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -2683,6 +3292,7 @@
       "dir": "disk0\/01\/40\/97\/77",
       "lastmod": "2014-10-23 16:30:48",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -2747,6 +3357,7 @@
       "dir": "disk0\/01\/40\/97\/74",
       "lastmod": "2014-10-23 16:30:47",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -2816,6 +3427,7 @@
       "dir": "disk0\/01\/54\/52\/77",
       "lastmod": "2014-10-24 14:43:03",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "675-676",
       "proprietary": {
         "name": {
@@ -2867,6 +3479,7 @@
       "dir": "disk0\/01\/41\/16\/85",
       "lastmod": "2014-10-24 06:45:52",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -2941,6 +3554,7 @@
       "dir": "disk0\/02\/50\/16\/11",
       "lastmod": "2014-10-29 16:20:27",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 8825615175,
       "publisher": "Jackson Libri",
       "proprietary": {
@@ -3005,6 +3619,7 @@
       "dir": "disk0\/01\/41\/16\/83",
       "lastmod": "2014-10-24 06:45:52",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -3056,6 +3671,7 @@
       "dir": "disk0\/01\/41\/16\/75",
       "lastmod": "2014-10-24 06:46:16",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -3104,6 +3720,7 @@
       "dir": "disk0\/01\/41\/16\/84",
       "lastmod": "2014-10-24 06:45:52",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -3133,7 +3750,7 @@
       "twitted": 1,
       "wos": {
         "cluster": 165243200005,
-        "datestamp": "2016-09-05 03:57:56",
+        "datestamp": "2018-03-05 04:33:52",
         "impact": 2
       },
       "date": 2000,
@@ -3141,8 +3758,8 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-02-01 12:02:16",
-      "rev_number": 8,
+      "upddate": "2018-01-16 02:24:43",
+      "rev_number": 10,
       "creators": [
         {
           "name": {
@@ -3155,8 +3772,9 @@
         }
       ],
       "dir": "disk0\/01\/41\/16\/82",
-      "lastmod": "2016-02-05 03:51:23",
+      "lastmod": "2018-01-18 03:43:53",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -3170,7 +3788,7 @@
       "metadata_visibility": "show",
       "irisid": 26355,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 14:53:44",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2006-10-05 14:32:32",
@@ -3178,10 +3796,13 @@
       "full_text_status": "none",
       "type": "conference_item",
       "title": "An educational-oriented framework for building on-line courses using XML",
+      "ssd": [
+        "ING-INF\/05"
+      ],
       "scopus": {
         "cluster": "2-s2.0-0034501739",
-        "datestamp": "2016-10-05 04:15:14",
-        "impact": 5
+        "datestamp": "2018-03-05 04:38:19",
+        "impact": 10
       }
     },
     {
@@ -3202,7 +3823,7 @@
       "title": "Educational strategies and technical implementation: the experienceof Politecnico di Torino in remote tutoring",
       "scopus": {
         "cluster": "2-s2.0-0032659933",
-        "datestamp": "2016-10-08 03:47:05",
+        "datestamp": "2018-03-07 05:02:23",
         "impact": 0
       },
       "types": "TYPES8",
@@ -3235,6 +3856,7 @@
       ],
       "lastmod": "2016-02-05 03:51:23",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -3276,6 +3898,7 @@
       "dir": "disk0\/01\/39\/51\/54",
       "lastmod": "2014-10-22 10:00:28",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9788877505897,
       "publisher": "UTET",
       "proprietary": {
@@ -3307,7 +3930,7 @@
       "twitted": 1,
       "wos": {
         "cluster": 77262500009,
-        "datestamp": "2016-09-05 03:58:03",
+        "datestamp": "2018-03-05 04:33:58",
         "impact": 0
       },
       "date": 1998,
@@ -3315,8 +3938,8 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2013-11-25 10:29:52",
-      "rev_number": 3,
+      "upddate": "2018-01-16 02:24:43",
+      "rev_number": 5,
       "creators": [
         {
           "name": {
@@ -3329,8 +3952,9 @@
         }
       ],
       "dir": "disk0\/01\/41\/16\/88",
-      "lastmod": "2014-10-24 06:45:52",
+      "lastmod": "2018-01-18 03:43:53",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -3344,14 +3968,17 @@
       "metadata_visibility": "show",
       "irisid": 26360,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 14:53:45",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2006-10-05 14:32:32",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1411688",
       "full_text_status": "none",
       "type": "conference_item",
-      "title": "Multimedia, Training Process and Effectiveness Analysis"
+      "title": "Multimedia, Training Process and Effectiveness Analysis",
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "Bobbio A.; Del Corso D.; Farinetti L.; Malnati M.; Ovcin E.; Vidotto D.",
@@ -3360,7 +3987,7 @@
       "twitted": 1,
       "wos": {
         "cluster": 77262500069,
-        "datestamp": "2016-09-05 03:58:02",
+        "datestamp": "2018-03-05 04:33:57",
         "impact": 0
       },
       "date": 1998,
@@ -3368,8 +3995,8 @@
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2013-11-25 10:29:51",
-      "rev_number": 3,
+      "upddate": "2018-01-16 02:24:43",
+      "rev_number": 5,
       "creators": [
         {
           "name": {
@@ -3382,8 +4009,9 @@
         }
       ],
       "dir": "disk0\/01\/41\/16\/87",
-      "lastmod": "2014-10-24 06:45:52",
+      "lastmod": "2018-01-18 03:43:53",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2236,
@@ -3397,14 +4025,17 @@
       "metadata_visibility": "show",
       "irisid": 26359,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2015-06-30 14:53:45",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2006-10-05 14:32:32",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1411687",
       "full_text_status": "none",
       "type": "conference_item",
-      "title": "Sicuro Project"
+      "title": "Sicuro Project",
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "L. Farinetti; G. Malnati; Mezzalama M.",
@@ -3449,6 +4080,7 @@
       "dir": "disk0\/01\/41\/48\/58",
       "lastmod": "2016-02-21 03:42:48",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2235,
@@ -3524,6 +4156,7 @@
       "dir": "disk0\/01\/95\/88\/53",
       "lastmod": "2016-04-30 03:31:46",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2288,
@@ -3582,6 +4215,7 @@
       "dir": "disk0\/01\/39\/55\/35",
       "lastmod": "2016-02-21 03:42:48",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "149-168",
       "publisher": "Rosenberg&Sellier",
       "proprietary": {
@@ -3640,6 +4274,7 @@
       "dir": "disk0\/01\/41\/40\/68",
       "lastmod": "2016-02-21 03:42:48",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2235,
@@ -3697,6 +4332,7 @@
       "dir": "disk0\/02\/50\/37\/41",
       "lastmod": "2014-10-29 18:02:40",
       "ispublished": "pub",
+      "openaire": 0,
       "pagerange": "1-150",
       "publisher": "C.L.U.T",
       "proprietary": {

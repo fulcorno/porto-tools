@@ -1,91 +1,134 @@
 [
     {
-      "authors_string": "Paolo, Brizzi; Dario, Bonino; Alberto, Musetti; Alexandr, Krylovskiy; Edoardo, Patti; Mathias, Axling",
-      "eprintid": 2647447,
+      "authors_string": "Corno, Fulvio; De Russis, Luigi; Bonino, Dario",
+      "eprintid": 2621928,
+      "wos": {
+        "cluster": 390431300008,
+        "datestamp": "2018-02-24 05:04:46",
+        "impact": 0
+      },
       "date": 2016,
       "documents": [
           {
-            "disclaimer": "ieee",
             "placement": 1,
-            "eprintid": 2647447,
-            "insert_date": "2016-09-06 12:24:23",
+            "eprintid": 2621928,
+            "insert_date": "2016-12-05 15:06:25",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2016-09-06 12:24:23",
+                  "mtime": "2016-12-05 15:06:25",
                   "datasetid": "document",
-                  "fileid": 1982483,
-                  "objectid": 969917,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1982483",
+                  "fileid": 2192786,
+                  "objectid": 1096842,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2192786",
                   "mime_type": "application\/pdf",
-                  "hash": "4eca59588014dbcfb763b72535825f49",
-                  "filesize": 519089,
-                  "filename": "Camera_ready_1570267543.pdf"
+                  "hash": "bafb3b1fba107ec62eb318d416dd7406",
+                  "filesize": 739719,
+                  "filename": "IT_ITPro_2015_04_0032.R2_Corno.pdf"
                 }
             ],
-            "content": "published",
-            "rev_number": 3,
-            "copyright_date": "2016-09-12",
+            "content": "draft",
+            "rev_number": 2,
+            "copyright_date": "2015-11-30",
+            "copyright_note": "Riaperto 6\/12\/2016 Non trovo editoriale, messo OA e vers. accettata",
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/969917",
-            "original_docid": 114910,
-            "main": "Camera_ready_1570267543.pdf",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1096842",
+            "original_docid": 69701,
+            "main": "IT_ITPro_2015_04_0032.R2_Corno.pdf",
             "format": "application\/pdf",
-            "docid": 969917,
+            "docid": 1096842,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/988067"
+                "uri": "\/id\/document\/1098698"
               }
             ],
             "copyright_operator": "MGD",
-            "formatdesc": "Camera_ready_1570267543.pdf"
+            "formatdesc": "IT_ITPro_2015_04_0032.R2_Corno.pdf"
+          },
+          {
+            "placement": 2,
+            "eprintid": 2621928,
+            "insert_date": "2016-12-05 15:04:31",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-12-05 15:04:31",
+                  "datasetid": "document",
+                  "fileid": 2192789,
+                  "objectid": 1096844,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2192789",
+                  "mime_type": "application\/pdf",
+                  "hash": "9f995c03408d71c2a86220223ff28799",
+                  "filesize": 1225689,
+                  "filename": "ITPro_AmICourse_07763720.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 1,
+            "pos": 2,
+            "language": "it",
+            "license": "not_public",
+            "main": "ITPro_AmICourse_07763720.pdf",
+            "original_docid": 135736,
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1096844",
+            "format": "application\/pdf",
+            "docid": 1096844,
+            "security": "staffonly",
+            "formatdesc": "ITPro_AmICourse_07763720.pdf"
           }
       ],
-      "upddate": "2016-09-06 12:24:24",
+      "upddate": "2017-03-02 15:00:10",
       "keywords": [
-        "dimmer",
-        "smart city, ontology",
-        "energy profile",
-        "internet of things"
+        "computer engineering",
+        "ambient intelligence",
+        "internet of things",
+        "computer education",
+        "active learning",
+        "active learning",
+        "computer engineering",
+        "ambient intelligence",
+        "internet of things",
+        "computer education"
       ],
-      "pagerange": "1-7",
-      "event_title": "International Multidisciplinary Conference on Computer and Energy Science (SpliTech)",
-      "irisid": 120260,
-      "event_dates": "13-15 July 2016",
-      "book_title": "Proceedings of International Multidisciplinary Conference on Computer and Energy Science (SpliTech)",
-      "datestamp": "2016-09-06 14:24:23",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2647447",
-      "event_location": "Split, Coratia",
-      "abstract": "Modern Information and Communication Technologies are definitely a key factor to develop the green and sustainable applications that the so-called \\\"smart city\\\" needs. Effective management of resources, gathering and interpreting data as well as ecological considerations are prerequisites to turn such a vision into reality. The European FP7 project DIMMER address these issues by providing a flexible Internet of Thing platform for application development and data integration, exploiting information about buildings, energy distribution grids and user behaviors. Among those applications, the possibility to real-time access and aggregate information about building environmental characteristics and energy consumption enables the optimization of energy management and control, as well as the user's awareness about, which is the scope of the DIMMER project. The paper will describe the ontology-driven approach, as well as the actual design, exploited to model the physical world within the context of this project, adding a special emphasis on the state of art research in the field of energy profiling",
-      "type": "conference_item",
-      "title": "Towards an ontology driven approach for systems interoperability and energy management in the smart city",
+      "pagerange": "50-57",
+      "publisher": "IEEE Computer Society",
+      "irisid": 95646,
+      "publisher_review": "IEEE Computer Society, Los Alamitos, CA",
+      "datestamp": "2015-10-06 16:21:47",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2621928",
+      "publication": "IT PROFESSIONAL",
+      "abstract": "The increasing popularity and complexity of the Internet of Things (IoT) requires engineers to master various languages and protocols. Interest is also growing in the human factors for transparently and intelligently supporting people with these new IoT systems. New design methodologies are increasingly needed in the toolbox of new electronic and computer engineers, and teaching strategies must allow students to acquire a systems-level view. This article describes the experience of a university undergraduate course in ambient intelligence (AmI) at Politecnico di Torino, Italy. In the course, through a project-based learning approach, students design and prototype an AmI system, and their progress is closely monitored throughout the semester. The article presents the course organization and its main results, including the relationship with industry stakeholders that collaborated in the course delivery.",
+      "type": "article",
+      "title": "Educating Internet of Things Professionals: The Ambient Intelligence Course",
       "scopus": {
-        "cluster": "2-s2.0-84988864325",
-        "datestamp": "2016-10-31 05:10:03",
-        "impact": 0
+        "cluster": "2-s2.0-85014640011",
+        "datestamp": "2018-02-24 05:30:39",
+        "impact": 1
       },
-      "pages": 7,
-      "types": "TYPES8",
+      "pages": 8,
+      "types": "TYPES2",
+      "number": 6,
+      "twitted": 1,
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "twitted": 1,
-      "rev_number": 7,
-      "dir": "disk0\/02\/64\/74\/47",
+      "issn": "1520-9202",
+      "rev_number": 84,
+      "dir": "disk0\/02\/62\/19\/28",
       "creators": [
         {
           "name": {
-            "lineage": 24365,
-            "given": "Edoardo",
+            "lineage": 2154,
+            "given": "Fulvio",
             "honourific": null,
-            "family": "Patti"
+            "family": "Corno"
           },
-          "id": 24365
+          "id": 2154
         },
         {
           "name": {
@@ -95,10 +138,158 @@
             "family": "Bonino"
           },
           "id": 12325
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
         }
       ],
-      "lastmod": "2016-09-15 12:42:53",
+      "lastmod": "2017-03-09 14:04:46",
       "ispublished": "pub",
+      "openaire": 1,
+      "metadata_visibility": "show",
+      "id_number": "10.1109\/MITP.2016.100",
+      "proprietary": {
+        "name": {
+          "lineage": 2154,
+          "given": "Fulvio",
+          "honourific": null,
+          "family": "Corno"
+        },
+        "id": 2154
+      },
+      "eprint_status": "archive",
+      "status_changed": "2016-12-05 16:06:26",
+      "language": [
+        "en"
+      ],
+      "volume": 18,
+      "full_text_status": "public",
+      "referee": "REF_1",
+      "related_url": [
+        {
+          "url": "http:\/\/ieeexplore.ieee.org\/document\/7763720\/"
+        }
+      ],
+      "refereed": 1,
+      "divisions": [
+        "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Paolo, Brizzi; Bonino, Dario; Alberto, Musetti; Alexandr, Krylovskiy; Patti, Edoardo; Mathias, Axling",
+      "eprintid": 2647447,
+      "wos": {
+        "cluster": 387549600030,
+        "datestamp": "2018-02-26 04:20:39",
+        "impact": 0
+      },
+      "date": 2016,
+      "documents": [
+          {
+            "placement": 1,
+            "eprintid": 2647447,
+            "insert_date": "2016-09-06 12:24:23",
+            "files": [
+                {
+                  "hash_type": "MD5",
+                  "mtime": "2016-09-06 12:24:23",
+                  "datasetid": "document",
+                  "fileid": 2445673,
+                  "objectid": 1246746,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2445673",
+                  "mime_type": "application\/pdf",
+                  "hash": "4eca59588014dbcfb763b72535825f49",
+                  "filesize": 519089,
+                  "filename": "Camera_ready_1570267543.pdf"
+                }
+            ],
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2016-09-12",
+            "pos": 1,
+            "language": "it",
+            "license": "public_reserved",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1246746",
+            "original_docid": 114910,
+            "main": "Camera_ready_1570267543.pdf",
+            "format": "application\/pdf",
+            "docid": 1246746,
+            "security": "public",
+            "relation": [
+              {
+                "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
+                "uri": "\/id\/document\/1256606"
+              }
+            ],
+            "copyright_operator": "MGD",
+            "formatdesc": "Camera_ready_1570267543.pdf"
+          }
+      ],
+      "upddate": "2017-11-27 16:21:26",
+      "keywords": [
+        "dimmer",
+        "smart city",
+        "ontology",
+        "energy profile",
+        "internet of things"
+      ],
+      "pagerange": "1-7",
+      "event_title": "International Multidisciplinary Conference on Computer and Energy Science (SpliTech)",
+      "irisid": 120260,
+      "event_dates": "13-15 July 2016",
+      "book_title": "Proceedings of International Multidisciplinary Conference on Computer and Energy Science (SpliTech)",
+      "datestamp": "2016-06-14 16:32:26",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2647447",
+      "event_location": "Split, Coratia",
+      "abstract": "Modern Information and Communication Technologies are definitely a key factor to develop the green and sustainable applications that the so-called \\\"smart city\\\" needs. Effective management of resources, gathering and interpreting data as well as ecological considerations are prerequisites to turn such a vision into reality. The European FP7 project DIMMER address these issues by providing a flexible Internet of Thing platform for application development and data integration, exploiting information about buildings, energy distribution grids and user behaviors. Among those applications, the possibility to real-time access and aggregate information about building environmental characteristics and energy consumption enables the optimization of energy management and control, as well as the user's awareness about, which is the scope of the DIMMER project. The paper will describe the ontology-driven approach, as well as the actual design, exploited to model the physical world within the context of this project, adding a special emphasis on the state of art research in the field of energy profiling.",
+      "type": "conference_item",
+      "title": "Towards an ontology driven approach for systems interoperability and energy management in the smart city",
+      "scopus": {
+        "cluster": "2-s2.0-84988864325",
+        "datestamp": "2018-02-26 04:25:31",
+        "impact": 1
+      },
+      "pages": 7,
+      "types": "TYPES8",
+      "twitted": 1,
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "rev_number": 39,
+      "dir": "disk0\/02\/64\/74\/47",
+      "creators": [
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
+        },
+        {
+          "name": {
+            "lineage": 24365,
+            "given": "Edoardo",
+            "honourific": null,
+            "family": "Patti"
+          },
+          "id": 24365
+        }
+      ],
+      "lastmod": "2017-12-02 15:38:53",
+      "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1109\/SpliTech.2016.7555948",
       "proprietary": {
@@ -120,6 +311,9 @@
       "refereed": 1,
       "divisions": [
         "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
       ]
     },
     {
@@ -127,8 +321,8 @@
       "eprintid": 2586167,
       "wos": {
         "cluster": 351801900001,
-        "datestamp": "2016-09-28 03:31:15",
-        "impact": 0
+        "datestamp": "2018-02-23 05:17:27",
+        "impact": 1
       },
       "date": 2015,
       "documents": [
@@ -151,11 +345,10 @@
                 }
             ],
             "content": "published",
-            "rev_number": 2,
+            "rev_number": 5,
             "copyright_date": "2016-05-03",
             "original_note": "Il Gruppo Copyright ha modificato la tipologia di Licenza da Pubblico - Tutti i diritti riservati a Licenza CC by-nc-nd e il tipo di allegato da Pre-print a Post-print e ha inserito una data di embargo in conformità alla policy dell'editore",
             "copyright_note": "SCRITTO PER INFO: PRE O POSTPRINT= l'autore dice che è un postprint. inserito embargo e cc-by-nc-nd",
-            "date_embargo": "2017-01-29",
             "pos": 1,
             "language": "it",
             "license": "cc_by_nc_nd",
@@ -168,7 +361,7 @@
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/897944"
+                "uri": "\/id\/document\/1092556"
               }
             ],
             "copyright_operator": "MN",
@@ -193,8 +386,8 @@
       "title": "Design Recommendations for Smart Energy Monitoring: a Case Study in Italy",
       "scopus": {
         "cluster": "2-s2.0-84983273956",
-        "datestamp": "2016-10-28 04:37:47",
-        "impact": 0
+        "datestamp": "2018-02-23 05:40:14",
+        "impact": 2
       },
       "pages": 9,
       "types": "TYPES2",
@@ -204,7 +397,7 @@
         "USER_D1010"
       ],
       "issn": "0378-7788",
-      "rev_number": 25,
+      "rev_number": 27,
       "dir": "disk0\/02\/58\/61\/67",
       "creators": [
         {
@@ -226,8 +419,9 @@
           "id": 25734
         }
       ],
-      "lastmod": "2016-05-06 08:20:44",
+      "lastmod": "2017-02-07 03:36:16",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.enbuild.2015.01.031",
       "proprietary": {
@@ -245,7 +439,7 @@
         "en"
       ],
       "volume": 91,
-      "full_text_status": "restricted",
+      "full_text_status": "public",
       "referee": "REF_1",
       "refereed": 1,
       "divisions": [
@@ -257,8 +451,8 @@
       "eprintid": 2570936,
       "wos": {
         "cluster": 365176500001,
-        "datestamp": "2016-07-29 04:12:38",
-        "impact": 0
+        "datestamp": "2018-02-23 04:50:13",
+        "impact": 1
       },
       "date": 2015,
       "documents": [
@@ -327,8 +521,8 @@
       "title": "PowerOnt: An Ontology-based Approach for Power Consumption Estimation in Smart Homes",
       "scopus": {
         "cluster": "2-s2.0-84948757014",
-        "datestamp": "2016-10-28 04:02:51",
-        "impact": 0
+        "datestamp": "2018-02-23 05:03:05",
+        "impact": 1
       },
       "pages": 6,
       "types": "TYPES8",
@@ -371,6 +565,7 @@
       ],
       "lastmod": "2016-05-17 00:38:26",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -400,12 +595,12 @@
       ]
     },
     {
-      "authors_string": "Bonino D., Procaccianti G.",
+      "authors_string": "Bonino D.; Procaccianti G.",
       "eprintid": 2533890,
       "wos": {
         "cluster": 344578600007,
-        "datestamp": "2016-10-27 03:39:17",
-        "impact": 1
+        "datestamp": "2018-02-22 04:54:00",
+        "impact": 4
       },
       "date": 2014,
       "documents": [
@@ -416,11 +611,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2014-03-06 14:10:22",
+                  "mtime": "2015-10-29 12:09:09",
                   "datasetid": "document",
-                  "fileid": 1457203,
-                  "objectid": 681711,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1457203",
+                  "fileid": 2528309,
+                  "objectid": 1291477,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2528309",
                   "mime_type": "application\/pdf",
                   "hash": "43620bcdfbd8c870145832dab1a65e81",
                   "filesize": 2153191,
@@ -428,28 +623,28 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 16,
+            "rev_number": 2,
             "copyright_date": "2015-03-16",
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/681711",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1291477",
             "original_docid": 62002,
             "main": "semanticsInAmI.pdf",
             "format": "application\/pdf",
-            "docid": 681711,
+            "docid": 1291477,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/920779"
+                "uri": "\/id\/document\/1305228"
               }
             ],
             "copyright_operator": "MN",
-            "formatdesc": "Submitted_version"
+            "formatdesc": "semanticsInAmI.pdf"
           }
       ],
-      "upddate": "2015-06-16 10:09:55",
+      "upddate": "2018-01-16 02:42:32",
       "keywords": [
         "semantic technologies",
         "smart grids",
@@ -464,13 +659,13 @@
       "datestamp": "2014-03-04 16:36:02",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2533890",
       "publication": "SCIENCE OF COMPUTER PROGRAMMING",
-      "abstract": "Semantic technologies are currently spreading across several application domains as a reliable and consistent mean to address challenges related to organization, manipulation, visualization and exchange of data and knowledge. Different roles are actually played by these techniques depending on the application domain, on the timing constraints, on the distributed nature of applications, and so on. This paper provides an overview of the roles played by semantic technologies in the domain of smart grids and smart environments, with a particular focus on changes brought by such technologies in the adopted architectures, programming techniques and tools. Motivations driving the adoption of semantics in these different, but strictly intertwined, fields are introduced using a strong application-driven perspective. Two real-world case studies in smart grids and smart environments are presented to exemplify the roles covered by such technologies and the changes they fostered in software engineering processes. Learned lessons are then distilled and future adoption scenarios discussed",
+      "abstract": "Semantic technologies are currently spreading across several application domains as a reliable and consistent mean to address challenges related to organization, manipulation, visualization and exchange of data and knowledge. Different roles are actually played by these techniques depending on the application domain, on the timing constraints, on the distributed nature of applications, and so on. This paper provides an overview of the roles played by semantic technologies in the domain of smart grids and smart environments, with a particular focus on changes brought by such technologies in the adopted architectures, programming techniques and tools. Motivations driving the adoption of semantics in these different, but strictly intertwined, fields are introduced using a strong application-driven perspective. Two real-world case studies in smart grids and smart environments are presented to exemplify the roles covered by such technologies and the changes they fostered in software engineering processes. Learned lessons are then distilled and future adoption scenarios discussed.",
       "type": "article",
       "title": "Exploiting Semantic Technologies in Smart Environments and Grids: Emerging Roles and Case Studies",
       "scopus": {
         "cluster": "2-s2.0-84922229829",
-        "datestamp": "2016-10-27 03:55:07",
-        "impact": 1
+        "datestamp": "2018-02-22 05:16:04",
+        "impact": 5
       },
       "pages": 37,
       "types": "TYPES2",
@@ -478,7 +673,7 @@
       "twitted": 1,
       "userid": 2,
       "issn": "0167-6423",
-      "rev_number": 32,
+      "rev_number": 56,
       "dir": "disk0\/02\/53\/38\/90",
       "creators": [
         {
@@ -500,8 +695,9 @@
           "id": 27447
         }
       ],
-      "lastmod": "2016-05-25 13:33:45",
+      "lastmod": "2018-01-18 18:59:00",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.scico.2014.02.018",
       "proprietary": {
@@ -514,7 +710,7 @@
         "id": 27447
       },
       "eprint_status": "archive",
-      "status_changed": "2014-03-06 14:03:41",
+      "status_changed": "2015-06-30 19:43:26",
       "language": [
         "en"
       ],
@@ -529,6 +725,9 @@
       "refereed": 1,
       "divisions": [
         "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
       ]
     },
     {
@@ -536,8 +735,8 @@
       "eprintid": 2506317,
       "wos": {
         "cluster": 341569300010,
-        "datestamp": "2016-10-25 04:07:25",
-        "impact": 2
+        "datestamp": "2018-02-21 04:35:36",
+        "impact": 3
       },
       "date": 2014,
       "documents": [
@@ -595,8 +794,8 @@
       "title": "JEERP: Energy Aware Enterprise Resource Planning",
       "scopus": {
         "cluster": "2-s2.0-84906269891",
-        "datestamp": "2016-10-25 04:38:01",
-        "impact": 1
+        "datestamp": "2018-02-21 04:49:49",
+        "impact": 6
       },
       "pages": 7,
       "types": "TYPES2",
@@ -640,6 +839,7 @@
       ],
       "lastmod": "2016-05-04 13:26:13",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1109\/MITP.2013.22",
       "proprietary": {
@@ -726,14 +926,19 @@
       "abstract": "The design of smart homes, buildings and environments currently suffers from a low maturity of available methodologies and tools. Technologies, devices and protocols strongly bias the design process towards vertical integration, and more flexible solutions based on separation of design concerns are seldom applied. As a result, the current landscape of smart environments is mostly populated by defectively designed solutions where application requirements (e.g., end-user functionality) are too often mixed and intertwined with technical requirements (e.g., managing the network of devices). A mature and effective design process must, instead, rely on a clear separation between the application layer and the underlying enabling technologies, to enable effective design reuse. The role of smart gateways is to enable this separation of concerns and to provide an abstracted view of available automation technology to higher software layers. This paper presents a blueprint for the information technology (IT) architecture of smart buildings that builds on top of established software engineering practices, such as model-driven development and semantic representation, and that avoids many pitfalls inherent in legacy approaches. The paper will also present a representative use case where the approach has been applied and the corresponding modeling and software tools",
       "type": "article",
       "title": "A Semantics-Rich Information Technology Architecture for Smart Buildings",
+      "scopus": {
+        "cluster": "2-s2.0-84977864453",
+        "datestamp": "2018-02-23 05:07:57",
+        "impact": 3
+      },
       "pages": 31,
       "types": "TYPES2",
       "number": 4,
+      "twitted": 1,
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "twitted": 1,
       "issn": "2075-5309",
       "rev_number": 38,
       "dir": "disk0\/02\/57\/25\/65",
@@ -768,6 +973,7 @@
       ],
       "lastmod": "2016-09-27 15:02:51",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.3390\/buildings4040880",
       "proprietary": {
@@ -800,7 +1006,7 @@
       "eprintid": 2518929,
       "wos": {
         "cluster": 342901400024,
-        "datestamp": "2016-10-26 03:57:41",
+        "datestamp": "2018-02-22 04:26:47",
         "impact": 0
       },
       "date": 2014,
@@ -870,7 +1076,7 @@
       "title": "Template-based ontology population for Smart Environments configuration",
       "scopus": {
         "cluster": "2-s2.0-84901335491",
-        "datestamp": "2016-10-26 04:34:43",
+        "datestamp": "2018-02-22 04:32:50",
         "impact": 0
       },
       "pages": 8,
@@ -914,6 +1120,7 @@
       ],
       "lastmod": "2016-05-13 10:19:07",
       "ispublished": "pub",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -990,6 +1197,7 @@
       ],
       "lastmod": "2014-10-31 08:48:18",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.2759\/40897",
       "proprietary": {
@@ -1074,6 +1282,7 @@
       ],
       "lastmod": "2015-10-09 10:31:09",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1201\/b16014-20",
       "proprietary": {
@@ -1087,10 +1296,10 @@
       },
       "eprint_status": "archive",
       "status_changed": "2012-11-13 15:11:51",
-      "volume": 1,
       "language": [
         "en"
       ],
+      "volume": 1,
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
@@ -1107,15 +1316,15 @@
           {
             "placement": 1,
             "eprintid": 2508526,
-            "insert_date": "2015-10-29 12:07:22",
+            "insert_date": "2017-10-26 11:09:16",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2015-10-09 10:18:59",
+                  "mtime": "2017-10-26 11:09:16",
                   "datasetid": "document",
-                  "fileid": 1512460,
-                  "objectid": 710967,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1512460",
+                  "fileid": 2368795,
+                  "objectid": 1202442,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2368795",
                   "mime_type": "application\/pdf",
                   "hash": "a1b949efd92cc37894d2454c9ea26be5",
                   "filesize": 1800882,
@@ -1123,17 +1332,18 @@
                 }
             ],
             "content": "other",
-            "rev_number": 114,
+            "rev_number": 2,
             "copyright_date": "2014-12-24",
+            "copyright_note": "Riaperto 30\/10\/2017 MN",
             "pos": 1,
             "coverpage": "FALSE",
             "language": "it",
             "license": "cc_by_nc_sa",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/710967",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1202442",
             "original_docid": 60014,
             "main": "Poster.pdf",
             "format": "application\/pdf",
-            "docid": 710967,
+            "docid": 1202442,
             "security": "public",
             "copyright_operator": "MN",
             "formatdesc": "Poster.pdf"
@@ -1141,15 +1351,15 @@
           {
             "placement": 2,
             "eprintid": 2508526,
-            "insert_date": "2015-07-14 12:26:32",
+            "insert_date": "2017-10-26 11:09:16",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2015-10-09 10:19:01",
+                  "mtime": "2017-10-26 11:09:16",
                   "datasetid": "document",
-                  "fileid": 1512463,
-                  "objectid": 710969,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1512463",
+                  "fileid": 2368797,
+                  "objectid": 1202443,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2368797",
                   "mime_type": "application\/pdf",
                   "hash": "043109cecdfcd819c4441aba256c0599",
                   "filesize": 850541,
@@ -1157,29 +1367,28 @@
                 }
             ],
             "content": "published",
-            "rev_number": 112,
-            "copyright_date": "2015-11-13",
-            "copyright_note": "c dell'autore",
+            "rev_number": 3,
+            "copyright_date": "2017-10-30",
             "pos": 2,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/710969",
-            "original_docid": 27141,
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1202443",
+            "original_docid": 171460,
             "main": "dWatch.pdf",
             "format": "application\/pdf",
-            "docid": 710969,
+            "docid": 1202443,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/1004667"
+                "uri": "\/id\/document\/1205285"
               }
             ],
             "copyright_operator": "MN",
             "formatdesc": "dWatch.pdf"
           }
       ],
-      "upddate": "2015-07-14 12:07:53",
+      "upddate": "2017-10-26 11:09:16",
       "keywords": [
         "home automation",
         "smart environments",
@@ -1195,13 +1404,13 @@
       "datestamp": "2013-06-27 09:44:29",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2508526",
       "event_location": "Zurich, Switzerland",
-      "abstract": "This paper addresses human-home interaction mediated by everyday objects, with a particular focus on wrist watches. Everyday wrist-worn devices are turned into flexible home access points by exploiting a modular architecture independent from the underlying home automation system, and from the specific watch device, provided that the necessary capabilities are available. A first working prototype based on a cost-effective consumer watch is presented, and experimental results confirm the viability of the approach",
+      "abstract": "This paper addresses human-home interaction mediated by everyday objects, with a particular focus on wrist watches. Everyday wrist-worn devices are turned into flexible home access points by exploiting a modular architecture independent from the underlying home automation system, and from the specific watch device, provided that the necessary capabilities are available. A first working prototype based on a cost-effective consumer watch is presented, and experimental results confirm the viability of the approach.",
       "type": "conference_item",
       "title": "The Smart Home Controller on Your Wrist",
       "scopus": {
         "cluster": "2-s2.0-84885228678",
-        "datestamp": "2016-10-26 03:33:02",
-        "impact": 2
+        "datestamp": "2018-02-21 05:11:15",
+        "impact": 4
       },
       "pages": 8,
       "place_of_pub": "New York",
@@ -1211,17 +1420,17 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 145,
+      "rev_number": 176,
       "dir": "disk0\/02\/50\/85\/26",
       "creators": [
         {
           "name": {
-            "lineage": 25734,
-            "given": "Luigi",
+            "lineage": 2154,
+            "given": "Fulvio",
             "honourific": null,
-            "family": "De Russis"
+            "family": "Corno"
           },
-          "id": 25734
+          "id": 2154
         },
         {
           "name": {
@@ -1234,18 +1443,17 @@
         },
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 25734,
+            "given": "Luigi",
             "honourific": null,
-            "family": "Corno"
+            "family": "De Russis"
           },
-          "id": 2154
+          "id": 25734
         }
       ],
-      "lastmod": "2016-09-23 20:46:11",
+      "lastmod": "2017-10-31 22:24:24",
       "ispublished": "pub",
-      "metadata_visibility": "show",
-      "id_number": "10.1145\/2494091.2497319",
+      "openaire": 1,
       "proprietary": {
         "name": {
           "lineage": 25734,
@@ -1255,6 +1463,8 @@
         },
         "id": 25734
       },
+      "metadata_visibility": "show",
+      "id_number": "10.1145\/2494091.2497319",
       "eprint_status": "archive",
       "status_changed": "2013-09-10 08:09:51",
       "language": [
@@ -1262,6 +1472,8 @@
       ],
       "event_relevance": "I",
       "full_text_status": "public",
+      "referee": "REF_0",
+      "refereed": 1,
       "divisions": [
         "DAUIN"
       ],
@@ -1274,8 +1486,8 @@
       "eprintid": 2458589,
       "wos": {
         "cluster": 306646200009,
-        "datestamp": "2016-10-22 03:20:58",
-        "impact": 2
+        "datestamp": "2018-03-19 05:02:27",
+        "impact": 3
       },
       "date": 2012,
       "documents": [
@@ -1341,8 +1553,8 @@
       "title": "DoMAIns: Domain-based Modeling for Ambient Intelligence",
       "scopus": {
         "cluster": "2-s2.0-84864435657",
-        "datestamp": "2016-10-22 03:25:24",
-        "impact": 2
+        "datestamp": "2018-03-19 05:44:04",
+        "impact": 3
       },
       "pages": 15,
       "types": "TYPES2",
@@ -1377,6 +1589,7 @@
       ],
       "lastmod": "2016-05-02 02:51:47",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.pmcj.2011.10.009",
@@ -1415,8 +1628,8 @@
       "eprintid": 2465381,
       "wos": {
         "cluster": 301989800044,
-        "datestamp": "2016-10-22 03:36:50",
-        "impact": 20
+        "datestamp": "2018-02-18 04:45:59",
+        "impact": 32
       },
       "date": 2012,
       "documents": [
@@ -1480,8 +1693,8 @@
       "title": "Home Energy Consumption Feedback: A User Survey",
       "scopus": {
         "cluster": "2-s2.0-84857049125",
-        "datestamp": "2016-09-22 03:20:06",
-        "impact": 25
+        "datestamp": "2018-02-18 04:58:41",
+        "impact": 38
       },
       "pages": 11,
       "types": "TYPES2",
@@ -1524,6 +1737,7 @@
       ],
       "lastmod": "2016-05-01 13:38:20",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.enbuild.2011.12.017",
@@ -1609,6 +1823,7 @@
       ],
       "lastmod": "2014-10-29 16:48:56",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1145\/2331042.2331050",
       "proprietary": {
@@ -1622,10 +1837,10 @@
       },
       "eprint_status": "archive",
       "status_changed": "2012-09-26 11:09:18",
-      "volume": 19,
       "language": [
         "en"
       ],
+      "volume": 19,
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
@@ -1636,8 +1851,8 @@
       "eprintid": 2496719,
       "wos": {
         "cluster": 314400700036,
-        "datestamp": "2016-10-23 03:23:45",
-        "impact": 2
+        "datestamp": "2018-02-19 04:23:28",
+        "impact": 3
       },
       "date": 2012,
       "documents": [
@@ -1706,8 +1921,8 @@
       "title": "dWatch: a Personal Wrist Watch for Smart Environments",
       "scopus": {
         "cluster": "2-s2.0-84883286759",
-        "datestamp": "2016-10-23 03:31:29",
-        "impact": 6
+        "datestamp": "2018-02-19 04:28:55",
+        "impact": 7
       },
       "pages": 8,
       "types": "TYPES8",
@@ -1750,6 +1965,7 @@
       ],
       "lastmod": "2016-05-26 04:33:15",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -1788,8 +2004,8 @@
       "eprintid": 2496720,
       "wos": {
         "cluster": 314400700038,
-        "datestamp": "2016-10-23 03:23:46",
-        "impact": 3
+        "datestamp": "2018-02-19 04:23:28",
+        "impact": 6
       },
       "date": 2012,
       "documents": [
@@ -1857,8 +2073,8 @@
       "title": "spChains: A Declarative Framework for Data Stream Processing in Pervasive Applications",
       "scopus": {
         "cluster": "2-s2.0-84893472667",
-        "datestamp": "2016-10-23 03:31:31",
-        "impact": 2
+        "datestamp": "2018-02-19 04:28:58",
+        "impact": 6
       },
       "pages": 8,
       "types": "TYPES8",
@@ -1892,6 +2108,7 @@
       ],
       "lastmod": "2016-05-22 14:09:21",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -1926,12 +2143,12 @@
       ]
     },
     {
-      "authors_string": "Bonino D., Castellina E., Corno F., De Russis L.",
+      "authors_string": "Bonino D.; Castellina E.; Corno F.; De Russis L.",
       "eprintid": 2425975,
       "wos": {
         "cluster": 297871400013,
-        "datestamp": "2016-10-21 03:52:12",
-        "impact": 4
+        "datestamp": "2018-03-19 04:43:08",
+        "impact": 6
       },
       "date": 2011,
       "documents": [
@@ -1942,11 +2159,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2011-06-17 11:51:09",
+                  "mtime": "2015-10-29 12:02:30",
                   "datasetid": "document",
-                  "fileid": 1112961,
-                  "objectid": 479539,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1112961",
+                  "fileid": 2519734,
+                  "objectid": 1288783,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2519734",
                   "mime_type": "application\/pdf",
                   "hash": "a4ea14a7431443323712ddab5b1a8ec0",
                   "filesize": 4524105,
@@ -1954,36 +2171,36 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 4,
+            "rev_number": 2,
             "copyright_date": "2011-06-23",
             "copyright_note": "Elsevier, ok sia se preprint che draft. Inserito come preprint e segnato come tale anche sull'allegato ma sul nome dell'allegato compare: final accepted paper. Cambiare tipologia in postprint?",
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/479539",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1288783",
             "original_docid": 54636,
             "main": "dogeye.pdf",
             "format": "application\/pdf",
-            "docid": 479539,
+            "docid": 1288783,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/579932"
+                "uri": "\/id\/document\/1306541"
               }
             ],
             "copyright_operator": "MGD",
-            "formatdesc": "DogEye_pre_print_final_accepted_paper_"
+            "formatdesc": "dogeye.pdf"
           }
       ],
-      "upddate": "2013-10-15 13:02:04",
+      "upddate": "2018-01-16 02:30:06",
       "keywords": [
-        "domotics",
-        "human-home interaction",
         "user study",
+        "human-home interaction",
+        "smart homes",
+        "domotics",
         "usability",
-        "user interface",
-        "smart homes"
+        "user interface"
       ],
       "pagerange": "484-498",
       "publisher": "Elsevier",
@@ -1992,13 +2209,13 @@
       "datestamp": "2011-06-16 00:08:36",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/2425975",
       "publication": "INTERACTING WITH COMPUTERS",
-      "abstract": "Nowadays home automation, with its increased availability, reliability and with its ever reducing costs is gaining momentum and is starting to become a viable solution for enabling people with disabilities to autonomously interact with their homes and to better communicate with other people. However, especially for people with severe mobility impairments, there is still a lack of tools and interfaces for effective control and interaction with home automation systems, and general-purpose solutions are seldom applicable due to the complexity, asynchronicity, time dependent behavior, and safety concerns typical of the home environment. This paper focuses on user-environment interfaces based on the eye tracking technology, which often is the only viable interaction modality for users as such. We propose an eye-based interface tackling the specific requirements of smart environments, already outlined in a public Recommendation issued by the COGAIN European Network of Excellence. The proposed interface has been implemented as a software prototype based on the ETU universal driver, thus being potentially able to run on a variety of eye trackers, and it is compatible with a wide set of smart home technologies, handled by the Domotic OSGi Gateway. A first interface evaluation, with user testing sessions, has been carried and results show that the interface is quite effective and usable without discomfort by people with almost regular eye movement control",
+      "abstract": "Nowadays home automation, with its increased availability, reliability and with its ever reducing costs is gaining momentum and is starting to become a viable solution for enabling people with disabilities to autonomously interact with their homes and to better communicate with other people. However, especially for people with severe mobility impairments, there is still a lack of tools and interfaces for effective control and interaction with home automation systems, and general-purpose solutions are seldom applicable due to the complexity, asynchronicity, time dependent behavior, and safety concerns typical of the home environment. This paper focuses on user-environment interfaces based on the eye tracking technology, which often is the only viable interaction modality for users as such. We propose an eye-based interface tackling the specific requirements of smart environments, already outlined in a public Recommendation issued by the COGAIN European Network of Excellence. The proposed interface has been implemented as a software prototype based on the ETU universal driver, thus being potentially able to run on a variety of eye trackers, and it is compatible with a wide set of smart home technologies, handled by the Domotic OSGi Gateway. A first interface evaluation, with user testing sessions, has been carried and results show that the interface is quite effective and usable without discomfort by people with almost regular eye movement control.",
       "type": "article",
       "title": "DOGeye: Controlling your Home with Eye Interaction",
       "scopus": {
         "cluster": "2-s2.0-80255126828",
-        "datestamp": "2016-10-21 04:15:47",
-        "impact": 7
+        "datestamp": "2018-03-19 05:07:16",
+        "impact": 8
       },
       "pages": 15,
       "types": "TYPES2",
@@ -2008,7 +2225,7 @@
         "USER_D1010"
       ],
       "issn": "0953-5438",
-      "rev_number": 30,
+      "rev_number": 40,
       "dir": "disk0\/02\/42\/59\/75",
       "creators": [
         {
@@ -2048,8 +2265,9 @@
           "id": 12325
         }
       ],
-      "lastmod": "2015-01-16 04:01:16",
+      "lastmod": "2018-01-19 16:47:28",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.intcom.2011.06.002",
@@ -2063,7 +2281,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2011-09-07 10:09:28",
+      "status_changed": "2015-06-30 17:48:04",
       "language": [
         "en"
       ],
@@ -2083,8 +2301,8 @@
       "eprintid": 2381047,
       "wos": {
         "cluster": 290978900027,
-        "datestamp": "2016-10-21 03:16:09",
-        "impact": 12
+        "datestamp": "2018-03-18 05:06:39",
+        "impact": 13
       },
       "date": 2011,
       "documents": [
@@ -2177,7 +2395,7 @@
       "title": "Enabling Machine Understandable Exchange of Energy Consumption Information in Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-79953745282",
-        "datestamp": "2016-10-21 03:16:57",
+        "datestamp": "2018-03-18 05:30:26",
         "impact": 16
       },
       "pages": 11,
@@ -2221,6 +2439,7 @@
       ],
       "lastmod": "2016-04-23 10:21:22",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.enbuild.2011.01.013",
@@ -2254,7 +2473,7 @@
       "eprintid": 2399669,
       "wos": {
         "cluster": 295994400021,
-        "datestamp": "2016-10-21 03:26:50",
+        "datestamp": "2018-03-19 04:21:51",
         "impact": 3
       },
       "date": 2011,
@@ -2319,8 +2538,8 @@
       "title": "Modeling, Simulation and Emulation of Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-80052840584",
-        "datestamp": "2016-10-21 03:35:14",
-        "impact": 4
+        "datestamp": "2018-03-19 04:29:40",
+        "impact": 5
       },
       "pages": 15,
       "types": "TYPES2",
@@ -2354,6 +2573,7 @@
       ],
       "lastmod": "2016-05-06 15:02:50",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.autcon.2011.03.014",
@@ -2479,7 +2699,7 @@
       "title": "A User-Friendly Interface for Rules Composition in Intelligent Environments",
       "scopus": {
         "cluster": "2-s2.0-80053006718",
-        "datestamp": "2016-10-20 04:30:41",
+        "datestamp": "2018-03-18 05:26:12",
         "impact": 5
       },
       "pages": 5,
@@ -2523,6 +2743,7 @@
       ],
       "lastmod": "2016-04-09 11:21:51",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/978-3-642-19937-0_27",
@@ -2560,8 +2781,8 @@
       "eprintid": 2380988,
       "wos": {
         "cluster": 291688100003,
-        "datestamp": "2016-10-21 03:15:54",
-        "impact": 11
+        "datestamp": "2018-03-18 05:06:28",
+        "impact": 17
       },
       "date": 2011,
       "documents": [
@@ -2627,8 +2848,8 @@
       "title": "What Would You Ask to Your Home if It Were Intelligent? Exploring User Expectations about Next-Generation Homes",
       "scopus": {
         "cluster": "2-s2.0-79956129896",
-        "datestamp": "2016-10-21 03:16:23",
-        "impact": 14
+        "datestamp": "2018-03-18 05:30:06",
+        "impact": 21
       },
       "pages": 16,
       "types": "TYPES2",
@@ -2663,6 +2884,7 @@
       ],
       "lastmod": "2016-05-23 06:55:36",
       "ispublished": "pub",
+      "openaire": 1,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.3233\/AIS-2011-0099",
@@ -2700,7 +2922,7 @@
       "authors_string": "Bonino D; Corno F.",
       "eprintid": 2304174,
       "date": 2010,
-      "upddate": "2012-07-07 05:58:53",
+      "upddate": "2017-05-19 15:18:41",
       "isbn": 9781424453283,
       "pagerange": "61-66",
       "publisher": "IEEE",
@@ -2713,8 +2935,8 @@
       "title": "DogSim: A State Chart Simulator for Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-77954026175",
-        "datestamp": "2016-10-19 03:18:52",
-        "impact": 6
+        "datestamp": "2018-03-17 04:30:17",
+        "impact": 10
       },
       "types": "TYPES8",
       "userid": 2,
@@ -2722,7 +2944,7 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 3,
+      "rev_number": 5,
       "dir": "disk0\/02\/30\/41\/74",
       "creators": [
         {
@@ -2744,8 +2966,9 @@
           "id": 12325
         }
       ],
-      "lastmod": "2014-10-28 08:53:24",
+      "lastmod": "2017-05-21 02:55:23",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -2775,7 +2998,7 @@
       "eprintid": 2366483,
       "wos": {
         "cluster": 295015302078,
-        "datestamp": "2016-10-19 03:48:22",
+        "datestamp": "2018-03-17 04:56:26",
         "impact": 0
       },
       "date": 2010,
@@ -2794,8 +3017,8 @@
       "title": "Mobile Interaction with Smart Environments through Linked Data",
       "scopus": {
         "cluster": "2-s2.0-78751530656",
-        "datestamp": "2016-10-19 04:11:16",
-        "impact": 5
+        "datestamp": "2018-03-17 05:15:02",
+        "impact": 7
       },
       "pages": 8,
       "place_of_pub": "NEW YORK",
@@ -2838,6 +3061,7 @@
       ],
       "lastmod": "2016-10-12 04:45:18",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ICSMC.2010.5641951",
       "proprietary": {
@@ -2918,8 +3142,8 @@
       "title": "Review of the state-of-the-art in patent information and forthcoming evolutions in intelligent patent informatics",
       "scopus": {
         "cluster": "2-s2.0-72449204627",
-        "datestamp": "2016-10-17 03:44:13",
-        "impact": 41
+        "datestamp": "2018-03-15 06:22:11",
+        "impact": 59
       },
       "pages": 9,
       "types": "TYPES2",
@@ -2953,6 +3177,7 @@
       ],
       "lastmod": "2014-10-27 17:00:20",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.wpi.2009.05.008",
@@ -3003,6 +3228,7 @@
       "dir": "disk0\/01\/93\/90\/39",
       "lastmod": "2014-10-27 16:59:16",
       "ispublished": "pub",
+      "openaire": 0,
       "isbn": 9783639186499,
       "pagerange": "1-200",
       "publisher": "VDM Verlag",
@@ -3038,8 +3264,8 @@
       "eprintid": 1996942,
       "wos": {
         "cluster": 267941600029,
-        "datestamp": "2016-10-17 03:58:23",
-        "impact": 2
+        "datestamp": "2018-03-16 04:24:36",
+        "impact": 5
       },
       "date": 2009,
       "documents": [
@@ -3088,7 +3314,7 @@
       "title": "Automatic Domotic Device Interoperation",
       "scopus": {
         "cluster": "2-s2.0-68949170973",
-        "datestamp": "2016-09-14 05:58:42",
+        "datestamp": "2018-03-16 04:28:54",
         "impact": 5
       },
       "pages": 8,
@@ -3132,6 +3358,7 @@
       ],
       "lastmod": "2016-09-14 04:52:23",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TCE.2009.5174413",
@@ -3210,6 +3437,7 @@
       ],
       "lastmod": "2014-10-29 16:21:19",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -3249,8 +3477,8 @@
       "eprintid": 2263141,
       "wos": {
         "cluster": 279800000074,
-        "datestamp": "2016-10-17 04:02:50",
-        "impact": 2
+        "datestamp": "2018-03-16 04:30:06",
+        "impact": 5
       },
       "date": 2009,
       "documents": [
@@ -3302,8 +3530,8 @@
       "title": "FaSet: A Set Theory Model for Faceted Search",
       "scopus": {
         "cluster": "2-s2.0-79955077023",
-        "datestamp": "2016-09-21 05:24:28",
-        "impact": 7
+        "datestamp": "2018-03-16 04:37:53",
+        "impact": 9
       },
       "pages": 8,
       "place_of_pub": "PISCATAWAY, NJ",
@@ -3345,6 +3573,7 @@
       ],
       "lastmod": "2016-09-21 04:45:01",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -3377,7 +3606,7 @@
       "eprintid": 2280747,
       "wos": {
         "cluster": 277842800018,
-        "datestamp": "2016-10-18 03:27:45",
+        "datestamp": "2018-03-16 04:43:05",
         "impact": 1
       },
       "date": 2009,
@@ -3431,8 +3660,8 @@
       "title": "Interoperation Modeling for Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-78650621929",
-        "datestamp": "2016-10-18 03:36:48",
-        "impact": 2
+        "datestamp": "2018-03-16 04:57:54",
+        "impact": 3
       },
       "pages": 10,
       "types": "TYPES8",
@@ -3466,6 +3695,7 @@
       ],
       "lastmod": "2016-09-23 04:33:30",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "proprietary": {
         "name": {
@@ -3546,8 +3776,8 @@
       "title": "An Ontology-Based Context Management and Reasoning on the DOG Gateway",
       "scopus": {
         "cluster": "2-s2.0-77949692387",
-        "datestamp": "2016-09-18 03:55:01",
-        "impact": 0
+        "datestamp": "2018-03-16 05:48:54",
+        "impact": 1
       },
       "types": "TYPES8",
       "userid": 2,
@@ -3597,6 +3827,7 @@
       ],
       "lastmod": "2014-10-28 08:02:12",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/CISE.2009.5364136",
@@ -3628,8 +3859,8 @@
       "eprintid": 2284515,
       "wos": {
         "cluster": 278077800011,
-        "datestamp": "2016-10-19 05:06:04",
-        "impact": 7
+        "datestamp": "2018-03-16 04:52:47",
+        "impact": 10
       },
       "date": 2009,
       "documents": [
@@ -3678,8 +3909,8 @@
       "title": "Rule-based Intelligence for Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-76549110725",
-        "datestamp": "2016-10-19 05:19:27",
-        "impact": 12
+        "datestamp": "2018-03-16 05:13:18",
+        "impact": 14
       },
       "pages": 14,
       "types": "TYPES2",
@@ -3713,6 +3944,7 @@
       ],
       "lastmod": "2016-10-19 04:45:53",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1016\/j.autcon.2009.10.008",
@@ -3746,7 +3978,7 @@
       "eprintid": 1938181,
       "wos": {
         "cluster": 273282100223,
-        "datestamp": "2016-10-21 05:03:27",
+        "datestamp": "2018-03-15 04:53:20",
         "impact": 0
       },
       "date": 2009,
@@ -3798,8 +4030,8 @@
       "title": "Technology Independent Interoperation of Domotic Devices through Rules",
       "scopus": {
         "cluster": "2-s2.0-70350246244",
-        "datestamp": "2016-10-21 05:14:24",
-        "impact": 1
+        "datestamp": "2018-03-15 06:18:57",
+        "impact": 3
       },
       "types": "TYPES8",
       "userid": 2,
@@ -3848,6 +4080,7 @@
       ],
       "lastmod": "2016-10-21 04:42:27",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ISCE.2009.5157026",
@@ -3879,8 +4112,8 @@
       "eprintid": 1648150,
       "wos": {
         "cluster": 207889500006,
-        "datestamp": "2016-10-11 03:34:54",
-        "impact": 3
+        "datestamp": "2018-03-10 04:26:08",
+        "impact": 4
       },
       "date": 2009,
       "documents": [
@@ -3933,8 +4166,8 @@
       "title": "A blueprint for integrated eye-controlled environments",
       "scopus": {
         "cluster": "2-s2.0-70350706059",
-        "datestamp": "2016-10-11 03:37:46",
-        "impact": 8
+        "datestamp": "2018-03-10 04:41:03",
+        "impact": 9
       },
       "pages": 11,
       "types": "TYPES2",
@@ -3986,6 +4219,7 @@
       ],
       "lastmod": "2016-09-09 04:35:17",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1007\/s10209-009-0145-4",
@@ -4019,8 +4253,8 @@
       "eprintid": 1853049,
       "wos": {
         "cluster": 261700400028,
-        "datestamp": "2016-10-21 05:02:56",
-        "impact": 28
+        "datestamp": "2018-03-14 04:30:49",
+        "impact": 38
       },
       "date": 2008,
       "documents": [
@@ -4069,8 +4303,8 @@
       "title": "The DOG gateway: enabling ontology-based intelligent domotic environments",
       "scopus": {
         "cluster": "2-s2.0-58149145420",
-        "datestamp": "2016-10-21 05:11:03",
-        "impact": 50
+        "datestamp": "2018-03-14 04:39:56",
+        "impact": 61
       },
       "pages": 9,
       "types": "TYPES2",
@@ -4113,6 +4347,7 @@
       ],
       "lastmod": "2016-10-21 04:39:34",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/TCE.2008.4711217",
@@ -4146,8 +4381,8 @@
       "eprintid": 1845489,
       "wos": {
         "cluster": 262214700020,
-        "datestamp": "2016-10-15 03:34:50",
-        "impact": 4
+        "datestamp": "2018-02-12 04:59:33",
+        "impact": 5
       },
       "date": 2008,
       "upddate": "2016-09-13 14:02:56",
@@ -4163,8 +4398,8 @@
       "title": "DOG: an Ontology-Powered OSGi Domotic Gateway",
       "scopus": {
         "cluster": "2-s2.0-57649155544",
-        "datestamp": "2016-10-15 03:48:19",
-        "impact": 14
+        "datestamp": "2018-03-13 05:39:35",
+        "impact": 20
       },
       "types": "TYPES8",
       "userid": 2,
@@ -4205,6 +4440,7 @@
       "lastmod": "2016-09-15 04:41:51",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ICTAI.2008.115",
       "proprietary": {
@@ -4235,8 +4471,8 @@
       "eprintid": 1838746,
       "wos": {
         "cluster": 263688400051,
-        "datestamp": "2016-10-15 03:25:41",
-        "impact": 39
+        "datestamp": "2018-02-12 04:49:48",
+        "impact": 56
       },
       "date": 2008,
       "documents": [
@@ -4249,9 +4485,9 @@
                   "hash_type": "MD5",
                   "mtime": "2015-10-29 11:57:33",
                   "datasetid": "document",
-                  "fileid": 2014481,
-                  "objectid": 988417,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/2014481",
+                  "fileid": 2247603,
+                  "objectid": 1128101,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2247603",
                   "mime_type": "application\/pdf",
                   "hash": "fb7c57f6570dbd86289a6927dea93dc6",
                   "filesize": 164606,
@@ -4259,32 +4495,32 @@
                 }
             ],
             "content": "draft",
-            "rev_number": 2,
+            "rev_number": 8,
             "copyright_date": "2014-12-23",
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/988417",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1128101",
             "original_docid": 50046,
             "main": "paper31_camera_ready.pdf",
             "format": "application\/pdf",
-            "docid": 988417,
+            "docid": 1128101,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/990524"
+                "uri": "\/id\/document\/1337729"
               }
             ],
             "copyright_operator": "MN",
             "formatdesc": "paper31_camera_ready.pdf"
           }
       ],
-      "upddate": "2016-09-14 15:55:23",
+      "upddate": "2017-05-19 15:18:41",
       "isbn": 9783540885634,
       "pagerange": "790-803",
       "irisid": 50489,
-      "publisher_review": "Springer Verlag Germany:Tiergartenstrasse 17, D 69121 Heidelberg Germany:011 49 6221 3450, EMAIL: g.braun@springer.de, INTERNET: http:\/\/www.springer.de, Fax: 011 49 6221 345229",
+      "publisher_review": "Springer",
       "datestamp": "2008-10-22 09:52:57",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1838746",
       "publication": "LECTURE NOTES IN COMPUTER SCIENCE",
@@ -4292,8 +4528,8 @@
       "title": "DogOnt - Ontology Modeling for Intelligent Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-57349200560",
-        "datestamp": "2016-10-15 03:33:11",
-        "impact": 28
+        "datestamp": "2018-03-13 05:24:06",
+        "impact": 66
       },
       "pages": 14,
       "types": "TYPES2",
@@ -4303,18 +4539,9 @@
       ],
       "twitted": 1,
       "issn": "0302-9743",
-      "rev_number": 47,
+      "rev_number": 72,
       "dir": "disk0\/01\/83\/87\/46",
       "creators": [
-        {
-          "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
-            "honourific": null,
-            "family": "Corno"
-          },
-          "id": 2154
-        },
         {
           "name": {
             "lineage": 12325,
@@ -4323,10 +4550,20 @@
             "family": "Bonino"
           },
           "id": 12325
+        },
+        {
+          "name": {
+            "lineage": 2154,
+            "given": "Fulvio",
+            "honourific": null,
+            "family": "Corno"
+          },
+          "id": 2154
         }
       ],
-      "lastmod": "2016-09-16 14:41:38",
+      "lastmod": "2018-03-22 19:41:05",
       "ispublished": "pub",
+      "openaire": 1,
       "metadata_visibility": "show",
       "id_number": "10.1007\/978-3-540-88564-1_51",
       "proprietary": {
@@ -4340,9 +4577,6 @@
       },
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:10:47",
-      "language": [
-        "en"
-      ],
       "volume": "5318\/2008",
       "full_text_status": "public",
       "referee": "REF_4",
@@ -4359,7 +4593,7 @@
       "eprintid": 1797803,
       "wos": {
         "cluster": 259487400038,
-        "datestamp": "2016-10-20 05:01:28",
+        "datestamp": "2018-02-12 04:23:35",
         "impact": 1
       },
       "date": 2008,
@@ -4378,7 +4612,7 @@
       "title": "Self-Similarity metric for Index Pruning in Conceptual Vector Space Models",
       "scopus": {
         "cluster": "2-s2.0-57849096225",
-        "datestamp": "2016-10-20 05:07:50",
+        "datestamp": "2018-03-13 04:36:07",
         "impact": 0
       },
       "place_of_pub": "PISCATAWAY",
@@ -4412,6 +4646,7 @@
       ],
       "lastmod": "2016-10-20 04:38:40",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/DEXA.2008.27",
       "proprietary": {
@@ -4439,15 +4674,30 @@
     },
     {
       "authors_string": "Bonino D.; Castellina E; Corno F",
-      "types": "TYPES8",
       "eprintid": 1855858,
       "date": 2008,
+      "upddate": "2017-05-19 15:18:41",
+      "event_title": "Fifth Workshop on Semantic Web Applications and Perspectives",
+      "irisid": 52513,
+      "event_dates": "15-17 Dicembre 2008",
+      "book_title": "Fifth Workshop on Semantic Web Applications and Perspectives",
+      "datestamp": "2008-11-26 10:41:08",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1855858",
+      "event_location": "Roma",
+      "type": "conference_item",
+      "title": "Uniform Access to Domotic Environments through Semantics",
+      "scopus": {
+        "cluster": "2-s2.0-84874252678",
+        "datestamp": "2018-03-14 04:48:43",
+        "impact": 0
+      },
+      "types": "TYPES8",
+      "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
-      "userid": 2,
-      "upddate": "2012-08-17 01:57:15",
-      "rev_number": 3,
+      "rev_number": 5,
+      "dir": "disk0\/01\/85\/58\/58",
       "creators": [
         {
           "name": {
@@ -4477,9 +4727,10 @@
           "id": 2154
         }
       ],
-      "dir": "disk0\/01\/85\/58\/58",
-      "lastmod": "2014-10-27 13:19:47",
+      "lastmod": "2017-05-21 02:55:22",
       "ispublished": "pub",
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -4489,45 +4740,30 @@
         },
         "id": 12325
       },
-      "event_title": "Fifth Workshop on Semantic Web Applications and Perspectives",
-      "metadata_visibility": "show",
-      "irisid": 52513,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:06:47",
       "language": [
         "en"
       ],
-      "event_dates": "15-17 Dicembre 2008",
       "event_relevance": "I",
-      "book_title": "Fifth Workshop on Semantic Web Applications and Perspectives",
-      "datestamp": "2008-11-26 10:41:08",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1855858",
-      "event_location": "Roma",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "conference_item",
-      "title": "Uniform Access to Domotic Environments through Semantics",
       "ssd": [
         "ING-INF\/05"
-      ],
-      "scopus": {
-        "cluster": "2-s2.0-84874252678",
-        "datestamp": "2015-10-17 03:17:19",
-        "impact": 0
-      }
+      ]
     },
     {
       "authors_string": "Bosca A; Bonino D.",
       "eprintid": 1639528,
       "wos": {
         "cluster": 250954300093,
-        "datestamp": "2016-10-10 03:52:32",
+        "datestamp": "2018-03-09 05:07:17",
         "impact": 0
       },
       "date": 2007,
-      "upddate": "2016-02-08 09:24:37",
+      "upddate": "2018-01-16 02:34:40",
       "publisher": "IEEE press",
       "event_title": "17th International Conference on Database and Expert Systems Applications-DEXA 2007",
       "irisid": 38358,
@@ -4540,13 +4776,13 @@
       "title": "Ontology Exploration through Logical Views in Protégé",
       "scopus": {
         "cluster": "2-s2.0-47849130554",
-        "datestamp": "2016-10-10 04:10:54",
+        "datestamp": "2018-03-09 05:41:30",
         "impact": 1
       },
       "types": "TYPES8",
       "userid": 2,
       "twitted": 1,
-      "rev_number": 5,
+      "rev_number": 7,
       "dir": "disk0\/01\/63\/95\/28",
       "creators": [
         {
@@ -4568,8 +4804,9 @@
           "id": 12324
         }
       ],
-      "lastmod": "2016-02-10 03:43:34",
+      "lastmod": "2018-01-18 04:29:00",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -4581,7 +4818,7 @@
         "id": 12325
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:32:25",
       "language": [
         "en"
       ],
@@ -4589,6 +4826,9 @@
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
+      ],
+      "ssd": [
+        "ING-INF\/05"
       ]
     },
     {
@@ -4596,8 +4836,8 @@
       "eprintid": 1513189,
       "wos": {
         "cluster": 265665300011,
-        "datestamp": "2016-10-09 03:24:50",
-        "impact": 0
+        "datestamp": "2018-03-08 04:35:08",
+        "impact": 1
       },
       "date": 2007,
       "upddate": "2016-09-07 14:07:34",
@@ -4613,8 +4853,8 @@
       "title": "A Reusable 3D Visualization Component for the Semantic Web",
       "scopus": {
         "cluster": "2-s2.0-34248362362",
-        "datestamp": "2016-10-09 03:31:01",
-        "impact": 7
+        "datestamp": "2018-03-08 04:46:41",
+        "impact": 8
       },
       "place_of_pub": "NEW YORK",
       "types": "TYPES8",
@@ -4656,6 +4896,7 @@
       ],
       "lastmod": "2016-09-09 04:33:54",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -4682,8 +4923,8 @@
       "eprintid": 1639529,
       "wos": {
         "cluster": 253293000005,
-        "datestamp": "2016-10-10 03:52:32",
-        "impact": 0
+        "datestamp": "2018-03-09 05:07:18",
+        "impact": 1
       },
       "date": 2007,
       "upddate": "2016-02-10 14:05:27",
@@ -4699,8 +4940,8 @@
       "title": "Versatile RDF Representation for Multimedia Semantic Search",
       "scopus": {
         "cluster": "2-s2.0-48649087243",
-        "datestamp": "2016-10-10 04:10:57",
-        "impact": 0
+        "datestamp": "2018-03-09 05:41:34",
+        "impact": 1
       },
       "types": "TYPES8",
       "userid": 2,
@@ -4742,6 +4983,7 @@
       "lastmod": "2016-02-12 03:38:45",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -4785,14 +5027,11 @@
       "title": "An Accessible Control Application for Domotic Environments",
       "scopus": {
         "cluster": "2-s2.0-57549084361",
-        "datestamp": "2016-10-08 03:58:58",
+        "datestamp": "2018-03-07 05:13:56",
         "impact": 3
       },
       "types": "TYPES8",
       "userid": 2,
-      "userdep": [
-        "USER_D1010"
-      ],
       "twitted": 1,
       "rev_number": 5,
       "dir": "disk0\/01\/49\/73\/77",
@@ -4818,6 +5057,7 @@
       ],
       "lastmod": "2016-02-24 03:32:10",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -4840,7 +5080,7 @@
       "authors_string": "Borello F; Bonino D; Corno F.",
       "eprintid": 1464553,
       "date": 2006,
-      "upddate": "2015-01-15 16:03:16",
+      "upddate": "2017-05-19 15:18:41",
       "isbn": 9782287474699,
       "pagerange": "93-107",
       "publisher": "Springer-Verrlag",
@@ -4855,7 +5095,7 @@
       "title": "Accessing Ambient Intelligence through Devices with Low Computational and Communication Power",
       "scopus": {
         "cluster": "2-s2.0-84901343860",
-        "datestamp": "2016-10-08 03:41:21",
+        "datestamp": "2018-03-07 04:57:10",
         "impact": 0
       },
       "pages": 15,
@@ -4865,7 +5105,7 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 4,
+      "rev_number": 6,
       "dir": "disk0\/01\/46\/45\/53",
       "creators": [
         {
@@ -4887,8 +5127,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2015-01-16 01:02:23",
+      "lastmod": "2017-05-21 02:55:22",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -4903,6 +5144,8 @@
       "status_changed": "2010-06-23 17:06:47",
       "event_relevance": "I",
       "full_text_status": "none",
+      "referee": "REF_0",
+      "refereed": 1,
       "divisions": [
         "DAUIN"
       ],
@@ -4963,6 +5206,7 @@
       "dir": "disk0\/01\/49\/78\/28",
       "lastmod": "2016-01-08 03:47:46",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -5012,8 +5256,8 @@
       "title": "Domotic House Gateway",
       "scopus": {
         "cluster": "2-s2.0-33751023311",
-        "datestamp": "2016-10-08 03:41:19",
-        "impact": 12
+        "datestamp": "2018-03-07 04:57:08",
+        "impact": 17
       },
       "place_of_pub": "NEW YORK",
       "types": "TYPES8",
@@ -5055,6 +5299,7 @@
       ],
       "lastmod": "2014-10-24 10:35:01",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "proprietary": {
@@ -5082,8 +5327,8 @@
       "eprintid": 1497373,
       "wos": {
         "cluster": 242043300060,
-        "datestamp": "2016-10-13 05:00:45",
-        "impact": 0
+        "datestamp": "2018-02-07 04:25:49",
+        "impact": 1
       },
       "date": 2006,
       "upddate": "2016-10-11 16:11:38",
@@ -5100,8 +5345,8 @@
       "title": "OntoSphere3D: a multidimensional visualization tool for ontologies",
       "scopus": {
         "cluster": "2-s2.0-84882703315",
-        "datestamp": "2016-10-13 05:02:05",
-        "impact": 3
+        "datestamp": "2018-03-07 05:13:53",
+        "impact": 14
       },
       "types": "TYPES8",
       "userid": 2,
@@ -5130,6 +5375,7 @@
       ],
       "lastmod": "2016-10-13 04:35:00",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -5155,8 +5401,8 @@
       "twitted": 1,
       "wos": {
         "cluster": 242043300060,
-        "datestamp": "2016-10-13 05:00:45",
-        "impact": 0
+        "datestamp": "2018-02-07 04:26:48",
+        "impact": 1
       },
       "date": 2006,
       "userid": 2,
@@ -5185,6 +5431,7 @@
       "dir": "disk0\/01\/49\/78\/25",
       "lastmod": "2016-10-13 04:35:00",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -5213,8 +5460,8 @@
       "title": "OntoSphere3D: a multidimensional visualization tool for ontologies",
       "scopus": {
         "cluster": "2-s2.0-84882703315",
-        "datestamp": "2016-10-13 05:02:07",
-        "impact": 3
+        "datestamp": "2018-03-07 05:15:24",
+        "impact": 14
       }
     },
     {
@@ -5236,8 +5483,8 @@
       "title": "Automatic learning of text-to-concept mappings exploiting WordNet-like lexical networks",
       "scopus": {
         "cluster": "2-s2.0-33644536074",
-        "datestamp": "2016-10-08 03:58:45",
-        "impact": 3
+        "datestamp": "2018-03-07 05:13:44",
+        "impact": 5
       },
       "place_of_pub": "NEW YORK, NY",
       "types": "TYPES8",
@@ -5270,6 +5517,7 @@
       ],
       "lastmod": "2014-10-24 11:00:27",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -5293,13 +5541,28 @@
     },
     {
       "authors_string": "Bonino D.; Bosca A; Pellegrino P",
-      "types": "TYPES8",
       "eprintid": 1497365,
-      "twitted": 1,
       "date": 2005,
+      "upddate": "2017-05-19 15:18:41",
+      "event_title": "SWAP 2005, the 2nd Italian Semantic Web Workshop",
+      "irisid": 32285,
+      "event_dates": "14-16 Dicembre 2005",
+      "book_title": "SWAP 2005, the 2nd Italian Semantic Web Workshop",
+      "datestamp": "2007-01-18 10:24:25",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1497365",
+      "event_location": "Trento, Italy",
+      "type": "conference_item",
+      "title": "OntoSphere: more than a 3D ontology visualization tool",
+      "scopus": {
+        "cluster": "2-s2.0-33845414845",
+        "datestamp": "2018-03-07 05:13:46",
+        "impact": 14
+      },
+      "types": "TYPES8",
       "userid": 2,
-      "upddate": "2012-07-07 05:16:26",
-      "rev_number": 3,
+      "twitted": 1,
+      "rev_number": 5,
+      "dir": "disk0\/01\/49\/73\/65",
       "creators": [
         {
           "name": {
@@ -5329,10 +5592,11 @@
           "id": 16160
         }
       ],
-      "dir": "disk0\/01\/49\/73\/65",
-      "lastmod": "2014-10-24 11:00:28",
+      "lastmod": "2017-05-21 02:55:22",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
+      "metadata_visibility": "show",
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -5342,28 +5606,16 @@
         },
         "id": 12325
       },
-      "event_title": "SWAP 2005, the 2nd Italian Semantic Web Workshop",
-      "metadata_visibility": "show",
-      "irisid": 32285,
       "eprint_status": "archive",
       "status_changed": "2010-06-23 17:06:47",
-      "event_dates": "14-16 Dicembre 2005",
       "event_relevance": "N",
-      "book_title": "SWAP 2005, the 2nd Italian Semantic Web Workshop",
-      "datestamp": "2007-01-18 10:24:25",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/1497365",
-      "event_location": "Trento, Italy",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
       ],
-      "type": "conference_item",
-      "title": "OntoSphere: more than a 3D ontology visualization tool",
-      "scopus": {
-        "cluster": "2-s2.0-33845414845",
-        "datestamp": "2016-10-08 03:58:48",
-        "impact": 6
-      }
+      "ssd": [
+        "ING-INF\/05"
+      ]
     },
     {
       "authors_string": "D. Bonino; A. Bosca; Corno F.",
@@ -5372,16 +5624,16 @@
       "twitted": 1,
       "wos": {
         "cluster": 222084900023,
-        "datestamp": "2016-09-05 03:25:08",
-        "impact": 0
+        "datestamp": "2018-03-04 05:00:02",
+        "impact": 4
       },
       "date": 2004,
       "userdep": [
         "USER_D1010"
       ],
       "userid": 2,
-      "upddate": "2016-01-29 12:01:49",
-      "rev_number": 6,
+      "upddate": "2018-01-16 02:26:29",
+      "rev_number": 8,
       "creators": [
         {
           "name": {
@@ -5412,8 +5664,9 @@
         }
       ],
       "dir": "disk0\/01\/40\/98\/02",
-      "lastmod": "2016-02-02 03:42:31",
+      "lastmod": "2018-01-18 04:29:00",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -5427,7 +5680,7 @@
       "metadata_visibility": "show",
       "irisid": 25204,
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 14:50:22",
       "event_relevance": "I",
       "book_title": "Titolo volume non avvalorato",
       "datestamp": "2006-10-05 14:30:43",
@@ -5443,8 +5696,8 @@
       ],
       "scopus": {
         "cluster": "2-s2.0-4544279435",
-        "datestamp": "2016-10-05 03:32:01",
-        "impact": 8
+        "datestamp": "2018-03-04 05:13:23",
+        "impact": 13
       }
     },
     {
@@ -5459,11 +5712,11 @@
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2012-05-11 14:55:11",
+                  "mtime": "2015-10-29 11:54:51",
                   "datasetid": "document",
-                  "fileid": 1019196,
-                  "objectid": 437903,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1019196",
+                  "fileid": 2572321,
+                  "objectid": 1322161,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2572321",
                   "mime_type": "application\/pdf",
                   "hash": "10c60b9556c9fe009554e61307d7b10a",
                   "filesize": 294525,
@@ -5477,14 +5730,14 @@
             "license": "not_public",
             "main": "ICTAI2004.pdf",
             "original_docid": 47025,
-            "uri": "http:\/\/porto.polito.it\/id\/document\/437903",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1322161",
             "format": "application\/pdf",
-            "docid": 437903,
+            "docid": 1322161,
             "security": "staffonly",
-            "formatdesc": "Final_paper"
+            "formatdesc": "ICTAI2004.pdf"
           }
       ],
-      "upddate": "2013-10-15 12:54:37",
+      "upddate": "2018-02-23 14:09:25",
       "isbn": "076952236X",
       "pagerange": "680-687",
       "publisher": "IEEE press",
@@ -5495,13 +5748,13 @@
       "datestamp": "2007-01-18 10:29:55",
       "uri": "http:\/\/porto.polito.it\/id\/eprint\/1497288",
       "event_location": "Boca Raton, Florida",
-      "abstract": "Searching the Web proved to be a critical task in which both user satisfaction and speed requirements must be satisfied. Nowadays search engines provide amazing capabilities of searching resources on the Web though they are still based on text indexing and seldom exploit semantics of resource content. Therefore they sometimes fail on the identification of query context, providing results that are not relevant with respect to user needs; this is especially true for nontrained users. The semantic Web specifically addresses such an issue by providing means to define resources and query semantics using ontologies and semantic annotations. We propose a concept-based search paradigm for document retrieval. We define a new representation of the involved information space, introducing the notion of conceptual spectrum to identify the global topic landscape of Web resources and queries. We exploit such a representation to design and implement a prototypical version of a concept-based search engine. We compare the proposed approach to a traditional keyword-based engine, on a specific domain. Results are promising and show the approach feasibility",
+      "abstract": "Searching the Web proved to be a critical task in which both user satisfaction and speed requirements must be satisfied. Nowadays search engines provide amazing capabilities of searching resources on the Web though they are still based on text indexing and seldom exploit semantics of resource content. Therefore they sometimes fail on the identification of query context, providing results that are not relevant with respect to user needs; this is especially true for nontrained users. The semantic Web specifically addresses such an issue by providing means to define resources and query semantics using ontologies and semantic annotations. We propose a concept-based search paradigm for document retrieval. We define a new representation of the involved information space, introducing the notion of conceptual spectrum to identify the global topic landscape of Web resources and queries. We exploit such a representation to design and implement a prototypical version of a concept-based search engine. We compare the proposed approach to a traditional keyword-based engine, on a specific domain. Results are promising and show the approach feasibility.",
       "type": "conference_item",
       "title": "Domain Specific Searches using Conceptual Spectra",
       "scopus": {
         "cluster": "2-s2.0-16244390830",
-        "datestamp": "2016-10-08 03:58:41",
-        "impact": 3
+        "datestamp": "2018-03-07 05:13:40",
+        "impact": 5
       },
       "pages": 8,
       "types": "TYPES8",
@@ -5509,18 +5762,9 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 13,
+      "rev_number": 18,
       "dir": "disk0\/01\/49\/72\/88",
       "creators": [
-        {
-          "name": {
-            "lineage": 12325,
-            "given": "Dario",
-            "honourific": null,
-            "family": "Bonino"
-          },
-          "id": 12325
-        },
         {
           "name": {
             "lineage": 2154,
@@ -5538,10 +5782,20 @@
             "family": "Farinetti"
           },
           "id": 2236
+        },
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
         }
       ],
-      "lastmod": "2014-10-24 11:01:27",
+      "lastmod": "2018-02-25 03:00:29",
       "ispublished": "pub",
+      "openaire": 0,
       "item_issues_count": 0,
       "metadata_visibility": "show",
       "id_number": "10.1109\/ICTAI.2004.53",
@@ -5555,7 +5809,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2012-05-11 15:05:12",
+      "status_changed": "2015-06-30 15:12:01",
       "language": [
         "en"
       ],
@@ -5573,11 +5827,11 @@
       "eprintid": 1497271,
       "wos": {
         "cluster": 222818400182,
-        "datestamp": "2016-10-08 03:40:17",
+        "datestamp": "2018-02-07 04:25:39",
         "impact": 0
       },
       "date": 2004,
-      "upddate": "2016-02-03 11:22:27",
+      "upddate": "2018-01-16 02:29:20",
       "isbn": 9780780385153,
       "pagerange": "1301-1308",
       "publisher": "IEEE press",
@@ -5592,7 +5846,7 @@
       "title": "Dynamic Optimization of Semantic Annotation Relevance",
       "scopus": {
         "cluster": "2-s2.0-4344612468",
-        "datestamp": "2016-10-08 03:58:38",
+        "datestamp": "2018-03-07 05:13:38",
         "impact": 0
       },
       "types": "TYPES8",
@@ -5601,18 +5855,9 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 6,
+      "rev_number": 8,
       "dir": "disk0\/01\/49\/72\/71",
       "creators": [
-        {
-          "name": {
-            "lineage": 3584,
-            "given": "Giovanni",
-            "honourific": null,
-            "family": "Squillero"
-          },
-          "id": 3584
-        },
         {
           "name": {
             "lineage": 12325,
@@ -5630,10 +5875,20 @@
             "family": "Corno"
           },
           "id": 2154
+        },
+        {
+          "name": {
+            "lineage": 3584,
+            "given": "Giovanni",
+            "honourific": null,
+            "family": "Squillero"
+          },
+          "id": 3584
         }
       ],
-      "lastmod": "2016-02-05 03:51:30",
+      "lastmod": "2018-01-18 04:29:00",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -5645,7 +5900,7 @@
         "id": 12325
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:12:01",
       "volume": 2,
       "event_relevance": "I",
       "full_text_status": "none",
@@ -5709,6 +5964,7 @@
       "dir": "disk0\/01\/49\/80\/38",
       "lastmod": "2014-10-24 11:00:52",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 12325,
@@ -5756,7 +6012,7 @@
       "title": "Multilingual Semantic Elaboration in the DOSE platform",
       "scopus": {
         "cluster": "2-s2.0-2442602536",
-        "datestamp": "2016-10-08 03:58:24",
+        "datestamp": "2018-03-07 05:13:25",
         "impact": 2
       },
       "place_of_pub": "NEW YORK, NY",
@@ -5799,6 +6055,7 @@
       ],
       "lastmod": "2014-10-24 11:00:22",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -5883,6 +6140,7 @@
       ],
       "lastmod": "2014-10-24 11:00:26",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -5910,11 +6168,11 @@
       "eprintid": 1497200,
       "wos": {
         "cluster": 189005700081,
-        "datestamp": "2016-10-08 03:39:56",
-        "impact": 1
+        "datestamp": "2018-02-07 04:25:17",
+        "impact": 2
       },
       "date": 2003,
-      "upddate": "2016-02-01 16:38:20",
+      "upddate": "2018-01-16 02:37:40",
       "publisher": "IEEE press",
       "event_title": "ICTAI 2003, The 15th IEEE International Conference on Tools with Artificial Intelligence",
       "irisid": 32267,
@@ -5927,8 +6185,8 @@
       "title": "DOSE: a Distributed Open Semantic Elaboration Platform",
       "scopus": {
         "cluster": "2-s2.0-0344666726",
-        "datestamp": "2016-10-08 03:58:08",
-        "impact": 5
+        "datestamp": "2018-03-07 05:13:07",
+        "impact": 21
       },
       "types": "TYPES8",
       "userid": 2,
@@ -5936,9 +6194,18 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 8,
+      "rev_number": 10,
       "dir": "disk0\/01\/49\/72\/00",
       "creators": [
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
+        },
         {
           "name": {
             "lineage": 2154,
@@ -5956,20 +6223,12 @@
             "family": "Farinetti"
           },
           "id": 2236
-        },
-        {
-          "name": {
-            "lineage": 12325,
-            "given": "Dario",
-            "honourific": null,
-            "family": "Bonino"
-          },
-          "id": 12325
         }
       ],
-      "lastmod": "2016-02-05 03:51:31",
+      "lastmod": "2018-01-18 04:29:00",
       "ispublished": "pub",
       "item_issues_count": 0,
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -5981,7 +6240,7 @@
         "id": 12325
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:11:59",
       "event_relevance": "I",
       "full_text_status": "none",
       "divisions": [
@@ -5996,11 +6255,11 @@
       "eprintid": 1497213,
       "wos": {
         "cluster": 221532900274,
-        "datestamp": "2016-10-08 03:40:00",
-        "impact": 3
+        "datestamp": "2018-02-07 04:25:21",
+        "impact": 4
       },
       "date": 2003,
-      "upddate": "2012-07-07 05:02:23",
+      "upddate": "2016-12-05 15:15:31",
       "pagerange": "2034-2041",
       "publisher": "IEEE press",
       "event_title": "CEC03: 2003 IEEE Congress on Evolutionary Computation",
@@ -6014,8 +6273,8 @@
       "title": "Dynamic Prediction of Web Requests",
       "scopus": {
         "cluster": "2-s2.0-4344707044",
-        "datestamp": "2016-10-08 03:58:15",
-        "impact": 6
+        "datestamp": "2018-03-07 05:13:15",
+        "impact": 10
       },
       "types": "TYPES8",
       "userid": 2,
@@ -6023,17 +6282,17 @@
         "USER_D1010"
       ],
       "twitted": 1,
-      "rev_number": 3,
+      "rev_number": 5,
       "dir": "disk0\/01\/49\/72\/13",
       "creators": [
         {
           "name": {
-            "lineage": 12325,
-            "given": "Dario",
+            "lineage": 2154,
+            "given": "Fulvio",
             "honourific": null,
-            "family": "Bonino"
+            "family": "Corno"
           },
-          "id": 12325
+          "id": 2154
         },
         {
           "name": {
@@ -6046,16 +6305,17 @@
         },
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 12325,
+            "given": "Dario",
             "honourific": null,
-            "family": "Corno"
+            "family": "Bonino"
           },
-          "id": 2154
+          "id": 12325
         }
       ],
-      "lastmod": "2014-10-24 11:00:17",
+      "lastmod": "2016-12-07 05:31:55",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -6067,7 +6327,7 @@
         "id": 2154
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:06:47",
+      "status_changed": "2010-06-23 17:10:47",
       "full_text_status": "none",
       "divisions": [
         "DAUIN"
@@ -6120,6 +6380,7 @@
       "dir": "disk0\/01\/40\/97\/85",
       "lastmod": "2015-11-17 03:34:05",
       "ispublished": "pub",
+      "openaire": 0,
       "proprietary": {
         "name": {
           "lineage": 2154,
@@ -6203,6 +6464,7 @@
       ],
       "lastmod": "2015-11-24 03:34:32",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -6232,11 +6494,11 @@
       "eprintid": 1417969,
       "wos": {
         "cluster": 186520200020,
-        "datestamp": "2016-10-07 03:45:48",
-        "impact": 0
+        "datestamp": "2018-03-06 05:19:05",
+        "impact": 6
       },
       "date": 2003,
-      "upddate": "2016-02-01 09:56:26",
+      "upddate": "2018-01-16 02:23:24",
       "isbn": 9780769519326,
       "pagerange": "139-145",
       "publisher": "IEEE Computer Society",
@@ -6249,8 +6511,8 @@
       "title": "A real-time evolutionary algorithm for Web prediction",
       "scopus": {
         "cluster": "2-s2.0-84945181539",
-        "datestamp": "2016-10-07 03:59:48",
-        "impact": 13
+        "datestamp": "2018-03-06 05:34:22",
+        "impact": 18
       },
       "pages": 7,
       "place_of_pub": "WASHINGTON, DC",
@@ -6259,9 +6521,18 @@
       "userdep": [
         "USER_D1010"
       ],
-      "rev_number": 7,
+      "rev_number": 9,
       "dir": "disk0\/01\/41\/79\/69",
       "creators": [
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
+        },
         {
           "name": {
             "lineage": 3584,
@@ -6273,15 +6544,6 @@
         },
         {
           "name": {
-            "lineage": 12325,
-            "given": "Dario",
-            "honourific": null,
-            "family": "Bonino"
-          },
-          "id": 12325
-        },
-        {
-          "name": {
             "lineage": 2154,
             "given": "Fulvio",
             "honourific": null,
@@ -6290,8 +6552,9 @@
           "id": 2154
         }
       ],
-      "lastmod": "2016-02-05 03:51:31",
+      "lastmod": "2018-01-18 04:29:00",
       "ispublished": "pub",
+      "openaire": 0,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
@@ -6303,7 +6566,7 @@
         "id": 12325
       },
       "eprint_status": "archive",
-      "status_changed": "2010-06-23 17:10:47",
+      "status_changed": "2015-06-30 15:05:18",
       "event_relevance": "I",
       "full_text_status": "none",
       "divisions": [
@@ -6314,84 +6577,78 @@
       ]
     },
     {
-      "authors_string": "Fulvio Corno, Luigi De Russis, Dario Bonino",
-      "eprintid": 2621928,
+      "authors_string": "Bonino, Dario; De Russis, Luigi",
+      "eprintid": 2679191,
       "documents": [
           {
-            "disclaimer": "ieee",
             "placement": 1,
-            "eprintid": 2621928,
-            "insert_date": "2015-11-12 09:25:01",
+            "eprintid": 2679191,
+            "insert_date": "2017-09-06 12:05:50",
             "files": [
                 {
                   "hash_type": "MD5",
-                  "mtime": "2015-11-12 09:25:01",
+                  "mtime": "2017-09-06 12:05:50",
                   "datasetid": "document",
-                  "fileid": 1538059,
-                  "objectid": 725173,
-                  "uri": "http:\/\/porto.polito.it\/id\/file\/1538059",
+                  "fileid": 2312319,
+                  "objectid": 1168469,
+                  "uri": "http:\/\/porto.polito.it\/id\/file\/2312319",
                   "mime_type": "application\/pdf",
-                  "hash": "bafb3b1fba107ec62eb318d416dd7406",
-                  "filesize": 739719,
-                  "filename": "IT_ITPro_2015_04_0032.R2_Corno.pdf"
+                  "hash": "230e21b7aa5d22501c136c7b2ce321e2",
+                  "filesize": 583326,
+                  "filename": "dogont.pdf"
                 }
             ],
-            "content": "accepted",
-            "rev_number": 19,
-            "copyright_date": "2015-11-30",
-            "copyright_note": "Non trovo editoriale, messo OA e vers. accettata",
+            "content": "published",
+            "rev_number": 2,
+            "copyright_date": "2017-09-07",
+            "copyright_note": "Final author versions of accepted manuscripts remain publicly available from this website. The official published versions of papers are available via the publisher, IOS Press.",
             "pos": 1,
             "language": "it",
             "license": "public_reserved",
-            "uri": "http:\/\/porto.polito.it\/id\/document\/725173",
-            "original_docid": 69701,
-            "main": "IT_ITPro_2015_04_0032.R2_Corno.pdf",
+            "uri": "http:\/\/porto.polito.it\/id\/document\/1168469",
+            "original_docid": 159475,
+            "main": "dogont.pdf",
             "format": "application\/pdf",
-            "docid": 725173,
+            "docid": 1168469,
             "security": "public",
             "relation": [
               {
                 "type": "http:\/\/eprints.org\/relation\/hasCoverPageVersion",
-                "uri": "\/id\/document\/995425"
+                "uri": "\/id\/document\/1171182"
               }
             ],
-            "copyright_operator": "MGD",
-            "formatdesc": "IT_ITPro_2015_04_0032.R2_Corno.pdf"
+            "copyright_operator": "MN",
+            "formatdesc": "dogont.pdf"
           }
       ],
-      "upddate": "2015-11-12 09:25:22",
+      "upddate": "2017-09-06 12:05:51",
       "keywords": [
-        "ambient intelligence, internet of things, computer education, active learning, computer engineering"
+        "smart city",
+        "aec\/fm",
+        "energy modeling",
+        "built environment",
+        "ontology"
       ],
-      "publisher": "IEEE Computer Society",
-      "irisid": 95646,
-      "publisher_review": "IEEE Computer Society, Los Alamitos, CA",
-      "datestamp": "2015-11-13 03:32:04",
-      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2621928",
-      "publication": "IT PROFESSIONAL",
-      "abstract": "The new breed of Internet of Things (IoT) distributed intelligent systems require a diversity of languages and protocols to be adequately designed and implemented, especially if we also consider At the same time, there is a growing interest in including the human factor in IoT systems design, as the focus on transparently and intelligently supporting people, as advocated by the Ambient Intelligence research field. All these new design methodologies and tools are increasingly needed in the toolbox of new computer engineers, and suitable teaching strategies should be devised to allow them to tackle a system-view design approach. This paper describes an experience, developed across two academic years at Politecnico di Torino, with a course in Ambient Intelligence. In the course, a project-based learning approach was adopted, by letting students choose an AmI system to design and prototype, and following their development along the semester",
+      "publisher": "IOS Press",
+      "irisid": 158625,
+      "publisher_review": "Amsterdam:IOP press",
+      "datestamp": "2017-09-06 11:59:48",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2679191",
+      "publication": "SEMANTIC WEB",
+      "abstract": "Energy consumption and performance assessment of Smart Cities must consider different levels and various sub-domains. A comprehensive energy profile of a city, in fact, should work at the city, district, and building levels. At the same time and for each level, it should take into account both electrical and thermal consumptions, and gather these information from a plethora of different sensors and from various stakeholders (i.e., citizens, utilities, policy makers, and energy providers). Current modeling approaches for this context address each level and domain separately, thus preventing a structured and comprehensive approach to a unified energy representation. Moreover, current approaches make it difficult to keep the consistency between the energetic data through levels, sub-domains, and across stakeholders. Starting from an analysis of ontologies at the state-of-the-art, this paper shows how DogOnt can be used as a foundation towards a shared and unified model for such a context. DogOnt was firstly developed in 2008 and withstands over 8 years of usage without major failures and shortcomings. We discuss successful design choices and adaptations, which kept the model up-to-date and increasingly adopted in such a mid-term time frame for energy representation in Smart Cities.",
       "type": "article",
-      "title": "Breeding Internet of Things professionals through education: the Ambient Intelligence course",
-      "pages": 9,
+      "title": "DogOnt as a viable seed for semantic modeling of AEC\/FM",
+      "pages": 17,
       "types": "TYPES2",
       "userid": 2,
       "userdep": [
         "USER_D1010"
       ],
       "twitted": 1,
-      "issn": "1520-9202",
-      "rev_number": 19,
-      "dir": "disk0\/02\/62\/19\/28",
+      "issn": "1570-0844",
+      "rev_number": 9,
+      "dir": "disk0\/02\/67\/91\/91",
       "creators": [
-        {
-          "name": {
-            "lineage": 25734,
-            "given": "Luigi",
-            "honourific": null,
-            "family": "De Russis"
-          },
-          "id": 25734
-        },
         {
           "name": {
             "lineage": 12325,
@@ -6403,37 +6660,115 @@
         },
         {
           "name": {
-            "lineage": 2154,
-            "given": "Fulvio",
+            "lineage": 25734,
+            "given": "Luigi",
             "honourific": null,
-            "family": "Corno"
+            "family": "De Russis"
           },
-          "id": 2154
+          "id": 25734
         }
       ],
-      "lastmod": "2016-09-19 14:56:57",
+      "lastmod": "2017-09-13 10:41:43",
       "ispublished": "inpress",
+      "openaire": 1,
       "metadata_visibility": "show",
       "proprietary": {
         "name": {
-          "lineage": 2154,
-          "given": "Fulvio",
+          "lineage": 25734,
+          "given": "Luigi",
           "honourific": null,
-          "family": "Corno"
+          "family": "De Russis"
         },
-        "id": 2154
+        "id": 25734
       },
       "eprint_status": "archive",
-      "status_changed": "2015-11-13 03:32:04",
+      "status_changed": "2017-09-07 02:01:56",
       "language": [
         "en"
       ],
       "full_text_status": "public",
       "referee": "REF_1",
       "refereed": 1,
-      "divisions": [
-        "DAUIN"
+      "ssd": [
+        "ING-INF\/05"
+      ]
+    },
+    {
+      "authors_string": "Bonino, Dario; De Russis, Luigi",
+      "eprintid": 2676507,
+      "upddate": "2017-07-14 12:17:07",
+      "keywords": [
+        "complex event processing",
+        "block-based programming",
+        "filter and pipe",
+        "big data analysis",
+        "smart city",
+        "visual programming"
       ],
+      "publisher": "IEEE",
+      "irisid": 155752,
+      "publisher_review": "Piscataway, NJ : Institute of Electrical and Electronics Engineers, 2014-.",
+      "datestamp": "2017-07-14 12:10:49",
+      "uri": "http:\/\/porto.polito.it\/id\/eprint\/2676507",
+      "publication": "IEEE INTERNET OF THINGS JOURNAL",
+      "abstract": "Administrators and operators of next generation cities will likely be required to exhibit a good understanding of technical features, data issues, and complex information that, up to few years ago, were quite far from day-to-day administration tasks. In the smart city era, the increased attention to data harvested from the city fosters a more informed approach to city administration, requiring involved operators to drive, direct, and orient technological processes in the city more effectively. Such an increasing need requires tools and platforms that can easily and effectively be controlled by non-technical people. In this paper, an approach for enabling \\\"easier\\\" composition of real-time data processing pipelines in smart cities is presented, exploiting a visual and block-based design approach, similar to the one adopted in the Scratch programming language for elementary school students. The proposed approach encompasses both a graphical editor and a sound methodology and workflow, to allow city operators to effectively design, develop, test, and deploy their own data processing pipelines. The editor and the workflow are described in the context of a pilot of the ALMANAC European project.",
+      "type": "article",
+      "title": "Complex Event Processing for City Officers: A Filter and Pipe Visual Approach",
+      "scopus": {
+        "cluster": "2-s2.0-85028924212",
+        "datestamp": "2018-02-27 06:05:55",
+        "impact": 0
+      },
+      "pages": 9,
+      "types": "TYPES2",
+      "userid": 2,
+      "userdep": [
+        "USER_D1010"
+      ],
+      "issn": "2327-4662",
+      "rev_number": 2,
+      "dir": "disk0\/02\/67\/65\/07",
+      "creators": [
+        {
+          "name": {
+            "lineage": 12325,
+            "given": "Dario",
+            "honourific": null,
+            "family": "Bonino"
+          },
+          "id": 12325
+        },
+        {
+          "name": {
+            "lineage": 25734,
+            "given": "Luigi",
+            "honourific": null,
+            "family": "De Russis"
+          },
+          "id": 25734
+        }
+      ],
+      "lastmod": "2017-07-16 02:02:02",
+      "ispublished": "inpress",
+      "openaire": 0,
+      "metadata_visibility": "show",
+      "proprietary": {
+        "name": {
+          "lineage": 25734,
+          "given": "Luigi",
+          "honourific": null,
+          "family": "De Russis"
+        },
+        "id": 25734
+      },
+      "eprint_status": "archive",
+      "status_changed": "2017-07-15 02:02:44",
+      "language": [
+        "en"
+      ],
+      "full_text_status": "none",
+      "referee": "REF_1",
+      "refereed": 1,
       "ssd": [
         "ING-INF\/05"
       ]
