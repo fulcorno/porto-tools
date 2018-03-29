@@ -27,7 +27,7 @@ def download_author(author, output_dir):
 
     try:
         porto_json = r.json()
-        print "%s has %d papers" % (author, len(porto_json))
+        print("%s has %d papers" % (author, len(porto_json)))
 
         #porto_text = r.text
 
@@ -36,13 +36,13 @@ def download_author(author, output_dir):
         try:
             f = codecs.open(filename, "w", encoding="utf-8")
         except IOError:
-            print "ERROR in creating %s" % filename
+            print("ERROR in creating %s" % filename)
             return
 
         f.write(r.text)
         f.close()
     except ValueError:
-        print "ERROR in processing %s", author.lastname
+        print("ERROR in processing %s", author.lastname)
 
 
 @begin.start(auto_convert=True)
@@ -69,7 +69,7 @@ def run(list=False, all=False, authors_file=default_authors_file, output_directo
     # filter selection
     if all:
         if len(selected)>0:
-            print "ERROR: --all and selection list are incompatible options"
+            print("ERROR: --all and selection list are incompatible options")
             exit()
     else:
         if len(selected)>0:
@@ -77,15 +77,15 @@ def run(list=False, all=False, authors_file=default_authors_file, output_directo
                        a.matricola() in [("000000"+s)[-6:] for s in selected]
                        or a.lastname.lower() in [s.lower() for s in selected]]
         else:
-            print "WARNING: no author selected. Nothing to do. Use --all or provide list of IDs or surnames"
+            print("WARNING: no author selected. Nothing to do. Use --all or provide list of IDs or surnames")
             exit()
 
     if list:
-        print "Selected authors:"
+        print("Selected authors:")
         for author in authors:
-            print "{author.id}: {author.lastname} {author.firstname}".format(author=author)
+            print("{author.id}: {author.lastname} {author.firstname}".format(author=author))
     else:
-        print "Downloading selected authors in %s" % output_directory
+        print("Downloading selected authors in %s" % output_directory)
         for author in authors:
-            print "Downloading author: %s" % author
+            print("Downloading author: %s" % author)
             download_author(author, output_directory)
